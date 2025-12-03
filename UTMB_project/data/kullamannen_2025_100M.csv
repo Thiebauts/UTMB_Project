@@ -1,0 +1,806 @@
+# Race: Unknown
+# Distance: 173 km
+# D+: 2300 m
+# D-: 2300 m
+# Date: 2025-10-31
+# URL: https://live.utmb.world/kullamannen/2025
+bib,name,country,age,sex,category,club,utmb_profile_url,utmb_index,rank_scratch,rank_sex,rank_category,race_time,race_time_seconds,is_finisher,status,utmb_score
+10,Christian MALMSTRÖM,SE,45,H,45-49M,Team Blekinge / Irunteam,https://utmb.world/runner/1243141.christian.malmstrom,729.0,1.0,1.0,1.0,16:18:22,58702,True,f,779.0
+3,Alexandre BOUCHEIX,FR,34,H,20-34M,CASQUETTE VERTE,https://utmb.world/runner/758585.alexandre.boucheix,819.0,2.0,2.0,1.0,16:34:44,59684,True,f,766.0
+5,Jakob ÅBERG,SE,34,H,20-34M,SATISFY,https://utmb.world/runner/1843273.jakob.aberg,801.0,3.0,3.0,2.0,17:03:29,61409,True,f,744.0
+24,Hanna AHO,SE,33,F,20-34W,Navåsens FK,https://utmb.world/runner/3976348.hanna.aho,660.0,4.0,1.0,1.0,17:59:21,64761,True,f,706.0
+32,Anne-Sofie POLLESTAD,NO,40,F,40-44W,,https://utmb.world/runner/4131603.annesofie.pollestad,648.0,5.0,2.0,1.0,18:32:13,66733,True,f,685.0
+18,Eevi BENGS,FI,35,F,35-39W,Team Altra,https://utmb.world/runner/4583132.eevi.bengs,676.0,6.0,3.0,1.0,18:32:41,66761,True,f,685.0
+29,Aurimas BRAZAUSKAS,LT,48,H,45-49M,Wild Souls,https://utmb.world/runner/4270487.aurimas.brazauskas,656.0,7.0,4.0,2.0,18:58:55,68335,True,f,669.0
+25,Joakim JOHANSSON,SE,39,H,35-39M,,https://utmb.world/runner/508271.joakim.johansson,659.0,8.0,5.0,1.0,19:27:34,70054,True,f,653.0
+740,Claes CHRISTENSSON,SE,39,H,35-39M,Umara SC,https://utmb.world/runner/665600.claes.christensson,683.0,9.0,6.0,2.0,19:41:36,70896,True,f,645.0
+22,Oscar ASKERLUND,SE,40,H,40-44M,Hällbybrunns IF,https://utmb.world/runner/691416.oscar.askerlund,661.0,10.0,7.0,1.0,20:01:53,72113,True,f,634.0
+65,Elin ÖHMAN,SE,33,F,20-34W,Team Ironcoach,https://utmb.world/runner/1996521.elin.ohman,606.0,11.0,4.0,2.0,20:03:19,72199,True,f,633.0
+103,Eric HOLMSTRÖM,SE,44,H,40-44M,,https://utmb.world/runner/4445146.eric.holmstrom,569.0,12.0,8.0,2.0,20:04:41,72281,True,f,632.0
+9,Tomas NORDLÖF,SE,40,H,40-44M,TTGU Umeå,https://utmb.world/runner/936155.tomas.nordlof,738.0,13.0,9.0,3.0,20:19:34,73174,True,f,625.0
+27,Erik ENG,SE,47,H,45-49M,Åkersberga,https://utmb.world/runner/438604.erik.eng,658.0,14.0,10.0,3.0,20:19:44,73184,True,f,625.0
+44,Andreas SKOGEN,NO,41,H,40-44M,Romerike Ultraløperklubb,https://utmb.world/runner/4484264.andreas.skogen,630.0,15.0,11.0,4.0,20:21:04,73264,True,f,624.0
+71,Mikael KRISTENSSON,SE,36,H,35-39M,Team Nordic Trail,https://utmb.world/runner/1135875.mikael.kristensson,600.0,16.0,12.0,3.0,20:25:09,73509,True,f,622.0
+58,Magnus ANUNDSSON,SE,42,H,40-44M,Borensberg IF,https://utmb.world/runner/2292411.magnus.anundsson,611.0,17.0,13.0,5.0,20:42:59,74579,True,f,613.0
+57,Antoine BLUY,FR,34,H,20-34M,Coaching Ultra,https://utmb.world/runner/427006.antoine.bluy,614.0,18.0,14.0,3.0,20:53:47,75227,True,f,608.0
+68,Lenaic MOENNE LOCCOZ,FR,39,H,35-39M,,https://utmb.world/runner/4538636.lenaic.moenneloccoz,603.0,19.0,15.0,4.0,21:03:39,75819,True,f,603.0
+51,Magdalena SZNIGIR,PL,33,F,20-34W,Ultra Trail Academy,https://utmb.world/runner/4308550.magdalena.sznigir,621.0,20.0,5.0,3.0,21:17:20,76640,True,f,597.0
+81,Paul SZYNDRALEWICZ,FR,32,H,20-34M,Greenwhey,https://utmb.world/runner/4163043.paul.szyndralewicz,585.0,21.0,16.0,4.0,21:18:10,76690,True,f,596.0
+20,Emil CHRISTENSEN,DK,34,H,20-34M,Tejn-if,https://utmb.world/runner/1189927.emil.christensen,670.0,22.0,17.0,5.0,21:26:45,77205,True,f,592.0
+121,Andreas Ladefoged Møller ANDERSEN,DK,28,H,20-34M,,https://utmb.world/runner/4823022.andreasladefogedmoller.andersen,560.0,23.0,18.0,6.0,21:26:46,77206,True,f,592.0
+116,Patrik JOHANSSON,SE,50,H,50-54M,Näset Triathlonklubb,https://utmb.world/runner/3816061.patrik.johansson,562.0,24.0,19.0,1.0,21:28:34,77314,True,f,591.0
+45,Robin STENBERG,SE,42,H,40-44M,Salomon Sverige,https://utmb.world/runner/696571.robin.stenberg,627.0,25.0,20.0,6.0,21:30:23,77423,True,f,590.0
+140,Per JOHANSSON,SE,42,H,40-44M,Kristianstads Triathlonklubb,https://utmb.world/runner/5147385.per.johansson,574.0,26.0,21.0,7.0,21:45:38,78338,True,f,584.0
+93,Jörgen SCHÖLD,SE,49,H,45-49M,Ljungby Donkey Athletes ,https://utmb.world/runner/4547962.jorgen.schold,577.0,27.0,22.0,4.0,21:49:10,78550,True,f,582.0
+150,Linda LINDBERG,SE,51,F,50-54W,Team Nordic Trail SC,https://utmb.world/runner/4173037.linda.lindberg,542.0,28.0,6.0,1.0,21:49:57,78597,True,f,582.0
+134,Kirsi VEHVILÄINEN,FI,40,F,40-44W,Puijon Mahti,https://utmb.world/runner/1390945.kirsi.vehvilainen,550.0,29.0,7.0,2.0,21:51:59,78719,True,f,581.0
+126,Tobias ANDREASSON,SE,39,H,35-39M,SPIS,https://utmb.world/runner/5743847.tobias.andreasson,557.0,30.0,23.0,5.0,21:56:05,78965,True,f,579.0
+131,Sten ORSVÄRN,SE,63,H,60-64M,Stockholms LDK,https://utmb.world/runner/37082.sten.orsvarn,552.0,31.0,24.0,1.0,21:57:41,79061,True,f,578.0
+688,Richard NYLÉN,SE,42,H,40-44M,SPIS,https://utmb.world/runner/5743853.richard.nylen,,32.0,25.0,8.0,22:11:12,79872,True,f,572.0
+73,Petter REPSJØ,NO,39,H,35-39M,Bamford1869,https://utmb.world/runner/4568146.petter.repsjo,597.0,33.0,26.0,6.0,22:16:10,80170,True,f,570.0
+763,Nils HERNSTRÖM,SE,35,H,35-39M,,https://utmb.world/runner/6770623.nils.hernstrom,,34.0,27.0,7.0,22:19:47,80387,True,f,569.0
+48,Antonio NAVARRO,SE,52,H,50-54M,IF Malmö Løp,https://utmb.world/runner/986669.antonio.navarro,624.0,35.0,28.0,2.0,22:21:31,80491,True,f,568.0
+113,Mattias KRISTENSSON,SE,40,H,40-44M,Lindome Outdoors,https://utmb.world/runner/911697.mattias.kristensson,563.0,36.0,29.0,9.0,22:25:23,80723,True,f,566.0
+729,Otto NORIN,SE,47,H,45-49M,Gudö SK,https://utmb.world/runner/4822956.otto.norin,,37.0,30.0,5.0,22:26:31,80791,True,f,566.0
+35,Justin GARDNER,GB,40,H,40-44M,,https://utmb.world/runner/4467982.justin.gardner,646.0,38.0,31.0,10.0,22:29:51,80991,True,f,564.0
+43,Fredrik HAUSMANN,NO,38,H,35-39M,Bamford1869,https://utmb.world/runner/6317968.fredrik.hausmann,631.0,39.0,32.0,8.0,22:37:23,81443,True,f,561.0
+108,Vidar PEDERSEN,NO,48,H,45-49M,,https://utmb.world/runner/4834112.vidar.pedersen,565.0,40.0,33.0,6.0,22:39:11,81551,True,f,561.0
+170,Jon NORDIN,SE,47,H,45-49M,Running Värmdö,https://utmb.world/runner/4681572.jon.nordin,535.0,41.0,34.0,7.0,22:40:24,81624,True,f,560.0
+53,Joel ANDERSSON,SE,40,H,40-44M,,https://utmb.world/runner/5439870.joel.andersson,618.0,41.0,34.0,11.0,22:40:24,81624,True,f,560.0
+37,Enar WARFVINGE,SE,43,H,40-44M,Stuga77 IF,https://utmb.world/runner/410664.enar.warfvinge,642.0,43.0,36.0,12.0,22:41:27,81687,True,f,560.0
+299,Isabelle STAUB,SE,54,F,50-54W,Team Nordic Trail,https://utmb.world/runner/4710546.isabelle.staub,487.0,44.0,8.0,2.0,22:44:41,81881,True,f,558.0
+69,Fredrik HÄGGKVIST,SE,38,H,35-39M,Köpingskamraterna,https://utmb.world/runner/3377675.fredrik.haggkvist,602.0,45.0,37.0,9.0,22:44:55,81895,True,f,558.0
+89,Emil LILJA,SE,28,H,20-34M,Västerås Löparklubb,https://utmb.world/runner/5484352.emil.lilja,581.0,46.0,38.0,7.0,22:46:24,81984,True,f,558.0
+82,Annika WESTIN,SE,48,F,45-49W,Täby IS,https://utmb.world/runner/5478976.annika.westin,584.0,47.0,9.0,1.0,22:48:23,82103,True,f,557.0
+319,Trygve GRÖNDAHL,SE,34,H,20-34M,Trail and Error,https://utmb.world/runner/5289171.trygve.grondahl,481.0,48.0,39.0,8.0,22:50:21,82221,True,f,556.0
+15,Roope VARTIAINEN,FI,32,H,20-34M,SkoliosBros,https://utmb.world/runner/4329720.roope.vartiainen,686.0,49.0,40.0,9.0,23:00:50,82850,True,f,552.0
+145,Katarina PERSSON,SE,53,F,50-54W,,https://utmb.world/runner/1843319.katarina.persson,545.0,50.0,10.0,3.0,23:01:11,82871,True,f,552.0
+49,Håkan SANDBERG,SE,48,H,45-49M,LPSIK,https://utmb.world/runner/1960317.hakan.sandberg,623.0,51.0,41.0,8.0,23:03:52,83032,True,f,551.0
+792,David ROSENBORG,SE,55,H,55-59M,,https://utmb.world/runner/6770787.david.rosenborg,,52.0,42.0,1.0,23:12:43,83563,True,f,547.0
+12,Johannes RIDEFELT,SE,28,H,20-34M,OK Linné,https://utmb.world/runner/2307549.johannes.ridefelt,725.0,53.0,43.0,10.0,23:16:43,83803,True,f,546.0
+235,Bram CECAT,BE,34,H,20-34M,,https://utmb.world/runner/5203226.bram.cecat,508.0,54.0,44.0,11.0,23:19:48,83988,True,f,544.0
+159,Rafael FLISBERG,SE,32,H,20-34M,,https://utmb.world/runner/6770725.rafael.flisberg,539.0,55.0,45.0,12.0,23:20:07,84007,True,f,544.0
+375,Daniel MUSOKE,GB,28,H,20-34M,,https://utmb.world/runner/6460592.daniel.musoke,461.0,56.0,46.0,13.0,23:24:50,84290,True,f,542.0
+147,Johan HARVIGSSON,SE,37,H,35-39M,Spis,https://utmb.world/runner/1242723.johan.harvigsson,543.0,57.0,47.0,10.0,23:26:44,84404,True,f,542.0
+741,Remi HJORTDAHL-KRISTENSEN,NO,38,H,35-39M,Romerike Ultraløperklubb,https://utmb.world/runner/6770745.remi.hjortdahlkristensen,527.0,58.0,48.0,11.0,23:27:06,84426,True,f,542.0
+64,Thomas JONSSON,SE,58,H,55-59M,Undersåkers IF,https://utmb.world/runner/508293.thomas.jonsson,606.0,59.0,49.0,2.0,23:27:18,84438,True,f,541.0
+184,Adrian MARTINEZ AZORIN,ES,40,H,40-44M,CDME Trail Villena,https://utmb.world/runner/559605.adrian.martinezazorin,531.0,60.0,50.0,13.0,23:27:43,84463,True,f,541.0
+80,Tim KARLSSON,SE,32,H,20-34M,WILYFT,https://utmb.world/runner/6770679.tim.karlsson,586.0,61.0,51.0,14.0,23:32:58,84778,True,f,539.0
+214,Daniel LARSSON,SE,50,H,50-54M,iRunteam,https://utmb.world/runner/425025.daniel.larsson,517.0,62.0,52.0,3.0,23:37:24,85044,True,f,538.0
+717,Alex CRAVCENCO,SE,37,H,35-39M,Ph.Done.,https://utmb.world/runner/4292411.alex.cravcenco,,63.0,53.0,12.0,23:40:47,85247,True,f,536.0
+118,Martin WESTLUND,SE,47,H,45-49M,Gudö SK,https://utmb.world/runner/4202099.martin.westlund,561.0,64.0,54.0,9.0,23:58:29,86309,True,f,530.0
+202,Andreas ANDERSSON,SE,37,H,35-39M,Kristianstad Triathlonklubb,https://utmb.world/runner/6770607.andreas.andersson,520.0,65.0,55.0,13.0,23:59:28,86368,True,f,529.0
+701,Peter HALLDÉN,SE,43,H,40-44M,Varbergs Ultralöpare,https://utmb.world/runner/1619803.peter.hallden,,66.0,56.0,14.0,24:02:21,86541,True,f,528.0
+339,Gautier MACAREZ,FR,37,H,35-39M,,https://utmb.world/runner/1805521.gautier.macarez,474.0,67.0,57.0,14.0,24:06:16,86776,True,f,527.0
+101,Martin JOHANSSON,SE,31,H,20-34M,,https://utmb.world/runner/6496229.martin.johansson,569.0,68.0,58.0,15.0,24:06:31,86791,True,f,527.0
+372,Linus LIDSTRÖM,SE,37,H,35-39M,Team Hisingen Runners Club,https://utmb.world/runner/5524811.linus.lidstrom,462.0,69.0,59.0,15.0,24:06:46,86806,True,f,527.0
+249,Anton LIDBLAD,SE,48,H,45-49M,Uppsala Multisport,https://utmb.world/runner/696407.anton.lidblad,503.0,70.0,60.0,10.0,24:11:04,87064,True,f,525.0
+102,Marcus KJELLBERG,SE,51,H,50-54M,Dark Trail Runners,https://utmb.world/runner/1135785.marcus.kjellberg,572.0,71.0,61.0,4.0,24:14:20,87260,True,f,524.0
+60,Fredrik ANDERSSON,SE,37,H,35-39M,Club 734,https://utmb.world/runner/5118930.fredrik.andersson,610.0,72.0,62.0,16.0,24:14:54,87294,True,f,524.0
+248,Alexander JOHANSSON,SE,48,H,45-49M,La Familia Lon,https://utmb.world/runner/662041.alexander.johansson,502.0,73.0,63.0,11.0,24:15:11,87311,True,f,524.0
+206,Christine FORSELL,SE,42,F,40-44W,Team Cristal,https://utmb.world/runner/4716144.christine.forsell,520.0,74.0,11.0,3.0,24:20:13,87613,True,f,522.0
+232,Petra PEUHU,FI,51,F,50-54W,Xtri Lahti,https://utmb.world/runner/750790.petra.peuhu,510.0,75.0,12.0,4.0,24:26:31,87991,True,f,520.0
+146,Anders NORÉN,SE,53,H,50-54M,,https://utmb.world/runner/508777.anders.noren,542.0,76.0,64.0,5.0,24:27:24,88044,True,f,519.0
+227,Mikael ANDERSSON,SE,47,H,45-49M,Dark Trail Runners,https://utmb.world/runner/1355777.mikael.andersson,513.0,77.0,65.0,12.0,24:27:56,88076,True,f,519.0
+88,Birger BOESEL,DE,50,H,50-54M,Schweriner Seentrail,https://utmb.world/runner/1537615.birger.boesel,581.0,78.0,66.0,6.0,24:27:57,88077,True,f,519.0
+233,Joe WALFRIDSON,SE,51,H,50-54M,IK SISU,https://utmb.world/runner/1355779.joe.walfridson,509.0,79.0,67.0,7.0,24:27:59,88079,True,f,519.0
+155,Mikael BRIXEN,DK,43,H,40-44M,,https://utmb.world/runner/4023456.mikael.brixen,540.0,80.0,68.0,15.0,24:32:15,88335,True,f,518.0
+74,Stefan TVEIT,SE,38,H,35-39M,,https://utmb.world/runner/6047427.stefan.tveit,597.0,81.0,69.0,17.0,24:36:16,88576,True,f,516.0
+67,Andreas NORÉN,SE,52,H,50-54M,AN FYSIOCENTER,https://utmb.world/runner/321149.andreas.noren,603.0,82.0,70.0,8.0,24:46:16,89176,True,f,513.0
+366,Linnea KARLSSON,SE,26,F,20-34W,,https://utmb.world/runner/5075991.linnea.karlsson,464.0,83.0,13.0,4.0,24:46:18,89178,True,f,513.0
+183,Antti VUORIO,FI,43,H,40-44M,Team Raju,https://utmb.world/runner/4179812.antti.vuorio,532.0,84.0,71.0,16.0,24:49:22,89362,True,f,512.0
+671,Max SUDERBYS,SE,43,H,40-44M,IF Hagen,https://utmb.world/runner/6770625.max.suderbys,,85.0,72.0,17.0,24:53:23,89603,True,f,510.0
+188,Ulf ÅKESSON,SE,51,H,50-54M,Härlövs IF,https://utmb.world/runner/4978416.ulf.akesson,527.0,86.0,73.0,9.0,24:56:33,89793,True,f,509.0
+305,Tim TUVESSON,SE,35,H,35-39M,,https://utmb.world/runner/4301490.tim.tuvesson,486.0,87.0,74.0,18.0,24:56:53,89813,True,f,509.0
+132,Oscar LINDEBORG,SE,43,H,40-44M,,https://utmb.world/runner/4301495.oscar.lindeborg,562.0,88.0,75.0,18.0,24:57:18,89838,True,f,509.0
+111,Johan SUNDGREN,SE,30,H,20-34M,CRC,https://utmb.world/runner/5100464.johan.sundgren,564.0,89.0,76.0,16.0,25:01:59,90119,True,f,507.0
+743,Peter JAKOBSEN,DK,39,H,35-39M,,https://utmb.world/runner/5543852.peter.jakobsen,,90.0,77.0,19.0,25:02:40,90160,True,f,507.0
+137,Martin WIRSTRÖM,SE,51,H,50-54M,Banana Running Club,https://utmb.world/runner/3377505.martin.wirstrom,549.0,91.0,78.0,10.0,25:04:48,90288,True,f,506.0
+97,David THYLÉN,SE,40,H,40-44M,LO Bikes,https://utmb.world/runner/696500.david.thylen,572.0,92.0,79.0,19.0,25:05:04,90304,True,f,506.0
+98,David SVENSSON,SE,34,H,20-34M,,https://utmb.world/runner/4648853.david.svensson,572.0,92.0,79.0,17.0,25:05:04,90304,True,f,506.0
+209,Markus FORSSTRÖM,FI,42,H,40-44M,,https://utmb.world/runner/532672.markus.forsstrom,519.0,94.0,81.0,20.0,25:09:28,90568,True,f,505.0
+242,Nicolai Gravers NIELSEN,DK,55,H,55-59M,,https://utmb.world/runner/4742282.nicolaigravers.nielsen,506.0,95.0,82.0,3.0,25:11:36,90696,True,f,504.0
+794,Mats VIDINGER,SE,51,H,50-54M,Vallentuna FK,https://utmb.world/runner/6770811.mats.vidinger,,96.0,83.0,11.0,25:13:24,90804,True,f,503.0
+180,David PILERUD,SE,50,H,50-54M,,https://utmb.world/runner/2576611.david.pilerud,532.0,97.0,84.0,12.0,25:15:36,90936,True,f,503.0
+207,Sebastian SVANEBORN,SE,36,H,35-39M,,https://utmb.world/runner/4954029.sebastian.svaneborn,519.0,98.0,85.0,20.0,25:15:56,90956,True,f,503.0
+112,Fredrik UDDGREN,SE,53,H,50-54M,Lonesome Runners,https://utmb.world/runner/551612.fredrik.uddgren,564.0,99.0,86.0,13.0,25:18:44,91124,True,f,502.0
+769,Philip G. J. PEDERSEN,DK,44,H,40-44M,Birkerøddernes Løbeklub,https://utmb.world/runner/495817.philip.pedersen,582.0,100.0,87.0,21.0,25:23:28,91408,True,f,500.0
+739,Leon LYNNERUP,DK,34,H,20-34M,,https://utmb.world/runner/6770631.leon.lynnerup,,101.0,88.0,18.0,25:28:44,91724,True,f,498.0
+335,Niklas KALLIN,SE,32,H,20-34M,,https://utmb.world/runner/4301486.niklas.kallin,476.0,102.0,89.0,19.0,25:29:27,91767,True,f,498.0
+266,Anders HANSSON,SE,50,H,50-54M,Scania Road Runners,https://utmb.world/runner/2987095.anders.hansson,499.0,103.0,90.0,14.0,25:32:01,91921,True,f,497.0
+38,Joakim RO-POULSEN,DK,37,H,35-39M,,https://utmb.world/runner/4823342.joakim.ropoulsen,636.0,104.0,91.0,21.0,25:33:56,92036,True,f,497.0
+91,Jonas ENGER,SE,59,H,55-59M,IK Stern,https://utmb.world/runner/2272121.jonas.enger,580.0,105.0,92.0,4.0,25:34:54,92094,True,f,496.0
+76,Jonathan WEIDOW,SE,45,H,45-49M,,https://utmb.world/runner/3377489.jonathan.weidow,593.0,106.0,93.0,13.0,25:34:55,92095,True,f,496.0
+306,Jesper CIVILIS,SE,37,H,35-39M,Jesper,https://utmb.world/runner/5224281.jesper.civilis,486.0,107.0,94.0,22.0,25:35:04,92104,True,f,496.0
+300,Dennis LANDING,NO,36,H,35-39M,Team TAKING SOULS,https://utmb.world/runner/4151382.dennis.landing,487.0,108.0,95.0,23.0,25:41:50,92510,True,f,494.0
+459,John FORS,SE,39,H,35-39M,Eskilstuna Trailklubb,https://utmb.world/runner/4823084.john.fors,434.0,109.0,96.0,24.0,25:45:50,92750,True,f,493.0
+748,Adam BIRATH,SE,25,H,20-34M,,https://utmb.world/runner/5479492.adam.birath,,110.0,97.0,20.0,25:57:07,93427,True,f,489.0
+277,Jouni KEMPPAINEN,FI,46,H,45-49M,Studio Unique Huddinge,https://utmb.world/runner/3189911.jouni.kemppainen,495.0,111.0,98.0,14.0,26:02:52,93772,True,f,488.0
+128,Matias HILSKA,FI,30,H,20-34M,,https://utmb.world/runner/6350584.matias.hilska,554.0,112.0,99.0,21.0,26:02:53,93773,True,f,488.0
+190,Outi SEPPÄ,FI,46,F,45-49W,Pori Trail Runners,https://utmb.world/runner/4580680.outi.seppa,526.0,113.0,14.0,2.0,26:08:23,94103,True,f,486.0
+205,Martin RACZ GRANATH,SE,40,H,40-44M,Räddningstjänsten Syd,https://utmb.world/runner/4379224.martin.raczgranath,520.0,114.0,100.0,22.0,26:09:48,94188,True,f,485.0
+238,Robert JOHANSSON,SE,45,H,45-49M,TEAM RUN TO THE HILLS,https://utmb.world/runner/3394617.robert.johansson,507.0,115.0,101.0,15.0,26:13:56,94436,True,f,484.0
+380,Santeri HILJANDER,FI,29,H,20-34M,Northern Trail Runners,https://utmb.world/runner/4583154.santeri.hiljander,460.0,116.0,102.0,22.0,26:18:26,94706,True,f,483.0
+276,Kai NIIRANEN,FI,52,H,50-54M,@more.trails,https://utmb.world/runner/4581104.kai.niiranen,496.0,117.0,103.0,15.0,26:18:27,94707,True,f,483.0
+746,Sebastian MAURITSSON,SE,40,H,40-44M,,https://utmb.world/runner/6770615.sebastian.mauritsson,,118.0,104.0,23.0,26:19:35,94775,True,f,482.0
+110,Morten FUNDINGSRUD,NO,51,H,50-54M,Romerike ultraløperklubb / Eidsberg IL,https://utmb.world/runner/1454253.morten.fundingsrud,563.0,119.0,105.0,16.0,26:21:38,94898,True,f,482.0
+228,Andreas ANDERSSON,SE,50,H,50-54M,Saab Ab,https://utmb.world/runner/6460488.andreas.andersson,513.0,120.0,106.0,17.0,26:22:28,94948,True,f,482.0
+263,Björn BARUP,SE,41,H,40-44M,,https://utmb.world/runner/5063411.bjorn.barup,501.0,121.0,107.0,24.0,26:28:10,95290,True,f,480.0
+120,Zdenek KRIVANEK,CZ,44,H,40-44M,TRAILPOINT,https://utmb.world/runner/4297968.zdenek.krivanek,560.0,122.0,108.0,25.0,26:29:57,95397,True,f,479.0
+226,Tobias FAHLÉN,SE,39,H,35-39M,Westeros Trail Running Society,https://utmb.world/runner/5175581.tobias.fahlen,513.0,123.0,109.0,25.0,26:31:17,95477,True,f,479.0
+362,Luke CLARK,NZ,45,H,45-49M,,https://utmb.world/runner/5883287.luke.clark,465.0,124.0,110.0,16.0,26:32:19,95539,True,f,479.0
+240,Tony HALVARSSON,SE,48,H,45-49M,Djursholm Tränings Center,https://utmb.world/runner/4301460.tony.halvarsson,505.0,125.0,111.0,17.0,26:38:02,95882,True,f,477.0
+157,Michael TONDER HOLM,DK,49,H,45-49M,HURT,https://utmb.world/runner/4373706.michael.tonderholm,539.0,126.0,112.0,18.0,26:39:26,95966,True,f,476.0
+243,Thomas STAUN,DK,54,H,50-54M,Traillife,https://utmb.world/runner/527337.thomas.staun,505.0,127.0,113.0,18.0,26:39:34,95974,True,f,476.0
+172,Henrik TOUDAL OFFERSEN,DK,37,H,35-39M,Helsingør Ultra Running Team,https://utmb.world/runner/2204383.henrik.toudaloffersen,535.0,128.0,114.0,26.0,26:40:01,96001,True,f,476.0
+142,Nicky BASS MOLHOLM,DK,47,H,45-49M,,https://utmb.world/runner/4879951.nicky.bassmolholm,545.0,129.0,115.0,19.0,26:41:18,96078,True,f,476.0
+195,Christian SAMUELSSON,SE,46,H,45-49M,Landsbro if SK,https://utmb.world/runner/5973741.christian.samuelsson,525.0,130.0,116.0,20.0,26:41:34,96094,True,f,476.0
+136,Johan EDENTEG,SE,48,H,45-49M,ALHEMETIEI,https://utmb.world/runner/508307.johan.edenteg,549.0,131.0,117.0,21.0,26:45:47,96347,True,f,475.0
+185,Daniel HÅKANSSON,SE,49,H,45-49M,,https://utmb.world/runner/2986963.daniel.hakansson,530.0,132.0,118.0,22.0,26:46:29,96389,True,f,474.0
+125,Christine BJÖRK,SE,54,F,50-54W,Uppsala LK,https://utmb.world/runner/4681648.christine.bjork,558.0,133.0,15.0,5.0,26:46:31,96391,True,f,474.0
+258,Martin NILSSON,SE,45,H,45-49M,Dörrstopp,https://utmb.world/runner/3585607.martin.nilsson,501.0,134.0,119.0,23.0,26:49:39,96579,True,f,473.0
+782,Mattias TOIVANEN,SE,35,H,35-39M,,https://utmb.world/runner/6770627.mattias.toivanen,,135.0,120.0,27.0,26:53:08,96788,True,f,472.0
+198,Jenny STENGÅRD,SE,49,F,45-49W,,https://utmb.world/runner/2222009.jenny.stengard,522.0,136.0,16.0,3.0,26:58:32,97112,True,f,471.0
+123,Filip JOELSSON,SE,52,H,50-54M,Running Värmdö,https://utmb.world/runner/4681718.filip.joelsson,558.0,136.0,121.0,19.0,26:58:32,97112,True,f,471.0
+538,Filip GAVEFALK,SE,29,H,20-34M,,https://utmb.world/runner/4727502.filip.gavefalk,407.0,138.0,122.0,23.0,26:58:38,97118,True,f,471.0
+213,Mika PÄIVINEN,FI,42,H,40-44M,,https://utmb.world/runner/2617853.mika.paivinen,518.0,139.0,123.0,26.0,27:05:06,97506,True,f,469.0
+413,Ida EK,SE,36,F,35-39W,,https://utmb.world/runner/4682134.ida.ek,451.0,140.0,17.0,2.0,27:06:16,97576,True,f,469.0
+778,Jens EINARSSON,SE,45,H,45-49M,Källströmer TK,https://utmb.world/runner/3377793.jens.einarsson,,141.0,124.0,24.0,27:06:55,97615,True,f,468.0
+410,Marcel MAGERMANS,NL,60,H,60-64M,,https://utmb.world/runner/1505741.marcel.magermans,453.0,142.0,125.0,2.0,27:09:03,97743,True,f,468.0
+383,Jeanette MIKKELSEN,DK,50,F,50-54W,Team Never Give UP,https://utmb.world/runner/1008249.jeanette.mikkelsen,460.0,143.0,18.0,6.0,27:10:08,97808,True,f,467.0
+426,Anu OSSBERG,FI,51,F,50-54W,Team Rahola,https://utmb.world/runner/722614.anu.ossberg,444.0,144.0,19.0,7.0,27:10:24,97824,True,f,467.0
+92,Gustav LARSEN,SE,39,H,35-39M,Team Nordic Trail Alingsås,https://utmb.world/runner/6104540.gustav.larsen,577.0,145.0,126.0,28.0,27:15:52,98152,True,f,466.0
+192,Mattias GUNGNER,SE,40,H,40-44M,TNT Alingsås,https://utmb.world/runner/5510286.mattias.gungner,526.0,146.0,127.0,27.0,27:15:56,98156,True,f,466.0
+652,Mikkel Tønder HAUSKOV,DK,25,H,20-34M,,https://utmb.world/runner/6770777.mikkeltonder.hauskov,,147.0,128.0,24.0,27:16:20,98180,True,f,466.0
+193,Ole LARSEN,DK,60,H,60-64M,nuso,https://utmb.world/runner/4215488.ole.larsen,524.0,147.0,128.0,3.0,27:16:20,98180,True,f,466.0
+257,Tommy FURLAND,SE,47,H,45-49M,Linköpings Löparklubb,https://utmb.world/runner/4812792.tommy.furland,502.0,149.0,130.0,25.0,27:18:27,98307,True,f,465.0
+222,Andrzej BEDNARSKI,FR,50,H,50-54M,,https://utmb.world/runner/6152454.andrzej.bednarski,515.0,150.0,131.0,20.0,27:18:31,98311,True,f,465.0
+781,Mandus ANDERSSON,SE,33,H,20-34M,Mjäryd Elite,https://utmb.world/runner/4823498.mandus.andersson,,151.0,132.0,25.0,27:19:54,98394,True,f,465.0
+389,Stefan VEDENBRANT,SE,39,H,35-39M,Team Fika Running Club,https://utmb.world/runner/4301461.stefan.vedenbrant,458.0,151.0,132.0,29.0,27:19:54,98394,True,f,465.0
+349,Andreas FABIAN,SE,40,H,40-44M,Kristianstad triathlon klubb,https://utmb.world/runner/5880467.andreas.fabian,470.0,151.0,132.0,28.0,27:19:54,98394,True,f,465.0
+399,Igor ČUHEL,CZ,36,H,35-39M,,https://utmb.world/runner/2114993.igor.cuhel,455.0,154.0,135.0,30.0,27:22:11,98531,True,f,464.0
+212,Matthieu BERTHION,FR,45,H,45-49M,,https://utmb.world/runner/163516.matthieu.berthion,518.0,155.0,136.0,26.0,27:22:49,98569,True,f,464.0
+275,Patrik BJERNINGE,SE,42,H,40-44M,,https://utmb.world/runner/5292131.patrik.bjerninge,496.0,156.0,137.0,29.0,27:24:31,98671,True,f,463.0
+315,Hedvig ORVENHOLT,SE,30,F,20-34W,Hedou running,https://utmb.world/runner/6770683.hedvig.orvenholt,482.0,157.0,20.0,5.0,27:34:50,99290,True,f,460.0
+726,Markus ÅHRMAN,SE,49,H,45-49M,Strömstad löparklubb,https://utmb.world/runner/6770779.markus.ahrman,,158.0,138.0,27.0,27:34:51,99291,True,f,460.0
+171,Henrik SVANHOLT,DK,51,H,50-54M,Tik løberne,https://utmb.world/runner/5750505.henrik.svanholt,535.0,159.0,139.0,21.0,27:49:37,100177,True,f,456.0
+659,Niklas KARLSSON,SE,50,H,50-54M,,https://utmb.world/runner/508239.niklas.karlsson,,160.0,140.0,22.0,27:49:38,100178,True,f,456.0
+309,Elise Sangolt HEDÄLV,NO,49,F,45-49W,,https://utmb.world/runner/532553.elisesangolt.hedalv,484.0,161.0,21.0,4.0,27:58:01,100681,True,f,454.0
+455,Jill WAKE,SE,44,F,40-44W,Wakes Funrun,https://utmb.world/runner/5504625.jill.wake,434.0,162.0,22.0,4.0,28:02:14,100934,True,f,453.0
+418,Patrik RUNG,SE,47,H,45-49M,,https://utmb.world/runner/492295.patrik.rung,447.0,163.0,141.0,28.0,28:02:15,100935,True,f,453.0
+268,Jonas ANDERSSON,SE,40,H,40-44M,,https://utmb.world/runner/1619831.jonas.andersson,499.0,164.0,142.0,30.0,28:08:26,101306,True,f,451.0
+301,Jens ERIKSSON,SE,57,H,55-59M,Umara Sports Club,https://utmb.world/runner/4193361.jens.eriksson,487.0,165.0,143.0,5.0,28:12:33,101553,True,f,450.0
+287,Camilla ALMSTEDT MALMGREN,SE,43,F,40-44W,,https://utmb.world/runner/4301449.camilla.almstedtmalmgren,490.0,166.0,23.0,5.0,28:12:34,101554,True,f,450.0
+84,Kalle GÖRANSSON,SE,30,H,20-34M,Häradsbäcks IF,https://utmb.world/runner/6770757.kalle.goransson,584.0,167.0,144.0,26.0,28:12:35,101555,True,f,450.0
+497,Kristian WOLLERSJÖ,SE,56,H,55-59M,,https://utmb.world/runner/2576479.kristian.wollersjo,421.0,168.0,145.0,6.0,28:12:46,101566,True,f,450.0
+141,Mikkel THILO,DK,39,H,35-39M,Brothers on the run,https://utmb.world/runner/5574560.mikkel.thilo,546.0,169.0,146.0,31.0,28:24:16,102256,True,f,447.0
+420,Baptiste MENEAU,FR,22,H,20-34M,EMA Trail,https://utmb.world/runner/6621206.baptiste.meneau,447.0,170.0,147.0,27.0,28:24:25,102265,True,f,447.0
+416,Salla LAIHO,FI,43,F,40-44W,Team Rainbow Vertti-Tonnikala,https://utmb.world/runner/2092355.salla.laiho,448.0,171.0,24.0,6.0,28:26:51,102411,True,f,446.0
+602,Nicolas RISTOJA,FI,35,H,35-39M,,https://utmb.world/runner/4715798.nicolas.ristoja,377.0,172.0,148.0,32.0,28:26:52,102412,True,f,446.0
+532,Mads EBBENSGAARD,DK,39,H,35-39M,TNF,https://utmb.world/runner/5743849.mads.ebbensgaard,409.0,173.0,149.0,33.0,28:31:47,102707,True,f,445.0
+264,Dan NYKVIST,SE,50,H,50-54M,Arvika,https://utmb.world/runner/4484372.dan.nykvist,500.0,174.0,150.0,23.0,28:32:20,102740,True,f,445.0
+324,Anton PÅLSSON,SE,41,H,40-44M,,https://utmb.world/runner/4253285.anton.palsson,481.0,175.0,151.0,31.0,28:36:43,103003,True,f,444.0
+440,Adrian GROSICKI,PL,36,H,35-39M,,https://utmb.world/runner/4365668.adrian.grosicki,439.0,176.0,152.0,34.0,28:38:10,103090,True,f,443.0
+764,Sandra MARINILLI,SE,51,F,50-54W,,https://utmb.world/runner/5439890.sandra.marinilli,,177.0,25.0,8.0,28:38:33,103113,True,f,443.0
+385,Anu KÄHKÖNEN,FI,43,F,40-44W,Puijon Mahti,https://utmb.world/runner/4898084.anu.kahkonen,459.0,178.0,26.0,7.0,28:43:21,103401,True,f,442.0
+409,Rasmus LARSEN,DK,36,H,35-39M,,https://utmb.world/runner/4823426.rasmus.larsen,453.0,179.0,153.0,35.0,28:44:17,103457,True,f,442.0
+471,Carl-Johan DÖMSTEDT,SE,46,H,45-49M,Surahammars SOK,https://utmb.world/runner/4681798.carljohan.domstedt,429.0,180.0,154.0,29.0,28:48:51,103731,True,f,441.0
+356,Henrik RYE,SE,50,H,50-54M,Klubb sisu multisport och triathlon,https://utmb.world/runner/4527930.henrik.rye,468.0,181.0,155.0,24.0,28:49:19,103759,True,f,441.0
+311,Sean KELLY,GB,46,H,45-49M,Cheviot Trail Runners,https://utmb.world/runner/4168445.sean.kelly,484.0,182.0,156.0,30.0,28:49:20,103760,True,f,441.0
+464,Anton EK,SE,38,H,35-39M,Ljungby Donkey Athletes ,https://utmb.world/runner/4823436.anton.ek,432.0,182.0,156.0,36.0,28:49:20,103760,True,f,441.0
+361,Nicklas LARSSON,SE,55,H,55-59M,Hjorthagen Ultra,https://utmb.world/runner/4383934.nicklas.larsson,465.0,184.0,158.0,7.0,28:49:25,103765,True,f,441.0
+702,Martin BURTON,GB,51,H,50-54M,,https://utmb.world/runner/569300.martin.burton,,185.0,159.0,25.0,28:50:14,103814,True,f,440.0
+246,Ludvig DICKMAN,SE,39,H,35-39M,Åkersberga SK,https://utmb.world/runner/4536729.ludvig.dickman,504.0,186.0,160.0,37.0,28:55:59,104159,True,f,439.0
+215,Marko KYLMALA,FI,42,H,40-44M,,https://utmb.world/runner/320654.marko.kylmala,517.0,187.0,161.0,32.0,28:57:24,104244,True,f,439.0
+585,Julius ANDERBERG,SE,28,H,20-34M,AP Athletics,https://utmb.world/runner/6460966.julius.anderberg,387.0,188.0,162.0,28.0,29:01:55,104515,True,f,437.0
+327,Christofer WAHLMAN,SE,45,H,45-49M,Team Wahlman,https://utmb.world/runner/3461359.christofer.wahlman,475.0,188.0,162.0,31.0,29:01:55,104515,True,f,437.0
+621,Jens MOGENSEN,DK,60,H,60-64M,Klub 100 marathon danmark,https://utmb.world/runner/6770845.jens.mogensen,364.0,190.0,164.0,4.0,29:02:24,104544,True,f,437.0
+282,Peter FISKER,DK,48,H,45-49M,Trailrunning Silkeborg,https://utmb.world/runner/1031139.peter.fisker,492.0,191.0,165.0,32.0,29:02:57,104577,True,f,437.0
+397,Sittichai PANROD,TH,36,H,35-39M,,https://utmb.world/runner/6700598.sittichai.panrod,458.0,192.0,166.0,38.0,29:03:28,104608,True,f,437.0
+331,Victor NILSSON,SE,51,H,50-54M,,https://utmb.world/runner/4301516.victor.nilsson,477.0,193.0,167.0,26.0,29:03:45,104625,True,f,437.0
+392,Maria NORDFJELL,SE,56,F,55-59W,Tromsø løpeklubb,https://utmb.world/runner/494861.maria.nordfjell,457.0,194.0,27.0,1.0,29:05:18,104718,True,f,437.0
+353,Susann ERIKSSON,SE,43,F,40-44W,Scania Road Runners,https://utmb.world/runner/5320262.susann.eriksson,468.0,195.0,28.0,8.0,29:05:28,104728,True,f,437.0
+384,Tay TRAN,SE,44,H,40-44M,,https://utmb.world/runner/5327498.tay.tran,460.0,196.0,168.0,33.0,29:06:23,104783,True,f,436.0
+114,Alexander OLOFSSON,SE,41,H,40-44M,,https://utmb.world/runner/5742217.alexander.olofsson,562.0,197.0,169.0,34.0,29:10:51,105051,True,f,435.0
+699,Simon TREPP,SE,42,H,40-44M,Saltsjöbadens IF,https://utmb.world/runner/6770847.simon.trepp,,198.0,170.0,35.0,29:11:15,105075,True,f,435.0
+200,Lewis WATMOUGH,GB,31,H,20-34M,,https://utmb.world/runner/5175579.lewis.watmough,521.0,199.0,171.0,29.0,29:15:20,105320,True,f,434.0
+378,Marek POLACH,CZ,32,H,20-34M,SmartMoveUp3,https://utmb.world/runner/4713206.marek.polach,459.0,200.0,172.0,30.0,29:17:59,105479,True,f,433.0
+452,Jessica STÅHL-NORRIS,SE,45,F,45-49W,ASICS Frontrunner,https://utmb.world/runner/2439905.jessica.stahlnorris,436.0,201.0,29.0,5.0,29:19:35,105575,True,f,433.0
+753,Daniel BJÖRNSON,SE,45,H,45-49M,,https://utmb.world/runner/4301518.daniel.bjornson,,202.0,173.0,33.0,29:19:57,105597,True,f,433.0
+791,Carsten JACOBSEN,DK,57,H,55-59M,Løbeklubben Søndag Morgen,https://utmb.world/runner/321182.carsten.jacobsen,,203.0,174.0,8.0,29:21:23,105683,True,f,433.0
+302,Ia ERLANDSSON,SE,34,F,20-34W,Örebro AIK,https://utmb.world/runner/5517865.ia.erlandsson,487.0,204.0,30.0,6.0,29:21:26,105686,True,f,433.0
+358,Mikkel KROYER,SE,54,H,50-54M,I Run Team,https://utmb.world/runner/4823280.mikkel.kroyer,467.0,205.0,175.0,27.0,29:21:56,105716,True,f,432.0
+220,Urban ÅSTRÖM,SE,49,H,45-49M,Bara Trajl,https://utmb.world/runner/527953.urban.astrom,514.0,206.0,176.0,34.0,29:21:57,105717,True,f,432.0
+158,Edwin VAN ASSELDONK,NL,45,H,45-49M,Oskarshamn Running Club,https://utmb.world/runner/3230693.edwin.vanasseldonk,539.0,207.0,177.0,35.0,29:24:10,105850,True,f,432.0
+419,Mikael SINIJÄRV,SE,36,H,35-39M,,https://utmb.world/runner/6460620.mikael.sinijarv,448.0,208.0,178.0,39.0,29:24:13,105853,True,f,432.0
+588,Helmi HALLAPÄÄ,FI,30,F,20-34W,Kaappikellon kummitukset,https://utmb.world/runner/1081163.helmi.hallapaa,385.0,209.0,31.0,7.0,29:25:35,105935,True,f,432.0
+480,Johan HOLMSTRAND,SE,42,H,40-44M,,https://utmb.world/runner/6152568.johan.holmstrand,472.0,210.0,179.0,36.0,29:25:58,105958,True,f,431.0
+458,Juha KAMPPINEN,SE,57,H,55-59M,Spånga,https://utmb.world/runner/723754.juha.kamppinen,433.0,211.0,180.0,9.0,29:26:18,105978,True,f,431.0
+526,Jonas SVENSSON,SE,53,H,50-54M,iSherpa AB,https://utmb.world/runner/4416376.jonas.svensson,410.0,212.0,181.0,28.0,29:28:39,106119,True,f,431.0
+507,Simon CARL,BE,56,H,55-59M,None yet,https://utmb.world/runner/1395015.simon.carl,418.0,213.0,182.0,10.0,29:48:36,107316,True,f,426.0
+343,Anton ANGELING,SE,35,H,35-39M,,https://utmb.world/runner/4691518.anton.angeling,473.0,214.0,183.0,40.0,29:51:05,107465,True,f,425.0
+234,Steen ANDERSEN,SE,51,H,50-54M,,https://utmb.world/runner/4379194.steen.andersen,507.0,215.0,184.0,29.0,29:55:14,107714,True,f,424.0
+296,Gustav AGLERT,SE,21,H,20-34M,,https://utmb.world/runner/6474750.gustav.aglert,489.0,216.0,185.0,31.0,29:58:11,107891,True,f,424.0
+682,Mewen RENONCOURT,FR,19,H,18-19M,,https://utmb.world/runner/6770761.mewen.renoncourt,,217.0,186.0,1.0,29:59:00,107940,True,f,424.0
+474,Johan LELIE,BE,56,H,55-59M,,https://utmb.world/runner/5066285.johan.lelie,428.0,218.0,187.0,11.0,30:01:33,108093,True,f,423.0
+468,Niclas KLING,SE,52,H,50-54M,,https://utmb.world/runner/4200830.niclas.kling,430.0,219.0,188.0,30.0,30:02:31,108151,True,f,423.0
+405,Olle TOUR SOHLIN,SE,41,H,40-44M,OK Orion,https://utmb.world/runner/4416450.olle.toursohlin,454.0,220.0,189.0,37.0,30:04:16,108256,True,f,422.0
+352,Mattias JOHANSSON,SE,44,H,40-44M,Dark trail runners,https://utmb.world/runner/811479.mattias.johansson,469.0,221.0,190.0,38.0,30:05:24,108324,True,f,422.0
+483,Fredrik SETTERBERG,SE,44,H,40-44M,,https://utmb.world/runner/5365604.fredrik.setterberg,426.0,222.0,191.0,39.0,30:06:34,108394,True,f,422.0
+85,Kim Jessing PEDERSEN,DK,54,H,50-54M,Rock n Trail Roskilde,https://utmb.world/runner/2367827.kimjessing.pedersen,579.0,223.0,192.0,31.0,30:07:42,108462,True,f,422.0
+478,Ewa WISNIEWSKA,PL,51,F,50-54W,Söderåsen FK,https://utmb.world/runner/1629105.ewa.wisniewska,427.0,224.0,32.0,9.0,30:11:28,108688,True,f,421.0
+138,Jonniaux GERY,BE,39,H,35-39M,Zatopek académie trail avancé,https://utmb.world/runner/5256635.jonniaux.gery,549.0,225.0,193.0,41.0,30:11:31,108691,True,f,421.0
+411,Philip NYHLÉN,SE,41,H,40-44M,,https://utmb.world/runner/5742263.philip.nyhlen,451.0,226.0,194.0,40.0,30:18:15,109095,True,f,419.0
+655,Robert SVENSSON,SE,42,H,40-44M,,https://utmb.world/runner/7809821.robert.svensson,,227.0,195.0,41.0,30:18:22,109102,True,f,419.0
+379,Martin WASIELEWSKI,DE,43,H,40-44M,,https://utmb.world/runner/4661900.martin.wasielewski,461.0,228.0,196.0,42.0,30:23:13,109393,True,f,418.0
+796,Markus DUNST,DE,36,H,35-39M,Bayronman e.V.,https://utmb.world/runner/4277419.markus.dunst,,229.0,197.0,42.0,30:23:39,109419,True,f,418.0
+119,Rokas AUGUNAS,LT,31,H,20-34M,Šlapia višta,https://utmb.world/runner/5064997.rokas.augunas,561.0,230.0,198.0,32.0,30:23:51,109431,True,f,418.0
+351,Andy COOKSEY,GB,64,H,60-64M,,https://utmb.world/runner/577809.andy.cooksey,469.0,231.0,199.0,5.0,30:28:14,109694,True,f,417.0
+448,Mats ROSENBERG,SE,59,H,55-59M,Karlshamns SK Swimrun,https://utmb.world/runner/2168443.mats.rosenberg,437.0,232.0,200.0,12.0,30:28:58,109738,True,f,417.0
+360,Daniel HUSSFELT,SE,45,H,45-49M,,https://utmb.world/runner/4681470.daniel.hussfelt,466.0,233.0,201.0,36.0,30:29:18,109758,True,f,417.0
+460,Kristina GUSTAVSSON,SE,57,F,55-59W,Sweden Runners IF,https://utmb.world/runner/4681852.kristina.gustavsson,434.0,234.0,33.0,2.0,30:29:41,109781,True,f,416.0
+414,Magnus ELMQUIST,SE,48,H,45-49M,Djurgårdens IF Friidrott,https://utmb.world/runner/4715866.magnus.elmquist,449.0,235.0,202.0,37.0,30:29:46,109786,True,f,416.0
+297,Jesper FLINK,SE,55,H,55-59M,Mona Tumbas slim Club,https://utmb.world/runner/665770.jesper.flink,488.0,236.0,203.0,13.0,30:36:19,110179,True,f,415.0
+677,Johan Loco NORDENBERG,SE,48,H,45-49M,Dark Trail Runners,https://utmb.world/runner/2986855.johanloco.nordenberg,384.0,237.0,204.0,38.0,30:39:26,110366,True,f,414.0
+269,Johan EHRIN,SE,42,H,40-44M,Wisby ultralöparförening,https://utmb.world/runner/1634775.johan.ehrin,499.0,238.0,205.0,43.0,30:39:57,110397,True,f,414.0
+398,Pekka KOTILA,FI,48,H,45-49M,,https://utmb.world/runner/3123225.pekka.kotila,455.0,239.0,206.0,39.0,30:43:54,110634,True,f,413.0
+334,Saku PUUMALA,FI,42,H,40-44M,Sherwood Marathon Runners,https://utmb.world/runner/1305961.saku.puumala,476.0,240.0,207.0,44.0,30:44:09,110649,True,f,413.0
+433,Harri VUOLLE,FI,48,H,45-49M,RC/C,https://utmb.world/runner/1080531.harri.vuolle,442.0,241.0,208.0,40.0,30:46:26,110786,True,f,413.0
+442,Thor TVEITAN,NO,57,H,55-59M,,https://utmb.world/runner/6318006.thor.tveitan,438.0,242.0,209.0,14.0,30:50:06,111006,True,f,412.0
+245,Morgan SJÖDAL,SE,52,H,50-54M,338 Småland,https://utmb.world/runner/5058173.morgan.sjodal,505.0,243.0,210.0,32.0,30:50:34,111034,True,f,412.0
+445,Johan NILSSON,SE,49,H,45-49M,Näset31,https://utmb.world/runner/1619891.johan.nilsson,436.0,244.0,211.0,41.0,30:50:46,111046,True,f,412.0
+391,Jesper ELFVING,DK,64,H,60-64M,Like2run.dk,https://utmb.world/runner/2054813.jesper.elfving,458.0,245.0,212.0,6.0,30:50:58,111058,True,f,412.0
+548,Jonas BIRGERSSON,SE,46,H,45-49M,,https://utmb.world/runner/116220.jonas.birgersson,402.0,246.0,213.0,42.0,30:54:34,111274,True,f,411.0
+165,Odd EDØY,NO,68,H,65-69M,Sunndal IL Friidrett,https://utmb.world/runner/532484.odd.edoy,537.0,247.0,214.0,1.0,30:54:51,111291,True,f,411.0
+644,Benjamin MURPHY,US,34,H,20-34M,,https://utmb.world/runner/6489063.benjamin.murphy,331.0,248.0,215.0,33.0,30:57:58,111478,True,f,410.0
+786,Isak FREDIN,SE,24,H,20-34M,,https://utmb.world/runner/5742265.isak.fredin,,249.0,216.0,34.0,30:59:34,111574,True,f,410.0
+323,Mikael LINDSTRAND,SE,55,H,55-59M,gonioLabs EC,https://utmb.world/runner/665734.mikael.lindstrand,481.0,250.0,217.0,15.0,31:00:28,111628,True,f,410.0
+436,Mikko MÄKI,FI,54,H,50-54M,Pori Trail Runners,https://utmb.world/runner/4180178.mikko.maki,442.0,251.0,218.0,33.0,31:01:16,111676,True,f,409.0
+382,Tiina MÄKELÄ,FI,42,F,40-44W,Pori Trail Runners,https://utmb.world/runner/438881.tiina.makela,460.0,251.0,34.0,9.0,31:01:16,111676,True,f,409.0
+318,Andreas FEYMARK,SE,41,H,40-44M,Varbergs Ultra Runners,https://utmb.world/runner/6770763.andreas.feymark,482.0,253.0,219.0,45.0,31:02:15,111735,True,f,409.0
+453,James THACKERAY,GB,50,H,50-54M,VRC,https://utmb.world/runner/566308.james.thackeray,435.0,254.0,220.0,34.0,31:04:54,111894,True,f,409.0
+494,Mikael BRAMSTEDT,SE,54,H,50-54M,,https://utmb.world/runner/5742095.mikael.bramstedt,421.0,255.0,221.0,35.0,31:06:16,111976,True,f,408.0
+314,Joel TOVSTEDT,SE,37,H,35-39M,ålem ok,https://utmb.world/runner/5479254.joel.tovstedt,483.0,256.0,222.0,43.0,31:06:28,111988,True,f,408.0
+490,Lukasz BOBER,SE,47,H,45-49M,TheBraveBeavers,https://utmb.world/runner/4200836.lukasz.bober,422.0,257.0,223.0,43.0,31:07:36,112056,True,f,408.0
+290,Petri LASSHEIKKI,FI,51,H,50-54M,Elläimen kinthaat / TTR,https://utmb.world/runner/201202.petri.lassheikki,490.0,258.0,224.0,36.0,31:07:41,112061,True,f,408.0
+345,Petri NUKARINEN,FI,49,H,45-49M,Tampere Trail Running,https://utmb.world/runner/1447087.petri.nukarinen,472.0,259.0,225.0,44.0,31:07:45,112065,True,f,408.0
+503,Peter ROISSETTER,GB,58,H,55-59M,no club,https://utmb.world/runner/5465210.peter.roissetter,420.0,260.0,226.0,16.0,31:10:29,112229,True,f,407.0
+291,Andreas WALLIN,SE,39,H,35-39M,,https://utmb.world/runner/6446362.andreas.wallin,490.0,261.0,227.0,44.0,31:11:55,112315,True,f,407.0
+284,Alexis ROLLAND JACOUB,FR,49,H,45-49M,ARJS RUNNING,https://utmb.world/runner/731.alexis.rollandjacoub,491.0,262.0,228.0,45.0,31:12:11,112331,True,f,407.0
+799,Ilker BURGAÇ,TR,50,H,50-54M,istanbul orienteering,https://utmb.world/runner/1819471.ilker.burgac,454.0,263.0,229.0,37.0,31:13:01,112381,True,f,407.0
+508,Jonas LUDVIGSSON,SE,49,H,45-49M,Sot på toppen,https://utmb.world/runner/1356237.jonas.ludvigsson,418.0,264.0,230.0,46.0,31:13:58,112438,True,f,407.0
+549,Fredrik TOLF,SE,49,H,45-49M,Sot på Toppen,https://utmb.world/runner/1356195.fredrik.tolf,401.0,265.0,231.0,47.0,31:13:59,112439,True,f,407.0
+176,Andreas HANSSON,SE,42,H,40-44M,Dark Trail Runners,https://utmb.world/runner/5066293.andreas.hansson,533.0,266.0,232.0,46.0,31:14:06,112446,True,f,407.0
+432,Christofer SCHYBERG,SE,35,H,35-39M,,https://utmb.world/runner/6488227.christofer.schyberg,442.0,266.0,232.0,45.0,31:14:06,112446,True,f,407.0
+518,Martin NORDLUND,SE,45,H,45-49M,Fajans United,https://utmb.world/runner/2211089.martin.nordlund,414.0,268.0,234.0,48.0,31:14:43,112483,True,f,406.0
+550,Jonas LARSSON,SE,51,H,50-54M,,https://utmb.world/runner/4301589.jonas.larsson,401.0,269.0,235.0,38.0,31:14:46,112486,True,f,406.0
+412,Hans-Johan NYHOLM,SE,34,H,20-34M,,https://utmb.world/runner/6491755.hansjohan.nyholm,451.0,270.0,236.0,35.0,31:16:46,112606,True,f,406.0
+270,Martin ABRAHAMSSON,SE,53,H,50-54M,Vallkärra Running Crew,https://utmb.world/runner/4201170.martin.abrahamsson,493.0,271.0,237.0,39.0,31:16:49,112609,True,f,406.0
+527,Anders STENVALL,SE,46,H,45-49M,Strängnäs löparklubb,https://utmb.world/runner/5742063.anders.stenvall,410.0,272.0,238.0,49.0,31:18:05,112685,True,f,406.0
+371,Sofia ERIKSSON,SE,50,F,50-54W,Strängnäs Löparklubb,https://utmb.world/runner/691558.sofia.eriksson,462.0,272.0,35.0,10.0,31:18:05,112685,True,f,406.0
+720,Tobias FABBEKE,SE,43,H,40-44M,Team Blekinge,https://utmb.world/runner/4135485.tobias.fabbeke,,274.0,239.0,47.0,31:18:31,112711,True,f,406.0
+168,Patrik SMITH,SE,47,H,45-49M,,https://utmb.world/runner/4301575.patrik.smith,536.0,275.0,240.0,50.0,31:19:02,112742,True,f,406.0
+715,Mikael SELDAHL,SE,38,H,35-39M,Jukkasjärvi IF,https://utmb.world/runner/6770729.mikael.seldahl,,276.0,241.0,46.0,31:20:38,112838,True,f,405.0
+777,Rikard ROVA,SE,35,H,35-39M,Jukkasjärvi IF,https://utmb.world/runner/6770843.rikard.rova,,277.0,242.0,47.0,31:20:39,112839,True,f,405.0
+582,Kim ANDERSEN,DK,58,H,55-59M,,https://utmb.world/runner/5140495.kim.andersen,388.0,278.0,243.0,17.0,31:20:57,112857,True,f,405.0
+680,Rasmus GLIMBERG,SE,25,H,20-34M,,https://utmb.world/runner/5742121.rasmus.glimberg,,279.0,244.0,36.0,31:22:01,112921,True,f,405.0
+401,Felix IVARSSON LUNDMARK,SE,25,H,20-34M,,https://utmb.world/runner/6045785.felix.ivarssonlundmark,455.0,280.0,245.0,37.0,31:22:05,112925,True,f,405.0
+566,Rasmus MALMBORG,SE,48,H,45-49M,,https://utmb.world/runner/1087959.rasmus.malmborg,392.0,281.0,246.0,51.0,31:24:36,113076,True,f,404.0
+584,Anna MALMBORG,SE,46,F,45-49W,Run Baby Run,https://utmb.world/runner/662246.anna.malmborg,388.0,282.0,36.0,6.0,31:24:39,113079,True,f,404.0
+390,Mikael WHERN,SE,48,H,45-49M,Köpingskamraterna,https://utmb.world/runner/5479274.mikael.whern,458.0,283.0,247.0,52.0,31:25:08,113108,True,f,404.0
+731,Tobias WULFF,SE,51,H,50-54M,Bara Trajl,https://utmb.world/runner/3816105.tobias.wulff,,284.0,248.0,40.0,31:26:49,113209,True,f,404.0
+187,Malo LE FUR,FR,23,H,20-34M,Kiwami Racing Team,https://utmb.world/runner/6317258.malo.lefur,528.0,285.0,249.0,38.0,31:27:37,113257,True,f,404.0
+431,Leonard BACHNER,SE,44,H,40-44M,Socio Consulting,https://utmb.world/runner/6460670.leonard.bachner,442.0,286.0,250.0,48.0,31:28:20,113300,True,f,404.0
+804,Kiki SOLENDER,SE,50,F,50-54W,,https://utmb.world/runner/532693.kiki.solender,491.0,287.0,37.0,11.0,31:28:22,113302,True,f,404.0
+307,Kajsa SVENSSON,SE,47,F,45-49W,,https://utmb.world/runner/1960589.kajsa.svensson,486.0,287.0,37.0,7.0,31:28:22,113302,True,f,404.0
+381,Otto BLÜCKER,SE,37,H,35-39M,Team Rookiis,https://utmb.world/runner/6408816.otto.blucker,478.0,289.0,251.0,48.0,31:29:22,113362,True,f,403.0
+515,Clara VIKLUND BORG,SE,46,F,45-49W,,https://utmb.world/runner/1279065.clara.viklundborg,414.0,290.0,39.0,8.0,31:30:02,113402,True,f,403.0
+328,Lars VAEDELED ROED,DK,49,H,45-49M,RunRoed,https://utmb.world/runner/4978962.lars.vaedeledroed,478.0,291.0,252.0,53.0,31:30:36,113436,True,f,403.0
+456,Benny GLASSEE,BE,50,H,50-54M,ACHL,https://utmb.world/runner/428217.benny.glassee,434.0,292.0,253.0,41.0,31:31:01,113461,True,f,403.0
+469,Charlotte LAGERSTED,DK,45,F,45-49W,Nyråd Løbeklub / Klub 100 marathon DK,https://utmb.world/runner/3022745.charlotte.lagersted,430.0,293.0,40.0,9.0,31:37:40,113860,True,f,402.0
+537,Jonas AAGAARD MADSEN,DK,47,H,45-49M,Nyråd Løbeklub,https://utmb.world/runner/6770837.jonas.aagaardmadsen,407.0,294.0,254.0,54.0,31:37:41,113861,True,f,402.0
+406,Margarita SJURSEN,NO,43,F,40-44W,BSV Triatlon,https://utmb.world/runner/4205685.margarita.sjursen,453.0,295.0,41.0,10.0,31:38:01,113881,True,f,401.0
+784,Axel RISINGER LILJEGREN,SE,33,H,20-34M,,https://utmb.world/runner/5742097.axel.risingerliljegren,,296.0,255.0,39.0,31:38:04,113884,True,f,401.0
+374,Lars ABELIUS,SE,48,H,45-49M,Slättrunners,https://utmb.world/runner/1660817.lars.abelius,461.0,297.0,256.0,55.0,31:39:21,113961,True,f,401.0
+591,Peter CARLSTEDT,SE,50,H,50-54M,Vasastans Ultra,https://utmb.world/runner/4681698.peter.carlstedt,384.0,298.0,257.0,42.0,31:39:55,113995,True,f,401.0
+347,Marcus NORDIN,SE,42,H,40-44M,,https://utmb.world/runner/4679990.marcus.nordin,471.0,299.0,258.0,49.0,31:39:57,113997,True,f,401.0
+619,Van LE,SE,40,H,40-44M,,https://utmb.world/runner/5074159.van.le,364.0,300.0,259.0,50.0,31:40:38,114038,True,f,401.0
+496,Anders SVAN,SE,48,H,45-49M,Umara Sports Club,https://utmb.world/runner/4141376.anders.svan,421.0,301.0,260.0,56.0,31:42:43,114163,True,f,400.0
+617,Camilla LINDSTRÖM,SE,48,F,45-49W,Telia IF,https://utmb.world/runner/4681774.camilla.lindstrom,367.0,301.0,42.0,10.0,31:42:43,114163,True,f,400.0
+616,Richard OHLSSON,SE,44,H,40-44M,Telia IF,https://utmb.world/runner/4681776.richard.ohlsson,367.0,303.0,261.0,51.0,31:42:44,114164,True,f,400.0
+609,Johan OLSSON,SE,48,H,45-49M,Brandkårens Idrottsklubb,https://utmb.world/runner/6461088.johan.olsson,372.0,304.0,262.0,57.0,31:42:46,114166,True,f,400.0
+481,Martin EKSTRÖM,SE,50,H,50-54M,Svartå IF,https://utmb.world/runner/6770715.martin.ekstrom,426.0,305.0,263.0,43.0,31:42:57,114177,True,f,400.0
+292,Niclas SUNDBERG,SE,35,H,35-39M,,https://utmb.world/runner/6460530.niclas.sundberg,490.0,306.0,264.0,49.0,31:44:07,114247,True,f,400.0
+450,Ulrika SEGERLUND,SE,58,F,55-59W,,https://utmb.world/runner/4409138.ulrika.segerlund,436.0,307.0,43.0,3.0,31:44:57,114297,True,f,400.0
+429,Catrine BARKENTIN,SE,59,F,55-59W,Runners Club Helsingborg,https://utmb.world/runner/3022675.catrine.barkentin,442.0,308.0,44.0,4.0,31:45:00,114300,True,f,400.0
+377,Erik JOHANSSON,SE,31,H,20-34M,,https://utmb.world/runner/5136085.erik.johansson,461.0,309.0,265.0,40.0,31:45:11,114311,True,f,400.0
+556,Martin KRAENZMER,SE,60,H,60-64M,Mantequilla runners,https://utmb.world/runner/293493.martin.kraenzmer,396.0,310.0,266.0,7.0,31:47:52,114472,True,f,399.0
+439,Karim LAHMINI,FI,45,H,45-49M,Team Rahola,https://utmb.world/runner/3015189.karim.lahmini,439.0,311.0,267.0,58.0,31:51:13,114673,True,f,399.0
+590,Anonymous,AN,41,H,40-44M,,,,312.0,268.0,52.0,31:51:42,114702,True,f,
+560,Conny E ANDERBERG,SE,58,H,55-59M,GOAT - Gothenburg Outdoor & Adventure Team,https://utmb.world/runner/2576879.conny.eanderberg,394.0,313.0,269.0,18.0,31:56:37,114997,True,f,398.0
+780,Vinh NORBERG NGUYEN,SE,40,H,40-44M,,https://utmb.world/runner/5233307.vinh.norbergnguyen,,314.0,270.0,53.0,31:57:55,115075,True,f,397.0
+463,Amir KADIC,SE,43,H,40-44M,,https://utmb.world/runner/4654400.amir.kadic,432.0,315.0,271.0,54.0,25:20:43,91243,False,a,
+500,Malin YNGSTRÖM,SE,51,F,50-54W,OK Tisaren,https://utmb.world/runner/2572743.malin.yngstrom,419.0,316.0,45.0,12.0,26:22:12,94932,False,a,
+259,Roger LÖFSTRÖM,SE,61,H,60-64M,Scania Road Runners,https://utmb.world/runner/6770807.roger.lofstrom,501.0,317.0,272.0,8.0,26:25:25,95125,False,a,
+430,Sébastien CLOUX,CH,42,H,40-44M,,https://utmb.world/runner/729334.sebastien.cloux,442.0,318.0,273.0,55.0,26:51:09,96663,False,a,
+175,Guillaume DUCRET,CH,42,H,40-44M,,https://utmb.world/runner/3096803.guillaume.ducret,533.0,319.0,274.0,56.0,26:51:17,96667,False,a,
+191,Mia SAARNI,SE,44,F,40-44W,Niorunnersclub,https://utmb.world/runner/5071765.mia.saarni,526.0,320.0,46.0,11.0,27:03:51,97431,False,a,
+536,Maria VON SCHMALENSEE,SE,52,F,50-54W,Trailrun4Fun,https://utmb.world/runner/4003280.maria.vonschmalensee,408.0,321.0,47.0,13.0,28:45:02,103502,False,a,
+554,Jens ERLANDSSON,SE,40,H,40-44M,,https://utmb.world/runner/4301475.jens.erlandsson,398.0,322.0,275.0,57.0,28:47:10,103630,False,a,
+779,Gustav RICHERT,SE,51,H,50-54M,,https://utmb.world/runner/4823174.gustav.richert,,323.0,276.0,44.0,28:54:42,104082,False,a,
+614,Jonas LINDAHL,SE,59,H,55-59M,,https://utmb.world/runner/495128.jonas.lindahl,367.0,324.0,277.0,19.0,28:57:25,104245,False,a,
+654,Lars JONSSON,SE,30,H,20-34M,Landsbro IF,https://utmb.world/runner/6974985.lars.jonsson,,325.0,278.0,41.0,29:14:56,105296,False,a,
+606,Sylvain LALLEMAND,FR,43,H,40-44M,Hello la team!,https://utmb.world/runner/2526427.sylvain.lallemand,374.0,326.0,279.0,58.0,29:25:23,105923,False,a,
+577,Gunilla KIDMARK,SE,54,F,50-54W,Trailrunning Sweden,https://utmb.world/runner/492369.gunilla.kidmark,391.0,327.0,48.0,14.0,29:31:53,106313,False,a,
+447,Nina EIBRING,SE,53,F,50-54W,Running Solo,https://utmb.world/runner/1057231.nina.eibring,437.0,327.0,48.0,14.0,29:31:53,106313,False,a,
+596,Anna ANDRÉASSON,SE,39,F,35-39W,,https://utmb.world/runner/4823908.anna.andreasson,383.0,329.0,50.0,3.0,29:32:01,106321,False,a,
+597,Henrik ELDHOLM,SE,46,H,45-49M,Svenljunga IK Trail,https://utmb.world/runner/3378367.henrik.eldholm,382.0,330.0,280.0,59.0,29:32:17,106337,False,a,
+52,Björn PERSSON,SE,39,H,35-39M,Tidaholms SOK Sisu,https://utmb.world/runner/1858663.bjorn.persson,620.0,331.0,281.0,50.0,17:51:07,64267,False,a,
+59,Jan NILSSON,SE,50,H,50-54M,Lödde Tri,https://utmb.world/runner/4301500.jan.nilsson,611.0,332.0,282.0,45.0,18:00:06,64806,False,a,
+691,Tony PETTERSSON,SE,46,H,45-49M,Strängnäs Löparklubb,https://utmb.world/runner/5479462.tony.pettersson,,333.0,283.0,60.0,18:03:01,64981,False,a,
+106,Ali HAJDAREVIC,SE,35,H,35-39M,,https://utmb.world/runner/4379202.ali.hajdarevic,567.0,334.0,284.0,51.0,18:39:26,67166,False,a,
+244,Claes ROGIUS SVENSSON,SE,34,H,20-34M,,https://utmb.world/runner/6460490.claes.rogiussvensson,505.0,335.0,285.0,42.0,19:59:24,71815,False,a,
+197,Mattias ERIKSSON,SE,42,H,40-44M,,https://utmb.world/runner/2986875.mattias.eriksson,523.0,336.0,286.0,59.0,20:02:10,72130,False,a,
+261,Kalle ANDERSSON,SE,31,H,20-34M,IrunTeam,https://utmb.world/runner/4201085.kalle.andersson,501.0,337.0,287.0,43.0,21:24:48,77088,False,a,
+325,Pontus SAVOLAINEN,SE,32,H,20-34M,Trail and Error,https://utmb.world/runner/5120068.pontus.savolainen,480.0,338.0,288.0,44.0,22:14:55,80095,False,a,
+320,Jesper HEDAR,SE,27,H,20-34M,,https://utmb.world/runner/6460578.jesper.hedar,481.0,339.0,289.0,45.0,22:57:31,82651,False,a,
+707,Tony RASMUSSON,SE,40,H,40-44M,,https://utmb.world/runner/3585631.tony.rasmusson,,340.0,290.0,60.0,24:04:44,86684,False,a,
+730,Dan LANGELOTZ,SE,51,H,50-54M,Dan,https://utmb.world/runner/4301464.dan.langelotz,,341.0,291.0,46.0,24:22:38,87758,False,a,
+546,Ronja MELLA,SE,45,F,45-49W,,https://utmb.world/runner/5480018.ronja.mella,402.0,342.0,51.0,11.0,24:24:41,87881,False,a,
+649,Didrik BIRKEMALM,SE,34,H,20-34M,,https://utmb.world/runner/4682290.didrik.birkemalm,,343.0,292.0,46.0,24:30:43,88243,False,a,
+767,Fredrik LARSSON,SE,36,H,35-39M,,https://utmb.world/runner/6770747.fredrik.larsson,,344.0,293.0,52.0,24:30:45,88245,False,a,
+651,Alexander POSSE,SE,35,H,35-39M,-,https://utmb.world/runner/5825271.alexander.posse,,345.0,294.0,53.0,24:30:48,88248,False,a,
+505,Lari TUOMINEN,FI,42,H,40-44M,Heltri,https://utmb.world/runner/6351074.lari.tuominen,418.0,346.0,295.0,61.0,24:32:44,88364,False,a,
+601,Julian BUNKE,DE,36,H,35-39M,,https://utmb.world/runner/4972490.julian.bunke,379.0,347.0,296.0,54.0,24:39:25,88765,False,a,
+581,Anna TRANKELL,SE,50,F,50-54W,,https://utmb.world/runner/4682578.anna.trankell,388.0,348.0,52.0,16.0,25:21:46,91306,False,a,
+742,Marie-Louise WIMMERSTEDT,SE,56,F,55-59W,,https://utmb.world/runner/5742059.marielouise.wimmerstedt,,349.0,53.0,5.0,25:21:53,91313,False,a,
+451,Malin ÅBERG,SE,36,F,35-39W,TeamFikaRunningClub,https://utmb.world/runner/5974788.malin.aberg,437.0,350.0,54.0,4.0,26:02:03,93723,False,a,
+801,Elov OLSSON,SE,36,H,35-39M,Ockelbo SK / Craft,https://utmb.world/runner/422972.elov.olsson,809.0,351.0,297.0,55.0,12:07:59,43679,False,a,
+55,Mikael ÖHMAN,SE,45,H,45-49M,Salomon Sverige / Wisby Ultralöparförening,https://utmb.world/runner/1036283.mikael.ohman,618.0,352.0,298.0,61.0,12:53:04,46384,False,a,
+40,Patrik SODERGREN,SE,43,H,40-44M,Nacka Värmdö SK,https://utmb.world/runner/3342247.patrik.sodergren,632.0,353.0,299.0,62.0,13:31:32,48692,False,a,
+79,Koen DE KORT,NL,43,H,40-44M,,https://utmb.world/runner/5742209.koen.dekort,589.0,354.0,300.0,63.0,13:36:49,49002,False,a,
+133,Filip SOEDERLING,SE,37,H,35-39M,,https://utmb.world/runner/5029366.filip.soederling,550.0,355.0,301.0,56.0,14:33:29,52409,False,a,
+50,Vilhelm BERG MALMBORG,SE,40,H,40-44M,Björnstorps IF,https://utmb.world/runner/6241534.vilhelm.bergmalmborg,621.0,356.0,302.0,64.0,14:47:11,53231,False,a,
+14,Per-Adam JAGERSTROM,SE,39,H,35-39M,Hälle IF,https://utmb.world/runner/5118886.peradam.jagerstrom,696.0,357.0,303.0,57.0,15:13:02,54774,False,a,
+86,Björn WALLBERG,SE,44,H,40-44M,,https://utmb.world/runner/3394629.bjorn.wallberg,583.0,358.0,304.0,65.0,15:19:21,55161,False,a,
+653,Lukas PETERSSON,SE,36,H,35-39M,Irunteam,https://utmb.world/runner/6770613.lukas.petersson,,359.0,305.0,58.0,15:22:49,55369,False,a,
+332,Martin KEDÉN,SE,38,H,35-39M,30Ksport.se,https://utmb.world/runner/3377681.martin.keden,477.0,360.0,306.0,59.0,15:32:46,54439,False,a,
+56,Magnus BERG,SE,43,H,40-44M,Umeå,https://utmb.world/runner/5295850.magnus.berg,617.0,361.0,307.0,66.0,15:37:55,52522,False,a,
+278,Jesper VALBAK,DK,48,H,45-49M,Wayout,https://utmb.world/runner/4141425.jesper.valbak,495.0,362.0,308.0,62.0,16:40:46,60046,False,a,
+105,Malin RAMNE,SE,29,F,20-34W,OK Skogsvargarna,https://utmb.world/runner/4193632.malin.ramne,568.0,363.0,55.0,8.0,16:40:57,57893,False,a,
+216,Stefan NORLIN,SE,55,H,55-59M,Trailrun4fun,https://utmb.world/runner/4201789.stefan.norlin,512.0,364.0,309.0,20.0,16:47:19,60439,False,a,
+648,Viktor JOHANSSON,SE,36,H,35-39M,Åmål Ultras,https://utmb.world/runner/5975682.viktor.johansson,281.0,365.0,310.0,60.0,16:55:42,60920,False,a,
+33,Johan VALLON CHRISTERSSON,SE,52,H,50-54M,IF Malmö Löp,https://utmb.world/runner/676169.johan.vallonchristersson,647.0,366.0,311.0,47.0,16:57:44,56469,False,a,
+316,Matthew GRIFFITHS,GB,35,H,35-39M,Helsingør Ultra Running Team,https://utmb.world/runner/4571756.matthew.griffiths,496.0,367.0,312.0,61.0,17:17:56,62266,False,a,
+47,Benjamin HOLST KJELDSEN,DK,51,H,50-54M,Klub 100 Marathon Danmark,https://utmb.world/runner/1189989.benjamin.holstkjeldsen,627.0,368.0,313.0,48.0,17:26:31,54546,False,a,
+737,Sofia ATTELIND,SE,48,F,45-49W,UltraUppsala,https://utmb.world/runner/692070.sofia.attelind,,369.0,56.0,12.0,17:31:40,61056,False,a,
+127,Peter Rask MØLLER,DK,56,H,55-59M,Sparta,https://utmb.world/runner/4301443.peterrask.moller,555.0,370.0,314.0,21.0,17:43:45,63494,False,a,
+466,Adam PETTERSSON,SE,38,H,35-39M,Munktorp,https://utmb.world/runner/5479270.adam.pettersson,431.0,371.0,315.0,62.0,17:48:30,64110,False,a,
+802,Roland LJUNGH,SE,49,H,45-49M,Järfälla Triathlon,https://utmb.world/runner/5815033.roland.ljungh,564.0,372.0,316.0,63.0,18:17:01,64717,False,a,
+100,Bjørnar GUNDERSEN,NO,34,H,20-34M,,https://utmb.world/runner/532470.bjornar.gundersen,570.0,373.0,317.0,47.0,18:33:10,66790,False,a,
+386,Maria ELIASSON,SE,49,F,45-49W,TTGU IF,https://utmb.world/runner/2110931.maria.eliasson,459.0,374.0,57.0,13.0,18:39:32,63939,False,a,
+357,Anna-Karin HAMMAR,SE,52,F,50-54W,TTGU if,https://utmb.world/runner/2111005.annakarin.hammar,467.0,375.0,58.0,17.0,18:39:56,63935,False,a,
+457,Fredrik EKMAN,SE,41,H,40-44M,,https://utmb.world/runner/2210949.fredrik.ekman,436.0,376.0,318.0,67.0,18:40:26,67226,False,a,
+262,Patrik JONASSON,SE,50,H,50-54M,Trailrunning Sweden Linköping/Vreta Kloster,https://utmb.world/runner/4201786.patrik.jonasson,501.0,377.0,319.0,49.0,18:43:51,67431,False,a,
+665,Carl STENSTRÖM,SE,35,H,35-39M,,https://utmb.world/runner/5565455.carl.stenstrom,,378.0,320.0,63.0,18:50:10,62835,False,a,
+721,Christoffer STENSTRÖM,SE,38,H,35-39M,,https://utmb.world/runner/3585603.christoffer.stenstrom,,379.0,321.0,64.0,18:55:27,68127,False,a,
+437,Björn SKÅRMAN,SE,55,H,55-59M,IS Kullen,https://utmb.world/runner/5075975.bjorn.skarman,441.0,380.0,322.0,22.0,18:57:44,68242,False,a,
+326,Tim HELMESJÖ,SE,41,H,40-44M,,https://utmb.world/runner/3934431.tim.helmesjo,479.0,381.0,323.0,68.0,18:59:44,66089,False,a,
+83,Thomas BECK,DK,49,H,45-49M,Sonny soufflé chok Trail Club,https://utmb.world/runner/3156701.thomas.beck,584.0,382.0,324.0,64.0,19:01:57,55241,False,a,
+525,Marcus LEKBERG,SE,26,H,20-34M,Team zombie,https://utmb.world/runner/5938355.marcus.lekberg,410.0,383.0,325.0,48.0,19:02:41,68561,False,a,
+473,Bo NILSSON,SE,68,H,65-69M,Högby if,https://utmb.world/runner/1036509.bo.nilsson,428.0,384.0,326.0,2.0,19:04:27,68487,False,a,
+484,Rasmus SØRENSEN,DK,40,H,40-44M,,https://utmb.world/runner/1861447.rasmus.sorensen,426.0,385.0,327.0,69.0,19:15:43,69343,False,a,
+706,Lukas LARSSON,SE,35,H,35-39M,,https://utmb.world/runner/5136083.lukas.larsson,,386.0,328.0,65.0,19:22:09,69729,False,a,
+173,Peter JENSEN,DK,33,H,20-34M,,https://utmb.world/runner/6599364.peter.jensen,534.0,387.0,329.0,49.0,19:40:28,62038,False,a,
+255,Fernando BERNARDINO,PT,50,H,50-54M,,https://utmb.world/runner/392967.fernando.bernardino,502.0,388.0,330.0,50.0,19:49:03,71343,False,a,
+387,Tommy AVEKVIST,SE,56,H,55-59M,Ok Skogsvargarna,https://utmb.world/runner/4681808.tommy.avekvist,458.0,389.0,331.0,23.0,19:49:43,66976,False,a,
+281,Charlotte LA FLEUR,SE,41,F,40-44W,,https://utmb.world/runner/4106826.charlotte.lafleur,493.0,390.0,59.0,12.0,19:50:47,60733,False,a,
+271,Sylvain COURTEL,FR,39,H,35-39M,,https://utmb.world/runner/127651.sylvain.courtel,497.0,391.0,332.0,66.0,19:54:16,71656,False,a,
+78,Gisle NJAASTAD,NO,52,H,50-54M,,https://utmb.world/runner/4016020.gisle.njaastad,593.0,392.0,333.0,51.0,19:54:27,69679,False,a,
+333,Anders ROSÉN,SE,56,H,55-59M,Stenungsundslöparna,https://utmb.world/runner/1619785.anders.rosen,476.0,393.0,334.0,24.0,20:01:54,72114,False,a,
+423,Morgan JOHANSSON,SE,51,H,50-54M,338 Småland Multisport&Triathlon,https://utmb.world/runner/4823420.morgan.johansson,446.0,394.0,335.0,52.0,20:03:23,70609,False,a,
+449,Daniel CRONFALK,SE,50,H,50-54M,,https://utmb.world/runner/1634849.daniel.cronfalk,435.0,395.0,336.0,53.0,20:14:01,72841,False,a,
+441,Johnny SVENSSON,SE,52,H,50-54M,Dark Trail Runners,https://utmb.world/runner/4000313.johnny.svensson,438.0,396.0,337.0,54.0,20:16:30,72225,False,a,
+624,Elias NILSSON,SE,28,H,20-34M,,https://utmb.world/runner/6770707.elias.nilsson,362.0,397.0,338.0,50.0,20:19:29,69034,False,a,
+587,Majed SAFAEE,SE,43,H,40-44M,Sollefteå,https://utmb.world/runner/4682206.majed.safaee,385.0,398.0,339.0,70.0,20:41:38,74498,False,a,
+178,Biao LI,CN,45,H,45-49M,KLiK,https://utmb.world/runner/6498219.biao.li,533.0,399.0,340.0,65.0,20:45:40,74732,False,a,
+716,Anton TORNEREFELT,SE,30,H,20-34M,Race & Shine,https://utmb.world/runner/6770713.anton.tornerefelt,,400.0,341.0,51.0,20:48:13,62340,False,a,
+218,Aramis SASINKA,SE,52,H,50-54M,URCG,https://utmb.world/runner/626443.aramis.sasinka,516.0,401.0,342.0,55.0,20:48:36,74453,False,a,
+657,Michael NYAME,DK,36,H,35-39M,,https://utmb.world/runner/6770737.michael.nyame,,402.0,343.0,67.0,20:49:49,72105,False,a,
+70,Claes RYDBERG,SE,48,H,45-49M,TTGU,https://utmb.world/runner/3188083.claes.rydberg,601.0,403.0,344.0,66.0,20:49:54,52649,False,a,
+592,Nicklas STARKEL,SE,48,H,45-49M,No DNF,https://utmb.world/runner/5742067.nicklas.starkel,383.0,404.0,345.0,67.0,20:54:47,75287,False,a,
+625,Daniel STRAND,SE,49,H,45-49M,,https://utmb.world/runner/4528576.daniel.strand,362.0,405.0,346.0,68.0,20:57:13,75433,False,a,
+221,Aaron MONTGOMERY,AU,49,H,45-49M,Newry AC,https://utmb.world/runner/829298.aaron.montgomery,512.0,406.0,347.0,69.0,21:06:04,75559,False,a,
+611,Tracey MONTGOMERY,IE,51,F,50-54W,,https://utmb.world/runner/5139503.tracey.montgomery,369.0,406.0,60.0,18.0,21:06:04,75556,False,a,
+751,Fredrik SJÖHOLM,SE,42,H,40-44M,,https://utmb.world/runner/2271423.fredrik.sjoholm,,408.0,348.0,71.0,21:19:17,76757,False,a,
+486,Jens BOMANSON,FI,37,H,35-39M,,https://utmb.world/runner/5479534.jens.bomanson,425.0,409.0,349.0,68.0,21:22:56,76976,False,a,
+295,Linda WRIGHT,SE,45,F,45-49W,Knivsta CK Triathlon,https://utmb.world/runner/1630529.linda.wright,489.0,410.0,61.0,14.0,21:43:37,71062,False,a,
+511,Veronica STRANDH,SE,43,F,40-44W,,https://utmb.world/runner/696301.veronica.strandh,417.0,411.0,62.0,13.0,21:46:36,78385,False,a,
+272,Robert BERNTSSON,SE,57,H,55-59M,Umara Sports Club,https://utmb.world/runner/4186319.robert.berntsson,494.0,412.0,350.0,25.0,21:55:42,69595,False,a,
+727,Simon UNGA,SE,37,H,35-39M,,https://utmb.world/runner/6770671.simon.unga,,413.0,351.0,69.0,21:57:04,78244,False,a,
+735,Tom FORSBERG,SE,27,H,20-34M,Team Zombie,https://utmb.world/runner/2271459.tom.forsberg,,414.0,352.0,52.0,22:09:48,68561,False,a,
+700,Lars PERSSON,SE,54,H,50-54M,Falkenberg/Onsala,https://utmb.world/runner/4548404.lars.persson,,415.0,353.0,56.0,22:19:12,79093,False,a,
+493,Jenny ERIKSSON,SE,52,F,50-54W,,https://utmb.world/runner/4193458.jenny.eriksson,422.0,416.0,63.0,19.0,22:34:55,78953,False,a,
+393,Michel ANDRÉ,SE,54,H,50-54M,,https://utmb.world/runner/4253341.michel.andre,456.0,417.0,354.0,57.0,22:47:24,80296,False,a,
+766,Michael LEIJON,SE,42,H,40-44M,,https://utmb.world/runner/6770789.michael.leijon,,418.0,355.0,72.0,23:03:15,78399,False,a,
+637,Helene BENGTSSON,SE,51,F,50-54W,,https://utmb.world/runner/4682314.helene.bengtsson,348.0,419.0,64.0,20.0,23:05:41,83141,False,a,
+396,Erik DORE,SE,45,H,45-49M,,https://utmb.world/runner/691508.erik.dore,456.0,419.0,356.0,70.0,23:05:41,83141,False,a,
+583,Tom RINGLSTETTER,DE,20,H,20-34M,,https://utmb.world/runner/6770827.tom.ringlstetter,388.0,421.0,357.0,53.0,23:12:58,80561,False,a,
+747,Mikael ANDERSSON,SE,31,H,20-34M,,https://utmb.world/runner/5071775.mikael.andersson,,422.0,358.0,54.0,23:35:48,79336,False,a,
+555,Louise OLOW,SE,46,F,45-49W,,https://utmb.world/runner/1858251.louise.olow,397.0,423.0,65.0,15.0,24:36:54,71003,False,a,
+599,Jan-Anders EKELUND,SE,63,H,60-64M,Varbergs ultralöpare,https://utmb.world/runner/5479572.jananders.ekelund,380.0,424.0,359.0,9.0,24:56:14,73290,False,a,
+1,Tobias Dahl FENRE,NO,39,H,35-39M,Hoka,https://utmb.world/runner/3282377.tobiasdahl.fenre,860.0,425.0,360.0,70.0,07:20:50,26450,False,a,
+26,Johanna BYGDELL,SE,43,F,40-44W,Craft Run Team,https://utmb.world/runner/665723.johanna.bygdell,658.0,426.0,66.0,14.0,09:09:46,32986,False,a,
+19,Thomas SNABB,SE,40,H,40-44M,BIM Body In Motion,https://utmb.world/runner/2257727.thomas.snabb,674.0,427.0,361.0,73.0,09:23:16,33796,False,a,
+117,Mats JOHANNESSON,SE,47,H,45-49M,DPONLY Skiclub,https://utmb.world/runner/4121595.mats.johannesson,562.0,428.0,362.0,71.0,09:46:36,35196,False,a,
+36,Jonas LINDELL,FI,39,H,35-39M,Team MyMAX,https://utmb.world/runner/1429211.jonas.lindell,643.0,429.0,363.0,71.0,09:59:52,35992,False,a,
+95,Matteo ROSSI,IT,47,H,45-49M,Genarps IF,https://utmb.world/runner/1559861.matteo.rossi,574.0,430.0,364.0,72.0,10:13:51,36831,False,a,
+236,Jonas PETTERSEN,NO,26,H,20-34M,SLSF,https://utmb.world/runner/5801949.jonas.pettersen,507.0,431.0,365.0,55.0,10:15:31,36931,False,a,
+177,Fredrik ANUNDSSON,SE,46,H,45-49M,,https://utmb.world/runner/2292477.fredrik.anundsson,533.0,432.0,366.0,73.0,10:33:42,38022,False,a,
+293,Markus Midtlyng PETTERSEN,NO,29,H,20-34M,SLSF,https://utmb.world/runner/5801945.markusmidtlyng.pettersen,489.0,433.0,367.0,56.0,10:52:55,39175,False,a,
+256,Fredrik TYRBERG,SE,47,H,45-49M,Wickström Coaching IF,https://utmb.world/runner/4681580.fredrik.tyrberg,502.0,434.0,368.0,74.0,10:53:17,39197,False,a,
+658,Simon HELLBE,SE,36,H,35-39M,Scania Road Runners,https://utmb.world/runner/1960301.simon.hellbe,,435.0,369.0,72.0,11:33:50,41630,False,a,
+223,Corentin LE MELINER,FR,31,H,20-34M,,https://utmb.world/runner/5449518.corentin.lemeliner,514.0,436.0,370.0,57.0,11:41:30,42090,False,a,
+438,Thomas ILLIMINSKY,SE,40,H,40-44M,Team nordic trail Norrtälje,https://utmb.world/runner/5484518.thomas.illiminsky,439.0,437.0,371.0,74.0,11:43:05,42185,False,a,
+338,Olli HEISKANEN,FI,35,H,35-39M,,https://utmb.world/runner/4583134.olli.heiskanen,474.0,438.0,372.0,73.0,12:02:34,43354,False,a,
+153,Dennis PEDERSEN,DK,44,H,40-44M,,https://utmb.world/runner/5028764.dennis.pedersen,541.0,439.0,373.0,75.0,12:06:21,43581,False,a,
+182,Lars ROOS,SE,49,H,45-49M,Kyrkoby Ultra runners,https://utmb.world/runner/1209561.lars.roos,532.0,440.0,374.0,75.0,12:07:53,43673,False,a,
+732,Anders HOLGERSSON,SE,56,H,55-59M,,https://utmb.world/runner/691554.anders.holgersson,,441.0,375.0,26.0,12:10:56,43856,False,a,
+179,Linnéa BÄCKSTRÖM,SE,50,F,50-54W,FK Herkules,https://utmb.world/runner/574260.linnea.backstrom,532.0,442.0,67.0,21.0,12:20:27,44427,False,a,
+776,Mattias KARLSSON,SE,47,H,45-49M,,https://utmb.world/runner/4379174.mattias.karlsson,,443.0,376.0,76.0,12:30:44,45044,False,a,
+363,Justin HARBS,DE,31,H,20-34M,GG Run Club,https://utmb.world/runner/4416430.justin.harbs,465.0,444.0,377.0,58.0,12:31:02,45062,False,a,
+719,Axel CAMITZ,SE,30,H,20-34M,,https://utmb.world/runner/4416408.axel.camitz,,445.0,378.0,59.0,12:38:24,45504,False,a,
+462,Anton LINDBERG,SE,33,H,20-34M,,https://utmb.world/runner/5479420.anton.lindberg,433.0,446.0,379.0,60.0,12:40:57,45657,False,a,
+204,Ammar HALILOVIC,SE,29,H,20-34M,Keep Showing Up,https://utmb.world/runner/5075987.ammar.halilovic,520.0,447.0,380.0,61.0,12:47:08,46028,False,a,
+542,Maarten DE VRIES,NL,42,H,40-44M,,https://utmb.world/runner/5648290.maarten.devries,404.0,448.0,381.0,76.0,12:50:05,46205,False,a,
+610,Håkan LANZ,SE,41,H,40-44M,Håkan,https://utmb.world/runner/804097.hakan.lanz,371.0,449.0,382.0,77.0,12:51:31,46291,False,a,
+279,Phil SCHUBERT,DE,35,H,35-39M,NOMADS,https://utmb.world/runner/5068699.phil.schubert,501.0,450.0,383.0,74.0,12:55:44,46544,False,a,
+773,Philip SANDWALL,SE,38,H,35-39M,UKG United,https://utmb.world/runner/6770717.philip.sandwall,,451.0,384.0,75.0,12:59:10,46750,False,a,
+788,Christian STRÖM,SE,41,H,40-44M,Bandithagen Speed Demons,https://utmb.world/runner/6770665.christian.strom,,451.0,384.0,78.0,12:59:10,46750,False,a,
+528,Grégoire GAUTIER,FR,24,H,20-34M,,https://utmb.world/runner/6313834.gregoire.gautier,410.0,453.0,386.0,62.0,12:59:37,46777,False,a,
+135,Hugo MÖLLER,FR,35,H,35-39M,Extreme Hémato SAT,https://utmb.world/runner/1917055.hugo.moller,550.0,454.0,387.0,76.0,12:59:57,46797,False,a,
+224,Anders NILSSON,SE,40,H,40-44M,Gråmanstorp runners,https://utmb.world/runner/5062677.anders.nilsson,514.0,455.0,388.0,79.0,13:02:38,46958,False,a,
+317,Emil ROMMER,SE,20,H,20-34M,Team Granåsa,https://utmb.world/runner/4824164.emil.rommer,482.0,456.0,389.0,63.0,13:10:56,47456,False,a,
+344,Susanna RIMAN,SE,48,F,45-49W,BESC,https://utmb.world/runner/1243029.susanna.riman,472.0,457.0,68.0,16.0,13:13:40,47620,False,a,
+598,Jona EKSTRÖM,SE,50,H,50-54M,Tjalve,https://utmb.world/runner/5815067.jona.ekstrom,382.0,458.0,390.0,58.0,13:15:55,47755,False,a,
+785,Lasse BAY,DK,41,H,40-44M,,https://utmb.world/runner/6048127.lasse.bay,,459.0,391.0,80.0,13:17:32,47852,False,a,
+354,Andreas WIKSTRAND,SE,52,H,50-54M,UMARA SPORTS CLUB,https://utmb.world/runner/3609443.andreas.wikstrand,468.0,460.0,392.0,59.0,13:17:56,47876,False,a,
+443,Henrik ÅHLUND,SE,35,H,35-39M,Team Rookiis,https://utmb.world/runner/7107234.henrik.ahlund,471.0,461.0,393.0,77.0,13:22:35,48155,False,a,
+427,Thomas CROISIER,FR,51,H,50-54M,,https://utmb.world/runner/1037361.thomas.croisier,444.0,462.0,394.0,60.0,13:27:43,48455,False,a,
+632,Henrik LYSEMARK,SE,55,H,55-59M,Team Mamil,https://utmb.world/runner/691555.henrik.lysemark,358.0,463.0,395.0,27.0,13:35:01,48901,False,a,
+692,Sara RAIS,SE,38,F,35-39W,Tjust bike & runningclub,https://utmb.world/runner/4201793.sara.rais,,464.0,69.0,5.0,13:36:00,48960,False,a,
+312,Pontus RUTGERSSON,SE,32,H,20-34M,POPE RUNNING CLUB,https://utmb.world/runner/5504815.pontus.rutgersson,483.0,465.0,396.0,64.0,13:41:01,45749,False,a,
+571,Anna ORNELL,SE,44,F,40-44W,,https://utmb.world/runner/4200838.anna.ornell,392.0,466.0,70.0,15.0,13:49:49,49789,False,a,
+534,Lars KRONFÄLT,SE,48,H,45-49M,Scania Road Runners,https://utmb.world/runner/2986885.lars.kronfalt,408.0,467.0,397.0,77.0,13:51:42,49743,False,a,
+685,Magnus ANDERSSON,SE,46,H,45-49M,,https://utmb.world/runner/6770851.magnus.andersson,,468.0,398.0,78.0,13:52:40,49955,False,a,
+631,Sebastian BRANDT,SE,48,H,45-49M,Sebrafast AB,https://utmb.world/runner/5667724.sebastian.brandt,358.0,469.0,399.0,79.0,13:55:29,50129,False,a,
+485,Alex MATHAE MOLINA,SE,28,H,20-34M,,https://utmb.world/runner/6770675.alex.mathaemolina,425.0,470.0,400.0,65.0,13:57:27,50247,False,a,
+539,Emil GUSTAFSSON,SE,32,H,20-34M,Träningsgruppen Sandviken,https://utmb.world/runner/6460824.emil.gustafsson,407.0,471.0,401.0,66.0,13:59:39,50379,False,a,
+350,Markus LINDSJÖ,SE,51,H,50-54M,IRunTeam,https://utmb.world/runner/5742193.markus.lindsjo,469.0,472.0,402.0,61.0,14:02:59,50579,False,a,
+247,Christian MIETZNER,DE,55,H,55-59M,Lofoten Løpeklubb,https://utmb.world/runner/4265992.christian.mietzner,504.0,473.0,403.0,28.0,14:17:59,51479,False,a,
+696,Paula MIETZNER,DE,22,F,20-34W,Lofoten Løpeklubb,https://utmb.world/runner/6770759.paula.mietzner,,474.0,71.0,9.0,14:18:00,51480,False,a,
+514,Karin ÖSTBERG,SE,46,F,45-49W,,https://utmb.world/runner/2272301.karin.ostberg,414.0,475.0,72.0,17.0,14:20:09,51609,False,a,
+510,Nick FROST,DK,35,H,35-39M,IS Göta,https://utmb.world/runner/4823850.nick.frost,417.0,476.0,404.0,78.0,14:22:00,51720,False,a,
+768,Sebastian LÖFQUIST,SE,36,H,35-39M,,https://utmb.world/runner/5100472.sebastian.lofquist,,477.0,405.0,79.0,14:23:04,51784,False,a,
+774,Markus NORDQVIST,SE,37,H,35-39M,,https://utmb.world/runner/4710674.markus.nordqvist,,478.0,406.0,80.0,14:24:42,51882,False,a,
+428,Stuart MACDONALD,SE,43,H,40-44M,Stångby Runners,https://utmb.world/runner/2397779.stuart.macdonald,443.0,479.0,407.0,81.0,14:25:25,51925,False,a,
+683,Daniel OTTOSEN,SE,45,H,45-49M,Stångby Runners,https://utmb.world/runner/6770749.daniel.ottosen,,480.0,408.0,80.0,14:25:26,51926,False,a,
+543,Håkan SJUNNESSON,SE,55,H,55-59M,Bara Trajl,https://utmb.world/runner/861646.hakan.sjunnesson,403.0,481.0,409.0,29.0,14:27:34,52054,False,a,
+627,Rasmus DAM HOLDRUP,DK,37,H,35-39M,,https://utmb.world/runner/6651365.rasmus.damholdrup,361.0,482.0,410.0,81.0,14:33:43,52423,False,a,
+189,Mads DOLLERIS,DK,48,H,45-49M,Trail & Pandelygtesjov,https://utmb.world/runner/837242.mads.dolleris,527.0,483.0,411.0,81.0,14:36:03,52563,False,a,
+633,Margareta WILUND,SE,52,F,50-54W,,https://utmb.world/runner/4680012.margareta.wilund,356.0,484.0,73.0,22.0,14:41:09,52869,False,a,
+491,Anders ISAKSSON,SE,51,H,50-54M,,https://utmb.world/runner/3585569.anders.isaksson,422.0,485.0,412.0,62.0,14:42:53,52973,False,a,
+567,Catharina SÖRVING,SE,29,F,20-34W,Team Nordic Trail,https://utmb.world/runner/4682390.catharina.sorving,392.0,486.0,74.0,10.0,15:01:03,54063,False,a,
+628,Johan ASPLUND,SE,53,H,50-54M,Laholms OK,https://utmb.world/runner/5068663.johan.asplund,359.0,487.0,413.0,63.0,15:01:50,54110,False,a,
+613,Andrzej LOSOR,PL,50,H,50-54M,,https://utmb.world/runner/1964691.andrzej.losor,368.0,488.0,414.0,64.0,15:27:22,55642,False,a,
+586,Karolina ENGRUND,SE,43,F,40-44W,Åsarna IK,https://utmb.world/runner/6770629.karolina.engrund,385.0,489.0,75.0,16.0,15:28:10,55690,False,a,
+623,Pernilla HANSSON,SE,55,F,55-59W,,https://utmb.world/runner/4682480.pernilla.hansson,363.0,490.0,76.0,6.0,15:28:37,55717,False,a,
+605,Ingemar Inko PERÄ,SE,64,H,60-64M,Genarp IF,https://utmb.world/runner/3293847.ingemarinko.pera,375.0,491.0,415.0,10.0,15:46:12,56772,False,a,
+388,Pål ABRAHAMSSON,SE,57,H,55-59M,TrailrunningSweden,https://utmb.world/runner/4201875.pal.abrahamsson,460.0,492.0,416.0,30.0,15:54:59,57299,False,a,
+733,Nicolaj HØJER,SE,51,H,50-54M,Morgen Star,https://utmb.world/runner/6770621.nicolaj.hojer,,493.0,417.0,65.0,15:58:34,57514,False,a,
+754,Thomas MELÉN,SE,62,H,60-64M,,https://utmb.world/runner/532722.thomas.melen,,494.0,418.0,11.0,16:51:39,60699,False,a,
+705,Karl-Johan MELEN,SE,29,H,20-34M,,https://utmb.world/runner/5479538.karljohan.melen,,495.0,419.0,67.0,16:51:41,60701,False,a,
+499,Barbro JULIN,SE,63,F,60-64W,Ealing Southall & Middlesex AC,https://utmb.world/runner/4245776.barbro.julin,420.0,496.0,77.0,1.0,16:56:37,60997,False,a,
+711,Ossian ANDERSSON,SE,25,H,20-34M,,https://utmb.world/runner/6770709.ossian.andersson,,497.0,420.0,68.0,17:20:48,61948,False,a,
+516,Gunnar KARLSSON,SE,55,H,55-59M,,https://utmb.world/runner/5638406.gunnar.karlsson,413.0,497.0,420.0,31.0,17:20:48,61946,False,a,
+61,Cédric QUENARDEL,FR,30,H,20-34M,,https://utmb.world/runner/4863589.cedric.quenardel,609.0,499.0,422.0,69.0,18:17:26,54501,False,a,
+568,Monica JOHANSSON,SE,46,F,45-49W,Jernbrukets Ultrs,https://utmb.world/runner/1858289.monica.johansson,392.0,500.0,78.0,18.0,18:21:19,66073,False,a,
+16,Oscar ISAKSSON,SE,36,H,35-39M,Irunteam,https://utmb.world/runner/4301448.oscar.isaksson,678.0,501.0,423.0,82.0,06:35:58,23758,False,a,
+803,Maria SAXVALL,SE,43,F,40-44W,Torsångs IF,https://utmb.world/runner/1630619.maria.saxvall,639.0,502.0,79.0,17.0,06:47:44,24464,False,a,
+800,Oskar SVÄRD,SE,49,H,45-49M,SC Sports Club,https://utmb.world/runner/3277761.oskar.svard,639.0,503.0,424.0,82.0,07:04:54,25494,False,a,
+251,Espen SKAUFEL,NO,43,H,40-44M,No team,https://utmb.world/runner/532550.espen.skaufel,503.0,504.0,425.0,82.0,07:21:20,26480,False,a,
+41,Emelie EKLÖF,SE,42,F,40-44W,Lunds OK,https://utmb.world/runner/4135487.emelie.eklof,632.0,505.0,80.0,18.0,07:24:08,26648,False,a,
+99,Martin KOLSTAD,NO,34,H,20-34M,,https://utmb.world/runner/3256331.martin.kolstad,570.0,506.0,426.0,70.0,08:13:00,29580,False,a,
+107,Carlos RIVAS,ES,36,H,35-39M,Km de entrenamiento,https://utmb.world/runner/5530399.carlos.rivas,569.0,507.0,427.0,83.0,08:23:01,30181,False,a,
+394,Nicklas LINDQVIST,SE,49,H,45-49M,,https://utmb.world/runner/3377935.nicklas.lindqvist,456.0,508.0,428.0,83.0,08:26:01,30361,False,a,
+28,Valentin TABOR,DK,46,H,45-49M,Ik Hellas,https://utmb.world/runner/5173943.valentin.tabor,657.0,509.0,429.0,84.0,08:31:58,30718,False,a,
+239,Manuel CELOIU,FR,51,H,50-54M,,https://utmb.world/runner/480703.manuel.celoiu,507.0,510.0,430.0,66.0,08:49:33,31683,False,a,
+241,Erwin ROTH,AT,51,H,50-54M,Koralm Trailrunning Club,https://utmb.world/runner/2969337.erwin.roth,506.0,511.0,431.0,67.0,08:56:43,32203,False,a,
+267,Nils HAMMARLUND,SE,21,H,20-34M,,https://utmb.world/runner/5119204.nils.hammarlund,499.0,512.0,432.0,71.0,08:56:44,32204,False,a,
+186,Ingo KRUCK,DE,55,H,55-59M,THRUELEMENTS.COM,https://utmb.world/runner/5524124.ingo.kruck,530.0,513.0,433.0,32.0,09:00:37,32437,False,a,
+400,Anders AHLGREN,SE,63,H,60-64M,Umara Sports Club,https://utmb.world/runner/986679.anders.ahlgren,455.0,514.0,434.0,12.0,09:19:30,33570,False,a,
+283,Christopher BIRGER,SE,40,H,40-44M,Christopher,https://utmb.world/runner/2194173.christopher.birger,492.0,515.0,435.0,83.0,09:20:34,33634,False,a,
+229,Jonas HOLMBERG,SE,50,H,50-54M,,https://utmb.world/runner/5066165.jonas.holmberg,512.0,516.0,436.0,68.0,09:20:57,33657,False,a,
+424,Aurélien TACONNÉ,FR,30,H,20-34M,Esco Saint André,https://utmb.world/runner/6770783.aurelien.taconne,445.0,517.0,437.0,72.0,09:23:26,33806,False,a,
+260,Madeleine WAERMÖ,SE,40,F,40-44W,Oskarshamn RC,https://utmb.world/runner/6460510.madeleine.waermo,501.0,518.0,81.0,19.0,09:25:12,33912,False,a,
+231,Johan LILIEQUIST,SE,54,H,50-54M,Bydalen,https://utmb.world/runner/2269231.johan.liliequist,510.0,519.0,438.0,69.0,09:25:19,33919,False,a,
+87,Mads WARNECKE,DK,49,H,45-49M,,https://utmb.world/runner/5070729.mads.warnecke,583.0,520.0,439.0,85.0,09:27:29,34049,False,a,
+196,Guillaume BEVILLARD,FR,42,H,40-44M,,https://utmb.world/runner/3240241.guillaume.bevillard,524.0,521.0,440.0,84.0,09:30:57,31679,False,a,
+289,Ruben VLAANDER,NL,44,H,40-44M,,https://utmb.world/runner/317111.ruben.vlaander,490.0,522.0,441.0,85.0,09:41:40,34900,False,a,
+728,Annika WIGREN,SE,48,F,45-49W,Lunds OK,https://utmb.world/runner/4823040.annika.wigren,,523.0,82.0,19.0,09:42:40,34960,False,a,
+660,Patric LAGER,US,59,H,55-59M,,https://utmb.world/runner/4301462.patric.lager,,524.0,442.0,33.0,09:44:13,35053,False,a,
+517,Lukas SVENSSON,SE,29,H,20-34M,Dödsbastu veritas,https://utmb.world/runner/6461130.lukas.svensson,414.0,525.0,443.0,73.0,09:45:57,35157,False,a,
+488,Raymond SMITH,NO,46,H,45-49M,Skanska Aktiv / Mental helse Norge,https://utmb.world/runner/5227735.raymond.smith,423.0,526.0,444.0,86.0,09:47:28,35248,False,a,
+217,Kristian HEDENDAL,SE,45,H,45-49M,Team JKKT,https://utmb.world/runner/4934638.kristian.hedendal,516.0,527.0,445.0,87.0,09:47:34,35254,False,a,
+368,Kent ANDERSSON,SE,51,H,50-54M,JKKT,https://utmb.world/runner/5479376.kent.andersson,463.0,528.0,446.0,70.0,09:51:07,35467,False,a,
+310,Jennie STAHRE,SE,45,F,45-49W,Jkkt,https://utmb.world/runner/2272209.jennie.stahre,484.0,528.0,83.0,20.0,09:51:07,35467,False,a,
+252,Ola PETERSSON,SE,50,H,50-54M,Slättrunners,https://utmb.world/runner/1658643.ola.petersson,503.0,530.0,447.0,71.0,09:57:04,35824,False,a,
+402,Daniel TORNVALL,SE,37,H,35-39M,Savage Runners,https://utmb.world/runner/4823898.daniel.tornvall,454.0,531.0,448.0,84.0,09:58:45,35925,False,a,
+604,Oscar SKULLMAN,SE,23,H,20-34M,,https://utmb.world/runner/5801351.oscar.skullman,376.0,532.0,449.0,74.0,10:00:18,36018,False,a,
+564,Bo HÖGBERG,SE,36,H,35-39M,,https://utmb.world/runner/4528300.bo.hogberg,393.0,533.0,450.0,85.0,10:03:54,36234,False,a,
+669,Peter EDVIK,SE,52,H,50-54M,,https://utmb.world/runner/551640.peter.edvik,,534.0,451.0,72.0,10:04:53,36293,False,a,
+162,Stefan BOLLING,SE,52,H,50-54M,Vallentuna Friidrott,https://utmb.world/runner/5742237.stefan.bolling,538.0,535.0,452.0,73.0,10:06:28,36388,False,a,
+612,Julien LURTON,FR,24,H,20-34M,,https://utmb.world/runner/6314220.julien.lurton,369.0,536.0,453.0,75.0,10:11:23,36683,False,a,
+798,Olle ZETTERBERG,SE,25,H,20-34M,Träningsgruppen Sandviken,https://utmb.world/runner/6461544.olle.zetterberg,,537.0,454.0,76.0,10:12:42,36753,False,a,
+703,Niklas JONSSON,SE,43,H,40-44M,Broby GoIF,https://utmb.world/runner/6770801.niklas.jonsson,,538.0,455.0,86.0,10:13:14,36794,False,a,
+533,Mats HEDLUND,SE,41,H,40-44M,Team Snail,https://utmb.world/runner/4200848.mats.hedlund,408.0,539.0,456.0,87.0,10:16:40,37000,False,a,
+615,Joakim OHLANDER,SE,34,H,20-34M,,https://utmb.world/runner/6770703.joakim.ohlander,367.0,540.0,457.0,77.0,10:17:21,37041,False,a,
+294,Klas ALENLJUNG,SE,49,H,45-49M,,https://utmb.world/runner/4301530.klas.alenljung,488.0,541.0,458.0,88.0,10:29:50,37790,False,a,
+376,Nils NYBERG,SE,34,H,20-34M,,https://utmb.world/runner/5398427.nils.nyberg,461.0,542.0,459.0,78.0,10:31:41,37901,False,a,
+225,Joakim TUOVINEN,SE,40,H,40-44M,Stenungsundslöparna,https://utmb.world/runner/5742251.joakim.tuovinen,514.0,543.0,460.0,88.0,10:33:32,38012,False,a,
+149,Daniel SKJELHAUGEN,NO,31,H,20-34M,,https://utmb.world/runner/6113444.daniel.skjelhaugen,604.0,544.0,461.0,79.0,10:40:03,38403,False,a,
+434,Nicklas NORDBORG,SE,55,H,55-59M,,https://utmb.world/runner/3816149.nicklas.nordborg,442.0,545.0,462.0,34.0,10:41:00,38460,False,a,
+512,Johanna SVENSSON,SE,57,F,55-59W,Lonesome Runners,https://utmb.world/runner/3407253.johanna.svensson,416.0,546.0,84.0,7.0,10:51:09,39069,False,a,
+370,Madelene FELLÄNDER,SE,43,F,40-44W,Strängnäs Löparklubb,https://utmb.world/runner/5479160.madelene.fellander,462.0,547.0,85.0,20.0,10:51:11,39071,False,a,
+544,Sofia WALLTOFT,SE,47,F,45-49W,,https://utmb.world/runner/2292565.sofia.walltoft,401.0,548.0,86.0,21.0,10:51:59,39119,False,a,
+522,Mats NÄS,SE,50,H,50-54M,Näsblod,https://utmb.world/runner/4528488.mats.nas,413.0,549.0,463.0,74.0,10:57:44,39464,False,a,
+593,Fredrik KLAAR,SE,52,H,50-54M,,https://utmb.world/runner/5479768.fredrik.klaar,383.0,550.0,464.0,75.0,11:02:17,39737,False,a,
+210,Patrik ONNHEIM,SE,40,H,40-44M,Stångby Runners,https://utmb.world/runner/3985953.patrik.onnheim,519.0,551.0,465.0,89.0,11:10:25,40225,False,a,
+487,Marko AROTAIVAL,SE,57,H,55-59M,Mölnbo UMR,https://utmb.world/runner/691602.marko.arotaival,424.0,552.0,466.0,35.0,11:17:25,40645,False,a,
+521,Bart WISSINK,NL,43,H,40-44M,,https://utmb.world/runner/5078929.bart.wissink,412.0,553.0,467.0,90.0,11:25:09,41109,False,a,
+199,Yann BENZ,FR,53,H,50-54M,YanSolo,https://utmb.world/runner/4217636.yann.benz,520.0,554.0,468.0,76.0,11:30:33,41433,False,a,
+756,Daniel ELOWSSON,SE,41,H,40-44M,IK Granit,https://utmb.world/runner/7809827.daniel.elowsson,,555.0,469.0,91.0,11:35:44,41744,False,a,
+298,Uldis GALBĀLIŅŠ,LV,31,H,20-34M,Suiti,https://utmb.world/runner/5599293.uldis.galbalins,488.0,556.0,470.0,80.0,11:35:52,41752,False,a,
+580,Mikaela SVENSSON,SE,29,F,20-34W,,https://utmb.world/runner/5061875.mikaela.svensson,389.0,557.0,87.0,11.0,11:36:20,41780,False,a,
+672,Anonymous,AN,51,H,50-54M,,,,558.0,471.0,77.0,11:37:23,41843,False,a,
+407,Tommy SWING,SE,52,H,50-54M,If Linnéa,https://utmb.world/runner/5742129.tommy.swing,453.0,559.0,472.0,78.0,11:38:55,41935,False,a,
+636,Anna LARSSON,SE,43,F,40-44W,Hjorthagen Ultra,https://utmb.world/runner/4715900.anna.larsson,348.0,560.0,88.0,21.0,11:40:16,42016,False,a,
+557,Gregory BOURGARD,BE,41,H,40-44M,Leg's go Verviers,https://utmb.world/runner/1460663.gregory.bourgard,395.0,561.0,473.0,92.0,11:57:09,43029,False,a,
+524,Jacob DE LEUR,SE,53,H,50-54M,Ultrarunner.run,https://utmb.world/runner/5912895.jacob.deleur,409.0,562.0,474.0,79.0,12:00:20,43220,False,a,
+708,Malin ENGRUND,SE,52,F,50-54W,Kiruna,https://utmb.world/runner/6770619.malin.engrund,,563.0,89.0,23.0,12:06:25,43585,False,a,
+634,Per GUSTAVSSON,SE,60,H,60-64M,IF Hagen FIK,https://utmb.world/runner/6461200.per.gustavsson,356.0,564.0,475.0,13.0,12:16:00,44160,False,a,
+607,Erik GUSTAFSSON,SE,54,H,50-54M,Bröderna Nilssons,https://utmb.world/runner/1620099.erik.gustafsson,374.0,565.0,476.0,80.0,12:17:34,44254,False,a,
+664,Christian JOHANSSON,SE,49,H,45-49M,Helsingborgs SOK,https://utmb.world/runner/6770823.christian.johansson,,566.0,477.0,89.0,12:18:18,44298,False,a,
+797,James WRIGHT,GB,33,H,20-34M,,https://utmb.world/runner/3512915.james.wright,,567.0,478.0,81.0,12:27:13,44833,False,a,
+679,Jenny STENVALL,SE,50,F,50-54W,Strängnäs Löparklubb,https://utmb.world/runner/6770819.jenny.stenvall,,568.0,90.0,24.0,12:58:23,46703,False,a,
+704,Thai TRAN,DK,27,F,20-34W,,https://utmb.world/runner/6770813.thai.tran,,569.0,91.0,12.0,13:06:15,47175,False,a,
+744,Edwin EVANS,SE,25,H,20-34M,,https://utmb.world/runner/6770719.edwin.evans,,570.0,479.0,82.0,13:06:56,47216,False,a,
+638,Nicolas DEBLAY,FR,37,H,35-39M,,https://utmb.world/runner/6770723.nicolas.deblay,348.0,571.0,480.0,86.0,13:18:22,47902,False,a,
+4,William ENGLUND,SE,31,H,20-34M,Salomon Sverige,https://utmb.world/runner/2257665.william.englund,809.0,572.0,481.0,83.0,03:56:45,14205,False,a,
+11,Dennis KÄLLERTEG,SE,30,H,20-34M,Craft Run Team,https://utmb.world/runner/831586.dennis.kallerteg,726.0,573.0,482.0,84.0,04:18:38,15518,False,a,
+148,Petter LIND,SE,35,H,35-39M,Skogsluffarnas OK,https://utmb.world/runner/5071755.petter.lind,542.0,574.0,483.0,87.0,05:30:56,19856,False,a,
+174,Daniel BÅÅTH,SE,47,H,45-49M,,https://utmb.world/runner/1111089.daniel.baath,531.0,575.0,484.0,90.0,05:47:10,20830,False,a,
+230,Henrik PALMQUIST,SE,52,H,50-54M,Näsets Triathlon Klubb,https://utmb.world/runner/4253126.henrik.palmquist,510.0,576.0,485.0,81.0,05:54:02,21242,False,a,
+203,Ingvill FAUSKE,NO,47,F,45-49W,Risberget IL,https://utmb.world/runner/1454205.ingvill.fauske,520.0,577.0,92.0,22.0,06:04:34,21874,False,a,
+219,Lars RIMAN,SE,48,H,45-49M,Bohuslän Endurance Sports club,https://utmb.world/runner/5068549.lars.riman,516.0,578.0,486.0,91.0,06:30:39,23439,False,a,
+759,Thomas BERG TOLLUND,DK,40,H,40-44M,TNF - Team Not First,https://utmb.world/runner/6770727.thomas.bergtollund,,579.0,487.0,93.0,06:41:34,24094,False,a,
+355,Mårten NYGREN,SE,46,H,45-49M,Slättrunners,https://utmb.world/runner/936169.marten.nygren,468.0,580.0,488.0,92.0,06:42:02,24122,False,a,
+529,Sanna LUNDH,SE,43,F,40-44W,,https://utmb.world/runner/1355835.sanna.lundh,409.0,581.0,93.0,22.0,06:42:03,24123,False,a,
+504,Patrik HAMMAR,SE,56,H,55-59M,TTGU IF,https://utmb.world/runner/2111043.patrik.hammar,417.0,582.0,489.0,36.0,06:43:05,24185,False,a,
+552,Joakim JÖNSSON,SE,45,H,45-49M,OK Kontinent,https://utmb.world/runner/4824510.joakim.jonsson,399.0,583.0,490.0,93.0,06:44:54,24294,False,a,
+775,Emil BLIXT,SE,39,H,35-39M,,https://utmb.world/runner/6770767.emil.blixt,,584.0,491.0,88.0,06:45:26,24326,False,a,
+724,Rickard SJÖLANDER,SE,38,H,35-39M,MIND Triathlon Sports Club,https://utmb.world/runner/6770681.rickard.sjolander,,585.0,492.0,89.0,06:45:27,24327,False,a,
+395,Jonas ANDERSSON,SE,41,H,40-44M,,https://utmb.world/runner/5059165.jonas.andersson,456.0,586.0,493.0,94.0,06:48:05,24485,False,a,
+531,Katarina THORNGREN,SE,47,F,45-49W,,https://utmb.world/runner/4301567.katarina.thorngren,409.0,587.0,94.0,23.0,06:51:16,24676,False,a,
+690,Björn JANSSON,SE,52,H,50-54M,Väsby OK,https://utmb.world/runner/6770775.bjorn.jansson,,588.0,494.0,82.0,06:53:57,24837,False,a,
+322,Markus SPÅNGBERG,SE,49,H,45-49M,Roslagsbro IF,https://utmb.world/runner/665790.markus.spangberg,481.0,589.0,495.0,94.0,06:54:44,24884,False,a,
+765,Dennis Bengt Vincent WAHLQVIST,SE,31,H,20-34M,,https://utmb.world/runner/5751989.dennisbengtvincent.wahlqvist,,590.0,496.0,85.0,06:57:23,25043,False,a,
+425,Tilda ANELL,SE,26,F,20-34W,,https://utmb.world/runner/4548382.tilda.anell,445.0,591.0,95.0,13.0,06:57:40,25060,False,a,
+167,Knut Willy STEEN,NO,43,H,40-44M,Føkk Asfalt,https://utmb.world/runner/3977606.knutwilly.steen,536.0,592.0,497.0,95.0,06:58:59,25139,False,a,
+63,Alexander BAUSTAD,NO,40,H,40-44M,Sarpsborg IL,https://utmb.world/runner/3977607.alexander.baustad,607.0,593.0,498.0,96.0,06:59:06,25146,False,a,
+570,Kristofer BENGTSSON,SE,47,H,45-49M,,https://utmb.world/runner/2576659.kristofer.bengtsson,392.0,594.0,499.0,95.0,07:08:19,25699,False,a,
+520,Simon HULTMAN,SE,31,H,20-34M,,https://utmb.world/runner/5865385.simon.hultman,413.0,595.0,500.0,86.0,07:10:47,25847,False,a,
+250,Mattias RYDIN,SE,40,H,40-44M,Mariestads AIF,https://utmb.world/runner/508627.mattias.rydin,503.0,596.0,501.0,97.0,07:11:05,25865,False,a,
+745,Alexander BOLDIN,SE,29,H,20-34M,,https://utmb.world/runner/6770733.alexander.boldin,,597.0,502.0,87.0,07:11:14,25874,False,a,
+465,Jonas NILSSON,SE,38,H,35-39M,TNT hisingen,https://utmb.world/runner/5484542.jonas.nilsson,432.0,598.0,503.0,90.0,07:16:57,26217,False,a,
+408,Tim ANDERSSON,SE,29,H,20-34M,Kockums IF,https://utmb.world/runner/5351519.tim.andersson,453.0,599.0,504.0,88.0,07:18:30,26310,False,a,
+492,Ludvig FRIBERG,SE,43,H,40-44M,Dark Trail Runner,https://utmb.world/runner/696713.ludvig.friberg,422.0,600.0,505.0,98.0,07:30:41,27041,False,a,
+477,Stephane DE NIES,BE,49,H,45-49M,Team Mega Ferre,https://utmb.world/runner/1018133.stephane.denies,427.0,601.0,506.0,96.0,07:36:04,27364,False,a,
+308,Christian EVENSEN,NO,42,H,40-44M,Totenåsen Løp,https://utmb.world/runner/353803.christian.evensen,486.0,602.0,507.0,99.0,07:38:14,27494,False,a,
+561,Ulf BYLUND,SE,65,H,65-69M,Axa SC,https://utmb.world/runner/5476360.ulf.bylund,394.0,603.0,508.0,3.0,07:39:36,27576,False,a,
+559,Emil BYLUND,SE,38,H,35-39M,Axa SC,https://utmb.world/runner/5476356.emil.bylund,394.0,604.0,509.0,91.0,07:39:37,27577,False,a,
+558,Fredrik BYLUND,SE,35,H,35-39M,,https://utmb.world/runner/5476358.fredrik.bylund,394.0,605.0,510.0,92.0,07:39:38,27573,False,a,
+422,Oskar HULTMAN,SE,30,H,20-34M,,https://utmb.world/runner/6770855.oskar.hultman,447.0,606.0,511.0,89.0,07:40:40,27640,False,a,
+787,Jonas SVENSSON,SE,28,H,20-34M,,https://utmb.world/runner/6770753.jonas.svensson,,607.0,512.0,90.0,07:41:07,27667,False,a,
+771,Per BOLDIN,SE,55,H,55-59M,,https://utmb.world/runner/4823934.per.boldin,,608.0,513.0,37.0,07:44:04,27844,False,a,
+579,Roger LINDBERG,SE,54,H,50-54M,FAIK Tyngdlyftning,https://utmb.world/runner/6460948.roger.lindberg,389.0,609.0,514.0,83.0,07:45:09,27909,False,a,
+495,Kristian RYBAK,SE,46,H,45-49M,,https://utmb.world/runner/2439899.kristian.rybak,421.0,610.0,515.0,97.0,07:45:14,27914,False,a,
+523,Tom NIJLAND,NL,54,H,50-54M,,https://utmb.world/runner/915557.tom.nijland,411.0,611.0,516.0,84.0,08:03:08,28988,False,a,
+675,Yu HU,CN,28,F,20-34W,Hiking Dream Team,https://utmb.world/runner/3055975.yu.hu,,612.0,96.0,14.0,08:30:45,30645,False,a,
+749,Paula MICHAILIDOU,SE,53,F,50-54W,,https://utmb.world/runner/4823308.paula.michailidou,304.0,613.0,97.0,25.0,08:58:10,32290,False,a,
+643,Henrik MOLL,DK,58,H,55-59M,,https://utmb.world/runner/1355863.henrik.moll,333.0,614.0,517.0,38.0,09:07:36,32856,False,a,
+629,Stephan KELLER,CH,56,H,55-59M,,https://utmb.world/runner/5062461.stephan.keller,359.0,615.0,518.0,39.0,09:10:29,33029,False,a,
+130,Simon SKOOGH,SE,24,H,20-34M,Skoogh Family,https://utmb.world/runner/5673465.simon.skoogh,553.0,616.0,519.0,91.0,03:18:30,11910,False,a,
+273,Marcus JOSEFSSON,SE,49,H,45-49M,Vallentuna,https://utmb.world/runner/533001.marcus.josefsson,496.0,617.0,520.0,98.0,03:33:01,12598,False,a,
+96,Daniel ARNOLD,DE,35,H,35-39M,Laufgenossen,https://utmb.world/runner/2367871.daniel.arnold,584.0,618.0,521.0,93.0,04:18:22,14501,False,a,
+54,Jesper DELGÅRD,SE,42,H,40-44M,IS Göta,https://utmb.world/runner/1861525.jesper.delgard,618.0,619.0,522.0,100.0,04:21:28,15672,False,a,
+342,Michael NILSSON PAULI,SE,54,H,50-54M,Näset Triathlonklubb,https://utmb.world/runner/3816067.michael.nilssonpauli,473.0,620.0,523.0,85.0,04:33:16,15313,False,a,
+161,Anna WESTLUND,SE,47,F,45-49W,Trailrun4fun,https://utmb.world/runner/4692478.anna.westlund,538.0,621.0,98.0,24.0,04:35:32,14197,False,a,
+152,Fredrik BERGSTRÖM,SE,41,H,40-44M,Greydeco,https://utmb.world/runner/4110086.fredrik.bergstrom,541.0,622.0,524.0,101.0,04:35:50,15219,False,a,
+340,Ted HELMESJÖ,SE,37,H,35-39M,Abbekås Trail,https://utmb.world/runner/4379258.ted.helmesjo,474.0,623.0,525.0,94.0,04:35:52,14569,False,a,
+144,Daniel HÖRNQVIST,SE,40,H,40-44M,,https://utmb.world/runner/5667718.daniel.hornqvist,545.0,624.0,526.0,102.0,04:35:54,13592,False,a,
+39,Kenneth LÖFMAN,SE,50,H,50-54M,Sweden Runners,https://utmb.world/runner/508259.kenneth.lofman,633.0,625.0,527.0,86.0,04:35:58,14536,False,a,
+725,Linda LOENNEBERG,SE,50,F,50-54W,Trailrun4fun,https://utmb.world/runner/5071761.linda.loenneberg,,626.0,99.0,26.0,04:42:07,16774,False,a,
+30,Tomas AMNESKOG,SE,53,H,50-54M,Arduua,https://utmb.world/runner/574228.tomas.amneskog,650.0,627.0,528.0,87.0,04:53:35,15682,False,a,
+17,Fredrik FJOSE,NO,44,H,40-44M,,https://utmb.world/runner/3449653.fredrik.fjose,677.0,628.0,529.0,103.0,04:57:29,13102,False,a,
+369,Søren LUND,DK,43,H,40-44M,,https://utmb.world/runner/401136.soren.lund,462.0,629.0,530.0,104.0,05:17:39,17205,False,a,
+684,Mika VAINIONPÄÄ,FI,44,H,40-44M,,https://utmb.world/runner/4179810.mika.vainionpaa,,629.0,530.0,104.0,05:17:39,17832,False,a,
+454,Niklas RUNG,SE,53,H,50-54M,,https://utmb.world/runner/492294.niklas.rung,434.0,631.0,532.0,88.0,05:17:52,16045,False,a,
+265,Johan HAMMARLUND,SE,53,H,50-54M,,https://utmb.world/runner/3320909.johan.hammarlund,500.0,632.0,533.0,89.0,05:20:25,15718,False,a,
+254,Sandra LIND,SE,40,F,40-44W,Östersunds SK,https://utmb.world/runner/2221627.sandra.lind,503.0,633.0,100.0,23.0,05:20:28,15576,False,a,
+687,Mark SHUTTLEWORTH,GB,43,H,40-44M,,https://utmb.world/runner/812815.mark.shuttleworth,,633.0,534.0,106.0,05:20:28,17093,False,a,
+718,Yakob SHARIFI,SE,26,H,20-34M,,https://utmb.world/runner/6770721.yakob.sharifi,,635.0,535.0,92.0,05:21:00,18193,False,a,
+154,Andreas MALMSTEN,SE,52,H,50-54M,Katrineholms SK Friidrott Långdistans,https://utmb.world/runner/691426.andreas.malmsten,540.0,636.0,536.0,90.0,05:22:50,14236,False,a,
+313,Erik WISKÄR,SE,38,H,35-39M,,https://utmb.world/runner/6546652.erik.wiskar,483.0,637.0,537.0,95.0,05:55:06,16930,False,a,
+689,Ida KLERCK,SE,24,F,20-34W,,https://utmb.world/runner/7781965.ida.klerck,,638.0,101.0,15.0,05:57:41,21218,False,a,
+622,Mattias SKAFAR,SE,56,H,55-59M,HURT,https://utmb.world/runner/551699.mattias.skafar,364.0,639.0,538.0,40.0,06:23:02,16541,False,a,
+535,Niklas HÄGGSTRÖM,SE,47,H,45-49M,,https://utmb.world/runner/1243117.niklas.haggstrom,408.0,640.0,539.0,99.0,06:25:59,19564,False,a,
+635,Stefan LINDBERG,SE,51,H,50-54M,Team Nordic Trail,https://utmb.world/runner/4173070.stefan.lindberg,351.0,641.0,540.0,91.0,06:26:09,21362,False,a,
+446,Michael ULANDER,SE,49,H,45-49M,BAUHAUS Sportklubb,https://utmb.world/runner/2257963.michael.ulander,437.0,642.0,541.0,100.0,06:26:24,17585,False,a,
+589,Tommy STEFANAC,NO,45,H,45-49M,,https://utmb.world/runner/6770735.tommy.stefanac,385.0,643.0,542.0,101.0,06:28:28,18682,False,a,
+656,Ulrik FERKO,SE,27,H,20-34M,,https://utmb.world/runner/6770799.ulrik.ferko,,644.0,543.0,93.0,04:11:37,15097,False,a,
+645,Emilie FRIBERG,SE,47,F,45-49W,,https://utmb.world/runner/4195083.emilie.friberg,315.0,645.0,102.0,25.0,05:36:47,19405,False,a,
+72,Antoni PIZA BESTARD,ES,31,H,20-34M,Drecera CM,https://utmb.world/runner/4318112.antoni.pizabestard,600.0,646.0,544.0,94.0,01:08:09,4016,False,a,
+288,Johannes HANSSON,SE,53,H,50-54M,Gråmanstårps,https://utmb.world/runner/4301607.johannes.hansson,490.0,647.0,545.0,92.0,01:13:12,4351,False,a,
+211,Anonymous,AN,38,H,35-39M,,,,648.0,546.0,96.0,01:28:45,4456,False,a,
+348,Thomas JOHANSSON,SE,43,H,40-44M,,https://utmb.world/runner/696836.thomas.johansson,471.0,649.0,547.0,107.0,02:35:47,3978,False,a,
+709,Phuong DO,SE,41,H,40-44M,,https://utmb.world/runner/6770617.phuong.do,,650.0,548.0,108.0,03:47:40,5584,False,a,
+8,Cillian FLEMING,IE,32,H,20-34M,Kailas Fuga,https://utmb.world/runner/4711764.cillian.fleming,752.0,,,,00:00:00,0,False,np,
+7,Patrik LINDEGÅRDH,SE,46,H,45-49M,Hälle IF,https://utmb.world/runner/551608.patrik.lindegardh,799.0,,,,00:00:00,0,False,np,
+13,Anonymous,AN,37,H,35-39M,,,,,,,00:00:00,0,False,np,
+21,Mikael DAHLBERG,SE,45,H,45-49M,Trångsviken IF,https://utmb.world/runner/3952105.mikael.dahlberg,665.0,,,,00:00:00,0,False,np,
+23,Melker OLOFSSON,SE,24,H,20-34M,M.F Olofsson Entreprenad,https://utmb.world/runner/4863498.melker.olofsson,661.0,,,,00:00:00,0,False,np,
+31,Vegard TRISETH,NO,50,H,50-54M,Grenland Ultra runners / Norconsult,https://utmb.world/runner/1454163.vegard.triseth,649.0,,,,00:00:00,0,False,np,
+34,Emil BRUNELL,SE,35,H,35-39M,Tidaholm sok sisu,https://utmb.world/runner/3342189.emil.brunell,647.0,,,,00:00:00,0,False,np,
+42,Phillip KAAS,DK,40,H,40-44M,Coach Henrik Taarsted,https://utmb.world/runner/5803241.phillip.kaas,632.0,,,,00:00:00,0,False,np,
+46,Anne Luksengaard MJELVA,NO,36,F,35-39W,Hell Ultraløperklubb,https://utmb.world/runner/5275560.anneluksengaard.mjelva,626.0,,,,00:00:00,0,False,np,
+62,Joffrey DEMARAIS,FR,40,H,40-44M,,https://utmb.world/runner/4954125.joffrey.demarais,607.0,,,,00:00:00,0,False,np,
+66,Linda WIESE,SE,43,F,40-44W,Spajdergrrl,https://utmb.world/runner/3977477.linda.wiese,605.0,,,,00:00:00,0,False,np,
+75,Lars VIKLUND,SE,40,H,40-44M,,https://utmb.world/runner/4692568.lars.viklund,595.0,,,,00:00:00,0,False,np,
+77,Dennis PALM,SE,27,H,20-34M,,https://utmb.world/runner/6770711.dennis.palm,593.0,,,,00:00:00,0,False,np,
+90,Oscar LARSSON,SE,39,H,35-39M,,https://utmb.world/runner/5479014.oscar.larsson,580.0,,,,00:00:00,0,False,np,
+94,Hédi ALLANI,FR,49,H,45-49M,Rolex Sport,https://utmb.world/runner/3141239.hedi.allani,574.0,,,,00:00:00,0,False,np,
+104,Tomas KVAPIL,SE,56,H,55-59M,TrailRun4Fun,https://utmb.world/runner/2291889.tomas.kvapil,568.0,,,,00:00:00,0,False,np,
+122,Niklas ANDERSSON,SE,49,H,45-49M,Aktiv Öresjö,https://utmb.world/runner/1631989.niklas.andersson,559.0,,,,00:00:00,0,False,np,
+124,Petter SÖDERGREN,SE,48,H,45-49M,Sweden Runners IF,https://utmb.world/runner/4487696.petter.sodergren,558.0,,,,00:00:00,0,False,np,
+129,Henrik SANDHAUG,NO,42,H,40-44M,,https://utmb.world/runner/757215.henrik.sandhaug,554.0,,,,00:00:00,0,False,np,
+115,Niclas WESTERBERG,SE,40,H,40-44M,IF Hagen FIK,https://utmb.world/runner/2271411.niclas.westerberg,562.0,,,,00:00:00,0,False,np,
+139,Rasmus STAGE SORENSEN,DK,44,H,40-44M,,https://utmb.world/runner/1340789.rasmus.stagesorensen,548.0,,,,00:00:00,0,False,np,
+143,Cato PETTERSEN,NO,51,H,50-54M,Bèrghem Ultraløperklubb,https://utmb.world/runner/2153843.cato.pettersen,545.0,,,,00:00:00,0,False,np,
+151,Niklas FOLLIN,SE,41,H,40-44M,MOMUT Replacement Club,https://utmb.world/runner/6618438.niklas.follin,541.0,,,,00:00:00,0,False,np,
+156,Oscar DREWS,SE,35,H,35-39M,Team LV8,https://utmb.world/runner/5835589.oscar.drews,540.0,,,,00:00:00,0,False,np,
+160,Randi AALGAARD,NO,45,F,45-49W,Nesodden Trail Running,https://utmb.world/runner/4434230.randi.aalgaard,539.0,,,,00:00:00,0,False,np,
+163,Anders LUDVIGSSON,SE,48,H,45-49M,007 Running,https://utmb.world/runner/5919164.anders.ludvigsson,537.0,,,,00:00:00,0,False,np,
+164,Andreas STAHRE,SE,45,H,45-49M,Öckerö Räddningstjänst,https://utmb.world/runner/1769725.andreas.stahre,534.0,,,,00:00:00,0,False,np,
+166,Sam KHALID,GB,39,H,35-39M,SAM,https://utmb.world/runner/5625937.sam.khalid,537.0,,,,00:00:00,0,False,np,
+169,Kajsa KOLMSKOG,SE,42,F,40-44W,Sweden Runners Falun,https://utmb.world/runner/692156.kajsa.kolmskog,536.0,,,,00:00:00,0,False,np,
+181,Håkon BRAGER-LARSEN,NO,51,H,50-54M,Bamford 1869,https://utmb.world/runner/5616617.hakon.bragerlarsen,532.0,,,,00:00:00,0,False,np,
+194,Samuel FREDRIKSSON,SE,46,H,45-49M,Seig IL,https://utmb.world/runner/1048089.samuel.fredriksson,525.0,,,,00:00:00,0,False,np,
+201,Thomas LE DORVEN,FR,30,H,20-34M,,https://utmb.world/runner/5949553.thomas.ledorven,520.0,,,,00:00:00,0,False,np,
+208,Oistein OVERBERG,NO,51,H,50-54M,,https://utmb.world/runner/5529455.oistein.overberg,519.0,,,,00:00:00,0,False,np,
+237,Kristoffer WAHLBERG,SE,38,H,35-39M,RLK,https://utmb.world/runner/1036201.kristoffer.wahlberg,507.0,,,,00:00:00,0,False,np,
+253,Hallgeir Martin LUNDEMO,NO,58,H,55-59M,Meråker Mountain Challenge,https://utmb.world/runner/5670192.hallgeirmartin.lundemo,501.0,,,,00:00:00,0,False,np,
+280,Jack BENHAM,GB,31,H,20-34M,Striders of Croydon,https://utmb.world/runner/4161459.jack.benham,494.0,,,,00:00:00,0,False,np,
+274,Mattias OTTOSSON,SE,47,H,45-49M,Otto springer,https://utmb.world/runner/4978954.mattias.ottosson,496.0,,,,00:00:00,0,False,np,
+285,Anthony VAN DER HOLST,NL,27,H,20-34M,The Wolfpack,https://utmb.world/runner/4531904.anthony.vanderholst,491.0,,,,00:00:00,0,False,np,
+286,Jacob Emil INGEMANN JENSEN,DK,34,H,20-34M,,https://utmb.world/runner/4960628.jacobemil.ingemannjensen,490.0,,,,00:00:00,0,False,np,
+304,Tobias CHRONEER,SE,47,H,45-49M,Maxprestation Sports Club/Team Zoot,https://utmb.world/runner/4812806.tobias.chroneer,486.0,,,,00:00:00,0,False,np,
+303,Pierre LARSSON,SE,40,H,40-44M,,https://utmb.world/runner/5066229.pierre.larsson,487.0,,,,00:00:00,0,False,np,
+321,Axel THURESSON,SE,40,H,40-44M,,https://utmb.world/runner/5479210.axel.thuresson,486.0,,,,00:00:00,0,False,np,
+330,Marcus BROMAN,SE,45,H,45-49M,Ironcoach,https://utmb.world/runner/662087.marcus.broman,476.0,,,,00:00:00,0,False,np,
+329,Andreas LUNDGREN,SE,43,H,40-44M,Maik,https://utmb.world/runner/5070725.andreas.lundgren,477.0,,,,00:00:00,0,False,np,
+337,Sebastian BLOMDELL,SE,38,H,35-39M,,https://utmb.world/runner/4823824.sebastian.blomdell,475.0,,,,00:00:00,0,False,np,
+336,Hannes REMAHL,SE,40,H,40-44M,,https://utmb.world/runner/6043542.hannes.remahl,494.0,,,,00:00:00,0,False,np,
+341,Dominik Stefan MIHALITS,AT,36,H,35-39M,Two Peaks Endurance,https://utmb.world/runner/1996537.dominikstefan.mihalits,472.0,,,,00:00:00,0,False,np,
+346,Per Laust JOHANSEN,DK,51,H,50-54M,,https://utmb.world/runner/527426.perlaust.johansen,472.0,,,,00:00:00,0,False,np,
+359,Andreas HEDBERG,SE,35,H,35-39M,Sandviken Trail Running,https://utmb.world/runner/5479250.andreas.hedberg,467.0,,,,00:00:00,0,False,np,
+365,Pär-Ola MARTINSSON,SE,53,H,50-54M,IFK Skövde FIK,https://utmb.world/runner/2271383.parola.martinsson,465.0,,,,00:00:00,0,False,np,
+364,Markus LINTALA,SE,49,H,45-49M,Karolina,https://utmb.world/runner/3585559.markus.lintala,465.0,,,,00:00:00,0,False,np,
+367,Petter ISAKSSON,SE,45,H,45-49M,Arduua,https://utmb.world/runner/4747592.petter.isaksson,463.0,,,,00:00:00,0,False,np,
+373,Stefhan REGEER,NL,52,H,50-54M,,https://utmb.world/runner/5073339.stefhan.regeer,459.0,,,,00:00:00,0,False,np,
+404,Robin BOLIN,SE,38,H,35-39M,Bahause sportklubb,https://utmb.world/runner/6460622.robin.bolin,454.0,,,,00:00:00,0,False,np,
+403,Rasmus KRATZ,SE,32,H,20-34M,,https://utmb.world/runner/4682500.rasmus.kratz,454.0,,,,00:00:00,0,False,np,
+415,Anna Karin LARSSON,SE,50,F,50-54W,,https://utmb.world/runner/2478091.annakarin.larsson,448.0,,,,00:00:00,0,False,np,
+417,Gabrielle WREILE,SE,34,F,20-34W,,https://utmb.world/runner/1556013.gabrielle.wreile,446.0,,,,00:00:00,0,False,np,
+421,Dan SVENSSON,SE,65,H,65-69M,Runners Club Helsingborg,https://utmb.world/runner/1634909.dan.svensson,447.0,,,,00:00:00,0,False,np,
+435,Martin ØSTEN,DK,51,H,50-54M,SLGI,https://utmb.world/runner/495869.martin.osten,442.0,,,,00:00:00,0,False,np,
+461,Mathias JOHANSSON,SE,58,H,55-59M,Umara SC,https://utmb.world/runner/898325.mathias.johansson,432.0,,,,00:00:00,0,False,np,
+470,Markus ILVA,FI,49,H,45-49M,Team Rahola,https://utmb.world/runner/722613.markus.ilva,430.0,,,,00:00:00,0,False,np,
+467,Marcus ADOLFSSON,SE,48,H,45-49M,Team Nordic Trail,https://utmb.world/runner/1652013.marcus.adolfsson,431.0,,,,00:00:00,0,False,np,
+475,Jan STAGGE,DE,47,H,45-49M,Berlin Kreuzberg Eisern 361,https://utmb.world/runner/5508607.jan.stagge,427.0,,,,00:00:00,0,False,np,
+472,Lena HAMMARSTEN,SE,59,F,55-59W,Walking Dead,https://utmb.world/runner/3461341.lena.hammarsten,429.0,,,,00:00:00,0,False,np,
+476,Anders ERIKHANS,SE,61,H,60-64M,Tisdagslunken,https://utmb.world/runner/3951115.anders.erikhans,427.0,,,,00:00:00,0,False,np,
+482,Bertrand DE LAVENNE,FR,56,H,55-59M,Lai Son,https://utmb.world/runner/3320133.bertrand.delavenne,426.0,,,,00:00:00,0,False,np,
+489,Magnus JOHANSSON,SE,52,H,50-54M,,https://utmb.world/runner/4527872.magnus.johansson,423.0,,,,00:00:00,0,False,np,
+479,Richard ANDERSSON,SE,55,H,55-59M,IRunTeam,https://utmb.world/runner/1111365.richard.andersson,426.0,,,,00:00:00,0,False,np,
+498,André SJURSETH HANSEN,NO,37,H,35-39M,Skanska Aktiv / Team Taking Souls,https://utmb.world/runner/6770669.andre.sjursethhansen,421.0,,,,00:00:00,0,False,np,
+501,Zelko KRAJCAR,SE,54,H,50-54M,,https://utmb.world/runner/234641.zelko.krajcar,419.0,,,,00:00:00,0,False,np,
+502,Marie THORELL,SE,50,F,50-54W,,https://utmb.world/runner/6474904.marie.thorell,419.0,,,,00:00:00,0,False,np,
+506,Johan WAGNER,SE,56,H,55-59M,filmpro.se,https://utmb.world/runner/48259.johan.wagner,418.0,,,,00:00:00,0,False,np,
+509,Henrik ELSBERG,SE,50,H,50-54M,Team Nordic Trail,https://utmb.world/runner/4681014.henrik.elsberg,418.0,,,,00:00:00,0,False,np,
+513,Peter HENRIKSSON,SE,48,H,45-49M,Vallentuna FK,https://utmb.world/runner/2222225.peter.henriksson,415.0,,,,00:00:00,0,False,np,
+519,Lars HOLT BREDESEN,NO,43,H,40-44M,Norsk Tipping BIL,https://utmb.world/runner/4193942.lars.holtbredesen,480.0,,,,00:00:00,0,False,np,
+530,Jerry BÄRNSTEN,SE,54,H,50-54M,Swedish Trailrunning,https://utmb.world/runner/48262.jerry.barnsten,410.0,,,,00:00:00,0,False,np,
+541,Maximilian MILLMANN,DE,36,H,35-39M,,https://utmb.world/runner/4218811.maximilian.millmann,405.0,,,,00:00:00,0,False,np,
+545,Mattias JUELSSON,SE,42,H,40-44M,,https://utmb.world/runner/3116643.mattias.juelsson,403.0,,,,00:00:00,0,False,np,
+540,Dominique SIIVONEN,SE,46,H,45-49M,Ödeshög SK,https://utmb.world/runner/4812752.dominique.siivonen,405.0,,,,00:00:00,0,False,np,
+547,Fredric JOHANSSON,SE,37,H,35-39M,Snättringe SK,https://utmb.world/runner/4200950.fredric.johansson,402.0,,,,00:00:00,0,False,np,
+551,Anonymous,AN,28,H,20-34M,,,,,,,00:00:00,0,False,np,
+553,Peter HOLMSTRÖM,SE,57,H,55-59M,Stävie AC,https://utmb.world/runner/4301593.peter.holmstrom,398.0,,,,00:00:00,0,False,np,
+565,Marie LIND,SE,47,F,45-49W,,https://utmb.world/runner/4681864.marie.lind,393.0,,,,00:00:00,0,False,np,
+562,Jenny ENGDAHL,SE,45,F,45-49W,Mericuriade AB,https://utmb.world/runner/4978998.jenny.engdahl,393.0,,,,00:00:00,0,False,np,
+563,Mikko SPÅRMAN,SE,52,H,50-54M,Löpargruppen Konga-Varvet,https://utmb.world/runner/3377981.mikko.sparman,393.0,,,,00:00:00,0,False,np,
+569,Troels YNDIGEGN,DK,44,H,40-44M,BRC,https://utmb.world/runner/5742145.troels.yndigegn,392.0,,,,00:00:00,0,False,np,
+572,Pär FISCHER,SE,37,H,35-39M,,https://utmb.world/runner/5479840.par.fischer,391.0,,,,00:00:00,0,False,np,
+575,Tobias ANTONSSON,SE,33,H,20-34M,,https://utmb.world/runner/5476370.tobias.antonsson,391.0,,,,00:00:00,0,False,np,
+574,Ellen WESTFELT,SE,48,F,45-49W,Pace on Earth,https://utmb.world/runner/360510.ellen.westfelt,390.0,,,,00:00:00,0,False,np,
+573,Helena RÖNNHOLM,FI,49,F,45-49W,Chasing Cutoffs,https://utmb.world/runner/4179769.helena.ronnholm,391.0,,,,00:00:00,0,False,np,
+576,Gabriel BÖRNER,SE,55,H,55-59M,Suturion running club,https://utmb.world/runner/864721.gabriel.borner,390.0,,,,00:00:00,0,False,np,
+578,Manne MALMBERG,SE,35,H,35-39M,,https://utmb.world/runner/6609007.manne.malmberg,390.0,,,,00:00:00,0,False,np,
+594,Anonymous,AN,53,H,50-54M,,,,,,,00:00:00,0,False,np,
+595,Oscar KLINGBERG,SE,37,H,35-39M,,https://utmb.world/runner/5210741.oscar.klingberg,383.0,,,,00:00:00,0,False,np,
+600,Emelie BROSTRÖM,SE,43,F,40-44W,Lonesome Runners,https://utmb.world/runner/4110099.emelie.brostrom,378.0,,,,00:00:00,0,False,np,
+603,Adam DOBROWOLSKI,PL,40,H,40-44M,ON Management,https://utmb.world/runner/6461038.adam.dobrowolski,377.0,,,,00:00:00,0,False,np,
+608,Jan WESTERBERG,FI,62,H,60-64M,,https://utmb.world/runner/201155.jan.westerberg,374.0,,,,00:00:00,0,False,np,
+618,Joakim SVENSSON,SE,48,H,45-49M,,https://utmb.world/runner/5742033.joakim.svensson,365.0,,,,00:00:00,0,False,np,
+620,Peter MØLLER,DK,47,H,45-49M,,https://utmb.world/runner/6770815.peter.moller,364.0,,,,00:00:00,0,False,np,
+626,Fredrik IGNBERG,SE,28,H,20-34M,,https://utmb.world/runner/6770793.fredrik.ignberg,362.0,,,,00:00:00,0,False,np,
+630,Hannu OLLIKAINEN,FI,50,H,50-54M,Paipis Paradise,https://utmb.world/runner/4179768.hannu.ollikainen,359.0,,,,00:00:00,0,False,np,
+640,Ulf HAMMARBÄCK,SE,63,H,60-64M,,https://utmb.world/runner/4681264.ulf.hammarback,339.0,,,,00:00:00,0,False,np,
+641,Fredrik LUNDQVIST,SE,46,H,45-49M,FK Friskus-Varberg,https://utmb.world/runner/5479904.fredrik.lundqvist,336.0,,,,00:00:00,0,False,np,
+639,Axel SVEDLUND,SE,33,H,20-34M,,https://utmb.world/runner/6770743.axel.svedlund,341.0,,,,00:00:00,0,False,np,
+642,Christer FRYKLUND,SE,52,H,50-54M,,https://utmb.world/runner/6461322.christer.fryklund,334.0,,,,00:00:00,0,False,np,
+646,Benjamin DEAN,SE,39,H,35-39M,,https://utmb.world/runner/4201517.benjamin.dean,311.0,,,,00:00:00,0,False,np,
+650,Magnus NORDQVIST,SE,51,H,50-54M,Camp Dalsland,https://utmb.world/runner/2275911.magnus.nordqvist,,,,,00:00:00,0,False,np,
+647,Julia SCHREITER,DE,39,F,35-39W,,https://utmb.world/runner/4512612.julia.schreiter,301.0,,,,00:00:00,0,False,np,
+662,Ulrika EKELUND,SE,48,F,45-49W,runnersclub,https://utmb.world/runner/2987047.ulrika.ekelund,,,,,00:00:00,0,False,np,
+661,André BENGTSSON,SE,44,H,40-44M,,https://utmb.world/runner/3816075.andre.bengtsson,,,,,00:00:00,0,False,np,
+663,Dana AYERS,US,35,H,35-39M,,https://utmb.world/runner/6770739.dana.ayers,,,,,00:00:00,0,False,np,
+670,Oliver BATISTA GRÖNDAHL,SE,26,H,20-34M,,https://utmb.world/runner/6770765.oliver.batista,,,,,00:00:00,0,False,np,
+668,Riitta RAUDASKOSKI,FI,46,F,45-49W,,https://utmb.world/runner/6770751.riitta.raudaskoski,,,,,00:00:00,0,False,np,
+666,Henrik HANSSON,SE,50,H,50-54M,Sweden Runners Falun,https://utmb.world/runner/691540.henrik.hansson,,,,,00:00:00,0,False,np,
+673,Mogens GISSELBAEK,DK,67,H,65-69M,T&P,https://utmb.world/runner/837237.mogens.gisselbaek,,,,,00:00:00,0,False,np,
+674,Lars-Albert AHLSTRÖM,SE,53,H,50-54M,Strängnäs Löparklubb,https://utmb.world/runner/5807047.larsalbert.ahlstrom,,,,,00:00:00,0,False,np,
+676,Filip PLAHN,SE,29,H,20-34M,,https://utmb.world/runner/6770611.filip.plahn,,,,,00:00:00,0,False,np,
+678,Lennart WEJDMARK,SE,54,H,50-54M,Huddinge,https://utmb.world/runner/2271147.lennart.wejdmark,,,,,00:00:00,0,False,np,
+681,Karl NITTVE,SE,43,H,40-44M,,https://utmb.world/runner/6770705.karl.nittve,,,,,00:00:00,0,False,np,
+686,Daniel FRANKE,DE,38,H,35-39M,#ElliLäuftMit,https://utmb.world/runner/5751997.daniel.franke,,,,,00:00:00,0,False,np,
+693,Marcus EKSTRÖM,SE,50,H,50-54M,,https://utmb.world/runner/4301478.marcus.ekstrom,,,,,00:00:00,0,False,np,
+694,Giesela BERGH,SE,62,F,60-64W,Lonesome runners,https://utmb.world/runner/1036993.giesela.bergh,,,,,00:00:00,0,False,np,
+695,Lukas JAKTMAN,SE,33,H,20-34M,,https://utmb.world/runner/6770769.lukas.jaktman,,,,,00:00:00,0,False,np,
+697,Sebastian FAHLEN,SE,35,H,35-39M,,https://utmb.world/runner/5742073.sebastian.fahlen,,,,,00:00:00,0,False,np,
+698,Anders ÅGREN,SE,55,H,55-59M,,https://utmb.world/runner/1087831.anders.agren,,,,,00:00:00,0,False,np,
+710,Tom LOKTU,NO,41,H,40-44M,,https://utmb.world/runner/6770825.tom.loktu,,,,,00:00:00,0,False,np,
+713,Jacob Karstoft EBBENSGAARD,DK,43,H,40-44M,Ebbensgaard,https://utmb.world/runner/863782.jacobkarstoft.ebbensgaard,,,,,00:00:00,0,False,np,
+712,Sergio CUMPLIDO,ES,48,H,45-49M,Stora Sundby Goif,https://utmb.world/runner/6770773.sergio.cumplido,,,,,00:00:00,0,False,np,
+714,Benny HALVARSSON,SE,44,H,40-44M,,https://utmb.world/runner/3116629.benny.halvarsson,,,,,00:00:00,0,False,np,
+723,Mattias KARLSSON,SE,60,H,60-64M,Tavelsjo AIK,https://utmb.world/runner/6770839.mattias.karlsson,,,,,00:00:00,0,False,np,
+722,Mats HÄVERMARK,SE,48,H,45-49M,,https://utmb.world/runner/6770667.mats.havermark,,,,,00:00:00,0,False,np,
+734,Saimon ANDERSSON,SE,30,H,20-34M,,https://utmb.world/runner/6770785.saimon.andersson,,,,,00:00:00,0,False,np,
+736,Johan FALKENBERG,SE,48,H,45-49M,Bjäre Triathlon,https://utmb.world/runner/1976353.johan.falkenberg,,,,,00:00:00,0,False,np,
+738,Erik HUGOSON,SE,40,H,40-44M,SigulInvest,https://utmb.world/runner/6770677.eric.hugosson,,,,,00:00:00,0,False,np,
+752,Erik NÄÄS,SE,46,H,45-49M,Team Nordic Trail Mora,https://utmb.world/runner/2194083.erik.naas,,,,,00:00:00,0,False,np,
+750,Fredrik SVENINGSSON,SE,42,H,40-44M,,https://utmb.world/runner/532671.fredrik.sveningsson,,,,,00:00:00,0,False,np,
+755,Paul FRANKS,SE,52,H,50-54M,,https://utmb.world/runner/6770741.paul.franks,,,,,00:00:00,0,False,np,
+757,Christian ARTHURSSON,SE,53,H,50-54M,,https://utmb.world/runner/1036339.christian.arthursson,,,,,00:00:00,0,False,np,
+758,Jens WIDBOM,SE,38,H,35-39M,,https://utmb.world/runner/6770791.jens.widbom,,,,,00:00:00,0,False,np,
+761,Arvid BOESTAD,SE,29,H,20-34M,,https://utmb.world/runner/6770829.arvid.boestad,,,,,00:00:00,0,False,np,
+760,Carl JIVENIUS,SE,28,H,20-34M,,https://utmb.world/runner/4823246.carl.jivenius,,,,,00:00:00,0,False,np,
+762,Morten Kruse THOMSEN,DK,47,H,45-49M,Viborg PI,https://utmb.world/runner/6841045.mortenkruse.thomsen,477.0,,,,00:00:00,0,False,np,
+770,Markus BJÖRKLUND,SE,43,H,40-44M,FRAKTTEAM,https://utmb.world/runner/6770821.markus.bjorklund,,,,,00:00:00,0,False,np,
+772,Kenneth BUNDGAARD,SE,52,H,50-54M,,https://utmb.world/runner/2986805.kenneth.bundgaard,,,,,00:00:00,0,False,np,
+790,Franco DENEGRI,AR,37,H,35-39M,,https://utmb.world/runner/1445263.franco.denegri,,,,,00:00:00,0,False,np,
+789,Lisbeth BILLESKOV HANSEN,DK,43,F,40-44W,,https://utmb.world/runner/6770853.lisbeth.billeskovhansen,,,,,00:00:00,0,False,np,
+793,Ola FAGERHOLDT,SE,52,H,50-54M,,https://utmb.world/runner/6770685.ola.fagerholdt,,,,,00:00:00,0,False,np,
+783,Adam BOSTRÖM,SE,34,H,20-34M,Flygbasjägarna IK,https://utmb.world/runner/2439835.adam.bostrom,,,,,00:00:00,0,False,np,
+795,Ove SUNNERVALL,SE,54,H,50-54M,Umara Sports Club,https://utmb.world/runner/5068673.ove.sunnervall,,,,,00:00:00,0,False,np,
