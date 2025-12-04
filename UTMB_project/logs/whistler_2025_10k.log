@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: whistler | Year: 2025 | Race: 10k
+======================================================================
+Loaded 98 runners from data/whistler_2025_10k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 30 runners...
+Fetching scores:   0%|                                                   | 0/30 [00:00<?, ?runner/s]Fetching scores:  37%|███████████████▍                          | 11/30 [00:00<00:01, 13.98runner/s]Fetching scores:  70%|█████████████████████████████▍            | 21/30 [00:02<00:01,  8.26runner/s]Fetching scores: 100%|██████████████████████████████████████████| 30/30 [00:03<00:00,  8.65runner/s]
+  Saved to data/whistler_2025_10k.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/78
+
+Top 10 finishers:
+ rank_scratch                name race_time  utmb_index  utmb_score
+          1.0       Markus STONES  01:02:37         NaN         NaN
+          3.0      William VERRET  01:06:54         NaN         NaN
+          6.0         Cedric FALC  01:10:00         NaN         NaN
+          8.0      Jesse SOBIERAJ  01:12:18       517.0         NaN
+          9.0       Wai Teng CHOW  01:16:25         NaN         NaN
+         10.0         Annie DEEKS  01:17:40         NaN         NaN
+         11.0     William BREHENY  01:17:47         NaN         NaN
+         12.0         Ted LOWTHER  01:18:01         NaN         NaN
+         13.0         Emma BARNES  01:19:13         NaN         NaN
+         14.0  Rodrigo RIVAS RUIZ  01:19:21         NaN         NaN

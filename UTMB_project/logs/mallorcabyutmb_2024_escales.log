@@ -1,0 +1,30 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: mallorcabyutmb | Year: 2024 | Race: escales
+======================================================================
+Loaded 29 runners from data/mallorcabyutmb_2024_escales.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 21 runners...
+Fetching scores:   0%|                                                   | 0/21 [00:00<?, ?runner/s]Fetching scores:  48%|████████████████████                      | 10/21 [00:01<00:01,  6.04runner/s]Fetching scores:  95%|████████████████████████████████████████  | 20/21 [00:06<00:00,  2.90runner/s]Fetching scores: 100%|██████████████████████████████████████████| 21/21 [00:07<00:00,  2.78runner/s]
+  Saved to data/mallorcabyutmb_2024_escales.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/8
+
+Top 10 finishers:
+ rank_scratch                      name race_time  utmb_index  utmb_score
+          1.0           Valentin BENARD  00:05:06       856.0         NaN
+          2.0             Hugues GIRARD  00:05:33       746.0         NaN
+          3.0            Adrien MICHAUD  00:05:39       867.0         NaN
+          4.0   Alberto FERNÁNDEZ ABUJA  00:05:42       636.0         NaN
+          5.0             Ellen VITTING  00:08:07       624.0         NaN
+          6.0  Ingalena SCHÖMBURG-HEUCK  00:08:10         NaN         NaN
+          7.0            Winnie DANKERS  00:08:40         NaN         NaN
+          8.0          Géraldine FAVRAT  00:09:47       510.0         NaN

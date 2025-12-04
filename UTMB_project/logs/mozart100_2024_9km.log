@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: mozart100 | Year: 2024 | Race: 9km
+======================================================================
+Loaded 171 runners from data/mozart100_2024_9km.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 167 runners...
+Fetching scores:   0%|                                                  | 0/167 [00:00<?, ?runner/s]Fetching scores:  62%|████████████████████████▎              | 104/167 [00:00<00:00, 207.17runner/s]Fetching scores:  98%|██████████████████████████████████████▎| 164/167 [00:01<00:00, 147.97runner/s]Fetching scores: 100%|███████████████████████████████████████| 167/167 [00:01<00:00, 116.54runner/s]
+  Saved to data/mozart100_2024_9km.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/128
+
+Top 10 finishers:
+ rank_scratch                        name race_time  utmb_index  utmb_score
+          1.0              Lukáš KOPERDÁK  00:41:05         NaN         NaN
+          2.0               Ramiro FOGLIA  00:41:17       682.0         NaN
+          3.0       Michael SEYSS-INQUART  00:41:35         NaN         NaN
+          4.0                  Rudi URBAN  00:41:56         NaN         NaN
+          5.0                 Robert EDER  00:42:00         NaN         NaN
+          6.0                Natalia GAIK  00:45:45       622.0         NaN
+          7.0  Sarah VOELKEL-SCHAFFENRATH  00:50:44         NaN         NaN
+          8.0               Bertold FEJES  00:51:10         NaN         NaN
+          9.0               Martin SULYOK  00:51:55         NaN         NaN
+         10.0           Jörg NIEDERBERGER  00:52:25       455.0         NaN

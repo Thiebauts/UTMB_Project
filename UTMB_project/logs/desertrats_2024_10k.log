@@ -1,0 +1,12 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: desertrats | Year: 2024 | Race: 10k
+======================================================================
+Loaded 254 runners from data/desertrats_2024_10k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 250 runners...
+Fetching scores:   0%|                                                  | 0/250 [00:00<?, ?runner/s]Fetching scores:   8%|███                                      | 19/250 [00:03<00:44,  5.13runner/s]Fetching scores:  12%|████▊                                    | 29/250 [00:07<00:57,  3.86runner/s]

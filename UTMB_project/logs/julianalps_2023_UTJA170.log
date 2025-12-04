@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: julianalps | Year: 2023 | Race: UTJA170
+======================================================================
+Loaded 119 runners from data/julianalps_2023_UTJA170.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 118 runners...
+Fetching scores:   0%|                                                  | 0/118 [00:00<?, ?runner/s]Fetching scores:   8%|███▍                                     | 10/118 [00:05<00:58,  1.83runner/s]Fetching scores:  17%|██████▉                                  | 20/118 [00:06<00:29,  3.32runner/s]Fetching scores:  25%|██████████▍                              | 30/118 [00:07<00:18,  4.68runner/s]Fetching scores:  34%|█████████████▉                           | 40/118 [00:08<00:13,  5.87runner/s]Fetching scores:  42%|█████████████████▎                       | 50/118 [00:09<00:09,  7.23runner/s]Fetching scores:  51%|████████████████████▊                    | 60/118 [00:10<00:06,  8.55runner/s]Fetching scores:  59%|████████████████████████▎                | 70/118 [00:11<00:05,  9.47runner/s]Fetching scores:  68%|███████████████████████████▊             | 80/118 [00:12<00:03,  9.81runner/s]Fetching scores:  76%|███████████████████████████████▎         | 90/118 [00:14<00:03,  7.57runner/s]Fetching scores:  85%|█████████████████████████████████▉      | 100/118 [00:19<00:04,  3.81runner/s]Fetching scores:  93%|█████████████████████████████████████▎  | 110/118 [00:24<00:02,  3.07runner/s]Fetching scores: 100%|████████████████████████████████████████| 118/118 [00:28<00:00,  4.13runner/s]
+  Saved to data/julianalps_2023_UTJA170.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/54
+
+Top 10 finishers:
+ rank_scratch                name race_time  utmb_index  utmb_score
+          1.0      Ivan HRASTOVEC  22:38:41       798.0         NaN
+          2.0       Fiona PASCALL  24:39:07       708.0         NaN
+          3.0         Kevin BIGGS  24:45:50       778.0         NaN
+          4.0    Fernando ALVAREZ  27:48:43       742.0         NaN
+          5.0        Honza VAŇKÁT  27:59:31       561.0         NaN
+          6.0  Ivan MONTES LOMBAO  28:03:09       729.0         NaN
+          7.0         Marek RUTKA  28:36:15       676.0         NaN
+          8.0    Esther FELLHOFER  28:45:17       718.0         NaN
+          9.0       Antun POSAVEC  29:27:23       663.0         NaN
+         10.0      Florian WIMMER  30:20:35       690.0         NaN

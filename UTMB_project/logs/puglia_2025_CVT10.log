@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: puglia | Year: 2025 | Race: CVT10
+======================================================================
+Loaded 116 runners from data/puglia_2025_CVT10.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 116 runners...
+Fetching scores:   0%|                                                  | 0/116 [00:00<?, ?runner/s]Fetching scores:  30%|████████████▎                            | 35/116 [00:00<00:01, 68.77runner/s]Fetching scores:  52%|█████████████████████▏                   | 60/116 [00:01<00:01, 49.35runner/s]Fetching scores:  62%|█████████████████████████▍               | 72/116 [00:01<00:01, 38.71runner/s]Fetching scores:  71%|████████████████████████████▉            | 82/116 [00:02<00:01, 29.04runner/s]Fetching scores:  79%|████████████████████████████████▌        | 92/116 [00:03<00:01, 20.06runner/s]Fetching scores:  88%|███████████████████████████████████▏    | 102/116 [00:03<00:00, 19.93runner/s]Fetching scores:  97%|██████████████████████████████████████▉ | 113/116 [00:04<00:00, 19.70runner/s]Fetching scores: 100%|████████████████████████████████████████| 116/116 [00:06<00:00, 18.65runner/s]
+  Saved to data/puglia_2025_CVT10.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/96
+
+Top 10 finishers:
+ rank_scratch               name race_time  utmb_index  utmb_score
+          1.0      Giorgio LAMPA  00:37:46       764.0         NaN
+          2.0   Mateusz LIPIŃSKI  00:39:10         NaN         NaN
+          3.0   Sébastien SOTOCA  00:43:03       631.0         NaN
+          4.0    Svitlana KOBETS  00:47:55         NaN         NaN
+          5.0        Egor KOPKIN  00:48:14       608.0         NaN
+          6.0  Carlos COMENDADOR  00:48:23       602.0         NaN
+          7.0      Charly MIGUEL  00:48:35       640.0         NaN
+          8.0   Elisabetta NEGRA  00:48:43       703.0         NaN
+          9.0    Nicola BATTISTA  00:48:47       489.0         NaN
+         10.0      Elia FERRANTI  00:49:03         NaN         NaN

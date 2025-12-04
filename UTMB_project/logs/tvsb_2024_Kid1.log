@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: tvsb | Year: 2024 | Race: Kid1
+======================================================================
+Loaded 26 runners from data/tvsb_2024_Kid1.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 1 runners...
+Fetching scores:   0%|                                                    | 0/1 [00:00<?, ?runner/s]Fetching scores: 100%|████████████████████████████████████████████| 1/1 [00:00<00:00, 12.28runner/s]
+  Saved to data/tvsb_2024_Kid1.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/18
+
+Top 10 finishers:
+ rank_scratch              name race_time  utmb_index  utmb_score
+          3.0  Gaspard THIEBAUT  00:06:04         NaN         NaN
+          3.0  César BARTHELEMY  00:06:04         NaN         NaN
+          6.0   Emile DEHESELLE  00:06:13         NaN         NaN
+          8.0      Nolan HOLZER  00:06:22         NaN         NaN
+         11.0    Loris SARRASIN  00:06:34         NaN         NaN
+         16.0      Lisa PELLOIN  00:07:03         NaN         NaN
+         19.0     Agathe BONNET  00:07:17         NaN         NaN
+         21.0    Nikki SKOGLUND  00:07:19         NaN         NaN
+         22.0     Nathan NASSOY  00:07:30         NaN         NaN
+         23.0   Justine PELLOIN  00:07:32         NaN         NaN

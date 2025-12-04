@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: desertrats | Year: 2023 | Race: 10k
+======================================================================
+Loaded 159 runners from data/desertrats_2023_10k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 24 runners...
+Fetching scores:   0%|                                                   | 0/24 [00:00<?, ?runner/s]Fetching scores:  42%|█████████████████▌                        | 10/24 [00:03<00:05,  2.62runner/s]Fetching scores:  83%|███████████████████████████████████       | 20/24 [00:08<00:01,  2.39runner/s]Fetching scores: 100%|██████████████████████████████████████████| 24/24 [00:09<00:00,  2.57runner/s]
+  Saved to data/desertrats_2023_10k.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/129
+
+Top 10 finishers:
+ rank_scratch                name race_time  utmb_index  utmb_score
+          1.0         Mark WILSON  00:44:27         NaN         NaN
+          2.0     Calvin BERSTLER  00:47:09         NaN         NaN
+          3.0        Bryce LOREHN  00:48:55       618.0         NaN
+          4.0        Jonathan ORR  00:49:46         NaN         NaN
+          5.0      Alexa BERSTLER  00:50:00         NaN         NaN
+          6.0  Justin HUMRICHOUSE  00:50:53         NaN         NaN
+          7.0         Tyler HOEST  00:51:12         NaN         NaN
+          8.0          Jenny WONG  00:51:16         NaN         NaN
+          9.0          Max FULLER  00:51:32         NaN         NaN
+         10.0          Ben KEIDAN  00:51:38         NaN         NaN

@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: grandraidventoux | Year: 2024 | Race: 82km
+======================================================================
+Loaded 202 runners from data/grandraidventoux_2024_82km.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 190 runners...
+Fetching scores:   0%|                                                  | 0/190 [00:00<?, ?runner/s]Fetching scores:   5%|██▏                                      | 10/190 [00:02<00:44,  4.04runner/s]Fetching scores:  11%|████▎                                    | 20/190 [00:04<00:37,  4.52runner/s]Fetching scores:  16%|██████▍                                  | 30/190 [00:06<00:31,  5.08runner/s]Fetching scores:  21%|████████▋                                | 40/190 [00:07<00:24,  6.01runner/s]Fetching scores:  26%|██████████▊                              | 50/190 [00:08<00:21,  6.42runner/s]Fetching scores:  32%|████████████▉                            | 60/190 [00:10<00:19,  6.54runner/s]Fetching scores:  37%|███████████████                          | 70/190 [00:11<00:18,  6.61runner/s]Fetching scores:  42%|█████████████████▎                       | 80/190 [00:13<00:17,  6.46runner/s]Fetching scores:  47%|███████████████████▍                     | 90/190 [00:15<00:17,  5.61runner/s]Fetching scores:  53%|█████████████████████                   | 100/190 [00:18<00:18,  4.95runner/s]Fetching scores:  58%|███████████████████████▏                | 110/190 [00:21<00:19,  4.11runner/s]Fetching scores:  63%|█████████████████████████▎              | 120/190 [00:25<00:19,  3.53runner/s]Fetching scores:  68%|███████████████████████████▎            | 130/190 [00:26<00:14,  4.09runner/s]Fetching scores:  74%|█████████████████████████████▍          | 140/190 [00:31<00:15,  3.19runner/s]Fetching scores:  79%|███████████████████████████████▌        | 150/190 [00:33<00:11,  3.51runner/s]Fetching scores:  84%|█████████████████████████████████▋      | 160/190 [00:39<00:11,  2.73runner/s]Fetching scores:  89%|███████████████████████████████████▊    | 170/190 [00:46<00:09,  2.11runner/s]Fetching scores:  95%|█████████████████████████████████████▉  | 180/190 [00:52<00:05,  1.94runner/s]Fetching scores: 100%|████████████████████████████████████████| 190/190 [01:00<00:00,  1.65runner/s]Fetching scores: 100%|████████████████████████████████████████| 190/190 [01:00<00:00,  3.12runner/s]
+  Saved to data/grandraidventoux_2024_82km.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/164
+
+Top 10 finishers:
+ rank_scratch                name race_time  utmb_index  utmb_score
+          1.0      Théo LE BOUDEC  08:18:58       846.0         NaN
+          2.0       Jérémy ARBORE  08:40:45       600.0         NaN
+          3.0     Jeremie ASSEZAT  08:50:40       668.0         NaN
+          4.0         Marie DOHIN  09:34:59       677.0         NaN
+          5.0      Julien SIMONOT  09:45:53       750.0         NaN
+          6.0      Romain DAMIANI  09:48:03       716.0         NaN
+          7.0       Thomas PAGEZY  09:49:24       666.0         NaN
+          8.0     Gerald RECEVEUR  10:00:15       558.0         NaN
+          9.0  Marie-Laure THIEUX  10:10:54       646.0         NaN
+         10.0     Gregoire MASNOU  10:46:38       629.0         NaN

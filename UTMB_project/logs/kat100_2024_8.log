@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: kat100 | Year: 2024 | Race: 8
+======================================================================
+Loaded 107 runners from data/kat100_2024_8.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 106 runners...
+Fetching scores:   0%|                                                  | 0/106 [00:00<?, ?runner/s]Fetching scores:   9%|███▊                                     | 10/106 [00:03<00:37,  2.59runner/s]Fetching scores:  19%|███████▋                                 | 20/106 [00:05<00:20,  4.25runner/s]Fetching scores:  29%|███████████▉                             | 31/106 [00:05<00:10,  6.93runner/s]Fetching scores:  49%|████████████████████                     | 52/106 [00:06<00:04, 12.41runner/s]Fetching scores:  58%|███████████████████████▉                 | 62/106 [00:07<00:03, 11.67runner/s]Fetching scores:  73%|█████████████████████████████▊           | 77/106 [00:08<00:02, 13.42runner/s]Fetching scores:  82%|█████████████████████████████████▋       | 87/106 [00:09<00:01, 10.78runner/s]Fetching scores:  92%|█████████████████████████████████████▌   | 97/106 [00:10<00:00, 11.78runner/s]Fetching scores: 100%|████████████████████████████████████████| 106/106 [00:11<00:00,  9.35runner/s]
+  Saved to data/kat100_2024_8.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/91
+
+Top 10 finishers:
+ rank_scratch                 name race_time  utmb_index  utmb_score
+          1.0       Lauren RUSSELL  00:32:50         NaN         NaN
+          2.0  Anton WECHSELBERGER  00:33:04       701.0         NaN
+          3.0     Daniel MAURACHER  00:36:48         NaN         NaN
+          4.0     Christian AIGNER  00:37:16       543.0         NaN
+          5.0        Helmut GRUBER  00:40:06         NaN         NaN
+          6.0          Joel BECKER  00:40:24         NaN         NaN
+          7.0       Juan FERNANDEZ  00:41:16         NaN         NaN
+          8.0           Freja BÜLL  00:41:54         NaN         NaN
+          9.0    Morten KRISTENSEN  00:42:02         NaN         NaN
+         10.0          Sara AHLERS  00:42:34         NaN         NaN

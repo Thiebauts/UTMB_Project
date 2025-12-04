@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: grandraidventoux | Year: 2024 | Race: 125km
+======================================================================
+Loaded 150 runners from data/grandraidventoux_2024_125km.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 141 runners...
+Fetching scores:   0%|                                                  | 0/141 [00:00<?, ?runner/s]Fetching scores:  42%|████████████████▋                       | 59/141 [00:00<00:00, 116.75runner/s]Fetching scores:  49%|████████████████████                     | 69/141 [00:04<00:05, 13.20runner/s]Fetching scores:  56%|██████████████████████▉                  | 79/141 [00:05<00:05, 10.73runner/s]Fetching scores:  63%|█████████████████████████▉               | 89/141 [00:06<00:05, 10.38runner/s]Fetching scores:  70%|████████████████████████████▊            | 99/141 [00:09<00:05,  7.45runner/s]Fetching scores:  77%|██████████████████████████████▉         | 109/141 [00:10<00:04,  7.66runner/s]Fetching scores:  84%|█████████████████████████████████▊      | 119/141 [00:12<00:03,  6.96runner/s]Fetching scores:  91%|████████████████████████████████████▌   | 129/141 [00:18<00:03,  3.57runner/s]Fetching scores:  99%|███████████████████████████████████████▍| 139/141 [00:22<00:00,  3.12runner/s]Fetching scores: 100%|████████████████████████████████████████| 141/141 [00:23<00:00,  5.97runner/s]
+  Saved to data/grandraidventoux_2024_125km.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/104
+
+Top 10 finishers:
+ rank_scratch                        name race_time  utmb_index  utmb_score
+          1.0  Pierre-Arnaud BOURGUENOLLE  15:21:35         NaN         NaN
+          2.0               Antoine BIARD  16:27:35         NaN         NaN
+          3.0             Davy CHIAVARINO  17:54:35       581.0         NaN
+          4.0               Michael CLAVE  17:58:21       678.0         NaN
+          5.0               Eric CHARAVEL  18:13:42       688.0         NaN
+          6.0                Victor MILLE  18:17:01       643.0         NaN
+          7.0              Thibaut MANSON  18:30:10       559.0         NaN
+          7.0          Christophe LE SAUX  18:30:10         NaN         NaN
+          9.0             Aurélien DUROND  19:07:07       575.0         NaN
+         10.0     Jose Manuel VICO ANDREO  19:14:44         NaN         NaN

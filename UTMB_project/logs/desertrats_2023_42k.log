@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: desertrats | Year: 2023 | Race: 42k
+======================================================================
+Loaded 119 runners from data/desertrats_2023_42k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 100 runners...
+Fetching scores:   0%|                                                  | 0/100 [00:00<?, ?runner/s]Fetching scores:  10%|████                                     | 10/100 [00:02<00:22,  4.00runner/s]Fetching scores:  20%|████████▏                                | 20/100 [00:03<00:11,  6.92runner/s]Fetching scores:  30%|████████████▎                            | 30/100 [00:03<00:07,  9.41runner/s]Fetching scores:  40%|████████████████▍                        | 40/100 [00:04<00:05, 11.35runner/s]Fetching scores:  59%|████████████████████████▏                | 59/100 [00:05<00:02, 15.55runner/s]Fetching scores:  69%|████████████████████████████▎            | 69/100 [00:05<00:01, 16.11runner/s]Fetching scores:  79%|████████████████████████████████▍        | 79/100 [00:06<00:01, 13.68runner/s]Fetching scores:  89%|████████████████████████████████████▍    | 89/100 [00:07<00:00, 13.63runner/s]Fetching scores:  99%|████████████████████████████████████████▌| 99/100 [00:08<00:00, 12.47runner/s]Fetching scores: 100%|████████████████████████████████████████| 100/100 [00:12<00:00,  7.71runner/s]
+  Saved to data/desertrats_2023_42k.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/89
+
+Top 10 finishers:
+ rank_scratch              name race_time  utmb_index  utmb_score
+          1.0    Chris SOVACOOL  03:38:55         NaN         NaN
+          2.0    John DRAMINSKI  04:21:59         NaN         NaN
+          3.0     Raquel HARPER  04:22:07       605.0         NaN
+          4.0        Bob AFRICA  04:27:48         NaN         NaN
+          5.0    Ethan BARBIERE  04:30:24         NaN         NaN
+          6.0  Colleen LOUGHLIN  04:31:40         NaN         NaN
+          7.0   Dan THURNHOFFER  04:31:43       653.0         NaN
+          8.0   Daniel FORGRAVE  04:38:28       526.0         NaN
+          9.0    Noemie NOULLET  04:40:41         NaN         NaN
+         10.0      Dave MEDICUS  04:43:22         NaN         NaN

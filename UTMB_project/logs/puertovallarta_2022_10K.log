@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: puertovallarta | Year: 2022 | Race: 10K
+======================================================================
+Loaded 136 runners from data/puertovallarta_2022_10K.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 18 runners...
+Fetching scores:   0%|                                                   | 0/18 [00:00<?, ?runner/s]Fetching scores:  56%|███████████████████████▎                  | 10/18 [00:07<00:05,  1.39runner/s]Fetching scores: 100%|██████████████████████████████████████████| 18/18 [00:12<00:00,  1.48runner/s]
+  Saved to data/puertovallarta_2022_10K.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/107
+
+Top 10 finishers:
+ rank_scratch                               name race_time  utmb_index  utmb_score
+          1.0                      Humberto Meza  00:51:12         NaN         NaN
+          2.0           Esteban González Jiménez  00:59:57         NaN         NaN
+          3.0                       Joshua Egure  01:03:57         NaN         NaN
+          4.0       Ulices Abraham Montoya Olivo  01:06:51         NaN         NaN
+          5.0              Aaron Puentes Santana  01:09:46         NaN         NaN
+          6.0                      Miryam Mancha  01:10:30         NaN         NaN
+          7.0                        Samuel Atic  01:11:19         NaN         NaN
+          8.0                Tania Zaragoza Cano  01:12:26         NaN         NaN
+          9.0                Ricardo Castellanos  01:19:52         NaN         NaN
+         10.0  Berenice Jazmin Jauregui Castillo  01:20:22         NaN         NaN

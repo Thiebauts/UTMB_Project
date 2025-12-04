@@ -1,0 +1,33 @@
+# Race: Unknown
+# Distance: 1.2 km
+# D+: 50 m
+# D-: 50 m
+# Date: 2024-07-07
+# URL: https://live.utmb.world/tvsb/2024
+bib,name,country,age,sex,category,club,utmb_profile_url,utmb_index,rank_scratch,rank_sex,rank_category,race_time,race_time_seconds,is_finisher,status,utmb_score
+7010,Gaspard THIEBAUT,FR,9,H,PoussAM,Team Trail Aire,,,3.0,2.0,2.0,00:06:04,364.02,True,f,
+7007,César BARTHELEMY,FR,9,H,PoussAM,,,,3.0,2.0,2.0,00:06:04,364.99,True,f,
+7013,Emile DEHESELLE,FR,8,H,PoussAM,,,,6.0,5.0,5.0,00:06:13,373.96,True,f,
+7033,Nolan HOLZER,CH,8,H,PoussAM,,,,8.0,7.0,6.0,00:06:22,382.2,True,f,
+7008,Loris SARRASIN,CH,8,H,PoussAM,,,,11.0,8.0,7.0,00:06:34,394.11,True,f,
+7045,Lisa PELLOIN,FR,9,F,PoussAW,,,,16.0,5.0,5.0,00:07:03,423.71,True,f,
+7048,Agathe BONNET,FR,8,F,PoussAW,,,,19.0,7.0,7.0,00:07:17,437.08,True,f,
+7023,Nikki SKOGLUND,SE,9,F,PoussAW,,,,21.0,8.0,8.0,00:07:19,439.29,True,f,
+7019,Nathan NASSOY,FR,7,H,PoussBM,,,,22.0,14.0,4.0,00:07:30,450.16,True,f,
+7047,Justine PELLOIN,FR,9,F,PoussAW,,,,23.0,9.0,9.0,00:07:32,452.57,True,f,
+7040,Sam-Anh VAN DER EECKEN,CH,6,H,PoussBM,,,,26.0,16.0,6.0,00:07:39,459.14,True,f,
+7038,Owen ROELING,NL,9,H,PoussAM,,,,29.0,18.0,12.0,00:07:50,470.58,True,f,
+7024,Maoni FAIVRE,FR,5,H,PoussBM,,,,39.0,25.0,10.0,00:08:26,506.65,True,f,
+7020,Leo WISEMAN,GB,8,H,PoussAM,,,,47.0,30.0,18.0,00:08:58,538.24,True,f,
+7030,Ludovic BROCCARD,CH,6,H,PoussBM,,,,50.0,33.0,15.0,00:09:12,552.57,True,f,
+7022,Andre TOOLE,US,6,H,PoussBM,,,,53.0,35.0,17.0,00:09:31,571.26,True,f,
+7018,Dylan FENG,TW,7,H,PoussBM,,,,58.0,37.0,19.0,00:10:15,615.95,True,f,
+7053,Ella Simone GRAY,US,5,F,PoussBW,,,,68.0,29.0,17.0,00:13:42,822.22,True,f,
+7002,Iris HÄLLÅS,SE,6,F,PoussBW,CIRKUS HÄLLÅS,,,69.0,30.0,18.0,00:00:00,0.0,False,a,
+7015,Ayla VAN DER EECKEN,CH,4,F,PoussBW,,,,,,,00:00:00,0.0,False,np,
+7001,Eder MICHAELA,AT,52,F,50-54W,KSU Gutenstein,https://utmb.world/runner/5521327.eder.michaela,,,,,00:00:00,0.0,False,np,
+7029,Sebastian VARGAS,DK,9,H,PoussAM,,,,,,,00:00:00,0.0,False,np,
+7016,Moritz FIEBER,DE,8,H,PoussAM,Ultra Tortugas,,,,,,00:00:00,0.0,False,np,
+7042,Lucille CHOIN,FR,7,F,PoussBW,,,,,,,00:00:00,0.0,False,np,
+7027,Marcel KONIECZNIAK,PL,8,H,PoussAM,,,,,,,00:00:00,0.0,False,np,
+7034,Elsa TSCHUDI,FR,7,F,PoussBW,,,,,,,00:00:00,0.0,False,np,

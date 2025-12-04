@@ -1,0 +1,34 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: grindstone | Year: 2025 | Race: 21K
+======================================================================
+Loaded 169 runners from data/grindstone_2025_21K.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 167 runners...
+Fetching scores:   0%|                                                  | 0/167 [00:00<?, ?runner/s]Fetching scores:   6%|██▍                                      | 10/167 [00:09<02:23,  1.10runner/s]Fetching scores:  12%|████▉                                    | 20/167 [00:10<01:09,  2.13runner/s]Fetching scores:  18%|███████▎                                 | 30/167 [00:13<00:54,  2.50runner/s]Fetching scores:  24%|█████████▊                               | 40/167 [00:18<00:51,  2.46runner/s]Fetching scores:  30%|████████████▎                            | 50/167 [00:21<00:46,  2.50runner/s]Fetching scores:  36%|██████████████▋                          | 60/167 [00:22<00:31,  3.37runner/s]Fetching scores:  42%|█████████████████▏                       | 70/167 [00:23<00:22,  4.35runner/s]Fetching scores:  49%|████████████████████▏                    | 82/167 [00:24<00:14,  5.82runner/s]Fetching scores:  55%|██████████████████████▌                  | 92/167 [00:25<00:10,  7.16runner/s]Fetching scores:  61%|████████████████████████▍               | 102/167 [00:26<00:08,  7.72runner/s]Fetching scores:  67%|██████████████████████████▊             | 112/167 [00:27<00:07,  7.54runner/s]Fetching scores:  73%|█████████████████████████████▏          | 122/167 [00:29<00:06,  7.48runner/s]Fetching scores:  82%|████████████████████████████████▊       | 137/167 [00:30<00:03,  9.16runner/s]Fetching scores:  91%|████████████████████████████████████▍   | 152/167 [00:30<00:01, 12.12runner/s]Fetching scores:  97%|██████████████████████████████████████▊ | 162/167 [00:31<00:00, 11.38runner/s]Fetching scores: 100%|████████████████████████████████████████| 167/167 [00:32<00:00,  5.21runner/s]
+  Saved to data/grindstone_2025_21K.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 129/133
+Score range: 217 - 663
+Mean score: 379
+
+Top 10 finishers:
+ rank_scratch              name race_time  utmb_index  utmb_score
+          1.0    Adelyn FAIRLEY  01:35:54         NaN       663.0
+          2.0   Caleb KIRCHHOFF  01:38:15         NaN       647.0
+          3.0      Jonathan TAY  01:59:45       522.0       531.0
+          4.0       Devon FOGEL  02:00:25         NaN       528.0
+          5.0       Fiona GREIG  02:00:28       523.0       528.0
+          6.0    Chris SCHAFFER  02:01:52         NaN       521.0
+          7.0    Cale ARMSTRONG  02:04:44         NaN       509.0
+          8.0  Heather GOLLNICK  02:05:58       538.0       505.0
+          9.0     Jacques HINCE  02:07:42         NaN       498.0
+         10.0        Ryan TIPPS  02:09:08         NaN       492.0

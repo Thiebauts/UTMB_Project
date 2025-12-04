@@ -1,0 +1,815 @@
+# Race: Unknown
+# Distance: 42.1 km
+# D+: 950 m
+# D-: 950 m
+# Date: 2025-04-12
+# URL: https://live.utmb.world/100milesofistria/2025
+bib,name,country,age,sex,category,club,utmb_profile_url,utmb_index,rank_scratch,rank_sex,rank_category,race_time,race_time_seconds,is_finisher,status,utmb_score
+3003,Sammy Rotich CHELANGAT,KE,25,H,20-34M,run2gether,https://utmb.world/runner/5878198.sammyrotich.chelangat,864.0,1.0,1.0,1.0,02:51:46,10306.056999999999,True,f,869.0
+3005,Linus HULTEGÅRD,SE,35,H,35-39M,Craft,https://utmb.world/runner/321121.linus.hultegard,846.0,2.0,2.0,1.0,02:56:30,10590.587,True,f,846.0
+3008,Manuel HARTWEG,DE,36,H,35-39M,LG Rülzheim,https://utmb.world/runner/4919023.manuel.hartweg,774.0,3.0,3.0,2.0,03:05:03,11103.306,True,f,807.0
+3001,Martyna MLYNARCZYK,PL,36,F,35-39W,HOKA,https://utmb.world/runner/5347840.martyna.mlynarczyk,769.0,4.0,1.0,1.0,03:15:01,11701.462,True,f,766.0
+3011,Andreas POSTL,AT,36,H,35-39M,,https://utmb.world/runner/524959.andreas.postl,734.0,5.0,4.0,3.0,03:21:53,12113.421999999999,True,f,740.0
+3754,Stanislav POPOV,AN,25,H,20-34M,RUNAWAY Barcelona,https://utmb.world/runner/6841017.stanislav.popov,,6.0,5.0,2.0,03:31:52,12712.873,True,f,705.0
+3048,Enrico TESSER,IT,44,H,40-44M,ASD Villa De Sanctis,https://utmb.world/runner/5965281.enrico.tesser,649.0,7.0,6.0,1.0,03:34:44,12884.425,True,f,695.0
+3063,Sam RODDA,GB,25,H,20-34M,Reading AC,https://utmb.world/runner/4879731.sam.rodda,597.0,8.0,7.0,3.0,03:35:40,12940.114,True,f,692.0
+3017,Luka MESAREC,SI,36,H,35-39M,,https://utmb.world/runner/6850534.luka.mesarec,701.0,9.0,8.0,4.0,03:36:00,12960.087,True,f,691.0
+3052,Andres BLANES LOPEZ,ES,33,H,20-34M,,https://utmb.world/runner/3304977.andres.blaneslopez,615.0,10.0,9.0,4.0,03:38:25,13105.386,True,f,684.0
+3042,Camilla RIZZARDI,IT,25,F,20-34W,Team Fuga Kailas,https://utmb.world/runner/6108175.camilla.rizzardi,629.0,11.0,2.0,1.0,03:40:13,13213.975,True,f,678.0
+3009,Luka NEDELJKOVIĆ,HR,27,H,20-34M,AK Rika,https://utmb.world/runner/5062855.luka.nedeljkovic,745.0,12.0,10.0,5.0,03:45:57,13557.353000000001,True,f,661.0
+3025,Tomislav BOSNJAK,AT,50,H,50-54M,Austrian Skyrunning & Trailrunning Association,https://utmb.world/runner/5489101.tomislav.bosnjak,673.0,13.0,11.0,1.0,03:46:37,13597.258,True,f,659.0
+3035,Martina DAL BOSCO,IT,36,F,35-39W,Team Scarpa,https://utmb.world/runner/3310101.martina.dalbosco,651.0,14.0,3.0,2.0,03:51:17,13877.538,True,f,646.0
+3036,Alessio DE ROSSI,IT,40,H,40-44M,Vicenza Runners,https://utmb.world/runner/1891757.alessio.derossi,685.0,15.0,12.0,2.0,03:51:56,13916.486,True,f,644.0
+3056,Morgan COCHEREL,FR,30,H,20-34M,NEC Nantes,https://utmb.world/runner/5450707.morgan.cocherel,613.0,16.0,13.0,6.0,03:52:36,13956.9,True,f,642.0
+3028,Egor RUCHNIKOV,AN,35,H,35-39M,,https://utmb.world/runner/2344767.egor.ruchnikov,665.0,17.0,14.0,5.0,03:53:30,14010.657,True,f,640.0
+3033,Sofia TONIOLO,IT,28,F,20-34W,Bolf Team,https://utmb.world/runner/3751723.sofia.toniolo,654.0,18.0,4.0,2.0,03:53:36,14016.761,True,f,639.0
+3051,Vicente HERRERA SOLAZ,ES,48,H,45-49M,Correcaminos,https://utmb.world/runner/487090.vicente.herrerasolaz,620.0,19.0,15.0,1.0,03:56:08,14168.362,True,f,632.0
+3022,Balazs FILE,HU,42,H,40-44M,,https://utmb.world/runner/731649.balazs.file,688.0,20.0,16.0,3.0,03:56:13,14173.729,True,f,632.0
+3047,Adrien TOULY,FR,38,H,35-39M,Metz Triathlon,https://utmb.world/runner/5067533.adrien.touly,626.0,21.0,17.0,6.0,03:56:20,14180.202,True,f,632.0
+3055,Simon GRÜNBERGER,AT,47,H,45-49M,,https://utmb.world/runner/2228023.simon.grunberger,615.0,22.0,18.0,2.0,03:57:34,14254.578000000001,True,f,629.0
+3031,Benjamin PECHOT,FR,35,H,35-39M,,https://utmb.world/runner/4592356.benjamin.pechot,660.0,23.0,19.0,7.0,03:58:52,14332.186000000002,True,f,625.0
+3020,Botond KRISTALY,RO,29,H,20-34M,Hoka Romania,https://utmb.world/runner/5648997.botond.kristaly,693.0,24.0,20.0,7.0,03:59:52,14392.47,True,f,623.0
+3097,Carlos COMENDADOR,ES,33,H,20-34M,,https://utmb.world/runner/6362762.carlos.comendador,555.0,25.0,21.0,8.0,04:00:07,14407.788999999999,True,f,622.0
+3597,Allan LE BOHEC,FR,25,H,20-34M,Duc Army,https://utmb.world/runner/6540457.allan.lebohec,,26.0,22.0,9.0,04:02:27,14547.685,True,f,616.0
+3058,Vanja CEROVAC,HR,34,H,20-34M,Srk Sport Box,https://utmb.world/runner/4416176.vanja.cerovac,609.0,27.0,23.0,10.0,04:02:46,14566.877,True,f,615.0
+3090,Michal JURČ,CZ,45,H,45-49M,MJ Family Sport Team,https://utmb.world/runner/6180907.michal.jurc,558.0,28.0,24.0,3.0,04:03:19,14599.853000000001,True,f,614.0
+3061,Flaviano FATUZZO,IT,35,H,35-39M,Swatt Club,https://utmb.world/runner/3658059.flaviano.fatuzzo,599.0,29.0,25.0,8.0,04:04:25,14665.722,True,f,611.0
+3060,Rudolf WOHLFART,RO,44,H,40-44M,-,https://utmb.world/runner/5666573.rudolf.wohlfart,601.0,30.0,26.0,4.0,04:05:00,14700.18,True,f,610.0
+3013,Manfred HIGLSPERGER,AT,40,H,40-44M,TTC-Traunsee Trailrunning Club,https://utmb.world/runner/2211363.manfred.higlsperger,717.0,31.0,27.0,5.0,04:05:51,14751.732,True,f,607.0
+3019,Till WINKLER,DE,49,H,45-49M,3MOUNTAINTRAIL,https://utmb.world/runner/81120.till.winkler,694.0,32.0,28.0,4.0,04:06:59,14819.476,True,f,605.0
+3044,Anna WINKLEHNER,CH,41,F,40-44W,STB,https://utmb.world/runner/2283441.anna.winklehner,627.0,33.0,5.0,1.0,04:08:01,14881.143999999998,True,f,602.0
+3007,Jonathan COX,GB,34,H,20-34M,Eden Runners,https://utmb.world/runner/3307507.jonathan.cox,776.0,34.0,29.0,11.0,04:08:33,14913.396,True,f,601.0
+3126,Anna WUCHERER,AT,36,F,35-39W,,https://utmb.world/runner/6701434.anna.wucherer,530.0,35.0,6.0,3.0,04:08:36,14916.886999999999,True,f,601.0
+3062,Marika KROHNS,FI,32,F,20-34W,Team Los Pulpitos,https://utmb.world/runner/774150.marika.krohns,599.0,36.0,7.0,3.0,04:09:08,14948.979,True,f,599.0
+3034,Johanna EHRENKLAU,DE,33,F,20-34W,the north face,https://utmb.world/runner/4219325.johanna.ehrenklau,652.0,37.0,8.0,4.0,04:10:14,15014.912,True,f,597.0
+3762,Matthias WEBER,AT,35,H,35-39M,runninGraz,https://utmb.world/runner/6777649.matthias.weber,,38.0,30.0,9.0,04:11:38,15098.633999999998,True,f,593.0
+3026,Karina MAIER,DE,39,F,35-39W,TSV Detag Wernberg,https://utmb.world/runner/5585821.karina.maier,673.0,39.0,9.0,4.0,04:12:18,15138.293,True,f,592.0
+3154,Simon SCHMUDERER,DE,29,H,20-34M,,https://utmb.world/runner/2156893.simon.schmuderer,510.0,40.0,31.0,12.0,04:12:19,15139.203000000001,True,f,592.0
+3068,Vincent NANCEY,FR,47,H,45-49M,Tos athlétisme,https://utmb.world/runner/499475.vincent.nancey,588.0,41.0,32.0,5.0,04:12:27,15147.198999999999,True,f,592.0
+3057,Anja ZIMA,SI,38,F,35-39W,,https://utmb.world/runner/666446.anja.zima,610.0,42.0,10.0,5.0,04:13:41,15221.098,True,f,589.0
+3027,Patryk PIĘKNIK,PL,34,H,20-34M,Trail is our way,https://utmb.world/runner/4485564.patryk.pieknik,672.0,43.0,33.0,13.0,04:14:36,15276.141000000001,True,f,587.0
+3049,Vili KOMEL,SI,26,H,20-34M,,https://utmb.world/runner/6490006.vili.komel,661.0,44.0,34.0,14.0,04:18:27,15507.653999999999,True,f,578.0
+3029,Michele ZORZI,IT,38,H,35-39M,,https://utmb.world/runner/982325.michele.zorzi,661.0,44.0,34.0,10.0,04:18:27,15507.566,True,f,578.0
+3095,Jan VANCURA,CZ,38,H,35-39M,,https://utmb.world/runner/6486003.jan.vancura,556.0,46.0,36.0,11.0,04:20:01,15601.86,True,f,574.0
+3083,Marcos JOEL NUNEZ PEREZ,UY,44,H,40-44M,Diez Club,https://utmb.world/runner/4340944.marcos.joelnunezperez,570.0,47.0,37.0,6.0,04:20:16,15616.708999999999,True,f,574.0
+3670,Vladimir GNIP,HR,44,H,40-44M,,https://utmb.world/runner/6232233.vladimir.gnip,,48.0,38.0,7.0,04:21:44,15704.393999999998,True,f,571.0
+3039,Jiri KABAJA,CZ,51,H,50-54M,Milota Tea,https://utmb.world/runner/2966619.jiri.kabaja,638.0,49.0,39.0,2.0,04:22:17,15737.067,True,f,569.0
+3064,Martin HOFFBERGER,AT,32,H,20-34M,TTC - Traunsee Trailrunning Club,https://utmb.world/runner/5970219.martin.hoffberger,595.0,50.0,40.0,15.0,04:22:22,15742.708,True,f,569.0
+3107,Matej FETIH,SI,50,H,50-54M,OTP banka,https://utmb.world/runner/4245059.matej.fetih,545.0,51.0,41.0,3.0,04:22:49,15769.351,True,f,568.0
+3076,Daniel SAURUG,AT,30,H,20-34M,,https://utmb.world/runner/561700.daniel.saurug,575.0,52.0,42.0,16.0,04:23:19,15799.553,True,f,567.0
+3283,Jean-Francois SURET,FR,43,H,40-44M,,https://utmb.world/runner/3490961.jeanfrancois.suret,446.0,53.0,43.0,8.0,04:24:25,15865.058,True,f,565.0
+3119,Claudiu TEREC,RO,36,H,35-39M,CugiRace,https://utmb.world/runner/2116993.claudiu.terec,534.0,54.0,44.0,12.0,04:25:40,15940.308,True,f,562.0
+3099,Mariola LASSOTA-BUJAK,PL,47,F,45-49W,42kProTeam,https://utmb.world/runner/2169709.mariola.lassotabujak,552.0,55.0,11.0,1.0,04:26:41,16001.603000000001,True,f,560.0
+3072,Miroslav PAVLÍK,CZ,61,H,60-64M,MOUNTAINTIME.cz,https://utmb.world/runner/1680455.miroslav.pavlik,579.0,56.0,45.0,1.0,04:26:58,16018.034,True,f,559.0
+3156,Deja JAKOPIČ,SI,40,F,40-44W,,https://utmb.world/runner/3457031.deja.jakopic,522.0,57.0,12.0,2.0,04:27:05,16025.393999999998,True,f,559.0
+3103,Daniel SLIACKY,SK,29,H,20-34M,Ružomberok,https://utmb.world/runner/6219296.daniel.sliacky,549.0,58.0,46.0,17.0,04:27:58,16078.75,True,f,557.0
+3100,Marisa OTT,AT,30,F,20-34W,TTC,https://utmb.world/runner/5970211.marisa.ott,552.0,59.0,13.0,5.0,04:28:09,16089.171999999999,True,f,557.0
+3045,Stefan FELLNER,AT,35,H,35-39M,,https://utmb.world/runner/6608987.stefan.fellner,627.0,60.0,47.0,13.0,04:30:16,16216.245,True,f,553.0
+3096,Ioana-Maria SERBAN,RO,26,F,20-34W,,https://utmb.world/runner/4127973.ioanamaria.serban,555.0,61.0,14.0,6.0,04:30:43,16243.587,True,f,552.0
+3145,Zhivko ZHELYAZKOV,BG,57,H,55-59M,BackpackMoments.com,https://utmb.world/runner/4190590.zhivko.zhelyazkov,518.0,62.0,48.0,1.0,04:30:45,16245.551000000001,True,f,552.0
+3066,Maksim JERMAN,HR,41,H,40-44M,SRK RunningFox,https://utmb.world/runner/422890.maksim.jerman,593.0,63.0,49.0,9.0,04:31:06,16266.638,True,f,551.0
+3592,Fran VOLOVIĆ,HR,35,H,35-39M,Triatlon klub Poreč,https://utmb.world/runner/6483437.fran.volovic,,63.0,49.0,14.0,04:31:06,16266.456,True,f,551.0
+3688,Hrvoje MESTRIC,HR,42,H,40-44M,,https://utmb.world/runner/6796419.hrvoje.mestric,,65.0,51.0,10.0,04:31:49,16309.088,True,f,549.0
+3690,Martins RAGAINIS,LV,42,H,40-44M,,https://utmb.world/runner/3983315.martins.ragainis,,66.0,52.0,11.0,04:33:02,16382.339,True,f,
+3059,Tomas JURAN,CZ,49,H,45-49M,FIT  NINJA,https://utmb.world/runner/4512326.tomas.juran,608.0,67.0,53.0,6.0,04:33:13,16393.42,True,f,547.0
+3162,Eva OCVIRK,HR,52,F,50-54W,,https://utmb.world/runner/1684877.eva.ocvirk,505.0,68.0,15.0,1.0,04:33:38,16418.881999999998,True,f,546.0
+3695,Andrea FILIPPI,IT,26,H,20-34M,,https://utmb.world/runner/6741085.andrea.filippi,,69.0,54.0,18.0,04:33:58,16438.804,True,f,545.0
+3227,Jean Philippe DENNEMONT,FR,58,H,55-59M,,https://utmb.world/runner/5785535.jeanphilippe.dennemont,471.0,70.0,55.0,2.0,04:34:00,16440.173,True,f,545.0
+3216,Arzu BELTEKIN,TR,45,F,45-49W,Academy of Running,https://utmb.world/runner/5622574.arzu.beltekin,477.0,71.0,16.0,2.0,04:34:12,16452.474,True,f,545.0
+3183,Rémy BRASSEUR,FR,39,H,35-39M,,https://utmb.world/runner/5904315.remy.brasseur,495.0,72.0,56.0,15.0,04:34:31,16471.288,True,f,544.0
+3074,Hannes POMBERGER,AT,52,H,50-54M,HOT! Gosau,https://utmb.world/runner/6624259.hannes.pomberger,577.0,73.0,57.0,4.0,04:34:34,16474.058999999997,True,f,544.0
+3053,Angelika HAHN,DE,53,F,50-54W,,https://utmb.world/runner/1344053.angelika.hahn,618.0,74.0,17.0,2.0,04:34:50,16490.986,True,f,543.0
+3085,Fabien GRAZIANI,FR,30,H,20-34M,,https://utmb.world/runner/1645715.fabien.graziani,569.0,75.0,58.0,19.0,04:35:40,16540.181,True,f,542.0
+3040,Daniele PALLINI,IT,40,H,40-44M,ASD Cologna Spiaggia,https://utmb.world/runner/5492577.daniele.pallini,637.0,76.0,59.0,12.0,04:36:08,16568.658,True,f,541.0
+3229,Luca GRIMAUDO,IT,35,H,35-39M,,https://utmb.world/runner/6725250.luca.grimaudo,505.0,77.0,60.0,16.0,04:36:19,16579.488,True,f,540.0
+3093,Lisa STADLER,AT,32,F,20-34W,TTC - Traunsee Trailrunning Club,https://utmb.world/runner/5988665.lisa.stadler,557.0,78.0,18.0,7.0,04:36:27,16587.29,True,f,540.0
+3147,Ulaş TOL,TR,51,H,50-54M,Run for Beer,https://utmb.world/runner/2480909.ulas.tol,517.0,79.0,61.0,5.0,04:37:06,16626.611,True,f,539.0
+3078,Steve SHANAHAN,GB,35,H,35-39M,,https://utmb.world/runner/4878925.steve.shanahan,575.0,80.0,62.0,17.0,04:37:19,16639.988999999998,True,f,539.0
+3102,Ben CAMERON,NZ,44,H,40-44M,FULHAM RUNNING CLUB,https://utmb.world/runner/295260.ben.cameron,550.0,81.0,63.0,13.0,04:37:54,16674.817,True,f,537.0
+3266,Tomáš BUCHTA,SK,38,H,35-39M,,https://utmb.world/runner/5988497.tomas.buchta,451.0,82.0,64.0,18.0,04:38:02,16682.052,True,f,537.0
+3710,Andrea BAROSCO,IT,49,H,45-49M,Runners card,https://utmb.world/runner/4516044.andrea.barosco,,83.0,65.0,7.0,04:38:56,16736.929,True,f,535.0
+3702,Srđan RUŠKIĆ,BA,32,H,20-34M,,,,84.0,66.0,20.0,04:39:09,16749.764,True,f,
+3186,Felix MEZO,ES,30,H,20-34M,,https://utmb.world/runner/6362774.felix.mezo,493.0,85.0,67.0,21.0,04:39:45,16785.116,True,f,534.0
+3113,Rafal DADOS,PL,45,H,45-49M,,https://utmb.world/runner/5531652.rafal.dados,539.0,86.0,68.0,8.0,04:39:46,16786.788,True,f,534.0
+3075,Daniel BRANDSTÄTTER,AT,31,H,20-34M,ATSV Nurmi Ternitz,https://utmb.world/runner/5590582.daniel.brandstatter,576.0,87.0,69.0,22.0,04:40:40,16840.093999999997,True,f,532.0
+3587,Samuel LA RONDIE,GB,19,H,18-19M,Durham University XC,https://utmb.world/runner/6747583.samuel.larondie,,88.0,70.0,1.0,04:40:42,16842.578,True,f,532.0
+3196,Corentin DHAYER,FR,31,H,20-34M,,https://utmb.world/runner/4403826.corentin.dhayer,486.0,89.0,71.0,23.0,04:41:36,16896.728,True,f,530.0
+3104,Jernej JARC,SI,34,H,20-34M,Jarc,https://utmb.world/runner/3064995.jernej.jarc,547.0,90.0,72.0,24.0,04:42:25,16945.773,True,f,529.0
+3043,Georg SMOLINER,AT,39,H,35-39M,Diabetes & Sport Trailrunning Austria,https://utmb.world/runner/876573.georg.smoliner,629.0,91.0,73.0,19.0,04:42:39,16959.773,True,f,528.0
+3091,Sven MARUSIC,HR,49,H,45-49M,ŽTO,https://utmb.world/runner/4161831.sven.marusic,557.0,92.0,74.0,9.0,04:42:46,16966.733,True,f,528.0
+3231,Yevheniia HODUN,UA,36,F,35-39W,#KubaPiechTeam,https://utmb.world/runner/2271007.yevheniia.hodun,503.0,93.0,19.0,6.0,04:42:49,16969.362,True,f,528.0
+3133,Martina MIKULCOVA,SK,38,F,35-39W,MT team,https://utmb.world/runner/4661524.martina.mikulcova,525.0,94.0,20.0,7.0,04:42:54,16974.96,True,f,528.0
+3084,Fabio MELISON,IT,36,H,35-39M,,https://utmb.world/runner/6463124.fabio.melison,580.0,95.0,75.0,20.0,04:44:00,17040.673,True,f,526.0
+3105,Carlos DINIS,PT,43,H,40-44M,Liz Runners,https://utmb.world/runner/2692835.carlos.dinis,546.0,96.0,76.0,14.0,04:44:58,17098.902,True,f,524.0
+3182,Josquin ANDRES,FR,35,H,35-39M,,https://utmb.world/runner/5533958.josquin.andres,496.0,97.0,77.0,21.0,04:45:31,17131.127,True,f,523.0
+3070,Fabio BERTOLDO,IT,40,H,40-44M,RUNCARD,https://utmb.world/runner/291273.fabio.bertoldo,585.0,98.0,78.0,15.0,04:45:33,17133.895,True,f,523.0
+3200,Kristian PERSSON,SE,44,H,40-44M,,https://utmb.world/runner/6263180.kristian.persson,484.0,99.0,79.0,16.0,04:46:00,17160.953,True,f,522.0
+3114,Alexander IVANOV,BG,37,H,35-39M,Mile 27,https://utmb.world/runner/3036633.alexander.ivanov,537.0,100.0,80.0,22.0,04:46:42,17202.468,True,f,521.0
+3080,Daniel HOLZKNECHT,AT,33,H,20-34M,"LC-Sport Ossi, KASV-Kramsach",https://utmb.world/runner/2228435.daniel.holzknecht,571.0,101.0,81.0,25.0,04:46:44,17204.545,True,f,521.0
+3116,Petr FLEISCHMANN,CZ,24,H,20-34M,,https://utmb.world/runner/5826161.petr.fleischmann,536.0,102.0,82.0,26.0,04:46:46,17206.463,True,f,521.0
+3253,Rastislav TVAROŽEK,SK,50,H,50-54M,RunningteamZV,https://utmb.world/runner/5175969.rastislav.tvarozek,459.0,103.0,83.0,6.0,04:47:10,17230.547,True,f,520.0
+3222,Ivana PRIŠLIN,HR,43,F,40-44W,KCIPT Samobor,https://utmb.world/runner/4416108.ivana.prislin,474.0,104.0,21.0,3.0,04:47:15,17235.881999999998,True,f,520.0
+3153,Sanda POTOR,RO,39,F,35-39W,CugiRace,https://utmb.world/runner/2117173.sanda.potor,513.0,105.0,22.0,8.0,04:47:34,17254.691000000003,True,f,519.0
+3117,Marcus REYMENDT,AT,36,H,35-39M,,https://utmb.world/runner/4701712.marcus.reymendt,536.0,106.0,84.0,23.0,04:47:43,17263.733,True,f,519.0
+3181,Milan ŽUPEVC,SI,43,H,40-44M,,https://utmb.world/runner/5481555.milan.zupevc,497.0,107.0,85.0,17.0,04:47:59,17279.88,True,f,519.0
+3132,Agnieszka REDKIEWICZ,PL,42,F,40-44W,SOBAS TEAM,https://utmb.world/runner/3942165.agnieszka.redkiewicz,525.0,108.0,23.0,4.0,04:49:11,17351.546000000002,True,f,516.0
+3106,Grzegorz CITUK,PL,48,H,45-49M,42k Pro Team,https://utmb.world/runner/4152168.grzegorz.cituk,546.0,109.0,86.0,10.0,04:49:29,17369.545,True,f,516.0
+3782,Jože ALIČ,SI,61,H,60-64M,,https://utmb.world/runner/5977569.joze.alic,,110.0,87.0,2.0,04:49:51,17391.918,True,f,515.0
+3176,Stefano CASSANELLA,IT,57,H,55-59M,Team Adventure,https://utmb.world/runner/1359511.stefano.cassanella,502.0,111.0,88.0,3.0,04:50:03,17403.256999999998,True,f,515.0
+3121,Primož ŠTENDLER,SI,47,H,45-49M,SPIN CENTER IZLAKE,https://utmb.world/runner/6088672.primoz.stendler,533.0,112.0,89.0,11.0,04:50:17,17417.152,True,f,514.0
+3614,Greg JAMES,GB,19,H,18-19M,,https://utmb.world/runner/6645179.greg.james,,113.0,90.0,2.0,04:51:16,17476.561999999998,True,f,513.0
+3125,Adriana RATKA,PL,34,F,20-34W,,https://utmb.world/runner/4153985.adriana.ratka,530.0,114.0,24.0,8.0,04:52:23,17543.117,True,f,511.0
+3150,Trevor INGRAM,GB,49,H,45-49M,Fulham Running Club,https://utmb.world/runner/3178235.trevor.ingram,515.0,115.0,91.0,12.0,04:53:03,17583.052,True,f,510.0
+3046,Mikael SERVAJEAN,FR,35,H,35-39M,ANNECY ATHLÉTISME,https://utmb.world/runner/336143.mikael.servajean,627.0,116.0,92.0,24.0,04:53:23,17603.33,True,f,509.0
+3161,Christian MACHER,AT,37,H,35-39M,,https://utmb.world/runner/3316775.christian.macher,505.0,117.0,93.0,25.0,04:53:27,17607.529,True,f,509.0
+3168,Kristijan PETRIĆ,HR,37,H,35-39M,,https://utmb.world/runner/5478633.kristijan.petric,502.0,118.0,94.0,26.0,04:53:30,17610.482,True,f,509.0
+3089,Sacha GILER,LU,31,H,20-34M,,https://utmb.world/runner/5349523.sacha.giler,560.0,119.0,95.0,27.0,04:53:39,17619.699,True,f,509.0
+3010,Mirco CONSOLARO,IT,30,H,20-34M,A.S.D. KM SPORT/ DURONA TEAM,https://utmb.world/runner/4365606.mirco.consolaro,745.0,120.0,96.0,28.0,04:54:01,17641.46,True,f,508.0
+3108,Matija BRLEK,HR,42,H,40-44M,Zagreb Runners,https://utmb.world/runner/3007447.matija.brlek,544.0,121.0,97.0,18.0,04:54:05,17645.18,True,f,508.0
+3174,Akos PUTNOKI,HU,32,H,20-34M,CoachT és az Elvetemültek,https://utmb.world/runner/4445898.akos.putnoki,502.0,122.0,98.0,29.0,04:54:40,17680.593999999997,True,f,507.0
+3128,Stian VERHERSTRAETEN,BE,23,H,20-34M,,https://utmb.world/runner/5462848.stian.verherstraeten,529.0,123.0,99.0,30.0,04:55:23,17723.697,True,f,506.0
+3018,Thomas BOURGAULT,FR,29,H,20-34M,LA GUEZ,https://utmb.world/runner/1546593.thomas.bourgault,693.0,124.0,100.0,31.0,04:55:48,17748.494,True,f,505.0
+3140,Félix MIQUEL,FR,25,H,20-34M,,https://utmb.world/runner/5042878.felix.miquel,520.0,124.0,100.0,31.0,04:55:48,17748.532,True,f,505.0
+3218,Darko JAKLENEC,HR,41,H,40-44M,IND,https://utmb.world/runner/6164366.darko.jaklenec,476.0,126.0,102.0,19.0,04:55:50,17750.467,True,f,505.0
+3077,Oliver BLANK,DE,49,H,45-49M,,https://utmb.world/runner/4248799.oliver.blank,575.0,127.0,103.0,13.0,04:55:57,17757.906000000003,True,f,505.0
+3252,Kata Zsuzsa KISS,HU,47,F,45-49W,,https://utmb.world/runner/3177617.katazsuzsa.kiss,459.0,128.0,25.0,3.0,04:55:59,17759.633,True,f,505.0
+3580,Wolfgang AHAMMER,AT,49,H,45-49M,,https://utmb.world/runner/6675823.wolfgang.ahammer,,129.0,104.0,14.0,04:56:00,17760.017,True,f,505.0
+3627,Henri MILLINGTON,GB,31,H,20-34M,,https://utmb.world/runner/6446883.henri.millington,,130.0,105.0,33.0,04:56:28,17788.838,True,f,504.0
+3718,Andreas TIPPELT,DE,56,H,55-59M,,https://utmb.world/runner/6867815.andreas.tippelt,,131.0,106.0,4.0,04:56:36,17796.406000000003,True,f,503.0
+3190,Željko ZGRABLIĆ,HR,40,H,40-44M,,https://utmb.world/runner/6369833.zeljko.zgrablic,490.0,132.0,107.0,20.0,04:56:49,17809.543999999998,True,f,503.0
+3179,Klaudia SZUBA-ŁATA,PL,29,F,20-34W,Enjoy by sport,https://utmb.world/runner/1069601.klaudia.szubalata,498.0,133.0,26.0,9.0,04:56:50,17810.875,True,f,503.0
+3765,Liam BRABY,GB,29,H,20-34M,Carnethy HRC,https://utmb.world/runner/6841003.liam.braby,,134.0,108.0,34.0,04:57:48,17868.498,True,f,501.0
+3193,Bernardo FALCI,BR,43,H,40-44M,,https://utmb.world/runner/4747062.bernardo.falci,489.0,135.0,109.0,21.0,04:58:34,17914.061,True,f,500.0
+3228,Kally BOSHNAKOVA,GB,30,F,20-34W,,https://utmb.world/runner/5275414.kally.boshnakova,471.0,136.0,27.0,10.0,04:58:50,17930.768,True,f,500.0
+3137,Martin TICHY,AT,57,H,55-59M,,https://utmb.world/runner/4211139.martin.tichy,522.0,137.0,110.0,5.0,04:59:42,17982.374,True,f,498.0
+3169,Polona BRAJKOVEC,SI,30,F,20-34W,,https://utmb.world/runner/2501725.polona.brajkovec,501.0,137.0,28.0,11.0,04:59:42,17982.694,True,f,498.0
+3220,Daniele COCO,IT,35,H,35-39M,,https://utmb.world/runner/5535815.daniele.coco,475.0,139.0,111.0,27.0,04:59:45,17985.636000000002,True,f,498.0
+3213,Jonna BERGHALL,FI,44,F,40-44W,,https://utmb.world/runner/5950860.jonna.berghall,479.0,140.0,29.0,5.0,04:59:50,17990.436,True,f,498.0
+3575,Maïlys XUEREB,FR,26,F,20-34W,,https://utmb.world/runner/6470095.mailys.xuereb,,141.0,30.0,12.0,04:59:51,17991.262,True,f,498.0
+3115,Matúš TRENČANSKÝ,SK,39,H,35-39M,HMB42,https://utmb.world/runner/5210519.matus.trencansky,536.0,142.0,112.0,28.0,04:59:53,17993.813000000002,True,f,498.0
+3129,Thomas SEIBOLD,DE,57,H,55-59M,Bayern München,https://utmb.world/runner/143149.thomas.seibold,528.0,143.0,113.0,6.0,05:00:47,18047.723,True,f,496.0
+3135,Marko HREN,SI,62,H,60-64M,Kinvital,https://utmb.world/runner/3456981.marko.hren,524.0,144.0,114.0,3.0,05:00:55,18055.103,True,f,496.0
+3141,Ludovic SEGUE,FR,47,H,45-49M,Stade Sottevillais 76,https://utmb.world/runner/4592576.ludovic.segue,518.0,145.0,115.0,15.0,05:01:15,18075.087,True,f,496.0
+3295,Colin SHAW,GB,55,H,55-59M,,https://utmb.world/runner/6260947.colin.shaw,442.0,146.0,116.0,7.0,05:01:18,18078.468999999997,True,f,496.0
+3197,Ivan JENDRUSA,HR,42,H,40-44M,AK Rika,https://utmb.world/runner/6637663.ivan.jendrusa,486.0,147.0,117.0,22.0,05:01:49,18109.342,True,f,495.0
+3067,Aljoša ŽNIDARŠIČ,SI,47,H,45-49M,,https://utmb.world/runner/2050575.znidarsic.aljosa,589.0,148.0,118.0,16.0,05:03:38,18218.558999999997,True,f,492.0
+3809,Tea POROAPAT,SI,40,F,40-44W,TeamPorty57,https://utmb.world/runner/6867817.tea.poroapat,,149.0,31.0,6.0,05:03:44,18224.11,True,f,492.0
+3109,Andras ANTAL,HU,22,H,20-34M,,https://utmb.world/runner/4788526.andras.antal,543.0,150.0,119.0,35.0,05:04:16,18256.74,True,f,491.0
+3071,Łukasz KOBIAŁKA,PL,48,H,45-49M,My endurance coaching,https://utmb.world/runner/4109383.lukasz.kobialka,579.0,151.0,120.0,17.0,05:04:30,18270.395,True,f,490.0
+3328,Santa LOGINA,LV,33,F,20-34W,Alpha Partners Sales Training,https://utmb.world/runner/4500531.santa.logina,431.0,152.0,32.0,13.0,05:04:37,18277.675,True,f,490.0
+3184,Stefano CARNIELLO,IT,47,H,45-49M,,https://utmb.world/runner/4631218.stefano.carniello,494.0,153.0,121.0,18.0,05:04:53,18293.495,True,f,490.0
+3139,Tomasz BARTECKI,PL,43,H,40-44M,,https://utmb.world/runner/1118329.tomasz.bartecki,521.0,154.0,122.0,23.0,05:05:06,18306.901,True,f,489.0
+3426,Priya CUOMO,GB,48,F,45-49W,,https://utmb.world/runner/3235763.priya.cuomo,381.0,155.0,33.0,4.0,05:05:23,18323.029,True,f,489.0
+3172,Marek MIKEL,CZ,36,H,35-39M,Hammer OCR team,https://utmb.world/runner/5988373.marek.mikel,502.0,156.0,123.0,29.0,05:05:27,18327.29,True,f,489.0
+3259,Goran OMRCEN-CEKO,HR,58,H,55-59M,,https://utmb.world/runner/5972090.goran.omrcenceko,454.0,157.0,124.0,8.0,05:06:27,18387.527,True,f,487.0
+3155,Matteo MODINO,IT,33,H,20-34M,,https://utmb.world/runner/5985619.matteo.modino,509.0,158.0,125.0,36.0,05:06:41,18401.569,True,f,487.0
+3232,Valerie HOLLSTEIN,AT,30,F,20-34W,,https://utmb.world/runner/6511064.valerie.hollstein,468.0,159.0,34.0,14.0,05:06:47,18407.22,True,f,487.0
+3180,Hanna RABIEJ- OLSZEWSKA,PL,40,F,40-44W,SOBAS TEAM,https://utmb.world/runner/6260913.hanna.rabiejolszewska,497.0,160.0,35.0,7.0,05:06:58,18418.842,True,f,486.0
+3316,Mišel FARAGUNA,HR,44,H,40-44M,Garaža gym,https://utmb.world/runner/3470315.misel.faraguna,433.0,161.0,126.0,24.0,05:07:08,18428.03,True,f,486.0
+3325,Ivana MARTINOVIĆ,HR,39,F,35-39W,Garaža studio&gym,https://utmb.world/runner/6232191.ivana.martinovic,432.0,161.0,36.0,9.0,05:07:08,18428.356,True,f,486.0
+3030,Silvano VARETTONI,IT,41,H,40-44M,Team Peggiori Alpine Running,https://utmb.world/runner/946475.silvano.varettoni,659.0,163.0,127.0,25.0,05:07:25,18445.798,True,f,486.0
+3668,Marko JELIĆ,HR,43,H,40-44M,SPD Team,https://utmb.world/runner/1343513.marko.jelic,,164.0,128.0,26.0,05:07:42,18462.932,True,f,485.0
+3244,Cecile FERREIRA NANCEY,FR,40,F,40-44W,RTT,https://utmb.world/runner/4678559.cecile.ferreiranancey,462.0,165.0,37.0,8.0,05:08:03,18483.796000000002,True,f,457.0
+3324,Lukáš VESELÝ,CZ,39,H,35-39M,Užívám si to!,https://utmb.world/runner/6151024.lukas.vesely,432.0,166.0,129.0,30.0,05:08:15,18495.193,True,f,484.0
+3152,David MAREK,CZ,46,H,45-49M,,https://utmb.world/runner/6706644.david.marek,514.0,166.0,129.0,19.0,05:08:15,18495.06,True,f,484.0
+3791,Ana-Marija KRUHOBEREC,HR,37,F,35-39W,AK Kvarner,https://utmb.world/runner/6164402.anamarija.kruhoberec,,168.0,38.0,10.0,05:08:19,18499.92,True,f,484.0
+3313,Sasa JANKOVIC,DE,32,H,20-34M,,https://utmb.world/runner/5061871.sasa.jankovic,435.0,169.0,131.0,37.0,05:08:33,18513.054,True,f,484.0
+3123,Petra SEDMAK STRLE,SI,41,F,40-44W,TD Bistrc,https://utmb.world/runner/5158806.petra.sedmakstrle,532.0,170.0,39.0,9.0,05:08:49,18529.727,True,f,484.0
+3759,Domagoj RUKAVINA,HR,42,H,40-44M,,https://utmb.world/runner/5977121.domagoj.rukavina,480.0,171.0,132.0,27.0,05:09:06,18546.148,True,f,483.0
+3238,Ania GARCZYNSKA,PL,52,F,50-54W,,https://utmb.world/runner/2159817.ania.garczynska,465.0,172.0,40.0,3.0,05:09:21,18561.697,True,f,483.0
+3191,Katherine ELMORE-JONES,GB,48,F,45-49W,Fulham Running Club,https://utmb.world/runner/2141269.katherine.elmorejones,490.0,173.0,41.0,5.0,05:09:51,18591.896,True,f,482.0
+3454,Patrícia MESTRE SANTOS,PT,50,F,50-54W,Active Clube,https://utmb.world/runner/5296640.patricia.mestresantos,370.0,174.0,42.0,4.0,05:09:54,18594.679,True,f,482.0
+3421,Kathryn FORSYTH,GB,48,F,45-49W,,https://utmb.world/runner/4178597.kathryn.forsyth,382.0,175.0,43.0,6.0,05:10:43,18643.098,True,f,481.0
+3098,Jon SAMUNDSSON,IS,49,H,45-49M,Radagerdi,https://utmb.world/runner/3997888.jon.samundsson,553.0,176.0,133.0,20.0,05:11:34,18694.513,True,f,479.0
+3271,Yanina FEDOROVICH,DE,39,F,35-39W,,https://utmb.world/runner/6367427.yanina.fedorovich,449.0,177.0,44.0,11.0,05:11:49,18709.158,True,f,479.0
+3224,Gyula HUMMEL,HU,50,H,50-54M,,https://utmb.world/runner/6260183.gyula.hummel,473.0,178.0,134.0,7.0,05:11:54,18714.792,True,f,479.0
+3703,Gregor ŠTUKLEK,SI,46,H,45-49M,Lava Team,https://utmb.world/runner/6852627.gregor.stuklek,,179.0,135.0,21.0,05:12:06,18726.798,True,f,478.0
+3212,Ana SANDRIC,HR,32,F,20-34W,,https://utmb.world/runner/6726069.ana.sandric,480.0,180.0,45.0,15.0,05:12:32,18752.176,True,f,478.0
+3367,Baiba KURME,LV,33,F,20-34W,Mole on Aperol Vacation,https://utmb.world/runner/3983392.baiba.kurme,411.0,181.0,46.0,16.0,05:12:41,18761.508,True,f,478.0
+3607,Željko ĆURKOVIĆ,HR,33,H,20-34M,Ultra Trail Dinarides,https://utmb.world/runner/6556025.zeljko.curkovic,479.0,182.0,136.0,38.0,05:12:43,18763.715,True,f,478.0
+3312,Davide BOTTOLI,IT,33,H,20-34M,,https://utmb.world/runner/4151425.davide.bottoli,435.0,183.0,137.0,39.0,05:12:48,18768.682,True,f,477.0
+3713,David MILLER,GB,40,H,40-44M,South Coast Sharks,https://utmb.world/runner/894579.david.miller,,184.0,138.0,28.0,05:13:19,18799.238999999998,True,f,477.0
+3185,Markos TOUNTAS,GR,48,H,45-49M,SDY TRIPOLIS,https://utmb.world/runner/55632.markos.tountas,493.0,185.0,139.0,22.0,05:13:34,18814.435,True,f,476.0
+3203,Marián LAMPERT,SK,37,H,35-39M,,https://utmb.world/runner/5987487.marian.lampert,483.0,186.0,140.0,31.0,05:13:45,18825.348,True,f,476.0
+3211,Kornelia RISS,AT,36,F,35-39W,,https://utmb.world/runner/6783087.kornelia.riss,481.0,187.0,47.0,12.0,05:14:26,18866.988,True,f,475.0
+3217,Kristina OBLAK,SI,35,F,35-39W,,https://utmb.world/runner/4173511.kristina.oblak,476.0,188.0,48.0,13.0,05:14:34,18874.226000000002,True,f,475.0
+3243,Julia HASLINGER,AT,38,F,35-39W,,https://utmb.world/runner/6471881.julia.haslinger,462.0,189.0,49.0,14.0,05:14:37,18877.651,True,f,475.0
+3233,Eirik TRENCHARD,NO,59,H,55-59M,Romerike Ultraløperklubb,https://utmb.world/runner/2204567.eirik.trenchard,467.0,190.0,141.0,9.0,05:15:10,18910.183999999997,True,f,474.0
+3323,Petar BREGLEC,HR,30,H,20-34M,Muraken Gym,https://utmb.world/runner/6381091.petar.breglec,432.0,191.0,142.0,40.0,05:15:37,18937.346999999998,True,f,473.0
+3264,Alberto SFOGGIA,IT,43,H,40-44M,ASD Ride Your Dreams Treviso,https://utmb.world/runner/5148592.alberto.sfoggia,451.0,192.0,143.0,29.0,05:15:53,18953.639,True,f,473.0
+3148,Paul PRECHTL,AT,37,H,35-39M,TTC - Traunsee Trailrunning Club,https://utmb.world/runner/658245.paul.prechtl,517.0,193.0,144.0,32.0,05:15:57,18957.767,True,f,473.0
+3202,Tanja PRECHTL,AT,37,F,35-39W,,https://utmb.world/runner/4015471.tanja.prechtl,484.0,193.0,50.0,15.0,05:15:57,18957.706000000002,True,f,473.0
+3679,Denis FERETIĆ,HR,49,H,45-49M,AK Rika,https://utmb.world/runner/6891475.denis.feretic,,195.0,145.0,23.0,05:16:08,18968.381,True,f,472.0
+3288,Marleen RIBBENS,NL,49,F,45-49W,,https://utmb.world/runner/6782411.marleen.ribbens,445.0,196.0,51.0,7.0,05:16:22,18982.152,True,f,472.0
+3301,Boris KIKELJ,HR,46,H,45-49M,PaceTraceFace,https://utmb.world/runner/5506955.boris.kikelj,440.0,197.0,146.0,24.0,05:16:48,19008.846,True,f,471.0
+3621,Tamás Bese SZÓRÁD,HU,27,H,20-34M,-,https://utmb.world/runner/6446283.tamasbese.szorad,,198.0,147.0,41.0,05:18:00,19080.881,True,f,470.0
+3134,Tim WANZEELE,BE,35,H,35-39M,,https://utmb.world/runner/5737841.tim.wanzeele,524.0,199.0,148.0,33.0,05:18:27,19107.26,True,f,469.0
+3789,Leó Gábor MOLNÁR,HU,22,H,20-34M,,https://utmb.world/runner/6861847.leogabor.molnar,,200.0,149.0,42.0,05:18:46,19126.646,True,f,468.0
+3175,Angelika HELBIG,DE,41,F,40-44W,PainTrain Haxn Häxln,https://utmb.world/runner/5400992.angelika.helbig,502.0,201.0,52.0,10.0,05:18:47,19127.527,True,f,468.0
+3680,Kelsey WINSTON,CA,32,F,20-34W,,https://utmb.world/runner/6867671.kelsey.winston,,202.0,53.0,17.0,05:19:05,19145.069,True,f,468.0
+3118,Michal MICHALCZYK,PL,47,H,45-49M,SOBAS TEAM,https://utmb.world/runner/5381836.michal.michalczyk,536.0,203.0,150.0,25.0,05:20:00,19200.813000000002,True,f,467.0
+3082,Marija SEKULOVIC,ME,43,F,40-44W,Bjelasica Ultra Trail,https://utmb.world/runner/894339.marija.sekulovic,570.0,204.0,54.0,11.0,05:20:08,19208.681,True,f,466.0
+3120,Anton JARDAS,HR,39,H,35-39M,Torpedo Runners,https://utmb.world/runner/6199459.anton.jardas,534.0,205.0,151.0,34.0,05:20:49,19249.973,True,f,465.0
+3014,Martin ŠIŠOVSKÝ,SK,39,H,35-39M,,https://utmb.world/runner/3977594.martin.sisovsky,707.0,206.0,152.0,35.0,05:21:12,19272.803,True,f,465.0
+3468,Laura SORATO,IT,41,F,40-44W,,https://utmb.world/runner/6777639.laura.sorato,416.0,207.0,55.0,12.0,05:21:36,19296.218999999997,True,f,464.0
+3588,David PANGALILA,NL,41,H,40-44M,,https://utmb.world/runner/6603043.david.pangalila,,208.0,153.0,30.0,05:21:37,19297.032,True,f,464.0
+3208,Robert ZBODAK,SK,47,H,45-49M,,https://utmb.world/runner/5059271.robert.zbodak,482.0,209.0,154.0,26.0,05:21:39,19299.703999999998,True,f,464.0
+3678,Luka RADOŠEVIĆ,HR,21,H,20-34M,,https://utmb.world/runner/6236457.luka.radosevic,,209.0,154.0,43.0,05:21:39,19299.11,True,f,464.0
+3187,Denny MORAIS,PT,49,H,45-49M,TrepaTrilhos Trail Team,https://utmb.world/runner/5447492.denny.morais,492.0,211.0,156.0,27.0,05:22:01,19321.53,True,f,464.0
+3079,Reynir ZOËGA,IS,26,H,20-34M,UFA-Eyrarskokk,https://utmb.world/runner/6412286.reynir.zoega,571.0,212.0,157.0,44.0,05:22:23,19343.033,True,f,463.0
+3319,Krunoslav IVANUŠEC,HR,49,H,45-49M,AK ZABOK/IJP BARUN,https://utmb.world/runner/5649007.krunoslav.ivanusec,431.0,213.0,158.0,28.0,05:23:16,19396.311999999998,True,f,462.0
+3437,Luis MATEOS,ES,31,H,20-34M,,https://utmb.world/runner/6362836.luis.mateos,378.0,214.0,159.0,45.0,05:23:29,19409.006,True,f,462.0
+3337,Lili JANCSAR,HU,29,F,20-34W,,https://utmb.world/runner/3638685.lili.jancsar,429.0,215.0,56.0,18.0,05:23:44,19424.376,True,f,461.0
+3604,Günter (gonzo) HAGER,AT,48,H,45-49M,Gonzo,https://utmb.world/runner/6553970.gunter-gonzo-.hager,441.0,216.0,160.0,29.0,05:24:39,19479.995,True,f,460.0
+3412,Veronique GEOURJON,DE,49,F,45-49W,,https://utmb.world/runner/5990492.veronique.geourjon,386.0,217.0,57.0,8.0,05:24:51,19491.751,True,f,460.0
+3590,Alexandros TYROLOGOS,GR,45,H,45-49M,TYROLOGOS MULTISPORT TEAM,https://utmb.world/runner/6409117.alexandros.tyrologos,473.0,217.0,161.0,30.0,05:24:51,19491.396,True,f,460.0
+3666,Hrvoje HRUŠKA,HR,45,H,45-49M,VNK Rudeš,https://utmb.world/runner/6232229.hrvoje.hruska,,219.0,162.0,31.0,05:25:28,19528.85,True,f,459.0
+3165,Guntars LOGINS,LV,33,H,20-34M,Alpha Partners,https://utmb.world/runner/206377.guntars.logins,504.0,220.0,163.0,46.0,05:25:29,19529.817,True,f,459.0
+3286,Ana KOLAR IŠTUK,HR,40,F,40-44W,KCIPT Samobor,https://utmb.world/runner/4415912.ana.kolaristuk,442.0,221.0,58.0,13.0,05:25:51,19551.249,True,f,458.0
+3806,Jelena ŠNAUC,HR,41,F,40-44W,Om studio,https://utmb.world/runner/4213802.jelena.snauc,,222.0,59.0,14.0,05:26:16,19576.672,True,f,458.0
+3240,Edi OCVIRK,HR,50,H,50-54M,,https://utmb.world/runner/626437.edi.ocvirk,464.0,223.0,164.0,8.0,05:27:08,19628.185,True,f,456.0
+3282,Hugh FALCONER,GB,29,H,20-34M,,https://utmb.world/runner/4710242.hugh.falconer,446.0,224.0,165.0,47.0,05:27:23,19643.313000000002,True,f,456.0
+3234,Amanda TOMAC,HR,31,F,20-34W,AK Kvarner,https://utmb.world/runner/5250872.amanda.tomac,467.0,225.0,60.0,19.0,05:27:39,19659.988999999998,True,f,456.0
+3237,Lara UJCIC,HR,33,F,20-34W,Ind,https://utmb.world/runner/5942013.lara.ujcic,466.0,226.0,61.0,20.0,05:28:23,19703.456000000002,True,f,455.0
+3329,Paolo RITOŠA,HR,31,H,20-34M,,https://utmb.world/runner/6540453.paolo.ritosa,430.0,227.0,166.0,48.0,05:28:24,19704.497,True,f,455.0
+3780,Robert HAHN,DE,49,H,45-49M,,https://utmb.world/runner/1854195.robert.hahn,,228.0,167.0,32.0,05:28:34,19714.608,True,f,455.0
+3363,Samuel FERRARI,CH,54,H,50-54M,BRADIPI DEL GAZZIROLA,https://utmb.world/runner/3212063.samuel.ferrari,414.0,229.0,168.0,9.0,05:28:40,19720.961,True,f,454.0
+3753,Matteo DALLA VECCHIA,IT,27,H,20-34M,,https://utmb.world/runner/6725669.matteo.dallavecchia,,230.0,169.0,49.0,05:28:42,19722.877,True,f,454.0
+3335,Fabrizio DEL RE,IT,46,H,45-49M,AIDO Urbino,https://utmb.world/runner/6489111.fabrizio.delre,429.0,231.0,170.0,33.0,05:29:00,19740.535,True,f,454.0
+3321,Holly HOLT,GB,37,F,35-39W,,https://utmb.world/runner/6483419.holly.holt,432.0,232.0,62.0,16.0,05:29:18,19758.582,True,f,453.0
+3423,Tim SABANOV,SI,33,H,20-34M,,https://utmb.world/runner/5801935.tim.sabanov,382.0,233.0,171.0,50.0,05:29:58,19798.036,True,f,453.0
+3246,Mark MAVRETIĆ,SI,34,H,20-34M,Antilope,https://utmb.world/runner/5485791.mark.mavretic,462.0,233.0,171.0,50.0,05:29:58,19798.152,True,f,453.0
+3192,Tin BOROVCAK,HR,34,H,20-34M,ŠD Lastavica,https://utmb.world/runner/5022046.tin.borovcak,490.0,235.0,173.0,52.0,05:30:02,19802.922,True,f,452.0
+3379,Aleksandr VOZHAGOV,AN,37,H,35-39M,,https://utmb.world/runner/5451943.aleksandr.vozhagov,403.0,236.0,174.0,36.0,05:30:10,19810.043,True,f,441.0
+3215,David BÍBRLÍK,CZ,46,H,45-49M,BK Ludgeřovice,https://utmb.world/runner/3271707.david.bibrlik,478.0,237.0,175.0,34.0,05:30:14,19814.673,True,f,452.0
+3394,Tobias FIEDLER,DE,40,H,40-44M,,https://utmb.world/runner/6651307.tobias.fiedler,396.0,238.0,176.0,31.0,05:30:23,19823.582,True,f,452.0
+3640,Petar Kruno BUNETA,HR,44,H,40-44M,AK Forca,https://utmb.world/runner/6430465.petarkruno.buneta,,239.0,177.0,32.0,05:30:48,19848.746,True,f,451.0
+3653,Antonija ŠARIĆ,HR,47,F,45-49W,Ind,https://utmb.world/runner/6470093.antonija.saric,,240.0,63.0,9.0,05:30:52,19852.886000000002,True,f,451.0
+3273,Anniek ADRIAENS,NL,42,F,40-44W,,https://utmb.world/runner/4976946.anniek.adriaens,447.0,241.0,64.0,15.0,05:30:54,19854.194,True,f,451.0
+3687,Iva LEVACIC,SI,29,F,20-34W,,https://utmb.world/runner/4713616.iva.levacic,,242.0,65.0,21.0,05:31:06,19866.936,True,f,451.0
+3735,Mate NEMETH,HU,41,H,40-44M,LAC Geschriebenstein,https://utmb.world/runner/6821333.mate.nemeth,,243.0,178.0,33.0,05:31:22,19882.412,True,f,451.0
+3308,Jennifer SCHWEIGER,AT,31,F,20-34W,,https://utmb.world/runner/5173927.jennifer.schweiger,436.0,244.0,66.0,22.0,05:31:39,19899.869,True,f,450.0
+3226,Lucie FRÜHAUFOVÁ,CZ,43,F,40-44W,Bolka Běhá,https://utmb.world/runner/5253944.lucie.fruhaufova,471.0,245.0,67.0,16.0,05:31:46,19906.473,True,f,450.0
+3656,Patrick Karl HAGEMANN,AT,38,H,35-39M,STMK ,https://utmb.world/runner/6504001.patrickkarl.hagemann,,246.0,179.0,37.0,05:31:48,19908.43,True,f,450.0
+3279,Krisztian MARTON,HU,41,H,40-44M,,https://utmb.world/runner/5846623.krisztian.marton,446.0,247.0,180.0,34.0,05:32:24,19944.623,True,f,449.0
+3272,Barbora MIKEL KRŠMARU,CZ,37,F,35-39W,Hammer OCR team,https://utmb.world/runner/5988375.barbora.mikelkrsmaru,449.0,248.0,68.0,17.0,05:32:34,19954.995,True,f,449.0
+3278,Martin STACHELBERGER,AT,45,H,45-49M,KSV VERBUND,https://utmb.world/runner/5584690.martin.stachelberger,446.0,249.0,181.0,35.0,05:33:14,19994.139,True,f,448.0
+3378,Pavel VARMUŽA,CZ,32,H,20-34M,Altro Team,https://utmb.world/runner/3933749.pavel.varmuza,404.0,249.0,181.0,53.0,05:33:14,19994.932,True,f,448.0
+3643,Filip DVORAK,CZ,46,H,45-49M,,https://utmb.world/runner/6513059.filip.dvorak,,251.0,183.0,36.0,05:33:33,20013.2,True,f,448.0
+3689,Zuzana SCHIEBEROVA,SK,49,F,45-49W,Running team Zvolen,https://utmb.world/runner/4456396.zuzana.schieberova,,252.0,69.0,10.0,05:34:23,20063.383,True,f,447.0
+3037,Aleksandar GRBOVIC,ME,22,H,20-34M,Durmitor,https://utmb.world/runner/5533022.aleksandar.grbovic,643.0,253.0,184.0,54.0,05:34:38,20078.311,True,f,446.0
+3131,Stefan ROTTMAYER,AT,44,H,40-44M,Erdinger Active Team,https://utmb.world/runner/912563.stefan.rottmayer,525.0,254.0,185.0,35.0,05:34:41,20081.534,True,f,446.0
+3188,Zdeněk ORŠULÍK,CZ,54,H,50-54M,Užívám si to!,https://utmb.world/runner/5338288.zdenek.orsulik,492.0,255.0,186.0,10.0,05:34:56,20096.751,True,f,446.0
+3290,Petar TOMIŠIĆ,HR,25,H,20-34M,SRK Sport Box,https://utmb.world/runner/5649163.petar.tomisic,444.0,256.0,187.0,55.0,05:35:04,20104.475,True,f,446.0
+3757,Marko BALJAK,HR,32,H,20-34M,AK Rika,https://utmb.world/runner/6841015.marko.baljak,,257.0,188.0,56.0,05:35:10,20110.499,True,f,446.0
+3737,Dino TODESKINI,HR,28,H,20-34M,gym gym,https://utmb.world/runner/6490026.dino.todeskini,,257.0,188.0,56.0,05:35:10,20110.734,True,f,446.0
+3088,Bogdan Florin FLORESCU,RO,46,H,45-49M,,https://utmb.world/runner/2673449.bogdanflorin.florescu,561.0,259.0,190.0,37.0,05:35:11,20111.883,True,f,446.0
+3332,Alice ZELCO,IT,42,F,40-44W,,https://utmb.world/runner/1852973.alice.zelco,430.0,260.0,70.0,17.0,05:35:23,20123.851000000002,True,f,445.0
+3317,Filip FILOŠEVIĆ,HR,25,H,20-34M,,https://utmb.world/runner/5977093.filip.filosevic,432.0,260.0,191.0,58.0,05:35:23,20123.971,True,f,445.0
+3086,Taryn KING,ZA,38,F,35-39W,,https://utmb.world/runner/4355818.taryn.king,565.0,262.0,71.0,18.0,05:35:31,20131.703,True,f,445.0
+3092,Boštjan LUPŠA,SI,52,H,50-54M,K24 Ultra Team,https://utmb.world/runner/1371917.bostjan.lupsa,557.0,263.0,192.0,11.0,05:35:33,20133.534,True,f,445.0
+3593,Krešimir TENŽERA,HR,34,H,20-34M,Slatina,https://utmb.world/runner/6540455.kresimir.tenzera,,264.0,193.0,59.0,05:35:55,20155.61,True,f,445.0
+3630,Zoran ČOVRAN,HR,43,H,40-44M,TK SWIBIR,https://utmb.world/runner/4293013.zoran.covran,,265.0,194.0,36.0,05:36:12,20172.404,True,f,444.0
+3289,Gudrun SVEINSDOTTIR,IS,50,F,50-54W,,https://utmb.world/runner/4226852.gudrun.sveinsdottir,445.0,266.0,72.0,5.0,05:36:33,20193.234,True,f,444.0
+3370,Indira PICCO,HR,44,F,40-44W,Srk Running Fox,https://utmb.world/runner/4416200.indira.picco,371.0,267.0,73.0,18.0,05:36:52,20212.617,True,f,443.0
+3247,Elodie LAVAUD,FR,27,F,20-34W,Team Via Lacta,https://utmb.world/runner/5482845.elodie.lavaud,462.0,268.0,74.0,23.0,05:37:05,20225.668,True,f,443.0
+3418,Roman OTTA,CZ,41,H,40-44M,,https://utmb.world/runner/4472753.roman.otta,384.0,269.0,195.0,37.0,05:37:14,20234.016,True,f,443.0
+3178,Michal MINAR,SK,40,H,40-44M,,https://utmb.world/runner/4957835.michal.minar,500.0,270.0,196.0,38.0,05:37:16,20236.113,True,f,443.0
+3767,Iva KLANAC,HR,35,F,35-39W,UMK Mazator,https://utmb.world/runner/6703523.iva.klanac,,271.0,75.0,19.0,05:38:09,20289.575,True,f,442.0
+3708,Danica PAKOS PILNÁ,SK,51,F,50-54W,RunningteamZv,https://utmb.world/runner/4421498.danica.pakospilna,,272.0,76.0,6.0,05:38:28,20308.273999999998,True,f,441.0
+3293,Andrej POSAVI,HR,42,H,40-44M,,https://utmb.world/runner/4208639.andrej.posavi,443.0,273.0,197.0,39.0,05:38:49,20329.725,True,f,441.0
+3269,Glorija BARIĆ,HR,32,F,20-34W,,https://utmb.world/runner/4713652.glorija.baric,451.0,274.0,77.0,24.0,05:39:02,20342.076,True,f,440.0
+3651,Anna PITEK,PL,49,F,45-49W,42k PRO TEAM,https://utmb.world/runner/5558274.anna.pitek,409.0,275.0,78.0,11.0,05:39:08,20348.666,True,f,440.0
+3601,Mario KRALJIĆ,HR,43,H,40-44M,TK Rudolf Perešin,https://utmb.world/runner/6583087.mario.kraljic,,276.0,198.0,40.0,05:39:18,20358.621,True,f,440.0
+3369,Veronica MACHADO,VE,32,F,20-34W,Oikos VE,https://utmb.world/runner/4851237.veronica.machado,409.0,277.0,79.0,25.0,05:39:33,20373.618000000002,True,f,440.0
+3719,Piero ZAGAMI,IT,43,H,40-44M,,https://utmb.world/runner/6822277.piero.zagami,,278.0,199.0,41.0,05:39:43,20383.233,True,f,440.0
+3781,Mario JURINA,HR,31,H,20-34M,Hiking Croatia,https://utmb.world/runner/6701853.mario.jurina,,279.0,200.0,60.0,05:39:44,20384.133,True,f,440.0
+3167,Giacomo MIAN,IT,34,H,20-34M,Runners Legnano,https://utmb.world/runner/5558744.giacomo.mian,511.0,280.0,201.0,61.0,05:39:52,20392.101000000002,True,f,439.0
+3311,Paweł ŁUSZCZ,PL,43,H,40-44M,Gamoniusz Run Trail&Fun; Trail is our way,https://utmb.world/runner/2480093.pawel.luszcz,435.0,281.0,202.0,42.0,05:40:00,20400.177,True,f,439.0
+3772,Stevan MARINKOVIC,RS,40,H,40-44M,,https://utmb.world/runner/6777645.stevan.marinkovic,,282.0,203.0,43.0,05:40:12,20412.043999999998,True,f,439.0
+3265,Pedro ALVES,PT,41,H,40-44M,ETRI - Escola Triatlo Santo Antonio,https://utmb.world/runner/5845241.pedro.alves,450.0,283.0,204.0,44.0,05:40:24,20424.615,True,f,439.0
+3198,Anton BAUMANN,AT,66,H,65-69M,Stanzer Trailrun,https://utmb.world/runner/310666.anton.baumann,485.0,284.0,205.0,1.0,05:40:46,20446.764,True,f,438.0
+3523,Ladislav NOVOTNÝ,CZ,43,H,40-44M,,https://utmb.world/runner/5456525.ladislav.novotny,336.0,285.0,206.0,45.0,05:40:54,20454.345,True,f,438.0
+3623,Tihana BARILOVIĆ,HR,46,F,45-49W,,https://utmb.world/runner/5023020.tihana.barilovic,419.0,286.0,80.0,12.0,05:40:56,20456.166,True,f,438.0
+3189,Darek GARCZYŃSKI,PL,53,H,50-54M,,https://utmb.world/runner/1068033.darek.garczynski,490.0,287.0,207.0,12.0,05:41:10,20470.438000000002,True,f,438.0
+3356,Renata HORVATEK,HR,60,F,60-64W,Atletski klub Turopolje,https://utmb.world/runner/5972108.renata.horvatek,419.0,288.0,81.0,1.0,05:41:26,20486.311,True,f,437.0
+3349,Zsuzsanna NEMES,HU,50,F,50-54W,,https://utmb.world/runner/5987637.zsuzsanna.nemes,421.0,289.0,82.0,7.0,05:41:31,20491.466,True,f,437.0
+3322,Gabriela KNUT-POTOCZNIK,PL,42,F,40-44W,Sobas Team,https://utmb.world/runner/6232195.gabriela.knutpotocznik,432.0,290.0,83.0,19.0,05:41:42,20502.795,True,f,437.0
+3365,Anna CZERNIEWICZ,PL,47,F,45-49W,SobasTeam,https://utmb.world/runner/6276855.anna.czerniewicz,412.0,290.0,83.0,13.0,05:41:42,20502.813000000002,True,f,437.0
+3676,Kai SAUERWEIN,DE,45,H,45-49M,,https://utmb.world/runner/4016489.kai.sauerwein,,292.0,208.0,38.0,05:42:19,20539.23,True,f,436.0
+3210,Vadym DEINEKA,UA,41,H,40-44M,No,https://utmb.world/runner/4338934.vadym.deineka,481.0,293.0,209.0,46.0,05:42:39,20559.819,True,f,436.0
+3469,Yossi DAVID,IL,43,H,40-44M,Runners for Change,https://utmb.world/runner/1770523.yossi.david,363.0,294.0,210.0,47.0,05:42:47,20567.23,True,f,436.0
+3410,Vanja BADOVINAC,SI,51,F,50-54W,/,https://utmb.world/runner/6451533.vanja.badovinac,387.0,295.0,85.0,8.0,05:42:54,20574.227,True,f,436.0
+3285,Nick MUSSON,GB,33,H,20-34M,,https://utmb.world/runner/5686717.nick.musson,445.0,296.0,211.0,62.0,05:42:58,20578.482,True,f,435.0
+3635,Flora EMENEY,GB,34,F,20-34W,,https://utmb.world/runner/6405867.flora.emeney,,296.0,86.0,26.0,05:42:58,20578.59,True,f,435.0
+3508,Nastya KOUZMA,AN,33,F,20-34W,,https://utmb.world/runner/6488728.nastya.kouzma,375.0,298.0,87.0,27.0,05:43:34,20614.14,True,f,435.0
+3435,Jerome FLECHE,FR,50,H,50-54M,,https://utmb.world/runner/3252517.jerome.fleche,378.0,299.0,212.0,13.0,05:43:55,20635.03,True,f,434.0
+3384,Balazs KOVACS,HU,46,H,45-49M,Yum Yum,https://utmb.world/runner/5801921.balazs.kovacs,401.0,300.0,213.0,39.0,05:44:03,20643.433999999997,True,f,434.0
+3750,Henric PERSSON,SE,33,H,20-34M,Lyse Aktiv,https://utmb.world/runner/6747575.henric.persson,,301.0,214.0,63.0,05:44:05,20645.754,True,f,434.0
+3355,The Phong VUONG,NO,35,H,35-39M,Lyse Aktiv AS,https://utmb.world/runner/6058217.thephong.vuong,419.0,301.0,214.0,38.0,05:44:05,20645.83,True,f,434.0
+3327,Ján ANTOLÍK,SK,41,H,40-44M,Slovnaft,https://utmb.world/runner/4950773.jan.antolik,431.0,303.0,216.0,48.0,05:44:12,20652.526,True,f,434.0
+3267,John MILLER,US,60,H,60-64M,,https://utmb.world/runner/2101875.john.miller,451.0,304.0,217.0,4.0,05:44:19,20659.077,True,f,434.0
+3642,Mark FISHER,GB,46,H,45-49M,Ealing Eagles Runnning Club,https://utmb.world/runner/6995241.mark.fisher,,304.0,217.0,40.0,05:44:19,20659.281000000003,True,f,
+3345,Jan BASTYR,CZ,46,H,45-49M,AC Olesna,https://utmb.world/runner/5096360.jan.bastyr,422.0,306.0,219.0,41.0,05:44:20,20660.795,True,f,434.0
+3459,Vedran AMIDZIC,HR,38,H,35-39M,,https://utmb.world/runner/5825471.vedran.amidzic,367.0,307.0,220.0,39.0,05:44:30,20670.435,True,f,433.0
+3348,Cezary BLOCH,PL,42,H,40-44M,Va Banque,https://utmb.world/runner/5286551.cezary.bloch,422.0,308.0,221.0,49.0,05:44:52,20692.238,True,f,433.0
+3699,Anda BUKVIC PAZIN,HR,45,F,45-49W,Mazator,https://utmb.world/runner/5356710.anda.bukvicpazin,,309.0,88.0,14.0,05:44:58,20698.625,True,f,433.0
+3341,Valentin WIART,FR,31,H,20-34M,Pasta Baguettes,https://utmb.world/runner/6326537.valentin.wiart,427.0,310.0,222.0,64.0,05:45:28,20728.351000000002,True,f,432.0
+3195,Franz HINKOFER,DE,45,H,45-49M,ABERSEWENTH TrailCrew,https://utmb.world/runner/3565889.franz.hinkofer,485.0,311.0,223.0,42.0,05:46:09,20769.52,True,f,431.0
+3775,Stefan LOBITZER,AT,37,H,35-39M,,https://utmb.world/runner/5744773.stefan.lobitzer,,312.0,224.0,40.0,05:46:26,20786.287,True,f,431.0
+3738,Javier DE AGUILERA,ES,30,H,20-34M,,https://utmb.world/runner/6777647.javier.deaguilera,,313.0,225.0,65.0,05:47:01,20821.146,True,f,430.0
+3241,Jiří JANÁK,CZ,43,H,40-44M,,https://utmb.world/runner/6513061.jiri.janak,463.0,314.0,226.0,50.0,05:47:06,20826.389,True,f,430.0
+3339,Adel Eva ANTAL,HU,56,F,55-59W,Ensport / Kenguru Team,https://utmb.world/runner/4787634.adeleva.antal,428.0,315.0,89.0,1.0,05:47:16,20836.571,True,f,430.0
+3398,Pavel FILA,SK,38,H,35-39M,,https://utmb.world/runner/6149770.pavel.fila,395.0,315.0,227.0,41.0,05:47:16,20836.278000000002,True,f,430.0
+3728,Hrafnhildur Lára INGVARSDÓTTIR,IS,28,F,20-34W,UFA EYRARSKOKK,https://utmb.world/runner/6747587.hrafnhildurlara.ingvarsdottir,,317.0,90.0,28.0,05:47:17,20837.303,True,f,430.0
+3143,Kristoffer SKAU,NO,40,H,40-44M,Finstad Ultra,https://utmb.world/runner/4212273.kristoffer.skau,520.0,318.0,228.0,51.0,05:47:36,20856.923,True,f,430.0
+3263,Sara Svennevik SKAU,NO,40,F,40-44W,Finstad Ultra,https://utmb.world/runner/6232231.sarasvennevik.skau,452.0,318.0,91.0,20.0,05:47:36,20856.881999999998,True,f,430.0
+3556,Igor JELIĆ,HR,53,H,50-54M,,https://utmb.world/runner/5837338.igor.jelic,295.0,320.0,229.0,14.0,05:47:58,20878.546000000002,True,f,429.0
+3164,Christoph STUNDNER,AT,41,H,40-44M,Diabetes & Sport Trailrunning Austria,https://utmb.world/runner/651830.christoph.stundner,505.0,321.0,230.0,52.0,05:48:04,20884.023999999998,True,f,429.0
+3804,Mario ĆIKOVIĆ,HR,32,H,20-34M,Gim gym,https://utmb.world/runner/6703521.mario.cikovic,,322.0,231.0,66.0,05:48:10,20890.699,True,f,429.0
+3302,Jasmin ZEILER,AT,33,F,20-34W,,https://utmb.world/runner/5890111.jasmin.zeiler,440.0,323.0,92.0,29.0,05:48:22,20902.8,True,f,429.0
+3307,Petar MATIC,HR,35,H,35-39M,Torpedo Runners,https://utmb.world/runner/4713700.petar.matic,437.0,324.0,232.0,42.0,05:48:38,20918.561,True,f,428.0
+3094,Sophie LATOUCHE,FR,41,F,40-44W,RTT,https://utmb.world/runner/4301686.sophie.latouche,556.0,325.0,93.0,21.0,05:48:47,20927.799,True,f,480.0
+3204,Tomasz PITEK,PL,50,H,50-54M,42k PRO TEAM,https://utmb.world/runner/4677174.tomasz.pitek,484.0,326.0,233.0,15.0,05:48:48,20928.153000000002,True,f,428.0
+3318,Franz TSCHILTSCH,AT,45,H,45-49M,KTC,https://utmb.world/runner/715600.franz.tschiltsch,433.0,327.0,234.0,43.0,05:48:52,20932.607,True,f,428.0
+3320,Thomas PRATTES,AT,43,H,40-44M,KTC,https://utmb.world/runner/5073203.thomas.prattes,433.0,327.0,234.0,53.0,05:48:52,20932.867,True,f,428.0
+3726,Patrik KLARIĆ,HR,31,H,20-34M,Ind,https://utmb.world/runner/6839435.patrik.klaric,,329.0,236.0,67.0,05:49:16,20956.264,True,f,428.0
+3309,Lisa LODERBAUER,AT,33,F,20-34W,TTC - Traunsee Trailnunning Club,https://utmb.world/runner/6418782.lisa.loderbauer,436.0,330.0,94.0,30.0,05:49:33,20973.432999999997,True,f,427.0
+3760,Mirna SISINNI,IT,56,F,55-59W,Tecnhosport,https://utmb.world/runner/6891815.mirna.sisinni,,331.0,95.0,2.0,05:49:38,20978.129,True,f,427.0
+3368,Jana AŽMAN,SI,48,F,45-49W,,https://utmb.world/runner/5744007.jana.azman,410.0,332.0,96.0,15.0,05:49:45,20985.272,True,f,427.0
+3403,Irma HODZIC,HR,32,F,20-34W,Krpelj,https://utmb.world/runner/6232387.irma.hodzic,392.0,333.0,97.0,31.0,05:49:52,20992.502,True,f,427.0
+3704,Patrik JANKOVIĆ,HR,27,H,20-34M,,https://utmb.world/runner/6725675.patrik.jankovic,,333.0,237.0,68.0,05:49:52,20992.356,True,f,427.0
+3449,Monika ŠMIT,HR,39,F,35-39W,,https://utmb.world/runner/6729669.monika.smit,373.0,335.0,98.0,20.0,05:49:53,20993.952999999998,True,f,427.0
+3331,Doris CRNKOVIĆ,HR,42,F,40-44W,,https://utmb.world/runner/6725671.doris.crnkovic,430.0,335.0,98.0,22.0,05:49:53,20993.772,True,f,427.0
+3206,Erico FERNANDES,PT,46,H,45-49M,Enjoy Your Run,https://utmb.world/runner/3690317.erico.fernandes,483.0,337.0,238.0,44.0,05:50:10,21010.85,True,f,426.0
+3406,Ivan JERBIC,HR,57,H,55-59M,KCIPT Samobor,https://utmb.world/runner/4697306.ivan.jerbic,390.0,338.0,239.0,10.0,05:50:28,21028.403,True,f,426.0
+3742,Igor CVETKOVIC,RS,46,H,45-49M,no club,https://utmb.world/runner/6868895.igor.cvetkovic,,339.0,240.0,45.0,05:51:49,21109.542,True,f,424.0
+3706,Ivona ČATIPOVIĆ,HR,33,F,20-34W,,https://utmb.world/runner/6734065.ivona.catipovic,,340.0,100.0,32.0,05:51:51,21111.36,True,f,424.0
+3777,Karlo KNEZEVIC,HR,30,H,20-34M,,https://utmb.world/runner/6797303.karlo.knezevic,,341.0,241.0,69.0,05:51:58,21118.106,True,f,424.0
+3385,Mirsad MEMIĆ,HR,45,H,45-49M,Gamsi,https://utmb.world/runner/4213803.mirsad.memic,400.0,342.0,242.0,46.0,05:52:15,21135.556,True,f,424.0
+3381,Sara ROZIC,HR,37,F,35-39W,Gamsi,https://utmb.world/runner/4745278.sara.rozic,403.0,343.0,101.0,21.0,05:52:16,21136.248,True,f,424.0
+3245,Alen KULENOVIĆ,HR,54,H,50-54M,Harmonia Run,https://utmb.world/runner/4208606.alen.kulenovic,462.0,344.0,243.0,16.0,05:52:26,21146.792,True,f,424.0
+3419,Milan KAĆANSKI,RS,41,H,40-44M,STOMAKiJA RUN CLUB,https://utmb.world/runner/5506959.milan.kacanski,384.0,345.0,244.0,54.0,05:52:36,21156.109,True,f,424.0
+3112,Paweł KMIECIK,PL,37,H,35-39M,Jarosławska Grupa Biegowa Sokół Jarosław,https://utmb.world/runner/3991025.pawel.kmiecik,539.0,346.0,245.0,43.0,05:52:40,21160.521,True,f,423.0
+3808,Rosana ŠKOPAC,HR,52,F,50-54W,Garaza studio&gym,https://utmb.world/runner/6252309.rosana.skopac,,347.0,102.0,9.0,05:53:14,21194.052000000003,True,f,423.0
+3032,Daniel OLVASZTO,HU,35,H,35-39M,ARC | Tailwind Nutrition Hungary,https://utmb.world/runner/2120165.daniel.olvaszto,656.0,348.0,246.0,44.0,05:53:19,21199.763,True,f,423.0
+3748,James SHANAHAN,GB,35,H,35-39M,,https://utmb.world/runner/4878951.james.shanahan,,349.0,247.0,45.0,05:53:26,21206.97,True,f,423.0
+3386,Susana RODRIGUES,PT,44,F,40-44W,A Equipa Delas,https://utmb.world/runner/2107653.susana.rodrigues,399.0,350.0,103.0,23.0,05:54:36,21276.297000000002,True,f,421.0
+3492,Perica DŽIJAN,HR,34,H,20-34M,,https://utmb.world/runner/5506989.perica.dzijan,349.0,351.0,248.0,70.0,05:54:38,21278.002,True,f,421.0
+3644,Alberto BUFFOLO,IT,51,H,50-54M,AGGGREDIRE RUNNERS CLUB,https://utmb.world/runner/4357030.alberto.buffolo,,352.0,249.0,17.0,05:54:44,21284.013,True,f,421.0
+3261,Stepan LORENC,CZ,33,H,20-34M,,https://utmb.world/runner/6415927.stepan.lorenc,452.0,353.0,250.0,71.0,05:54:45,21285.451,True,f,421.0
+3769,Marijana PETRUŠIĆ,HR,41,F,40-44W,KCIPT Samobor,https://utmb.world/runner/6855993.marijana.petrusic,,354.0,104.0,24.0,05:55:04,21304.943,True,f,421.0
+3149,Chefia HENDAOUI,TN,47,F,45-49W,No,https://utmb.world/runner/2363115.chefia.hendaoui,513.0,355.0,105.0,16.0,05:55:17,21317.33,True,f,420.0
+3268,Nejdet BOZKURT,TR,41,H,40-44M,,https://utmb.world/runner/4327918.nejdet.bozkurt,451.0,356.0,251.0,55.0,05:55:54,21354.715,True,f,420.0
+3417,Suzana ETEROVIC,HR,51,F,50-54W,AK Žumberak,https://utmb.world/runner/6164428.suzana.eterovic,385.0,357.0,106.0,10.0,05:56:02,21362.827999999998,True,f,419.0
+3736,Lena HORNKOHL,DE,35,F,35-39W,,https://utmb.world/runner/6797299.lena.hornkohl,,358.0,107.0,22.0,05:56:16,21376.916,True,f,419.0
+3157,Tamás SZIVLER,HU,37,H,35-39M,,https://utmb.world/runner/5158892.tamas.szivler,507.0,359.0,252.0,46.0,05:56:24,21384.78,True,f,419.0
+3270,Kristján ÓDINSSON,IS,32,H,20-34M,,https://utmb.world/runner/4900953.kristjan.odinsson,449.0,360.0,253.0,72.0,05:56:29,21389.769,True,f,419.0
+3778,Robert MATIĆ,HR,45,H,45-49M,Rio color,https://utmb.world/runner/6747579.robert.matic,,361.0,254.0,47.0,05:56:51,21411.888,True,f,418.0
+3692,Ðemka NOVAK,BA,45,F,45-49W,Steel trail Zenica,https://utmb.world/runner/6934795.--emka.novak,,362.0,108.0,17.0,05:57:01,21421.513,True,f,
+3344,Dana-Claudia OANCEA,RO,44,F,40-44W,Run Beyond Limits,https://utmb.world/runner/6156442.danaclaudia.oancea,436.0,363.0,109.0,25.0,05:57:13,21433.647,True,f,418.0
+3250,Péter LÁSZLÓ,HU,37,H,35-39M,,https://utmb.world/runner/5058849.peter.laszlo,461.0,364.0,255.0,47.0,05:57:15,21435.569,True,f,418.0
+3725,Sven RAZUM,HR,36,H,35-39M,Zagreb Runners,https://utmb.world/runner/6747615.sven.razum,,365.0,256.0,48.0,05:57:17,21437.0,True,f,418.0
+3357,Ernst RISS,AT,46,H,45-49M,Laufjunkie Seebenstein,https://utmb.world/runner/3193181.ernst.riss,417.0,366.0,257.0,48.0,05:57:28,21448.171000000002,True,f,418.0
+3662,Stefan SCHMÖLZ,AT,43,H,40-44M,VIENNA RUNNING COLLECTIVE,https://utmb.world/runner/5666723.stefan.schmolz,,367.0,258.0,56.0,05:57:49,21469.627,True,f,417.0
+3803,Jan ŽĎÁRSKÝ,CZ,36,H,35-39M,,https://utmb.world/runner/6734559.jan.zdarsky,,368.0,259.0,49.0,05:58:08,21488.849,True,f,417.0
+3334,Christian GRÖFLER,AT,41,H,40-44M,,https://utmb.world/runner/5775907.christian.grofler,429.0,369.0,260.0,57.0,05:58:27,21507.25,True,f,417.0
+3166,Iván KISS,HU,33,H,20-34M,,https://utmb.world/runner/5262724.ivan.kiss,504.0,370.0,261.0,73.0,05:58:33,21513.577,True,f,416.0
+3659,Omar ELHAG,GB,49,H,45-49M,Victoria Park Harriers & Tower Hamlets Athletics Club,https://utmb.world/runner/6192779.omar.elhag,,370.0,261.0,49.0,05:58:33,21513.478,True,f,416.0
+3159,Kevin HECKENBICHLER,AT,30,H,20-34M,Swietelsky,https://utmb.world/runner/4713592.kevin.heckenbichler,506.0,372.0,263.0,74.0,05:58:44,21524.595,True,f,416.0
+3142,Robert GSCHWANDTL,AT,43,H,40-44M,Team BADASS running,https://utmb.world/runner/4065288.robert.gschwandtl,520.0,372.0,263.0,58.0,05:58:44,21524.717999999997,True,f,416.0
+3315,Erika ZGRABLIĆ,HR,38,F,35-39W,,https://utmb.world/runner/6369835.erika.zgrablic,433.0,374.0,110.0,23.0,05:59:03,21543.827999999998,True,f,416.0
+3358,Igor FUNARIĆ,HR,43,H,40-44M,KCIPT SAMOBOR,https://utmb.world/runner/4416006.igor.funaric,417.0,375.0,265.0,59.0,05:59:18,21558.572,True,f,416.0
+3257,Harald PONGRATZ,AT,48,H,45-49M,RunninGraz,https://utmb.world/runner/4248781.harald.pongratz,455.0,376.0,266.0,50.0,05:59:30,21570.306,True,f,415.0
+3797,Alberto BROLLI,IT,37,H,35-39M,,https://utmb.world/runner/6430461.alberto.brolli,,377.0,267.0,50.0,05:59:33,21573.438,True,f,415.0
+3691,Damir HEKIĆ,HR,33,H,20-34M,,https://utmb.world/runner/5062213.damir.hekic,,377.0,267.0,75.0,05:59:33,21573.703999999998,True,f,415.0
+3297,Nicolas SIMOUTRE,FR,36,H,35-39M,,https://utmb.world/runner/5516731.nicolas.simoutre,442.0,379.0,269.0,51.0,05:59:35,21575.813,True,f,415.0
+3697,Dino SRDOČ,HR,42,H,40-44M,Ind,https://utmb.world/runner/6232189.dino.srdoc,,380.0,270.0,60.0,05:59:45,21585.019,True,f,415.0
+3258,Gabriela FERREIRA,UY,40,F,40-44W,Diez Club,https://utmb.world/runner/4341616.gabriela.ferreira,454.0,381.0,111.0,26.0,06:00:02,21602.651,True,f,415.0
+3359,Sanja PETRIĆ,HR,41,F,40-44W,,https://utmb.world/runner/4697478.sanja.petric,415.0,382.0,112.0,27.0,06:00:29,21629.787,True,f,414.0
+3610,Dario KRALJIĆ,HR,37,H,35-39M,AK Zabok,https://utmb.world/runner/6583085.dario.kraljic,,383.0,271.0,52.0,06:00:34,21634.756,True,f,414.0
+3727,Ásdís Elva KRISTINSDÓTTIR,IS,41,F,40-44W,,https://utmb.world/runner/6644213.asdiselva.kristinsdottir,,384.0,113.0,28.0,06:03:26,21806.43,True,f,411.0
+3758,Tinkara ZUPANEC,SI,26,F,20-34W,,https://utmb.world/runner/5481755.tinkara.zupanec,405.0,385.0,114.0,33.0,06:03:59,21839.652000000002,True,f,410.0
+3163,Ion IONIȚĂ,RO,43,H,40-44M,,https://utmb.world/runner/4194786.ion.ionita,505.0,386.0,272.0,61.0,06:05:23,21923.575,True,f,409.0
+3281,Jiri JELINEK,CZ,39,H,35-39M,Koloshop.cz,https://utmb.world/runner/5535863.jiri.jelinek,445.0,387.0,273.0,53.0,06:05:26,21926.981,True,f,409.0
+3792,Tomislav HANZEC,HR,44,H,40-44M,,https://utmb.world/runner/6164388.tomislav.hanzec,,388.0,274.0,62.0,06:05:48,21948.781000000003,True,f,408.0
+3249,Sylvia FRIEDL,AT,62,F,60-64W,,https://utmb.world/runner/3311795.sylvia.friedl,461.0,389.0,115.0,2.0,06:06:32,21992.531000000003,True,f,407.0
+3733,Ivan SAJKO,HR,37,H,35-39M,,https://utmb.world/runner/6595281.ivan.sajko,,390.0,275.0,54.0,06:06:59,22019.862999999998,True,f,407.0
+3609,Josip AMIDZIC,HR,47,H,45-49M,www.passionwins.at,https://utmb.world/runner/6514283.josip.amidzic,,391.0,276.0,51.0,06:07:00,22020.057,True,f,407.0
+3796,Marko HACE,SI,33,H,20-34M,,https://utmb.world/runner/6637665.marko.hace,,392.0,277.0,76.0,06:07:32,22052.852000000003,True,f,406.0
+3673,Emanuel IVKOVIĆ,HR,50,H,50-54M,TORPEDO RUNNERS,https://utmb.world/runner/6232209.emanuel.ivkovic,,392.0,277.0,18.0,06:07:32,22052.751,True,f,406.0
+3122,Jan BERCE,SI,31,H,20-34M,Team 40%+,https://utmb.world/runner/4456602.jan.berce,533.0,394.0,279.0,77.0,06:07:34,22054.551,True,f,406.0
+3663,Luka FILIPOVIĆ,HR,48,H,45-49M,AK Sljeme,https://utmb.world/runner/6232379.luka.filipovic,,395.0,280.0,52.0,06:07:50,22070.142000000003,True,f,406.0
+3416,Andrea ANDRÁSNÉ KATUS,HU,51,F,50-54W,,https://utmb.world/runner/6132229.andrea.andrasnekatus,384.0,396.0,116.0,11.0,06:08:18,22098.901,True,f,405.0
+3362,Katarzyna CIPORA,PL,52,F,50-54W,K & M TEAM,https://utmb.world/runner/2218485.katarzyna.cipora,414.0,397.0,117.0,12.0,06:08:46,22126.052000000003,True,f,405.0
+3251,Branko BRUDAR,SI,59,H,55-59M,Marathon Novo mesto,https://utmb.world/runner/4038808.branko.brudar,459.0,398.0,281.0,11.0,06:09:02,22142.926,True,f,405.0
+3144,Paweł BOHAREWICZ,PL,45,H,45-49M,STARSZA DZIKA MŁODZIEŻ,https://utmb.world/runner/4003377.pawel.boharewicz,519.0,399.0,282.0,53.0,06:09:13,22153.626,True,f,404.0
+3600,Francois CHARVE,FR,38,H,35-39M,LOVE & UNITY,https://utmb.world/runner/1197469.francois.charve,372.0,400.0,283.0,55.0,06:09:17,22157.945,True,f,404.0
+3712,Marija ŽEFRAN,SI,58,F,55-59W,Extreme 184,https://utmb.world/runner/6624265.marija.zefran,,401.0,118.0,3.0,06:09:28,22168.865,True,f,404.0
+3579,Zdenek OTTA,CZ,60,H,60-64M,,https://utmb.world/runner/72929.zdenek.otta,,402.0,284.0,5.0,06:09:34,22174.289,True,f,404.0
+3574,Vanja STANISIC,HR,36,H,35-39M,,https://utmb.world/runner/6637659.vanja.stanisic,,403.0,285.0,56.0,06:11:11,22271.756,True,f,402.0
+3388,Berry LANSEN,NL,53,H,50-54M,Boost your trail,https://utmb.world/runner/4745244.berry.lansen,399.0,404.0,286.0,19.0,06:12:12,22332.407000000003,True,f,401.0
+3304,Carlotta CABIATI,IT,45,F,45-49W,Trieste atletica,https://utmb.world/runner/1225839.carlotta.cabiati,438.0,405.0,119.0,18.0,06:12:36,22356.889,True,f,401.0
+3239,Dario CHABOD,IT,55,H,55-59M,,https://utmb.world/runner/342596.dario.chabod,464.0,406.0,287.0,12.0,06:13:23,22403.103,True,f,400.0
+3375,Zbigniew KORNOBIS,PL,58,H,55-59M,,https://utmb.world/runner/5785683.zbigniew.kornobis,405.0,407.0,288.0,13.0,06:13:40,22420.406000000003,True,f,400.0
+3740,Primož JURKO,SI,54,H,50-54M,/,https://utmb.world/runner/3389151.primoz.jurko,,408.0,289.0,20.0,06:14:02,22442.506,True,f,399.0
+3340,Dolma GELY,FR,29,F,20-34W,Bernex Trail Challenge,https://utmb.world/runner/2347147.dolma.gely,428.0,409.0,120.0,34.0,06:14:29,22469.581000000002,True,f,399.0
+3342,Peter ZELENAK,SK,53,H,50-54M,None,https://utmb.world/runner/2358981.peter.zelenak,426.0,410.0,290.0,21.0,06:14:54,22494.741,True,f,398.0
+3619,Lukáš BACH,CZ,45,H,45-49M,,https://utmb.world/runner/6500681.lukas.bach,,411.0,291.0,54.0,06:14:56,22496.299,True,f,398.0
+3786,Daria ŠKRINJAR,HR,38,F,35-39W,SRK Running Team,https://utmb.world/runner/4049201.daria.skrinjar,,412.0,121.0,24.0,06:15:00,22500.897999999997,True,f,398.0
+3450,Robert SIPEC,SI,59,H,55-59M,,https://utmb.world/runner/6518771.robert.sipec,372.0,413.0,292.0,14.0,06:15:07,22507.172000000002,True,f,398.0
+3773,Rastislav GUBA,SK,42,H,40-44M,Runningteam Zvolen,https://utmb.world/runner/6782405.rastislav.guba,,414.0,293.0,63.0,06:15:30,22530.075,True,f,398.0
+3602,Olha ARPUL,UA,42,F,40-44W,,https://utmb.world/runner/6912081.olha.arpul,,415.0,122.0,29.0,06:15:31,22531.417,True,f,
+3686,Zuzana KOČIŠČINOVÁ,SK,41,F,40-44W,MARAS team,https://utmb.world/runner/6797301.zuzana.kociscinova,,416.0,123.0,30.0,06:15:39,22539.48,True,f,398.0
+3776,Ljerka JURIC KAROLI,HR,45,F,45-49W,,https://utmb.world/runner/3406095.ljerka.jurickaroli,,417.0,124.0,19.0,06:17:10,22630.486,True,f,396.0
+3223,Andrzej BIK,PL,55,H,55-59M,,https://utmb.world/runner/2408033.andrzej.bik,474.0,418.0,294.0,15.0,06:17:13,22633.926,True,f,396.0
+3518,Sandra THEIN,LU,53,F,50-54W,,https://utmb.world/runner/1996727.sandra.thein,340.0,419.0,125.0,13.0,06:17:53,22673.557999999997,True,f,395.0
+3452,Miroslava SASOVÁ,CZ,43,F,40-44W,SASMI,https://utmb.world/runner/5563461.miroslava.sasova,370.0,420.0,126.0,31.0,06:18:52,22732.077999999998,True,f,394.0
+3392,Karlo HORVATIN,HR,33,H,20-34M,,https://utmb.world/runner/6164312.karlo.horvatin,397.0,421.0,295.0,78.0,06:18:53,22733.284,True,f,394.0
+3280,Ana KAC ČUBRANIĆ,HR,42,F,40-44W,,https://utmb.world/runner/4213816.ana.kaccubranic,447.0,422.0,127.0,32.0,06:19:33,22773.437,True,f,393.0
+3429,Nikolina GOLUB,HR,28,F,20-34W,,https://utmb.world/runner/6725709.nikolina.golub,381.0,422.0,127.0,35.0,06:19:33,22773.502999999997,True,f,393.0
+3634,Boris TAKAČ,HR,57,H,55-59M,,https://utmb.world/runner/6451531.boris.takac,,424.0,296.0,16.0,06:20:00,22800.607999999997,True,f,393.0
+3711,Martin KALCU,CZ,35,H,35-39M,,https://utmb.world/runner/6637661.martin.kalcu,,425.0,297.0,57.0,06:20:19,22819.265,True,f,393.0
+3170,Franco GOTTARDI,IT,39,H,35-39M,,https://utmb.world/runner/470247.franco.gottardi,502.0,426.0,298.0,58.0,06:20:25,22825.892000000003,True,f,393.0
+3350,Klaus LAMBERTY,DE,52,H,50-54M,speedhiking.club,https://utmb.world/runner/1996581.klaus.lamberty,421.0,427.0,299.0,22.0,06:20:36,22836.464,True,f,392.0
+3347,Goran GACINA,HR,42,H,40-44M,Zagreb Runners,https://utmb.world/runner/2270035.goran.gacina,421.0,428.0,300.0,64.0,06:21:33,22893.799,True,f,391.0
+3255,Oskar POLLAK,HR,59,H,55-59M,Dothrekki team,https://utmb.world/runner/4293001.oskar.pollak,456.0,429.0,301.0,17.0,06:22:12,22932.617000000002,True,f,391.0
+3326,Kyoji WATANABE,JP,56,H,55-59M,,https://utmb.world/runner/5262426.kyoji.watanabe,430.0,430.0,302.0,18.0,06:22:28,22948.385,True,f,390.0
+3473,Dubravko DRANDIĆ,HR,41,H,40-44M,,https://utmb.world/runner/5976693.dubravko.drandic,361.0,431.0,303.0,65.0,06:22:55,22975.287999999997,True,f,390.0
+3305,Tomislav LAZAR,HR,25,H,20-34M,,https://utmb.world/runner/6275356.tomislav.lazar,437.0,432.0,304.0,79.0,06:23:50,23030.664,True,f,389.0
+3684,Kristinn Elvar GUNNARSSON,IS,48,H,45-49M,,https://utmb.world/runner/6644215.kristinnelvar.gunnarsson,,433.0,305.0,55.0,06:24:02,23042.808999999997,True,f,389.0
+3636,Gorana ANTOLIĆ GRANIĆ,HR,37,F,35-39W,,https://utmb.world/runner/6271933.gorana.antolicgranic,413.0,434.0,129.0,25.0,06:24:03,23043.347,True,f,389.0
+3314,Juan Diego LÓPEZ MARTINEZ,ES,53,H,50-54M,Sima trail,https://utmb.world/runner/2530161.juandiego.lopezmartinez,434.0,435.0,306.0,23.0,06:24:23,23063.944,True,f,389.0
+3576,Srećko KOVAČIĆ,HR,47,H,45-49M,Individual,https://utmb.world/runner/6624263.srecko.kovacic,,436.0,307.0,56.0,06:24:52,23092.172000000002,True,f,388.0
+3442,Mitja AUBEL,SI,28,H,20-34M,,https://utmb.world/runner/6088884.mitja.aubel,376.0,437.0,308.0,80.0,06:24:53,23093.139,True,f,388.0
+3638,Anabela LJUBIĆ,HR,28,F,20-34W,Zagreb Runners,https://utmb.world/runner/5267700.anabela.ljubic,,438.0,130.0,36.0,06:25:14,23114.275,True,f,388.0
+3599,Leon MIHIĆ,HR,36,H,35-39M,,https://utmb.world/runner/6434707.leon.mihic,,438.0,309.0,59.0,06:25:14,23114.37,True,f,388.0
+3480,Aron MÜHR,DE,31,H,20-34M,,https://utmb.world/runner/6138883.aron.muhr,358.0,440.0,310.0,81.0,06:25:21,23121.75,True,f,388.0
+3284,Marek NIZIOLEK,PL,53,H,50-54M,Pedraforca,https://utmb.world/runner/1006085.marek.niziolek,446.0,441.0,311.0,24.0,06:26:01,23161.298,True,f,387.0
+3489,Dominik Jordi ORNIG,AT,35,H,35-39M,,https://utmb.world/runner/5071865.dominikjordi.ornig,351.0,442.0,312.0,60.0,06:26:07,23167.655,True,f,387.0
+3374,Anita OSIAL,PL,43,F,40-44W,SobasTeam,https://utmb.world/runner/4485416.anita.osial,405.0,443.0,131.0,33.0,06:26:34,23194.182,True,f,386.0
+3364,Vanja CANJUGA,HR,41,H,40-44M,,https://utmb.world/runner/5989089.vanja.canjuga,412.0,444.0,313.0,66.0,06:26:59,23219.392000000003,True,f,386.0
+3483,Igor BUŽINEC,HR,31,H,20-34M,,https://utmb.world/runner/5354552.igor.buzinec,355.0,445.0,314.0,82.0,06:27:04,23224.197999999997,True,f,386.0
+3306,Darko MIKAC,HR,42,H,40-44M,Individualac,https://utmb.world/runner/4697340.darko.mikac,435.0,446.0,315.0,67.0,06:27:06,23226.963,True,f,386.0
+3795,Nikolina MUNJAS,HR,39,F,35-39W,AK Kvarner,https://utmb.world/runner/6616261.nikolina.munjas,,447.0,132.0,26.0,06:27:17,23237.369,True,f,386.0
+3794,Katarina ŠTEFANAC,HR,29,F,20-34W,AK KVARNER,https://utmb.world/runner/6618033.katarina.stefanac,,447.0,132.0,37.0,06:27:17,23237.777000000002,True,f,386.0
+3573,Tomáš BACH,CZ,48,H,45-49M,,https://utmb.world/runner/6547123.tomas.bach,,449.0,316.0,57.0,06:28:52,23332.534,True,f,384.0
+3407,Silvana PUĐA,HR,41,F,40-44W,AK Žumberak,,,450.0,134.0,34.0,06:28:53,23333.963,True,f,
+3482,Viktória BODA,HU,51,F,50-54W,,https://utmb.world/runner/6758717.viktoria.boda,357.0,451.0,135.0,14.0,06:28:58,23338.081000000002,True,f,384.0
+3260,Andi LESKOVICS,HU,57,F,55-59W,,https://utmb.world/runner/220643.andi.leskovics,454.0,451.0,135.0,4.0,06:28:58,23338.683999999997,True,f,384.0
+3402,Iulia Monica GROZA,RO,45,F,45-49W,,https://utmb.world/runner/4433150.iuliamonica.groza,392.0,453.0,137.0,20.0,06:29:29,23369.232999999997,True,f,383.0
+3513,Adorján KÁROLY,HU,52,H,50-54M,SPARTAN RACE TISZAÚJVÁROS,https://utmb.world/runner/6133817.adorjan.karoly,342.0,454.0,317.0,25.0,06:29:50,23390.455,True,f,383.0
+3434,Mónika CSOLÀK,HU,50,F,50-54W,STG TISZAÚJVÁROS,https://utmb.world/runner/6839433.monika.csolak,379.0,454.0,138.0,15.0,06:29:50,23390.346,True,f,383.0
+3507,Christina ZHELYAZKOVA,BG,55,F,55-59W,BackpackMoments.com,https://utmb.world/runner/6470546.christina.zhelyazkova,346.0,456.0,139.0,5.0,06:29:51,23391.971,True,f,383.0
+3605,Maja HRASTOVEC,HR,32,F,20-34W,,https://utmb.world/runner/4416260.maja.hrastovec,,457.0,140.0,38.0,06:30:16,23416.167,True,f,383.0
+3779,Arnar Logi ÞORGILSSON,IS,34,H,20-34M,UFA Eyrarskokk,,,458.0,318.0,83.0,06:30:36,23436.627999999997,True,f,
+3256,Stefán GEORGSSON,IS,53,H,50-54M,Skokkhópur Hauka,https://utmb.world/runner/667917.stefan.georgsson,456.0,458.0,318.0,26.0,06:30:36,23436.346,True,f,382.0
+3354,Rosvita PAVLIN,SI,55,F,55-59W,,https://utmb.world/runner/3189445.rosvita.pavlin,419.0,460.0,141.0,6.0,06:31:06,23466.115,True,f,382.0
+3510,Marta STIPČIĆ,HR,34,F,20-34W,AK Sljeme,https://utmb.world/runner/4115310.marta.stipcic,343.0,461.0,142.0,39.0,06:31:33,23493.112,True,f,381.0
+3669,Zoran OSMOKROVIĆ,HR,42,H,40-44M,AK Sljeme,https://utmb.world/runner/6232217.zoran.osmokrovic,,461.0,320.0,68.0,06:31:33,23493.013,True,f,381.0
+3413,Aleksandra BOŻEK,PL,39,H,35-39M,Team ZabieganeDni,https://utmb.world/runner/4673014.aleksandra.bozek,386.0,463.0,321.0,61.0,06:31:34,23494.349,True,f,381.0
+3330,Cassio LOPES,BE,46,H,45-49M,ESM,https://utmb.world/runner/3030919.cassio.lopes,427.0,464.0,322.0,58.0,06:31:54,23514.029,True,f,381.0
+3752,Thomas WILLINGER,AT,46,H,45-49M,,https://utmb.world/runner/6644169.thomas.willinger,,465.0,323.0,59.0,06:32:07,23527.762000000002,True,f,381.0
+3481,Sebastian SOMMER,DE,31,H,20-34M,,https://utmb.world/runner/5987465.sebastian.sommer,358.0,466.0,324.0,84.0,06:32:11,23531.92,True,f,381.0
+3463,Karolina ĐORĐEVIĆ,HR,40,F,40-44W,ind,,,467.0,143.0,35.0,06:32:26,23546.722999999998,True,f,
+3486,Léo ROBERT,FR,35,H,35-39M,,https://utmb.world/runner/5516875.leo.robert,354.0,468.0,325.0,62.0,06:32:29,23549.68,True,f,380.0
+3472,Kwok Kuen CHAN,HK,57,H,55-59M,,https://utmb.world/runner/263522.kwokkuen.chan,362.0,469.0,326.0,19.0,06:32:32,23552.748,True,f,380.0
+3761,Maciej CIPORA,PL,55,H,55-59M,K & M TEAM,https://utmb.world/runner/2218487.maciej.cipora,,470.0,327.0,20.0,06:32:42,23562.861,True,f,380.0
+3458,Matej HALGAS,HR,34,H,20-34M,AirFlow,https://utmb.world/runner/5096420.matej.halgas,368.0,471.0,328.0,85.0,06:32:50,23570.72,True,f,380.0
+3698,Nena BROZAN PERIŠIĆ,HR,39,F,35-39W,AK Rika,https://utmb.world/runner/6232199.nena.brozanperisic,,472.0,144.0,27.0,06:32:58,23578.499,True,f,380.0
+3570,Attilio SAMMARINI,IT,42,H,40-44M,,https://utmb.world/runner/4942813.attilio.sammarini,,473.0,329.0,69.0,06:33:41,23621.368,True,f,379.0
+3788,Boris PAŽIN,HR,47,H,45-49M,AK Forca,https://utmb.world/runner/5356712.boris.pazin,,474.0,330.0,60.0,06:34:29,23669.464,True,f,379.0
+3424,Nando OLIVAL,BR,61,H,60-64M,RunFun,https://utmb.world/runner/5802389.nando.olival,381.0,475.0,331.0,6.0,06:35:02,23702.667,True,f,378.0
+3720,Zsolt-Ede BERECZKI,RO,32,H,20-34M,,https://utmb.world/runner/6071413.zsoltede.bereczki,,476.0,332.0,86.0,06:35:10,23710.697,True,f,378.0
+3628,Maja HRUŠKA,HR,42,F,40-44W,AK Sljeme,https://utmb.world/runner/6232211.maja.hruska,,477.0,145.0,36.0,06:35:44,23744.842,True,f,377.0
+3732,Marin DOŠEN,HR,38,H,35-39M,GiM-Gym,https://utmb.world/runner/6747603.marin.dosen,,478.0,333.0,63.0,06:36:10,23770.403,True,f,377.0
+3230,Sophie LELOU,FR,56,F,55-59W,,https://utmb.world/runner/466838.sophie.lelou,470.0,479.0,146.0,7.0,06:36:26,23786.439,True,f,377.0
+3530,Alice ROBOVA,CZ,39,F,35-39W,Užívám si to!,https://utmb.world/runner/5977477.alice.robova,329.0,480.0,147.0,28.0,06:36:54,23814.613999999998,True,f,376.0
+3445,Elizabeta BOŽNAR,SI,58,F,55-59W,,https://utmb.world/runner/5847411.elizabeta.boznar,373.0,481.0,148.0,8.0,06:37:17,23837.741,True,f,376.0
+3462,Iva PINTUR,HR,39,F,35-39W,,https://utmb.world/runner/5977339.iva.pintur,366.0,482.0,149.0,29.0,06:37:24,23844.374,True,f,376.0
+3756,Christian WEINGARTNER,AT,55,H,55-59M,HFP-Training,https://utmb.world/runner/477691.christian.weingartner,,483.0,334.0,21.0,06:38:14,23894.991,True,f,375.0
+3447,Viktor SABADIN,HR,44,H,40-44M,Olimpik,https://utmb.world/runner/5976671.viktor.sabadin,373.0,484.0,335.0,70.0,06:39:47,23987.68,True,f,374.0
+3343,Primož KOSMAČ,SI,62,H,60-64M,,https://utmb.world/runner/1061455.primoz.kosmac,424.0,485.0,336.0,7.0,06:40:02,24002.244,True,f,373.0
+3380,Tomasz GRYGIER,PL,48,H,45-49M,,https://utmb.world/runner/316474.tomasz.grygier,403.0,486.0,337.0,61.0,06:40:18,24018.444,True,f,373.0
+3299,Kristín KRISTJÁNSDÓTTIR,IS,59,F,55-59W,,https://utmb.world/runner/4206173.kristin.kristjansdottir,441.0,487.0,150.0,9.0,06:40:21,24021.616,True,f,373.0
+3501,Sesselja ODINSDOTTIR,IS,24,F,20-34W,,https://utmb.world/runner/4883085.sesselja.odinsdottir,346.0,487.0,150.0,40.0,06:40:21,24021.762000000002,True,f,373.0
+3755,Siniša POŠTIĆ,HR,32,H,20-34M,,https://utmb.world/runner/6782409.sinisa.postic,,489.0,338.0,87.0,06:40:31,24031.702,True,f,373.0
+3564,Snježana IVČIĆ,HR,44,F,40-44W,IND,https://utmb.world/runner/5267772.snjezana.ivcic,280.0,490.0,152.0,37.0,06:40:57,24057.873,True,f,372.0
+3534,Susana CASTRO,UY,61,F,60-64W,AL MAXIMO,https://utmb.world/runner/1139421.susana.castro,322.0,491.0,153.0,3.0,06:40:59,24059.889,True,f,372.0
+3433,Andreja VIDOVIČ,SI,40,F,40-44W,/,https://utmb.world/runner/4213964.andreja.vidovic,379.0,492.0,154.0,38.0,06:41:12,24072.127999999997,True,f,372.0
+3584,Athanasios STRATIS,GR,37,H,35-39M,,https://utmb.world/runner/3461425.athanasios.stratis,,493.0,339.0,64.0,06:41:47,24107.441000000003,True,f,372.0
+3471,Aylin BEKIL,TR,33,F,20-34W,,https://utmb.world/runner/5622844.aylin.bekil,363.0,494.0,155.0,41.0,06:42:08,24128.572999999997,True,f,371.0
+3714,Daniel SCHREIBER,DE,23,H,20-34M,,https://utmb.world/runner/6877793.daniel.schreiber,,495.0,340.0,88.0,06:42:14,24134.528,True,f,371.0
+3667,Natálie PĚNTKOVÁ,CZ,25,F,20-34W,BK Ludgeřovice,https://utmb.world/runner/6232187.natalie.pentkova,,496.0,156.0,42.0,06:42:23,24143.069,True,f,371.0
+3371,Dragoș PICHIU,RO,51,H,50-54M,,https://utmb.world/runner/2355709.dragos.pichiu,408.0,497.0,341.0,27.0,06:42:28,24148.328999999998,True,f,371.0
+3622,Ragnheidur BALDURSDOTTIR,IS,59,F,55-59W,UFA-Eyrarskokk,https://utmb.world/runner/4226913.ragnheidur.baldursdottir,,498.0,157.0,10.0,06:42:35,24155.685,True,f,371.0
+3721,Ana STOJNIĆ,RS,40,F,40-44W,Loznički trkači,https://utmb.world/runner/6616263.ana.stojnic,,499.0,158.0,39.0,06:43:02,24182.617000000002,True,f,371.0
+3498,Siniša ANTONČIĆ,HR,63,H,60-64M,MMTrening,https://utmb.world/runner/5506985.sinisa.antoncic,347.0,500.0,342.0,8.0,06:43:08,24188.086,True,f,370.0
+3531,Ana VUJIC,SE,43,F,40-44W,,https://utmb.world/runner/5557985.ana.vujic,328.0,501.0,159.0,40.0,06:43:17,24197.525,True,f,370.0
+3802,Ivan MARTIC,HR,44,H,40-44M,,https://utmb.world/runner/6369831.ivan.martic,,502.0,343.0,71.0,06:43:20,24200.697999999997,True,f,370.0
+3409,Manca TEKAVCIC POMPE,SI,53,F,50-54W,,https://utmb.world/runner/4416028.manca.tekavcicpompe,387.0,503.0,160.0,16.0,06:43:36,24216.084,True,f,370.0
+3583,Sture SVENDSEN,NO,42,H,40-44M,Havørn Friidrett Løpegruppe,https://utmb.world/runner/6644211.sture.svendsen,,504.0,344.0,72.0,06:43:48,24228.714,True,f,370.0
+3793,Yiteng ZHANG,CN,34,H,20-34M,,https://utmb.world/runner/6642705.yiteng.zhang,,505.0,345.0,89.0,06:43:53,24233.516,True,f,370.0
+3541,Stephanie WIELOPOLSKI,DE,33,F,20-34W,,https://utmb.world/runner/4002588.stephanie.wielopolski,317.0,506.0,161.0,43.0,06:44:03,24243.841,True,f,370.0
+3709,Ragnhildur JÓNSDÓTTIR,IS,59,F,55-59W,UFA Eyrarskokk,https://utmb.world/runner/4883901.ragnhildur.jonsdottir,,507.0,162.0,11.0,06:45:06,24306.987,True,f,369.0
+3749,Alexander GEIGER,DE,29,H,20-34M,,https://utmb.world/runner/6725673.alexander.geiger,,508.0,346.0,90.0,06:46:26,24386.903,True,f,367.0
+3734,Albert CABRIT,FR,33,H,20-34M,,https://utmb.world/runner/6783085.albert.cabrit,,509.0,347.0,91.0,06:46:53,24413.384,True,f,367.0
+3723,Irene FRASSL,AT,53,F,50-54W,just4me,https://utmb.world/runner/1479327.irene.frassl,,510.0,163.0,17.0,06:48:03,24483.117000000002,True,f,366.0
+3476,József PORPÁCZY,HU,63,H,60-64M,Kanizsai Futóklub,https://utmb.world/runner/5689030.jozsef.porpaczy,360.0,511.0,348.0,9.0,06:48:35,24515.872000000003,True,f,365.0
+3515,Nina STARINAC,RS,45,F,45-49W,Spartak Training System,https://utmb.world/runner/4713786.nina.starinac,340.0,511.0,164.0,21.0,06:48:35,24515.357999999997,True,f,365.0
+3478,Mónika KUSTÁN,HU,51,F,50-54W,Kanizsai Futóklub,https://utmb.world/runner/5689028.monika.kustan,360.0,513.0,165.0,18.0,06:48:39,24519.217999999997,True,f,365.0
+3506,Monika TCHÓRZEWSKA,PL,44,F,40-44W,Mocna Grupa Cezara,https://utmb.world/runner/4104595.monika.tchorzewska,346.0,513.0,165.0,41.0,06:48:39,24519.727000000003,True,f,365.0
+3427,Renata GAJEWSKA,PL,38,F,35-39W,Mocna Grupa Cezara,https://utmb.world/runner/6232215.renata.gajewska,381.0,513.0,165.0,30.0,06:48:39,24519.491,True,f,365.0
+3460,Anna TCHÓRZEWSKA-PIETRZYK,PL,47,F,45-49W,Mocna Grupa Cezara,https://utmb.world/runner/2218661.anna.tchorzewskapietrzyk,367.0,513.0,165.0,22.0,06:48:39,24519.769,True,f,365.0
+3383,Darko SUŠIĆ,HR,46,H,45-49M,385events.hr,https://utmb.world/runner/3949237.darko.susic,402.0,517.0,349.0,62.0,06:49:51,24591.804,True,f,364.0
+3408,Markus MÅRD,FI,39,H,35-39M,,https://utmb.world/runner/6351956.markus.mard,388.0,518.0,350.0,65.0,06:50:21,24621.412999999997,True,f,364.0
+3624,Kristina JURČIĆ,HR,31,F,20-34W,PD Planinorci,https://utmb.world/runner/6595283.kristina.jurcic,,519.0,169.0,44.0,06:51:02,24662.693,True,f,363.0
+3396,Michael LACHOWITZ,AT,47,H,45-49M,RC Griffen,https://utmb.world/runner/5971317.michael.lachowitz,395.0,520.0,351.0,63.0,06:51:21,24681.737,True,f,363.0
+3298,Alexander VARYEMEZ,AT,33,H,20-34M,RC ARBÖ Griffen,https://utmb.world/runner/6036449.alexander.varyemez,441.0,520.0,351.0,92.0,06:51:21,24681.464,True,f,363.0
+3310,Manuel SCHNEIDER,AT,43,H,40-44M,RC Arbö Griffen,https://utmb.world/runner/5067539.manuel.schneider,435.0,520.0,351.0,73.0,06:51:21,24681.574,True,f,363.0
+3296,Marijan KAUČIČ,SI,61,H,60-64M,ŠD PULZ,https://utmb.world/runner/4038917.marijan.kaucic,442.0,523.0,354.0,10.0,06:52:04,24724.636000000002,True,f,362.0
+3087,Daniele GOMBACH,IT,50,H,50-54M,S1 trail la corsa della bora,https://utmb.world/runner/1359431.daniele.gombach,561.0,524.0,355.0,28.0,06:52:08,24728.022999999997,True,f,362.0
+3430,Adrian DRINGUS,SK,38,H,35-39M,DANUBE RUNNERS,https://utmb.world/runner/3445579.adrian.dringus,381.0,525.0,356.0,66.0,06:52:23,24743.613999999998,True,f,362.0
+3453,Ondrej DEDIC,CZ,43,H,40-44M,,https://utmb.world/runner/6489125.ondrej.dedic,370.0,525.0,356.0,74.0,06:52:23,24743.634,True,f,362.0
+3739,Viktor IVANIŠ,HR,41,H,40-44M,,https://utmb.world/runner/6747609.viktor.ivanis,,527.0,358.0,75.0,06:53:17,24797.071,True,f,361.0
+3745,Žaneta VAINERTOVÁ,CZ,33,F,20-34W,,https://utmb.world/runner/4165300.zaneta.vainertova,,528.0,170.0,45.0,06:54:31,24871.436,True,f,360.0
+3205,Tomáš KLATOVSKÝ,CZ,37,H,35-39M,ELLKA,https://utmb.world/runner/5068981.tomas.klatovsky,483.0,528.0,359.0,67.0,06:54:31,24871.441000000003,True,f,360.0
+3694,Dario RADAKOVIĆ,HR,41,H,40-44M,,https://utmb.world/runner/6777641.dario.radakovic,,530.0,360.0,76.0,06:54:53,24893.497000000003,True,f,360.0
+3512,Gerlinde BAUMANN,AT,66,F,65-69W,Stanzer Trailrun,https://utmb.world/runner/1343777.gerlinde.baumann,342.0,531.0,171.0,1.0,06:56:20,24980.494,True,f,359.0
+3682,Katalin WEISZ,HU,51,F,50-54W,,https://utmb.world/runner/6579247.katalin.weisz,,532.0,172.0,19.0,06:57:07,25027.222,True,f,358.0
+3639,Sanja SIĆ ZAGORŠČAK,HR,55,F,55-59W,AK Sljeme,https://utmb.world/runner/5473266.sanja.siczagorscak,,533.0,173.0,12.0,06:57:14,25034.597,True,f,358.0
+3415,Mijo ŽULJ,HR,46,H,45-49M,Freud’s runners,https://utmb.world/runner/4416222.mijo.zulj,386.0,534.0,361.0,64.0,06:57:29,25049.586,True,f,358.0
+3664,Lovre GRANIĆ,HR,38,H,35-39M,,https://utmb.world/runner/6271935.lovre.granic,,535.0,362.0,68.0,06:57:48,25068.923,True,f,357.0
+3493,Jonathan CLARK,NL,63,H,60-64M,,https://utmb.world/runner/5801409.jonathan.clark,349.0,536.0,363.0,11.0,06:57:57,25077.343999999997,True,f,357.0
+3608,Yu ZHU,CN,31,F,20-34W,Ywalk,https://utmb.world/runner/6547117.yu.zhu,,537.0,174.0,46.0,06:57:58,25078.504,True,f,357.0
+3586,Visar BEGIQI,HR,26,H,20-34M,,https://utmb.world/runner/6604765.visar.begiqi,,538.0,364.0,93.0,06:58:20,25100.654,True,f,357.0
+3589,Petra PUNTIJAR,HR,25,F,20-34W,,https://utmb.world/runner/6604763.petra.puntijar,,538.0,175.0,47.0,06:58:20,25100.472999999998,True,f,357.0
+3744,Jenna HINTSALA,US,38,F,35-39W,,https://utmb.world/runner/6840057.jenna.hintsala,,540.0,176.0,31.0,06:58:30,25110.817000000003,True,f,357.0
+3629,Lauren MODERSON,US,39,F,35-39W,,https://utmb.world/runner/6276857.lauren.moderson,,540.0,176.0,31.0,06:58:30,25110.856,True,f,357.0
+3404,Marko MARINČ,SI,37,H,35-39M,,https://utmb.world/runner/6199972.marko.marinc,392.0,542.0,365.0,69.0,06:58:49,25129.054,True,f,357.0
+3440,Polona KULUSIC FLERE,SI,53,F,50-54W,,https://utmb.world/runner/5830446.polona.kulusicflere,377.0,543.0,178.0,20.0,06:59:10,25150.938,True,f,356.0
+3425,Damjan FLERE,SI,44,H,40-44M,,https://utmb.world/runner/5830552.damjan.flere,381.0,544.0,366.0,77.0,06:59:11,25151.175,True,f,356.0
+3521,Glenda FRANCIS,ZA,53,F,50-54W,Mindworks,https://utmb.world/runner/4885716.glenda.francis,337.0,545.0,179.0,21.0,07:00:31,25231.863999999998,True,f,355.0
+3490,Jana KLAČKOVÁ,SK,48,F,45-49W,,https://utmb.world/runner/6701574.jana.klackova,351.0,546.0,180.0,23.0,07:00:36,25236.917,True,f,355.0
+3617,Branko KNEŽEVIĆ,HR,42,H,40-44M,AK Sljeme,https://utmb.world/runner/4161852.branko.knezevic,,547.0,367.0,78.0,07:02:07,25327.386000000002,True,f,354.0
+3475,Máté PÉCSI,HU,24,H,20-34M,,https://utmb.world/runner/6168039.mate.pecsi,361.0,548.0,368.0,94.0,07:02:11,25331.675,True,f,354.0
+3488,Darko DUHOVIĆ,HR,57,H,55-59M,OK Međimurje,https://utmb.world/runner/5830115.darko.duhovic,358.0,549.0,369.0,22.0,07:02:30,25350.449,True,f,353.0
+3647,Andrea STANKOVIĆ,HR,35,H,35-39M,,https://utmb.world/runner/1945915.andrea.stankovic,,550.0,370.0,70.0,07:03:15,25395.589,True,f,353.0
+3606,Agnieszka KACIUPA,PL,49,F,45-49W,Farty Puszczy,https://utmb.world/runner/1733505.agnieszka.kaciupa,,551.0,181.0,24.0,07:03:16,25396.379,True,f,353.0
+3544,Nada DROBNJAK,RS,59,F,55-59W,,https://utmb.world/runner/4245413.nada.drobnjak,313.0,552.0,182.0,13.0,07:03:28,25408.468999999997,True,f,353.0
+3477,Barbara STRASSER,AT,60,F,60-64W,,https://utmb.world/runner/5976683.barbara.strasser,359.0,553.0,183.0,4.0,07:04:31,25471.417,True,f,352.0
+3443,Danijela KOS,HR,51,F,50-54W,TK Swibir,https://utmb.world/runner/1946213.danijela.kos,375.0,554.0,184.0,22.0,07:04:42,25482.828999999998,True,f,352.0
+3632,Toni BROŽIĆ,HR,67,H,65-69M,SD Proteus,https://utmb.world/runner/6232201.toni.brozic,,555.0,371.0,2.0,07:05:09,25509.965,True,f,351.0
+3465,Didier LEBLANC,FR,63,H,60-64M,,https://utmb.world/runner/2380817.didier.leblanc,365.0,556.0,372.0,12.0,07:06:54,25614.481,True,f,350.0
+3503,Andrea STOCKER,DE,56,F,55-59W,SV Seiz,https://utmb.world/runner/5059119.andrea.stocker,347.0,557.0,185.0,14.0,07:07:07,25627.765,True,f,350.0
+3798,Artan THAQI,XK,38,H,35-39M,Team KTRA,https://utmb.world/runner/4221653.artan.thaqi,,558.0,373.0,71.0,07:07:32,25652.831000000002,True,f,349.0
+3763,Hana XHEMAJLI,XK,35,F,35-39W,KTRA,https://utmb.world/runner/2971415.hana.xhemajli,,559.0,186.0,33.0,07:07:34,25654.421000000002,True,f,349.0
+3497,Kruno ĐORĐEVIĆ,HR,42,H,40-44M,IND,,,560.0,374.0,79.0,07:07:38,25658.798,True,f,
+3655,Marko NERIĆ,HR,41,H,40-44M,,https://utmb.world/runner/1343755.marko.neric,,561.0,375.0,80.0,07:08:46,25726.107000000004,True,f,348.0
+3274,Nuno PACHECO,PT,40,H,40-44M,ACTIVE CLUBE,https://utmb.world/runner/6572272.nuno.pacheco,448.0,562.0,376.0,81.0,07:08:47,25727.947999999997,True,f,348.0
+3538,Ema ALISPAHIĆ ĆOSIĆ,HR,32,F,20-34W,,https://utmb.world/runner/3507585.ema.alispahiccosic,319.0,563.0,187.0,48.0,07:09:16,25756.209,True,f,348.0
+3487,Janis BIRGELIS,LV,58,H,55-59M,,https://utmb.world/runner/1983877.janis.birgelis,354.0,564.0,377.0,23.0,07:10:20,25820.577999999998,True,f,347.0
+3485,Sanda MERKLER,HR,46,F,45-49W,,https://utmb.world/runner/5977337.sanda.merkler,354.0,565.0,188.0,25.0,07:12:25,25945.505,True,f,345.0
+3519,Anita SLOBODA,AT,30,F,20-34W,Sloboda/Ferstl,https://utmb.world/runner/4713784.anita.sloboda,339.0,566.0,189.0,49.0,07:13:05,25985.799,True,f,345.0
+3520,Darko SLOBODA,RS,55,H,55-59M,Sloboda/Ferstl,https://utmb.world/runner/3074051.darko.sloboda,339.0,567.0,378.0,24.0,07:13:06,25986.851000000002,True,f,345.0
+3582,Ondřej NEVRKLA,CZ,23,H,20-34M,,https://utmb.world/runner/6675771.ondrej.nevrkla,,568.0,379.0,95.0,07:13:11,25991.352000000003,True,f,345.0
+3436,Nenad BRACUN,HR,44,H,40-44M,,https://utmb.world/runner/4416224.nenad.bracun,346.0,569.0,380.0,82.0,07:13:41,26021.583,True,f,344.0
+3770,Kristijan NOVAK,HR,24,H,20-34M,,https://utmb.world/runner/6747613.kristijan.novak,,569.0,380.0,96.0,07:13:41,26021.682,True,f,344.0
+3050,Maja LAZNIK,SI,37,F,35-39W,,https://utmb.world/runner/4272771.maja.laznik,621.0,571.0,190.0,34.0,07:14:12,26052.076,True,f,344.0
+3731,Rina TAKAHASHI,JP,28,F,20-34W,,https://utmb.world/runner/6734181.rina.takahashi,,572.0,191.0,50.0,07:15:18,26118.272999999997,True,f,343.0
+3300,Kazuki HIROSE,JP,28,H,20-34M,,https://utmb.world/runner/6042510.kazuki.hirose,441.0,572.0,382.0,97.0,07:15:18,26118.415,True,f,343.0
+3616,Helena ČAMPA,SI,60,F,60-64W,,https://utmb.world/runner/666495.helena.campa,,574.0,192.0,5.0,07:15:32,26132.961,True,f,343.0
+3550,Matej TADIĆ,HR,21,H,20-34M,Slow'n'Steady,https://utmb.world/runner/5977103.matej.tadic,305.0,575.0,383.0,98.0,07:15:34,26134.132999999998,True,f,343.0
+3613,Áskell GÍSLASON,IS,54,H,50-54M,UFA-Eyrarskokk,https://utmb.world/runner/6747599.askell.gislason,,576.0,384.0,29.0,07:15:36,26136.974,True,f,343.0
+3545,Barbora RYSOVA,CZ,42,F,40-44W,,https://utmb.world/runner/5455591.barbora.rysova,313.0,577.0,193.0,42.0,07:15:37,26137.353,True,f,343.0
+3420,Sabrina VOICU,RO,30,F,20-34W,,https://utmb.world/runner/6299998.sabrina.voicu,384.0,578.0,194.0,51.0,07:15:58,26158.317000000003,True,f,343.0
+3569,Danijela GOJTANIĆ,HR,46,F,45-49W,Ind.,https://utmb.world/runner/6362213.danijela.gojtanic,,579.0,195.0,26.0,07:16:11,26171.103,True,f,342.0
+3514,Jon CROXFORD,GB,55,H,55-59M,,https://utmb.world/runner/4776736.jon.croxford,341.0,580.0,385.0,25.0,07:16:19,26179.359,True,f,342.0
+3533,Anton PEKHTEREV,AN,36,H,35-39M,,https://utmb.world/runner/4199336.anton.pekhterev,325.0,581.0,386.0,72.0,07:16:25,26185.901,True,f,342.0
+3528,Margaryta IVANETS,BE,26,F,20-34W,,https://utmb.world/runner/6891813.margaryta.ivanets,331.0,582.0,196.0,52.0,07:17:20,26240.931,True,f,341.0
+3611,Peter DE COSTER,BE,46,H,45-49M,,https://utmb.world/runner/6608985.peter.decoster,,583.0,387.0,65.0,07:17:52,26272.147999999997,True,f,341.0
+3455,Diana SANCHEZ ROMERO,CR,42,F,40-44W,Kaizen,https://utmb.world/runner/5092929.diana.sanchezromero,369.0,584.0,197.0,43.0,07:18:01,26281.194,True,f,341.0
+3799,Sasa TRSINSKI,HR,29,F,20-34W,-,https://utmb.world/runner/6868893.sasa.trsinski,,585.0,198.0,53.0,07:18:50,26330.737999999998,True,f,340.0
+3801,Ivan TRŠINSKI,HR,27,H,20-34M,-,https://utmb.world/runner/6868897.ivan.trsinski,,586.0,388.0,99.0,07:18:53,26333.322999999997,True,f,340.0
+3800,Saša TRŠINSKI,HR,59,H,55-59M,-,https://utmb.world/runner/6868901.sasa.trsinski,,586.0,388.0,26.0,07:18:53,26333.316000000003,True,f,340.0
+3810,Karlo LEŠKOVIĆ,HR,31,H,20-34M,Ak Zabok,https://utmb.world/runner/6868899.karlo.leskovic,,586.0,388.0,99.0,07:18:53,26333.541,True,f,340.0
+3511,Sonia Alexandra STOICA,RO,40,F,40-44W,,https://utmb.world/runner/1643345.soniaalexandra.stoica,342.0,589.0,199.0,44.0,07:20:04,26404.548,True,f,339.0
+3572,Božidar ŽELJEZIĆ,HR,72,H,70-74M,,https://utmb.world/runner/6388251.bozidar.zeljezic,,590.0,391.0,1.0,07:21:27,26487.28,True,f,338.0
+3529,Renata BUGAJSKA-JUCHA,PL,53,F,50-54W,Dzikie Juszki,https://utmb.world/runner/1118101.renata.bugajskajucha,331.0,591.0,200.0,23.0,07:21:36,26496.408,True,f,338.0
+3532,Dariusz WILMAŃSKI,PL,51,H,50-54M,,https://utmb.world/runner/4030958.dariusz.wilmanski,327.0,592.0,392.0,30.0,07:23:17,26597.09,True,f,337.0
+3466,Ioannis PAPADOPOULOS,GR,53,H,50-54M,Correcaminos,https://utmb.world/runner/703258.ioannis.papadopoulos,365.0,593.0,393.0,31.0,07:24:59,26699.385,True,f,336.0
+3376,Ana JEZOVITA,HR,40,F,40-44W,,https://utmb.world/runner/703218.ana.jezovita,403.0,594.0,201.0,45.0,07:25:31,26731.701,True,f,335.0
+3502,Zeljka BALAZINEC,HR,41,F,40-44W,Kipčoge,https://utmb.world/runner/5340158.zeljka.balazinec,347.0,595.0,202.0,46.0,07:28:27,26907.612999999998,True,f,333.0
+3494,Davor BALAŽINEC,HR,43,H,40-44M,Kipčoge,https://utmb.world/runner/6062823.davor.balazinec,349.0,595.0,394.0,83.0,07:28:27,26907.821,True,f,333.0
+3547,Lisa EMERSON,GB,55,F,55-59W,EALING EAGLES RUNNING CLUB,https://utmb.world/runner/6395938.lisa.emerson,312.0,597.0,203.0,15.0,07:32:01,27121.552000000003,True,f,330.0
+3499,Danijela POZDER,HR,42,F,40-44W,Individualac,https://utmb.world/runner/6063791.danijela.pozder,347.0,598.0,204.0,47.0,07:32:39,27159.423,True,f,330.0
+3626,Martina BULJAT,HR,35,F,35-39W,,https://utmb.world/runner/6518769.martina.buljat,,599.0,205.0,35.0,07:32:47,27167.266,True,f,330.0
+3546,Beata HRABANSKA-RACZAK,PL,43,F,40-44W,,https://utmb.world/runner/5393244.beata.hrabanskaraczak,313.0,600.0,206.0,48.0,07:33:15,27195.033,True,f,329.0
+3620,Jesper Wichmand LARSEN,DK,65,H,65-69M,,https://utmb.world/runner/6734069.jesperwichmand.larsen,,601.0,395.0,3.0,07:35:44,27344.516,True,f,328.0
+3444,Robert RES,HR,45,H,45-49M,Daruc,https://utmb.world/runner/5061899.robert.res,374.0,602.0,396.0,66.0,07:36:50,27410.516,True,f,327.0
+3681,Zlatko BRATIĆ,HR,49,H,45-49M,IND,https://utmb.world/runner/6995249.zlatko.bratic,318.0,603.0,397.0,67.0,07:36:54,27414.443,True,f,327.0
+3561,Alen TADIĆ,HR,50,H,50-54M,Panonski mornar,https://utmb.world/runner/2968967.alen.tadic,282.0,604.0,398.0,32.0,07:37:13,27433.709,True,f,327.0
+3517,Dejan GLAZER,HR,54,H,50-54M,Cheshire Cats,https://utmb.world/runner/859032.dejan.glazer,341.0,605.0,399.0,33.0,07:37:16,27436.929,True,f,327.0
+3491,Marijo MARTIĆ,HR,34,H,20-34M,,https://utmb.world/runner/5506991.marijo.martic,349.0,606.0,400.0,101.0,07:38:36,27516.432,True,f,326.0
+3661,Marina GALKO,HR,36,F,35-39W,,https://utmb.world/runner/6603045.marina.galko,,607.0,207.0,36.0,07:38:49,27529.702999999998,True,f,325.0
+3674,Davor ŠEBIĆ,HR,41,H,40-44M,AK SLJEME,https://utmb.world/runner/6232213.davor.sebic,,608.0,401.0,84.0,07:38:56,27536.966,True,f,325.0
+3552,Judit MOLNÁR,HU,42,F,40-44W,Biceg,https://utmb.world/runner/6139850.judit.molnar,305.0,609.0,208.0,49.0,07:40:30,27630.889,True,f,324.0
+3807,Dominika HANÁČKOVÁ,CZ,27,F,20-34W,,https://utmb.world/runner/6777643.dominika.hanackova,,610.0,209.0,54.0,07:42:06,27726.453999999998,True,f,323.0
+3558,Monique CROSSET,BE,48,F,45-49W,,https://utmb.world/runner/3252515.monique.crosset,292.0,611.0,210.0,27.0,07:42:39,27759.847,True,f,323.0
+3751,Neal RAIMI,MK,33,F,20-34W,//,https://utmb.world/runner/6756921.neal.raimi,,611.0,210.0,55.0,07:42:39,27759.891,True,f,323.0
+3790,Miloš JOVANOVIĆ,RS,42,H,40-44M,AK PARTIZAN,https://utmb.world/runner/6974945.milos.jovanovic,,613.0,402.0,85.0,07:42:46,27766.903,True,f,323.0
+3536,Petra KRALJ,HR,45,F,45-49W,AK Zaprešić,https://utmb.world/runner/4416274.petra.kralj,317.0,614.0,212.0,28.0,07:44:05,27845.265,True,f,322.0
+3805,Vlastislav ČERVENKA,CZ,25,H,20-34M,,https://utmb.world/runner/6763351.vlastislav.cervenka,,615.0,403.0,102.0,07:47:41,28061.95,True,f,319.0
+3771,Kwang Soon MOON,KR,65,H,65-69M,,https://utmb.world/runner/6820933.kwangsoon.moon,,616.0,404.0,4.0,07:48:00,28080.831000000002,True,f,319.0
+3470,Robert LANZKE,DE,44,H,40-44M,,https://utmb.world/runner/5058769.robert.lanzke,363.0,617.0,405.0,86.0,07:49:24,28164.957000000002,True,f,318.0
+3554,Alice LANZKE,DE,46,F,45-49W,,https://utmb.world/runner/5058773.alice.lanzke,300.0,618.0,213.0,29.0,07:49:25,28165.158,True,f,318.0
+3672,Robert ANSARI,GB,51,H,50-54M,,https://utmb.world/runner/2477017.robert.ansari,,619.0,406.0,34.0,07:49:29,28169.602000000003,True,f,318.0
+3567,Iva DZAPO,HR,49,F,45-49W,AK Sljeme,https://utmb.world/runner/6232197.iva.dzapo,237.0,619.0,214.0,30.0,07:49:29,28169.121,True,f,318.0
+3637,Nicola ANSARI,GB,57,F,55-59W,,https://utmb.world/runner/6232207.nicola.ansari,,619.0,214.0,16.0,07:49:29,28169.057999999997,True,f,318.0
+3439,Slavcho TOPALOV,BG,55,H,55-59M,K3 ULTRA,https://utmb.world/runner/4740600.slavcho.topalov,377.0,622.0,407.0,27.0,07:50:19,28219.822,True,f,318.0
+3516,Andy MILLARD,GB,61,H,60-64M,Pont-y-pwl & District Runners,https://utmb.world/runner/3848635.andy.millard,341.0,623.0,408.0,13.0,07:51:47,28307.172000000002,True,f,317.0
+3560,Sumi KIM,KR,45,F,45-49W,Team Atom,https://utmb.world/runner/1508241.sumi.kim,284.0,624.0,216.0,31.0,07:52:54,28374.89,True,f,
+3111,Jose Luis ALBARRAN ZARDOYA,ES,57,H,55-59M,Club atletismo nou barris,https://utmb.world/runner/872841.joseluis.albarranzardoya,541.0,625.0,409.0,28.0,07:59:49,28789.505,True,f,311.0
+3717,Elvis STANČIĆ,HR,55,H,55-59M,Ind,https://utmb.world/runner/4416240.elvis.stancic,,626.0,410.0,29.0,08:00:55,28855.186,True,f,311.0
+3509,Claudia VOIVODA STANČIĆ,HR,53,F,50-54W,Ind,https://utmb.world/runner/4416276.claudia.voivodastancic,343.0,626.0,217.0,24.0,08:00:55,28855.22,True,f,311.0
+3540,Marco SABATINI,IT,53,H,50-54M,RUNCARD,https://utmb.world/runner/4350224.marco.sabatini,318.0,628.0,411.0,35.0,08:02:19,28939.952999999998,True,f,310.0
+3652,Hana GRÁFOVÁ,CZ,42,F,40-44W,Support  team on the trip,https://utmb.world/runner/6430463.hana.grafova,,629.0,218.0,50.0,08:04:37,29077.887000000002,True,f,308.0
+3641,Mirko GLAVINIC,RS,52,H,50-54M,Ivanjica Trail,https://utmb.world/runner/6367571.mirko.glavinic,,630.0,412.0,36.0,08:11:54,29514.006,True,f,304.0
+3214,Miha ULAGA,SI,49,H,45-49M,TeamPorty57,https://utmb.world/runner/4416178.miha.ulaga,449.0,631.0,413.0,68.0,08:18:32,29912.601000000002,True,f,300.0
+3484,Edoardo PISANI,IT,23,H,20-34M,Trm Team ASD,https://utmb.world/runner/5619659.edoardo.pisani,354.0,632.0,414.0,103.0,08:22:27,30147.222,True,f,297.0
+3548,Razvan SAMOILA,RO,59,H,55-59M,Clubul Alpin Roman Cluj msg Maraton Apuseni,https://utmb.world/runner/983179.razvanconstantin.samoila,311.0,633.0,415.0,30.0,08:27:14,30434.752,True,f,294.0
+3722,Manfred TERLER,AT,60,H,60-64M,,https://utmb.world/runner/561709.manfred.terler,,634.0,416.0,14.0,08:36:12,30972.909,True,f,289.0
+3565,Jasmina KOŠTA,HR,43,F,40-44W,,https://utmb.world/runner/2352805.jasmina.kosta,270.0,635.0,219.0,51.0,08:37:36,31056.917999999998,True,f,289.0
+3563,Marina PLACHTINSKI TAYLOR,HR,56,F,55-59W,Ind,https://utmb.world/runner/5976933.marina.plachtinskitaylor,280.0,636.0,220.0,17.0,08:47:00,31620.726000000002,True,f,283.0
+3696,Donika ANADOLLI,XK,37,F,35-39W,Team KTRA,https://utmb.world/runner/6841009.donika.anadolli,,637.0,221.0,37.0,09:08:19,32899.272000000004,True,f,272.0
+3401,Besart CANOLLI,XK,30,H,20-34M,KTRA,https://utmb.world/runner/4221700.besart.canolli,343.0,637.0,417.0,104.0,09:08:19,32899.175,True,f,272.0
+3428,Florent ZHUNIQI,XK,38,H,35-39M,teamKTRA,https://utmb.world/runner/4116100.florent.zhuniqi,381.0,639.0,418.0,73.0,09:08:20,32900.172999999995,True,f,272.0
+3650,Roman GRÁF,CZ,45,H,45-49M,Support team on the trip,https://utmb.world/runner/6430467.roman.graf,,640.0,419.0,69.0,09:09:50,32990.351,True,f,272.0
+3496,Igor BALENOVIC,HR,47,H,45-49M,AK Sljeme,https://utmb.world/runner/6110781.igor.balenovic,349.0,641.0,420.0,70.0,09:29:25,34165.604,True,f,262.0
+3562,Marina RABIĆ,HR,49,F,45-49W,AK Sljeme,https://utmb.world/runner/6116405.marina.rabic,282.0,641.0,222.0,32.0,09:29:25,34165.901,True,f,262.0
+3594,Jakub LOOS,CZ,24,H,20-34M,,https://utmb.world/runner/6498231.jakub.loos,,643.0,421.0,105.0,09:29:36,34176.983,True,f,262.0
+3024,Špela GONZA,SI,24,F,20-34W,Salomon,https://utmb.world/runner/2586057.spela.gonza,675.0,644.0,223.0,56.0,02:53:36,10416.942,False,a,
+3130,Rudy CONTE,IT,33,H,20-34M,,https://utmb.world/runner/3183871.rudy.conte,526.0,645.0,422.0,106.0,03:05:03,11091.089,False,a,
+3219,Andras REVESZ,HU,38,H,35-39M,,https://utmb.world/runner/6098925.andras.revesz,476.0,646.0,423.0,74.0,04:12:11,15131.583999999999,False,a,
+3389,Lara GROPPO,IT,40,F,40-44W,DURONA TEAM,https://utmb.world/runner/1913493.lara.groppo,399.0,647.0,224.0,52.0,04:30:33,16233.274,False,a,
+3631,Lorenzo PALMERO MARTÍNEZ,ES,31,H,20-34M,C.D.B.R. Muebles Mesa El Ejido,https://utmb.world/runner/1523417.lorenzo.palmeromartinez,,648.0,424.0,107.0,01:58:48,7128.991,False,a,
+3006,Jaka OBLAK,SI,28,H,20-34M,ŠD Špik Lučine,https://utmb.world/runner/4245047.jaka.oblak,793.0,649.0,425.0,108.0,02:33:02,9096.42,False,a,
+3073,Alexander ZEILER,AT,37,H,35-39M,,https://utmb.world/runner/4248731.alexander.zeiler,579.0,650.0,426.0,75.0,02:42:54,9417.366,False,a,
+3464,Nathan GUILLAUD,FR,29,H,20-34M,,https://utmb.world/runner/4959095.nathan.guillaud,366.0,651.0,427.0,109.0,03:04:54,9778.698,False,a,
+3716,Robin RUSH,DE,45,H,45-49M,,https://utmb.world/runner/22075.robin.rush,,652.0,428.0,71.0,03:15:54,11079.588,False,a,
+3177,Aleksandra HARASIMOWICZ,PL,34,F,20-34W,Przedwojewski Team,https://utmb.world/runner/4752622.aleksandra.harasimowicz,501.0,653.0,225.0,57.0,03:24:10,12241.687,False,a,
+3585,Mario MILETIĆ,HR,44,H,40-44M,,https://utmb.world/runner/6624261.mario.miletic,,654.0,429.0,87.0,03:31:51,12711.726999999999,False,a,
+3591,Julian FERSTL,AT,37,H,35-39M,Sloboda/Ferstl,https://utmb.world/runner/5289679.julian.ferstl,,655.0,430.0,76.0,03:51:31,13891.508,False,a,
+3495,Gabrijela KINKELA,HR,52,F,50-54W,AK Rika,https://utmb.world/runner/5058337.gabrijela.kinkela,348.0,656.0,226.0,25.0,03:58:57,14330.568000000001,False,a,
+3596,Martina PUTAR,HR,45,F,45-49W,,https://utmb.world/runner/6388253.martina.putar,,657.0,227.0,33.0,04:33:58,15080.511,False,a,
+3451,Livia ETTARI COHN,IT,23,F,20-34W,Trm Team ASD,https://utmb.world/runner/5619657.livia.ettaricohn,371.0,658.0,228.0,58.0,04:35:32,16532.446,False,a,
+3069,Maciej PODSIADLY,PL,36,H,35-39M,Trail Is Our Way,https://utmb.world/runner/4436182.maciej.podsiadly,585.0,659.0,431.0,77.0,04:37:32,16638.553,False,a,
+3615,Ana MUTIĆ,HR,37,F,35-39W,,https://utmb.world/runner/6604761.ana.mutic,,660.0,229.0,38.0,04:45:30,17103.004,False,a,
+3785,Henrike MÜHR,DE,28,F,20-34W,,https://utmb.world/runner/6891477.henrike.muhr,,661.0,230.0,59.0,05:00:17,17937.602,False,a,
+3542,Marija MANDIC,RS,47,F,45-49W,TK Sprint,https://utmb.world/runner/5977299.marija.mandic,315.0,662.0,231.0,34.0,05:03:05,18185.377,False,a,
+3654,Marina MATOVINA,HR,36,F,35-39W,,https://utmb.world/runner/6547121.marina.matovina,,663.0,232.0,39.0,05:15:38,16458.505,False,a,
+3038,Karolina OBSTÓJ,PL,35,F,35-39W,ON RUNNING,https://utmb.world/runner/1501441.karolina.obstoj,642.0,664.0,233.0,40.0,00:27:17,1637.384,False,a,
+3254,Martina ĐOĐO,HR,30,F,20-34W,Zagreb Runners,,,665.0,234.0,60.0,00:35:29,2129.923,False,a,
+3336,Caroline SCHNEIDER,FR,43,F,40-44W,Piat RTT,https://utmb.world/runner/5240688.caroline.schneider,429.0,666.0,235.0,53.0,00:40:48,2448.429,False,a,
+3768,Adriano CUBRIC,HR,42,H,40-44M,,https://utmb.world/runner/6747611.adriano.cubric,,667.0,432.0,88.0,00:46:22,2546.308,False,a,
+3578,Vedran PAŠKO,HR,32,H,20-34M,,https://utmb.world/runner/6624255.vedran.pasko,,668.0,433.0,110.0,00:48:58,2831.1679999999997,False,a,
+3012,Max RAHM,DE,28,H,20-34M,,https://utmb.world/runner/5872269.max.rahm,726.0,669.0,434.0,111.0,01:04:38,3878.4959999999996,False,a,
+3549,Lene Vingaard LARSEN,DK,59,F,55-59W,,https://utmb.world/runner/5777195.lenevingaard.larsen,308.0,670.0,236.0,18.0,01:46:20,2780.89,False,a,
+3715,Bartłomiej CIASTOŃ,PL,37,H,35-39M,GYM GARAGE,https://utmb.world/runner/6887697.bartlomiej.ciaston,,671.0,435.0,78.0,00:00:00,0.0,False,a,
+3021,Ruben RODRIGUEZ HERRERO,ES,49,H,45-49M,Xino Xano Trail Team,https://utmb.world/runner/5571753.ruben.rodriguezherrero,700.0,671.0,435.0,72.0,00:00:00,0.0,False,a,
+3015,Mathias HEITAUER,DE,30,H,20-34M,Falkesport,https://utmb.world/runner/4765258.mathias.heitauer,705.0,,,,00:00:00,0.0,False,np,
+3004,Sergi GARCIA TERRONES,ES,27,H,20-34M,TEAM VIBRAM,https://utmb.world/runner/1869037.sergi.garciaterrones,848.0,,,,00:00:00,0.0,False,np,
+3002,Camilla MAGLIANO,IT,40,F,40-44W,Orecchiella Garfagnana,https://utmb.world/runner/1195273.camilla.magliano,766.0,,,,00:00:00,0.0,False,np,
+3016,Giacomo VIDOTTO,IT,37,H,35-39M,,https://utmb.world/runner/1385003.giacomo.vidotto,699.0,,,,00:00:00,0.0,False,np,
+3023,Johannes PLATZER,AT,24,H,20-34M,TTC-Traunsee Trailrunning Club,https://utmb.world/runner/5506981.johannes.platzer,675.0,,,,00:00:00,0.0,False,np,
+3054,Aleksandra CIECIOROWSKA,PL,22,F,20-34W,Sobas Team,https://utmb.world/runner/4548914.aleksandra.cieciorowska,617.0,,,,00:00:00,0.0,False,np,
+3065,Tereza GAVENDOVÁ,CZ,36,F,35-39W,TJTJ,https://utmb.world/runner/1423893.tereza.gavendova,594.0,,,,00:00:00,0.0,False,np,
+3101,Silvio PALIJAŠ,HR,33,H,20-34M,,https://utmb.world/runner/5250108.silvio.palijas,552.0,,,,00:00:00,0.0,False,np,
+3081,Vytas HUTH,DE,43,H,40-44M,TC FIKO Rostock,https://utmb.world/runner/5058739.vytas.huth,570.0,,,,00:00:00,0.0,False,np,
+3110,Lukas KWIATEK,PL,47,H,45-49M,,https://utmb.world/runner/4867789.lukas.kwiatek,542.0,,,,00:00:00,0.0,False,np,
+3127,Mikolaj ZIELEZNIK,GB,52,H,50-54M,,https://utmb.world/runner/948505.mikolaj.zieleznik,529.0,,,,00:00:00,0.0,False,np,
+3124,Alexey SHAKHVOROSTOV,SI,49,H,45-49M,I Love Supersport,https://utmb.world/runner/6231343.alexey.shakhvorostov,532.0,,,,00:00:00,0.0,False,np,
+3136,Entoni ŠIROL,HR,34,H,20-34M,SRK Running Fox,https://utmb.world/runner/1061393.entoni.sirol,522.0,,,,00:00:00,0.0,False,np,
+3146,Luka OBLAK,SI,35,H,35-39M,,https://utmb.world/runner/4713474.luka.oblak,517.0,,,,00:00:00,0.0,False,np,
+3151,Jamie ARKLE,GB,34,H,20-34M,Mercia Fell Running,https://utmb.world/runner/3307541.jamie.arkle,515.0,,,,00:00:00,0.0,False,np,
+3138,Ulli GIES,DE,43,H,40-44M,HSV Wienerneustadt,https://utmb.world/runner/4016487.ulli.gies,520.0,,,,00:00:00,0.0,False,np,
+3160,Francesco FOSSÀ,IT,31,H,20-34M,,https://utmb.world/runner/6385623.francesco.fossa,506.0,,,,00:00:00,0.0,False,np,
+3158,Patrick HÜBL-NESCHKUDLA,AT,33,H,20-34M,,https://utmb.world/runner/4461710.patrick.hublneschkudla,506.0,,,,00:00:00,0.0,False,np,
+3173,Ivan TAMBURIC,RS,52,H,50-54M,,https://utmb.world/runner/1393665.ivan.tamburic,502.0,,,,00:00:00,0.0,False,np,
+3171,Spyridon KERKOULAS,GR,52,H,50-54M,Marathon Club,https://utmb.world/runner/1659411.spyridon.kerkoulas,502.0,,,,00:00:00,0.0,False,np,
+3209,Lenka BEINHAUEROVÁ,CZ,49,F,45-49W,BK Ludgerovice,https://utmb.world/runner/5253872.lenka.beinhauerova,482.0,,,,00:00:00,0.0,False,np,
+3207,Erik PERCAN,HR,33,H,20-34M,,https://utmb.world/runner/4416184.erik.percan,482.0,,,,00:00:00,0.0,False,np,
+3194,Noemie JOYE-RYCHNER,CH,48,F,45-49W,,https://utmb.world/runner/5301422.noemie.joyerychner,487.0,,,,00:00:00,0.0,False,np,
+3221,David MAYER,AT,36,H,35-39M,,https://utmb.world/runner/5987307.david.mayer,475.0,,,,00:00:00,0.0,False,np,
+3235,Matthew SPASHETT,GB,45,H,45-49M,,https://utmb.world/runner/2638761.matthew.spashett,466.0,,,,00:00:00,0.0,False,np,
+3225,Robert KEEL,US,49,H,45-49M,,https://utmb.world/runner/5825871.robert.keel,472.0,,,,00:00:00,0.0,False,np,
+3236,Alex ORADAN,RO,33,H,20-34M,,https://utmb.world/runner/4127972.alex.oradan,464.0,,,,00:00:00,0.0,False,np,
+3199,Faruk DURAN,TR,31,H,20-34M,Mg atletizm sk,https://utmb.world/runner/5973148.faruk.duran,485.0,,,,00:00:00,0.0,False,np,
+3201,Eva WICHTERICH,DE,25,F,20-34W,,https://utmb.world/runner/6121868.eva.wichterich,484.0,,,,00:00:00,0.0,False,np,
+3242,Branko GAŠPARAC,SI,58,H,55-59M,TAO,https://utmb.world/runner/1371947.branko.gasparac,463.0,,,,00:00:00,0.0,False,np,
+3262,Gabriel GUERREIRO,PT,49,H,45-49M,Active Clube,https://utmb.world/runner/4515038.gabriel.guerreiro,451.0,,,,00:00:00,0.0,False,np,
+3276,Britta KRAJEWSKI,DE,48,F,45-49W,LAC TVU Zurich,https://utmb.world/runner/4976243.britta.krajewski,447.0,,,,00:00:00,0.0,False,np,
+3275,Francis LEPOUTRE,BE,46,H,45-49M,,https://utmb.world/runner/5046340.francis.lepoutre,448.0,,,,00:00:00,0.0,False,np,
+3277,Diego Guillermo AMENDOLA,AR,53,H,50-54M,paukuzak,https://utmb.world/runner/1361913.diegoguillermo.amendola,447.0,,,,00:00:00,0.0,False,np,
+3291,Alan KRAJAČIĆ,HR,39,H,35-39M,Ind,https://utmb.world/runner/5977171.alan.krajacic,442.0,,,,00:00:00,0.0,False,np,
+3294,Matija MATIJASEVIC,SI,43,H,40-44M,Rasiske gamsinje in kozorogi,https://utmb.world/runner/4950875.matija.matijasevic,443.0,,,,00:00:00,0.0,False,np,
+3287,Valentina BAČIĆ,HR,29,F,20-34W,AK Rika,https://utmb.world/runner/5565449.valentina.bacic,445.0,,,,00:00:00,0.0,False,np,
+3248,Kirill NESTEROVICH,AN,37,H,35-39M,Akvelon Running Club,https://utmb.world/runner/5599299.kirill.nesterovich,461.0,,,,00:00:00,0.0,False,np,
+3292,Adorján MARTON,HU,44,H,40-44M,,https://utmb.world/runner/5842427.adorjan.marton,443.0,,,,00:00:00,0.0,False,np,
+3303,Owen HENLEY,GB,33,H,20-34M,None,https://utmb.world/runner/5538263.owen.henley,440.0,,,,00:00:00,0.0,False,np,
+3346,Lučka SAVINEK,SI,29,F,20-34W,,https://utmb.world/runner/5649021.lucka.savinek,421.0,,,,00:00:00,0.0,False,np,
+3351,Ulrike LEONHARDT,DE,53,F,50-54W,,https://utmb.world/runner/2124753.ulrike.leonhardt,420.0,,,,00:00:00,0.0,False,np,
+3338,Bernard DEREINE,BE,64,H,60-64M,,https://utmb.world/runner/5403601.bernard.dereine,429.0,,,,00:00:00,0.0,False,np,
+3352,Elisa RIGO,IT,36,F,35-39W,Run4Rum,https://utmb.world/runner/6075004.elisa.rigo,420.0,,,,00:00:00,0.0,False,np,
+3361,Janine STUTZER,DE,45,F,45-49W,,https://utmb.world/runner/4461716.janine.stutzer,415.0,,,,00:00:00,0.0,False,np,
+3366,Dariusz KAWA,PL,45,H,45-49M,,https://utmb.world/runner/5679838.dariusz.kawa,411.0,,,,00:00:00,0.0,False,np,
+3372,Iulian SAFTA,RO,38,H,35-39M,,https://utmb.world/runner/4206244.iulian.safta,408.0,,,,00:00:00,0.0,False,np,
+3333,Philippe EVRARD,FR,66,H,65-69M,SCAC Saint-Chamas,https://utmb.world/runner/3382719.philippe.evrard,430.0,,,,00:00:00,0.0,False,np,
+3377,Klemen GABRŠČEK,SI,50,H,50-54M,,https://utmb.world/runner/3914227.klemen.gabrscek,404.0,,,,00:00:00,0.0,False,np,
+3382,Alexander RUHDORFER,AT,56,H,55-59M,,https://utmb.world/runner/5988821.alexander.ruhdorfer,401.0,,,,00:00:00,0.0,False,np,
+3373,Nicole LEMANSKI,US,43,F,40-44W,,https://utmb.world/runner/5380141.nicole.lemanski,407.0,,,,00:00:00,0.0,False,np,
+3353,Olga VELLI,GR,39,F,35-39W,Marathon Club,https://utmb.world/runner/5373819.olga.velli,420.0,,,,00:00:00,0.0,False,np,
+3395,Corinna OSEN,AT,30,F,20-34W,Zeltverleih Eigelsreiter,https://utmb.world/runner/6418834.corinna.osen,396.0,,,,00:00:00,0.0,False,np,
+3390,Benjamin CLAVERIE,FR,30,H,20-34M,,https://utmb.world/runner/5741809.benjamin.claverie,397.0,,,,00:00:00,0.0,False,np,
+3387,Dean TRIŠIĆ,HR,44,H,40-44M,,https://utmb.world/runner/5976389.dean.trisic,397.0,,,,00:00:00,0.0,False,np,
+3391,Brigitte LANG,AT,56,F,55-59W,,https://utmb.world/runner/4513230.brigitte.lang,397.0,,,,00:00:00,0.0,False,np,
+3405,Roberto SCIRPOLI,IT,50,H,50-54M,ATL. REGGIO,https://utmb.world/runner/3493081.roberto.scirpoli,391.0,,,,00:00:00,0.0,False,np,
+3400,Gert GRILLITSCH,AT,42,H,40-44M,,https://utmb.world/runner/4211173.gert.grillitsch,394.0,,,,00:00:00,0.0,False,np,
+3360,Katarzyna MUCHA,PL,59,F,55-59W,Mocna Grupa Cezara,https://utmb.world/runner/2570775.katarzyna.mucha,416.0,,,,00:00:00,0.0,False,np,
+3399,Shifang SUN,CN,61,H,60-64M,,https://utmb.world/runner/5040071.shifang.sun,394.0,,,,00:00:00,0.0,False,np,
+3397,Ivan MRDJEN,HR,42,H,40-44M,,https://utmb.world/runner/6490774.ivan.mrden,395.0,,,,00:00:00,0.0,False,np,
+3393,Mario DVORSKI,HR,52,H,50-54M,Cro docs,https://utmb.world/runner/5825469.mario.dvorski,395.0,,,,00:00:00,0.0,False,np,
+3422,Peter FRÜHWIRTH,AT,49,H,45-49M,,https://utmb.world/runner/5070805.peter.fruhwirth,381.0,,,,00:00:00,0.0,False,np,
+3411,Silvia BAGOVÁ,SK,46,F,45-49W,STG Prievidza,https://utmb.world/runner/6149776.silvia.bagova,387.0,,,,00:00:00,0.0,False,np,
+3431,Réka KOVÁCS,HU,26,F,20-34W,,https://utmb.world/runner/6027955.reka.kovacs,380.0,,,,00:00:00,0.0,False,np,
+3432,Katalin ZSOMBOR,HU,38,F,35-39W,,https://utmb.world/runner/5829523.katalin.zsombor,379.0,,,,00:00:00,0.0,False,np,
+3414,Dominika JURKIEWICZ,PL,35,F,35-39W,Mocna Grupa Cezara,https://utmb.world/runner/6232193.dominika.jurkiewicz,386.0,,,,00:00:00,0.0,False,np,
+3456,Quirina ROODE-GUTZMER,NL,57,F,55-59W,,https://utmb.world/runner/2370853.quirina.roodegutzmer,369.0,,,,00:00:00,0.0,False,np,
+3438,Mateo CELINIC,HR,25,H,20-34M,,https://utmb.world/runner/5718487.mateo.celinic,377.0,,,,00:00:00,0.0,False,np,
+3441,Lucia BELKOVA,SK,49,F,45-49W,,https://utmb.world/runner/3249377.lucia.belkova,376.0,,,,00:00:00,0.0,False,np,
+3446,Josip PLEŠNAR,HR,42,H,40-44M,,https://utmb.world/runner/6552345.josip.plesnar,373.0,,,,00:00:00,0.0,False,np,
+3448,Alexander VOJVODA,AT,44,H,40-44M,,https://utmb.world/runner/5542594.alexander.vojvoda,373.0,,,,00:00:00,0.0,False,np,
+3457,Nadine THOELKEN,DE,44,F,40-44W,,https://utmb.world/runner/4416232.nadine.thoelken,295.0,,,,00:00:00,0.0,False,np,
+3461,Akihiro KAWATA,JP,41,H,40-44M,,https://utmb.world/runner/5290591.akihiro.kawata,367.0,,,,00:00:00,0.0,False,np,
+3467,Gordana HUZAK,HR,51,F,50-54W,Zaprešić,https://utmb.world/runner/4416236.gordana.huzak,342.0,,,,00:00:00,0.0,False,np,
+3474,Ana BARAĆ DOBRAN,HR,60,F,60-64W,,https://utmb.world/runner/1945929.ana.baracdobran,362.0,,,,00:00:00,0.0,False,np,
+3479,Karin NOVOTNÁ,CZ,47,F,45-49W,Karana,https://utmb.world/runner/6307274.karin.novotna,360.0,,,,00:00:00,0.0,False,np,
+3500,Marija TOMAIĆ,HR,53,F,50-54W,DOTHREKKI TEAM,https://utmb.world/runner/4293066.marija.tomaic,345.0,,,,00:00:00,0.0,False,np,
+3522,Tedi PRODAN,HR,39,H,35-39M,SRD Uzbrdica,https://utmb.world/runner/5649157.tedi.prodan,335.0,,,,00:00:00,0.0,False,np,
+3504,Simona KOREN,SI,42,F,40-44W,,https://utmb.world/runner/4416250.simona.koren,340.0,,,,00:00:00,0.0,False,np,
+3527,Erik BIJELIĆ,HR,25,H,20-34M,,https://utmb.world/runner/5976857.erik.bijelic,331.0,,,,00:00:00,0.0,False,np,
+3526,Svea ŽUŽAK,HR,31,F,20-34W,,https://utmb.world/runner/5972210.svea.zuzak,332.0,,,,00:00:00,0.0,False,np,
+3537,Danijel DUROVIC,HR,45,H,45-49M,,https://utmb.world/runner/5085095.danijel.durovic,319.0,,,,00:00:00,0.0,False,np,
+3525,Karolina BURESOVA,CZ,40,F,40-44W,,https://utmb.world/runner/5977475.karolina.buresova,333.0,,,,00:00:00,0.0,False,np,
+3524,Lana BAITS-TOMLIN,GB,21,F,20-34W,,https://utmb.world/runner/5347149.lana.baitstomlin,336.0,,,,00:00:00,0.0,False,np,
+3539,Mario STIPETIĆ,HR,37,H,35-39M,,https://utmb.world/runner/6552347.mario.stipetic,318.0,,,,00:00:00,0.0,False,np,
+3505,Aleš KOREN,SI,44,H,40-44M,,https://utmb.world/runner/859004.ales.koren,340.0,,,,00:00:00,0.0,False,np,
+3551,Mirela XHERRI,AL,55,F,55-59W,,https://utmb.world/runner/6185402.mirela.xherri,305.0,,,,00:00:00,0.0,False,np,
+3543,Valérie LAUR,FR,61,F,60-64W,COMPRESSPORT,https://utmb.world/runner/694757.valerie.laur,314.0,,,,00:00:00,0.0,False,np,
+3553,Özge YILDIRIM,TR,33,F,20-34W,DOGUS KOSU KULÜBÜ,https://utmb.world/runner/5550577.ozge.yildirim,304.0,,,,00:00:00,0.0,False,np,
+3559,Svjetlana TRBIĆ,HR,60,F,60-64W,Olimpik Umag,https://utmb.world/runner/2968965.svjetlana.trbic,264.0,,,,00:00:00,0.0,False,np,
+3555,Walter VON WEBER,DE,69,H,65-69M,The Running Spirit,https://utmb.world/runner/18959.walter.vonweber,298.0,,,,00:00:00,0.0,False,np,
+3535,Claudia VON WEBER,DE,58,F,55-59W,Running Spirit,https://utmb.world/runner/3192957.claudia.vonweber,321.0,,,,00:00:00,0.0,False,np,
+3557,Géraldine GALIBERT,FR,52,F,50-54W,SCAC,https://utmb.world/runner/5492821.geraldine.galibert,294.0,,,,00:00:00,0.0,False,np,
+3577,Petar MATOVINA,HR,36,H,35-39M,,https://utmb.world/runner/6547125.petar.matovina,,,,,00:00:00,0.0,False,np,
+3566,Sanja CAUS,HR,58,F,55-59W,Olimpik Umag,https://utmb.world/runner/4416302.sanja.caus,263.0,,,,00:00:00,0.0,False,np,
+3581,Karolína SVOBODOVÁ,CZ,23,F,20-34W,,https://utmb.world/runner/6747585.karolina.svobodova,,,,,00:00:00,0.0,False,np,
+3568,Tatjana RAVLIĆ,HR,44,F,40-44W,Zagreb Runners/kultura,https://utmb.world/runner/6333031.tatjana.ravlic,,,,,00:00:00,0.0,False,np,
+3571,Pete LONG,GB,58,H,55-59M,,https://utmb.world/runner/5492341.pete.long,,,,,00:00:00,0.0,False,np,
+3595,Christos FATOUROS,GR,41,H,40-44M,ronin,https://utmb.world/runner/6595273.christos.fatouros,,,,,00:00:00,0.0,False,np,
+3618,Saša FAZLIĆ,HR,39,H,35-39M,,https://utmb.world/runner/6500191.sasa.fazlic,,,,,00:00:00,0.0,False,np,
+3603,Verena KOCHER,AT,38,F,35-39W,TrailMotion Tirol,https://utmb.world/runner/4002493.verena.kocher,,,,,00:00:00,0.0,False,np,
+3612,Márk DR. MÉSZÁROS,HU,36,H,35-39M,,,,,,,00:00:00,0.0,False,np,
+3625,Sonja GLAVINIC,RS,19,F,18-19W,Ivanjica Trail,https://utmb.world/runner/6367569.sonja.glavinic,,,,,00:00:00,0.0,False,np,
+3598,Cengher EMANUEL,RO,33,H,20-34M,,https://utmb.world/runner/6362211.cengher.emanuel,,,,,00:00:00,0.0,False,np,
+3645,Ian RYŠLAVY,HR,30,H,20-34M,,https://utmb.world/runner/4307537.ian.ryslavy,,,,,00:00:00,0.0,False,np,
+3648,Dirk RIEMSCHEID,DE,57,H,55-59M,,https://utmb.world/runner/6488215.dirk.riemscheid,,,,,00:00:00,0.0,False,np,
+3649,David MUÑOZ VALENTÍN,ES,37,H,35-39M,Club Sierra Nevada Trail Running,https://utmb.world/runner/3269663.david.munozvalentin,,,,,00:00:00,0.0,False,np,
+3657,Dejan JAKOPINN,SI,45,H,45-49M,Zoot,https://utmb.world/runner/6450547.dejan.jakopinn,,,,,00:00:00,0.0,False,np,
+3633,Cristina CENGHER,RO,36,F,35-39W,,https://utmb.world/runner/6362209.cristina.cengher,,,,,00:00:00,0.0,False,np,
+3671,Izabela BARBIC,HR,42,F,40-44W,Garaza Studio&Gym,https://utmb.world/runner/6236575.izabela.barbic,,,,,00:00:00,0.0,False,np,
+3660,Yizhuo YANG,CN,31,H,20-34M,Y-Walk,https://utmb.world/runner/6547119.yizhuo.yang,,,,,00:00:00,0.0,False,np,
+3646,Valentina VREMEC,SI,22,F,20-34W,,https://utmb.world/runner/6405967.valentina.vremec,,,,,00:00:00,0.0,False,np,
+3677,Gregor PONGRATZ DI,AT,44,H,40-44M,,https://utmb.world/runner/6304897.gregor.pongratzdi,,,,,00:00:00,0.0,False,np,
+3658,Jusko ISMIR,BA,54,H,50-54M,,https://utmb.world/runner/6232391.jusko.ismir,,,,,00:00:00,0.0,False,np,
+3665,Adrienn LUKACS,HU,35,F,35-39W,,https://utmb.world/runner/6232227.adrienn.lukacs,,,,,00:00:00,0.0,False,np,
+3693,Davor PETRINOVIĆ,HR,52,H,50-54M,Dramalj Run Team,https://utmb.world/runner/6833629.davor.petrinovic,,,,,00:00:00,0.0,False,np,
+3701,David LOGAR,SI,49,H,45-49M,,https://utmb.world/runner/6734067.david.logar,,,,,00:00:00,0.0,False,np,
+3685,Igor DUMCEV,HR,48,H,45-49M,MI,https://utmb.world/runner/6618035.igor.dumcev,,,,,00:00:00,0.0,False,np,
+3683,Dunja BATINICA,HR,25,F,20-34W,,https://utmb.world/runner/6782407.dunja.batinica,,,,,00:00:00,0.0,False,np,
+3675,Geneviève LAVIGNE,CA,50,F,50-54W,,https://utmb.world/runner/5562586.genevieve.lavigne,,,,,00:00:00,0.0,False,np,
+3700,Michael NOVAK,CZ,48,H,45-49M,gone4.run,https://utmb.world/runner/510633.michael.novak,,,,,00:00:00,0.0,False,np,
+3707,Simona VARHOLAKOVA,SK,35,F,35-39W,,https://utmb.world/runner/6725677.simona.varholakova,,,,,00:00:00,0.0,False,np,
+3729,Brent PEETERS,BE,22,H,20-34M,,https://utmb.world/runner/6747581.brent.peeters,,,,,00:00:00,0.0,False,np,
+3730,Olena KIDANOVA,UA,41,F,40-44W,,https://utmb.world/runner/3895175.olena.kidanova,,,,,00:00:00,0.0,False,np,
+3743,Melanie KATHOLNIG-URL,AT,52,F,50-54W,OMNI-BIOTIC POWERTEAM Sportverein,https://utmb.world/runner/6864471.melanie.katholnigurl,,,,,00:00:00,0.0,False,np,
+3724,Torge EWALD,DE,30,H,20-34M,,https://utmb.world/runner/6841011.torge.ewald,,,,,00:00:00,0.0,False,np,
+3747,Bartłomiej GÓRSKI,PL,36,H,35-39M,Prywaciarze Running Team,https://utmb.world/runner/6713835.bartlomiej.gorski,,,,,00:00:00,0.0,False,np,
+3746,Elsa Björg PÉTURSDÓTTIR,IS,46,F,45-49W,,https://utmb.world/runner/6747607.elsabjorg.petursdottir,,,,,00:00:00,0.0,False,np,
+3766,Rachel KERANEN,ZA,47,F,45-49W,,https://utmb.world/runner/6081727.rachel.keranen,,,,,00:00:00,0.0,False,np,
+3764,Gosza STRUZIK - ŁUSZCZ,PL,41,F,40-44W,Gamoniusze,https://utmb.world/runner/6782413.gosza.struzikluszcz,,,,,00:00:00,0.0,False,np,
+3783,Nick TOL,NL,43,H,40-44M,van Halderen/ Profi Center,https://utmb.world/runner/6891473.nick.tol,,,,,00:00:00,0.0,False,np,
+3774,Syl LAUR,FR,58,H,55-59M,grasse,https://utmb.world/runner/381446.syl.laur,,,,,00:00:00,0.0,False,np,
+3784,Peter ACS,HU,48,H,45-49M,,https://utmb.world/runner/6890091.peter.acs,,,,,00:00:00,0.0,False,np,
+3741,Thora Sif SIGURDARDOTTIR,IS,45,F,45-49W,,https://utmb.world/runner/6747605.thorasif.sigurdardottir,,,,,00:00:00,0.0,False,np,
+3787,Irena ROKO,AL,52,F,50-54W,Enea Xoxi,https://utmb.world/runner/6797297.irena.roko,,,,,00:00:00,0.0,False,np,

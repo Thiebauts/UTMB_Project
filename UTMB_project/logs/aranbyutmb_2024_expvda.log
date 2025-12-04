@@ -1,0 +1,24 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: aranbyutmb | Year: 2024 | Race: expvda
+======================================================================
+Loaded 1 runners from data/aranbyutmb_2024_expvda.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 1 runners...
+Fetching scores:   0%|                                                    | 0/1 [00:00<?, ?runner/s]Fetching scores: 100%|████████████████████████████████████████████| 1/1 [00:00<00:00, 13.62runner/s]
+  Saved to data/aranbyutmb_2024_expvda.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/0
+
+Top 10 finishers:
+Empty DataFrame
+Columns: [rank_scratch, name, race_time, utmb_index, utmb_score]
+Index: []

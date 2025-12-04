@@ -1,0 +1,12 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: whistler | Year: 2024 | Race: 70k
+======================================================================
+Loaded 249 runners from data/whistler_2024_70k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 247 runners...
+Fetching scores:   0%|                                                  | 0/247 [00:00<?, ?runner/s]Fetching scores:   4%|█▋                                       | 10/247 [00:03<01:18,  3.02runner/s]Fetching scores:   9%|███▍                                     | 21/247 [00:03<00:35,  6.38runner/s]Fetching scores:  13%|█████▏                                   | 31/247 [00:04<00:23,  9.13runner/s]Fetching scores:  18%|███████▍                                 | 45/247 [00:04<00:15, 13.16runner/s]Fetching scores:  23%|█████████▍                               | 57/247 [00:05<00:12, 15.03runner/s]Fetching scores:  28%|███████████▌                             | 70/247 [00:05<00:10, 17.45runner/s]Fetching scores:  33%|█████████████▌                           | 82/247 [00:06<00:08, 19.08runner/s]Fetching scores:  39%|███████████████▉                         | 96/247 [00:07<00:07, 20.84runner/s]Fetching scores:  43%|█████████████████▎                      | 107/247 [00:07<00:07, 19.94runner/s]Fetching scores:  47%|██████████████████▉                     | 117/247 [00:08<00:08, 14.74runner/s]Fetching scores:  51%|████████████████████▌                   | 127/247 [00:09<00:08, 13.63runner/s]Fetching scores:  55%|██████████████████████▏                 | 137/247 [00:10<00:09, 11.90runner/s]Fetching scores:  60%|███████████████████████▊                | 147/247 [00:11<00:08, 12.14runner/s]Fetching scores:  64%|█████████████████████████▋              | 159/247 [00:12<00:06, 13.83runner/s]Fetching scores:  68%|███████████████████████████▎            | 169/247 [00:12<00:05, 15.03runner/s]Fetching scores:  73%|█████████████████████████████▎          | 181/247 [00:13<00:03, 17.10runner/s]Fetching scores:  77%|██████████████████████████████▉         | 191/247 [00:13<00:03, 17.72runner/s]Fetching scores:  82%|████████████████████████████████▋       | 202/247 [00:14<00:02, 17.34runner/s]Fetching scores:  86%|██████████████████████████████████▎     | 212/247 [00:16<00:03, 11.48runner/s]Fetching scores:  90%|████████████████████████████████████    | 223/247 [00:17<00:02, 10.62runner/s]

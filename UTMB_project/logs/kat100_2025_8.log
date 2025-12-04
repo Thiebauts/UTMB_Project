@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: kat100 | Year: 2025 | Race: 8
+======================================================================
+Loaded 118 runners from data/kat100_2025_8.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 118 runners...
+Fetching scores:   0%|                                                  | 0/118 [00:00<?, ?runner/s]Fetching scores:   8%|███▍                                     | 10/118 [00:02<00:26,  4.14runner/s]Fetching scores:  25%|██████████▍                              | 30/118 [00:03<00:08, 10.53runner/s]Fetching scores:  34%|█████████████▉                           | 40/118 [00:03<00:06, 12.58runner/s]Fetching scores:  44%|██████████████████                       | 52/118 [00:04<00:04, 15.14runner/s]Fetching scores:  58%|███████████████████████▋                 | 68/118 [00:04<00:02, 18.64runner/s]Fetching scores:  67%|███████████████████████████▍             | 79/118 [00:05<00:02, 19.38runner/s]Fetching scores:  81%|█████████████████████████████████        | 95/118 [00:06<00:01, 20.87runner/s]Fetching scores:  89%|███████████████████████████████████▌    | 105/118 [00:08<00:01, 11.50runner/s]Fetching scores:  97%|██████████████████████████████████████▉ | 115/118 [00:16<00:00,  3.49runner/s]Fetching scores: 100%|████████████████████████████████████████| 118/118 [00:29<00:00,  3.97runner/s]
+  Saved to data/kat100_2025_8.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/97
+
+Top 10 finishers:
+ rank_scratch                  name race_time  utmb_index  utmb_score
+          1.0       Bartosz LABECKI  00:34:59         NaN         NaN
+          2.0  Dominik LANDERTINGER  00:35:18         NaN         NaN
+          3.0        Leroux QUENTIN  00:35:22       615.0         NaN
+          4.0          Angus WILSON  00:35:40       553.0         NaN
+          5.0           Jakub KRAUS  00:35:48         NaN         NaN
+          6.0      Daniel MAURACHER  00:37:01         NaN         NaN
+          7.0      Robert PUDLOWSKI  00:38:52         NaN         NaN
+          8.0        Michal LABECKI  00:39:24         NaN         NaN
+          9.0       Guillaume MIKOS  00:40:03       558.0         NaN
+         10.0          Ondrej MAREK  00:41:06         NaN         NaN

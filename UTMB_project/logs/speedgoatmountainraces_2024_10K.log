@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: speedgoatmountainraces | Year: 2024 | Race: 10K
+======================================================================
+Loaded 202 runners from data/speedgoatmountainraces_2024_10K.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 197 runners...
+Fetching scores:   0%|                                                  | 0/197 [00:00<?, ?runner/s]Fetching scores:   5%|██                                       | 10/197 [00:01<00:24,  7.71runner/s]Fetching scores:  10%|████▏                                    | 20/197 [00:02<00:18,  9.52runner/s]Fetching scores:  19%|███████▉                                 | 38/197 [00:02<00:09, 16.73runner/s]Fetching scores:  25%|██████████▍                              | 50/197 [00:03<00:08, 16.65runner/s]Fetching scores:  32%|█████████████                            | 63/197 [00:03<00:07, 18.95runner/s]Fetching scores:  39%|████████████████                         | 77/197 [00:04<00:05, 21.40runner/s]Fetching scores:  49%|████████████████████▏                    | 97/197 [00:04<00:03, 26.46runner/s]Fetching scores:  55%|██████████████████████▏                 | 109/197 [00:05<00:03, 25.41runner/s]Fetching scores:  64%|█████████████████████████▊              | 127/197 [00:06<00:02, 27.39runner/s]Fetching scores:  74%|█████████████████████████████▍          | 145/197 [00:06<00:01, 29.46runner/s]Fetching scores:  80%|███████████████████████████████▉        | 157/197 [00:07<00:01, 24.76runner/s]Fetching scores:  85%|█████████████████████████████████▉      | 167/197 [00:08<00:02, 14.90runner/s]Fetching scores:  90%|███████████████████████████████████▉    | 177/197 [00:12<00:02,  7.11runner/s]Fetching scores:  95%|█████████████████████████████████████▉  | 187/197 [00:13<00:01,  7.59runner/s]Fetching scores: 100%|████████████████████████████████████████| 197/197 [00:16<00:00,  5.63runner/s]Fetching scores: 100%|████████████████████████████████████████| 197/197 [00:16<00:00, 11.83runner/s]
+  Saved to data/speedgoatmountainraces_2024_10K.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/152
+
+Top 10 finishers:
+ rank_scratch                name race_time  utmb_index  utmb_score
+          1.0        Taylor Bodin  00:46:23       730.0         NaN
+          2.0   Zachary Tittensor  00:57:07         NaN         NaN
+          3.0        Larsen Boyer  00:58:05         NaN         NaN
+          4.0         Donnie Gray  00:58:44         NaN         NaN
+          5.0     Josie Alexander  01:00:45         NaN         NaN
+          6.0          Erik Frank  01:02:14         NaN         NaN
+          7.0  Candace Fredericks  01:02:18       535.0         NaN
+          8.0         Ben Clayton  01:02:24         NaN         NaN
+          9.0      Kylie Townsend  01:03:03         NaN         NaN
+         10.0       Sam Schweizer  01:04:41       502.0         NaN

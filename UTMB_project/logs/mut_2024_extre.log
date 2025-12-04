@@ -1,0 +1,12 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: mut | Year: 2024 | Race: extre
+======================================================================
+Loaded 251 runners from data/mut_2024_extre.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 199 runners...
+Fetching scores:   0%|                                                  | 0/199 [00:00<?, ?runner/s]Fetching scores:   5%|██                                       | 10/199 [00:04<01:24,  2.23runner/s]Fetching scores:  10%|████                                     | 20/199 [00:06<00:53,  3.33runner/s]Fetching scores:  15%|██████▏                                  | 30/199 [00:07<00:34,  4.95runner/s]Fetching scores:  20%|████████▏                                | 40/199 [00:07<00:23,  6.75runner/s]

@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: desertrats | Year: 2025 | Race: 100k
+======================================================================
+Loaded 247 runners from data/desertrats_2025_100k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 247 runners...
+Fetching scores:   0%|                                                  | 0/247 [00:00<?, ?runner/s]Fetching scores:  77%|█████████████████████████████▊         | 189/247 [00:01<00:00, 114.72runner/s]Fetching scores:  81%|████████████████████████████████▏       | 199/247 [00:04<00:01, 32.53runner/s]Fetching scores:  85%|█████████████████████████████████▊      | 209/247 [00:06<00:01, 25.80runner/s]Fetching scores:  89%|███████████████████████████████████▍    | 219/247 [00:07<00:01, 19.93runner/s]Fetching scores:  93%|█████████████████████████████████████   | 229/247 [00:09<00:01, 13.93runner/s]Fetching scores:  97%|██████████████████████████████████████▋ | 239/247 [00:10<00:00, 14.19runner/s]Fetching scores: 100%|████████████████████████████████████████| 247/247 [00:13<00:00, 18.98runner/s]
+  Saved to data/desertrats_2025_100k.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/152
+
+Top 10 finishers:
+ rank_scratch               name race_time  utmb_index  utmb_score
+          1.0       Alex JOHNSON  08:57:28         NaN         NaN
+          2.0       Tyler D'ARCY  09:04:06       737.0         NaN
+          3.0   Corey KALLEMBACH  09:23:40         NaN         NaN
+          4.0       Lotti BRINKS  09:25:50       732.0         NaN
+          5.0   Michael MITCHELL  09:37:33       697.0         NaN
+          6.0  Christopher SOBIE  09:44:15         NaN         NaN
+          7.0        Shaun BURKE  09:47:27       692.0         NaN
+          8.0      Cedrik GAGNON  09:48:42       730.0         NaN
+          9.0        Sean BOWMAN  10:01:11       734.0         NaN
+         10.0    Benoit GAILLARD  10:15:21       747.0         NaN

@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: kodiak | Year: 2023 | Race: 10k
+======================================================================
+Loaded 82 runners from data/kodiak_2023_10k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 71 runners...
+Fetching scores:   0%|                                                   | 0/71 [00:00<?, ?runner/s]Fetching scores:  14%|█████▉                                    | 10/71 [00:00<00:04, 14.76runner/s]Fetching scores:  30%|████████████▍                             | 21/71 [00:01<00:03, 16.58runner/s]Fetching scores:  76%|███████████████████████████████▉          | 54/71 [00:03<00:01, 15.90runner/s]Fetching scores:  90%|█████████████████████████████████████▊    | 64/71 [00:06<00:00,  8.47runner/s]Fetching scores: 100%|██████████████████████████████████████████| 71/71 [00:06<00:00, 11.13runner/s]
+  Saved to data/kodiak_2023_10k.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/68
+
+Top 10 finishers:
+ rank_scratch                     name race_time  utmb_index  utmb_score
+          1.0  Karl FREDERIK GLEICHMAN  00:48:47       501.0         NaN
+          2.0             Luis MARQUEZ  00:56:53         NaN         NaN
+          3.0           Laura GORDILLO  01:04:24         NaN         NaN
+          4.0           Jose R SANCHEZ  01:06:00         NaN         NaN
+          5.0               Caren WARE  01:06:19         NaN         NaN
+          6.0             Olivia BLAND  01:06:50         NaN         NaN
+          7.0               Scott HINE  01:08:15         NaN         NaN
+          8.0              Xiangyu WEN  01:09:35         NaN         NaN
+          9.0  Selma REBEKKA GLEICHMAN  01:11:42         NaN         NaN
+         10.0          Torben ANDERSEN  01:11:44         NaN         NaN

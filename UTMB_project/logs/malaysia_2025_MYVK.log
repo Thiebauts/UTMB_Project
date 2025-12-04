@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: malaysia | Year: 2025 | Race: MYVK
+======================================================================
+Loaded 43 runners from data/malaysia_2025_MYVK.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 40 runners...
+Fetching scores:   0%|                                                   | 0/40 [00:00<?, ?runner/s]Fetching scores:  32%|█████████████▋                            | 13/40 [00:00<00:01, 23.60runner/s]Fetching scores:  75%|███████████████████████████████▌          | 30/40 [00:01<00:00, 26.87runner/s]Fetching scores: 100%|██████████████████████████████████████████| 40/40 [00:03<00:00,  9.73runner/s]Fetching scores: 100%|██████████████████████████████████████████| 40/40 [00:03<00:00, 11.90runner/s]
+  Saved to data/malaysia_2025_MYVK.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/33
+
+Top 10 finishers:
+ rank_scratch                             name race_time  utmb_index  utmb_score
+          1.0                  Chee Choon CHOW  01:05:39       460.0         NaN
+          2.0             Shah Ehsan CHE SALIM  01:09:37       571.0         NaN
+          3.0               Izzat Azmeer AHMAD  01:11:07       559.0         NaN
+          4.0                  Paul HINCHLIFFE  01:11:15         NaN         NaN
+          5.0                      Chi Kit TAM  01:20:33       471.0         NaN
+          6.0                     Ursula ADAMS  01:23:23         NaN         NaN
+          7.0                      Nga Chi CHE  01:24:23       487.0         NaN
+          8.0                  Cheng Hoong TAN  01:24:49       423.0         NaN
+          9.0                      Jun Min TAN  01:25:29       449.0         NaN
+         10.0  Jonathan Mackenzie LEONARD IJIM  01:26:42         NaN         NaN

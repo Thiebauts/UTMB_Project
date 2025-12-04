@@ -1,0 +1,12 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: valholl | Year: 2023 | Race: 125k
+======================================================================
+Loaded 253 runners from data/valholl_2023_125k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 253 runners...
+Fetching scores:   0%|                                                  | 0/253 [00:00<?, ?runner/s]

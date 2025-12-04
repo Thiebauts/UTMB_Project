@@ -2,6 +2,30 @@
 
 A Python pipeline to scrape race results from UTMB World Series events, extract UTMB scores, and combine data for analysis.
 
+## Comparison: UTMB_project vs UTMB_project_2
+
+| Feature | UTMB_project | UTMB_project_2 |
+|---------|--------------|----------------|
+| **Speed** | ~5-10 min per race | ~2-5 seconds per race |
+| **Data source** | live.utmb.world (runner pages) | Direct API |
+| **Finisher data** | ✓ | ✓ |
+| **DNF data** | ✓ | ✗ |
+| **Bib numbers** | ✓ | ✗ |
+| **Checkpoint times** | ✓ (planned) | ✗ |
+| **UTMB scores** | ✓ (with auth) | ✓ (with auth) |
+| **Use case** | Detailed data with checkpoints | Fast bulk downloads |
+
+**Use UTMB_project** when you need:
+- Complete data including DNFs and checkpoints
+- Bib numbers
+- Detailed race analysis
+- Checkpoint timing data (planned feature)
+
+**Use UTMB_project_2** when you need:
+- Fast bulk downloads of finisher data
+- Quick UTMB score retrieval
+- Less detailed data is acceptable
+
 ## Key Features
 
 - **50+ UTMB World Series events**: Complete list of all known events built-in
@@ -9,6 +33,7 @@ A Python pipeline to scrape race results from UTMB World Series events, extract 
 - **Automatic metadata extraction**: Distance, elevation gain (D+), and race date are fetched from live.utmb.world
 - **Two-step scraping**: Step 1 scrapes results (no login), Step 2 adds UTMB scores (requires cookie)
 - **Master file generation**: Combine all races into a single CSV for analysis
+- **Checkpoint data**: Planned feature for detailed checkpoint timing analysis
 
 ## Quick Start
 
@@ -128,6 +153,15 @@ Race data is stored per event and per year, handling year-to-year changes:
 - `running_stones` - UTMB Running Stones points
 
 ## Command-Line Reference
+
+Both `UTMB_project` and `UTMB_project_2` use the same CLI keywords for consistency:
+- `--step 1` or `--step 2`
+- `--tenant` (event name)
+- `--year`
+- `--race`
+- `--all` (batch mode)
+- `--skip-existing`
+- `--cookie` (for authentication)
 
 ### update_race_data.py
 

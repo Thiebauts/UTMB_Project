@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: wildstrubel | Year: 2025 | Race: 10kng
+======================================================================
+Loaded 160 runners from data/wildstrubel_2025_10kng.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 142 runners...
+Fetching scores:   0%|                                                  | 0/142 [00:00<?, ?runner/s]Fetching scores:   7%|██▉                                      | 10/142 [00:01<00:16,  7.92runner/s]Fetching scores:  28%|███████████▌                             | 40/142 [00:01<00:04, 24.50runner/s]Fetching scores:  42%|█████████████████▎                       | 60/142 [00:04<00:06, 12.86runner/s]Fetching scores:  53%|█████████████████████▋                   | 75/142 [00:04<00:04, 15.67runner/s]Fetching scores:  60%|████████████████████████▌                | 85/142 [00:06<00:05, 10.38runner/s]Fetching scores:  69%|████████████████████████████▎            | 98/142 [00:07<00:03, 12.62runner/s]Fetching scores:  78%|███████████████████████████████▎        | 111/142 [00:09<00:02, 10.55runner/s]Fetching scores:  89%|███████████████████████████████████▍    | 126/142 [00:09<00:01, 12.74runner/s]Fetching scores:  96%|██████████████████████████████████████▎ | 136/142 [00:10<00:00, 13.34runner/s]Fetching scores: 100%|████████████████████████████████████████| 142/142 [00:10<00:00, 13.46runner/s]
+  Saved to data/wildstrubel_2025_10kng.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/137
+
+Top 10 finishers:
+ rank_scratch                 name race_time  utmb_index  utmb_score
+          1.0            Elmo FREI  00:47:53       706.0         NaN
+          2.0         Cyril CARRON  00:51:42         NaN         NaN
+          3.0       Noé VOUILLAMOZ  00:52:47         NaN         NaN
+          4.0            Léo MORET  00:55:38       607.0         NaN
+          5.0  Andri Elija GLOGGER  00:56:32         NaN         NaN
+          6.0        Nino TREMBLAY  00:57:13         NaN         NaN
+          7.0         Gabin KELLER  00:57:26         NaN         NaN
+          8.0          Eryne EMERY  00:57:36       538.0         NaN
+          9.0       Antoni GRELLET  00:57:56         NaN         NaN
+         10.0          Nolan MEYER  00:58:29         NaN         NaN

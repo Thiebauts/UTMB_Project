@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: andorrabyutmb | Year: 2025 | Race: 10K
+======================================================================
+Loaded 193 runners from data/andorrabyutmb_2025_10K.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 193 runners...
+Fetching scores:   0%|                                                  | 0/193 [00:00<?, ?runner/s]Fetching scores:  16%|██████▌                                  | 31/193 [00:00<00:03, 52.06runner/s]Fetching scores:  23%|█████████▎                               | 44/193 [00:01<00:04, 33.54runner/s]Fetching scores:  30%|████████████▎                            | 58/193 [00:01<00:04, 30.92runner/s]Fetching scores:  36%|██████████████▋                          | 69/193 [00:02<00:05, 24.07runner/s]Fetching scores:  44%|██████████████████                       | 85/193 [00:02<00:04, 26.23runner/s]Fetching scores:  52%|████████████████████▋                   | 100/193 [00:03<00:03, 27.03runner/s]Fetching scores:  63%|█████████████████████████               | 121/193 [00:04<00:02, 30.83runner/s]Fetching scores:  73%|█████████████████████████████▏          | 141/193 [00:04<00:01, 33.48runner/s]Fetching scores:  78%|███████████████████████████████▎        | 151/193 [00:05<00:01, 28.38runner/s]Fetching scores:  83%|█████████████████████████████████▎      | 161/193 [00:05<00:01, 21.09runner/s]Fetching scores:  89%|███████████████████████████████████▍    | 171/193 [00:10<00:03,  7.02runner/s]Fetching scores:  94%|█████████████████████████████████████▌  | 181/193 [00:12<00:02,  5.94runner/s]Fetching scores:  99%|███████████████████████████████████████▌| 191/193 [00:13<00:00,  6.99runner/s]Fetching scores: 100%|████████████████████████████████████████| 193/193 [00:13<00:00, 14.03runner/s]
+  Saved to data/andorrabyutmb_2025_10K.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/147
+
+Top 10 finishers:
+ rank_scratch                          name race_time  utmb_index  utmb_score
+          1.0                Javier SANCHEZ  00:52:22         NaN         NaN
+          2.0                Quentin LEROUX  00:54:25         NaN         NaN
+          3.0               Alberto SEGOVIA  00:58:05         NaN         NaN
+          4.0             Marc OLLÉ MASQUEF  00:58:45         NaN         NaN
+          5.0               Gerardo SORIANO  00:59:05       666.0         NaN
+          6.0                 Brent CAMERON  00:59:54         NaN         NaN
+          7.0  Patricio PÉREZ-FON SILVESTRE  01:00:55         NaN         NaN
+          8.0             Abel CUBEAU-IZIDI  01:01:59         NaN         NaN
+          9.0                Martí CLAUSELL  01:02:01         NaN         NaN
+          9.0                   Jan ESCOFET  01:02:01         NaN         NaN

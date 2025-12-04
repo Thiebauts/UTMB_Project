@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: desertrats | Year: 2025 | Race: 10k
+======================================================================
+Loaded 220 runners from data/desertrats_2025_10k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 220 runners...
+Fetching scores:   0%|                                                  | 0/220 [00:00<?, ?runner/s]Fetching scores:  22%|█████████▏                               | 49/220 [00:00<00:01, 92.18runner/s]Fetching scores:  28%|███████████▌                             | 62/220 [00:01<00:03, 47.58runner/s]Fetching scores:  33%|█████████████▍                           | 72/220 [00:01<00:04, 34.75runner/s]Fetching scores:  55%|██████████████████████▏                 | 122/220 [00:02<00:01, 57.82runner/s]Fetching scores:  70%|████████████████████████████▏           | 155/220 [00:02<00:01, 52.53runner/s]Fetching scores:  75%|██████████████████████████████          | 165/220 [00:03<00:01, 34.67runner/s]Fetching scores:  86%|██████████████████████████████████▎     | 189/220 [00:04<00:00, 35.63runner/s]Fetching scores:  90%|████████████████████████████████████▏   | 199/220 [00:08<00:01, 10.75runner/s]Fetching scores: 100%|███████████████████████████████████████▊| 219/220 [00:09<00:00, 12.97runner/s]Fetching scores: 100%|████████████████████████████████████████| 220/220 [00:09<00:00, 22.58runner/s]
+  Saved to data/desertrats_2025_10k.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/161
+
+Top 10 finishers:
+ rank_scratch                     name race_time  utmb_index  utmb_score
+          1.0         Jake LITTLEHALES  00:39:08         NaN         NaN
+          2.0              David MILLS  00:45:03         NaN         NaN
+          3.0           Evan ROSENBERG  00:46:58         NaN         NaN
+          4.0            Nate SARINSKE  00:47:50         NaN         NaN
+          5.0             Albert BOOTH  00:48:24         NaN         NaN
+          6.0           Camila CORTINA  00:48:39         NaN         NaN
+          7.0  Victoria DIGIANNANTONIO  00:49:25       542.0         NaN
+          8.0            Nicole CARTER  00:51:01         NaN         NaN
+          9.0             Taylor TUDOR  00:52:01         NaN         NaN
+         10.0           Elaina MICHAEL  00:54:35         NaN         NaN

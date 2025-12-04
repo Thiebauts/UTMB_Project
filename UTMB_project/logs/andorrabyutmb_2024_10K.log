@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: andorrabyutmb | Year: 2024 | Race: 10K
+======================================================================
+Loaded 190 runners from data/andorrabyutmb_2024_10K.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 189 runners...
+Fetching scores:   0%|                                                  | 0/189 [00:00<?, ?runner/s]Fetching scores:   5%|██▏                                      | 10/189 [00:02<00:44,  4.04runner/s]Fetching scores:  11%|████▎                                    | 20/189 [00:03<00:27,  6.25runner/s]Fetching scores:  17%|██████▉                                  | 32/189 [00:03<00:15,  9.82runner/s]Fetching scores:  22%|█████████                                | 42/189 [00:04<00:13, 11.30runner/s]Fetching scores:  30%|████████████▎                            | 57/189 [00:05<00:09, 14.58runner/s]Fetching scores:  38%|███████████████▌                         | 72/189 [00:05<00:06, 17.57runner/s]Fetching scores:  48%|███████████████████▌                     | 90/189 [00:06<00:04, 22.08runner/s]Fetching scores:  57%|██████████████████████▋                 | 107/189 [00:06<00:03, 25.17runner/s]Fetching scores:  62%|████████████████████████▉               | 118/189 [00:07<00:03, 22.51runner/s]Fetching scores:  68%|███████████████████████████             | 128/189 [00:08<00:02, 20.93runner/s]Fetching scores:  80%|████████████████████████████████▏       | 152/189 [00:08<00:01, 27.46runner/s]Fetching scores:  86%|██████████████████████████████████▎     | 162/189 [00:10<00:01, 16.59runner/s]Fetching scores:  91%|████████████████████████████████████▍   | 172/189 [00:11<00:01, 14.80runner/s]Fetching scores:  96%|██████████████████████████████████████▌ | 182/189 [00:17<00:01,  5.01runner/s]Fetching scores: 100%|████████████████████████████████████████| 189/189 [00:28<00:00,  6.67runner/s]
+  Saved to data/andorrabyutmb_2024_10K.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/142
+
+Top 10 finishers:
+ rank_scratch                  name race_time  utmb_index  utmb_score
+          1.0       Timothé PARADIS  00:46:48       690.0         NaN
+          2.0     Pablo MARTÍN GARÍ  00:48:03       709.0         NaN
+          3.0         Benjamin BOUE  00:49:32       615.0         NaN
+          4.0    Nil VILANNA SENTÍS  00:50:15       680.0         NaN
+          5.0       Gerardo SORIANO  00:51:25       682.0         NaN
+          6.0    Marc VALLEJO CALVO  00:53:28       452.0         NaN
+          7.0  Pol RAMIREZ PERXACHS  00:54:25         NaN         NaN
+          8.0     Corentin MOLINARO  00:56:03         NaN         NaN
+          9.0         Laurie PAGNAC  00:57:37       611.0         NaN
+         10.0  Miguel GUIRADO HOYOS  00:59:56       540.0         NaN

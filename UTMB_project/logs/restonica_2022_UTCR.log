@@ -1,0 +1,16 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: restonica | Year: 2022 | Race: UTCR
+======================================================================
+Loaded 25 runners from data/restonica_2022_UTCR.csv
+  Access token extracted successfully
+
+Testing authentication...
+Traceback (most recent call last):
+  File "utmb_scraper.py", line 1283, in <module>
+    main()
+  File "utmb_scraper.py", line 1279, in main
+    run_step2(tenant, year, race, args.cookie)
+  File "utmb_scraper.py", line 825, in run_step2
+    if not auth_verified and test_result:
+UnboundLocalError: local variable 'test_result' referenced before assignment

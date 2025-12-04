@@ -1,0 +1,12 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: kodiak | Year: 2023 | Race: 100k
+======================================================================
+Loaded 252 runners from data/kodiak_2023_100k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 235 runners...
+Fetching scores:   0%|                                                  | 0/235 [00:00<?, ?runner/s]

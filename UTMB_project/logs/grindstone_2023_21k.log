@@ -1,0 +1,34 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: grindstone | Year: 2023 | Race: 21k
+======================================================================
+Loaded 141 runners from data/grindstone_2023_21k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 139 runners...
+Fetching scores:   0%|                                                  | 0/139 [00:00<?, ?runner/s]Fetching scores:  14%|█████▌                                   | 19/139 [00:00<00:03, 37.88runner/s]Fetching scores:  23%|█████████▍                               | 32/139 [00:01<00:03, 29.20runner/s]Fetching scores:  40%|████████████████▌                        | 56/139 [00:01<00:02, 37.22runner/s]Fetching scores:  50%|████████████████████▋                    | 70/139 [00:02<00:02, 33.23runner/s]Fetching scores:  58%|███████████████████████▌                 | 80/139 [00:02<00:02, 23.38runner/s]Fetching scores:  69%|████████████████████████████▎            | 96/139 [00:03<00:01, 25.89runner/s]Fetching scores:  76%|██████████████████████████████▌         | 106/139 [00:04<00:01, 17.27runner/s]Fetching scores:  83%|█████████████████████████████████▍      | 116/139 [00:06<00:01, 11.72runner/s]Fetching scores:  91%|████████████████████████████████████▎   | 126/139 [00:10<00:02,  5.42runner/s]Fetching scores:  98%|███████████████████████████████████████▏| 136/139 [00:23<00:01,  2.07runner/s]Fetching scores: 100%|████████████████████████████████████████| 139/139 [00:25<00:00,  5.47runner/s]
+  Saved to data/grindstone_2023_21k.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 88/92
+Score range: 273 - 635
+Mean score: 418
+
+Top 10 finishers:
+ rank_scratch                 name race_time  utmb_index  utmb_score
+          1.0         Brandt BOGGS  01:42:40         NaN       635.0
+          2.0       Hollyann SWANN  01:49:18       723.0       597.0
+          3.0         Shad UADIALE  01:51:09         NaN       587.0
+          4.0        Steven LARICK  01:54:01       723.0       572.0
+          5.0         Aimee KOHLER  01:55:21         NaN       566.0
+          6.0        Martin DUBEAU  01:59:18       519.0       547.0
+          7.0     Brittany BLITZER  02:00:43       571.0       540.0
+          8.0       Oscar GONZALEZ  02:02:18       417.0       533.0
+          9.0  Matthew LIVINGSTONE  02:05:43       573.0       519.0
+         10.0        Jake MITCHELL  02:10:00       448.0       502.0

@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: torrencialbyutmb | Year: 2025 | Race: 6k
+======================================================================
+Loaded 183 runners from data/torrencialbyutmb_2025_6k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 173 runners...
+Fetching scores:   0%|                                                  | 0/173 [00:00<?, ?runner/s]Fetching scores:  58%|██████████████████████▌                | 100/173 [00:00<00:00, 154.75runner/s]Fetching scores:  66%|██████████████████████████▎             | 114/173 [00:01<00:00, 73.60runner/s]Fetching scores:  73%|█████████████████████████████▎          | 127/173 [00:01<00:00, 54.75runner/s]Fetching scores:  85%|█████████████████████████████████▉      | 147/173 [00:02<00:00, 48.53runner/s]Fetching scores:  91%|████████████████████████████████████▎   | 157/173 [00:03<00:00, 34.93runner/s]Fetching scores:  97%|██████████████████████████████████████▌ | 167/173 [00:03<00:00, 28.99runner/s]Fetching scores: 100%|████████████████████████████████████████| 173/173 [00:04<00:00, 42.49runner/s]
+  Saved to data/torrencialbyutmb_2025_6k.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/164
+
+Top 10 finishers:
+ rank_scratch                                   name race_time  utmb_index  utmb_score
+          1.0                       Cesar ABREU DIAZ  00:26:06       604.0         NaN
+          2.0                       Andres NAHUELPAN  00:28:12       630.0         NaN
+          3.0                           John GALLEGO  00:28:21       423.0         NaN
+          4.0                      Maximiliano DONAT  00:30:04         NaN         NaN
+          5.0        Franco Antonio SALDIVIA MIRANDA  00:30:57         NaN         NaN
+          6.0                          Renato ATENAS  00:31:09         NaN         NaN
+          7.0  Maximiliano Matias HERNANDEZ ESCALONA  00:31:28         NaN         NaN
+          8.0  Yicssel Valentina LLANCAPANI CARDENAS  00:31:48         NaN         NaN
+          9.0              Juan Manuel LOPEZ FERRADA  00:32:45         NaN         NaN
+         10.0        Cristobal Ignacio GUNCKEL NEIRA  00:33:12         NaN         NaN

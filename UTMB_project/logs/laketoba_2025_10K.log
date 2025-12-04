@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: laketoba | Year: 2025 | Race: 10K
+======================================================================
+Loaded 200 runners from data/laketoba_2025_10K.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 200 runners...
+Fetching scores:   0%|                                                  | 0/200 [00:00<?, ?runner/s]Fetching scores:   8%|███                                      | 15/200 [00:00<00:07, 24.15runner/s]Fetching scores:  12%|█████▏                                   | 25/200 [00:01<00:11, 14.92runner/s]Fetching scores:  28%|███████████▍                             | 56/200 [00:02<00:04, 31.01runner/s]Fetching scores:  34%|█████████████▋                           | 67/200 [00:02<00:05, 25.49runner/s]Fetching scores:  38%|███████████████▊                         | 77/200 [00:03<00:05, 23.16runner/s]Fetching scores:  44%|█████████████████▊                       | 87/200 [00:03<00:05, 21.79runner/s]Fetching scores:  48%|███████████████████▉                     | 97/200 [00:06<00:11,  9.17runner/s]Fetching scores:  54%|█████████████████████▌                  | 108/200 [00:07<00:10,  9.01runner/s]Fetching scores:  59%|███████████████████████▌                | 118/200 [00:11<00:14,  5.75runner/s]Fetching scores:  64%|█████████████████████████▌              | 128/200 [00:11<00:10,  7.10runner/s]Fetching scores:  74%|█████████████████████████████▍          | 147/200 [00:12<00:04, 10.70runner/s]Fetching scores:  78%|███████████████████████████████▍        | 157/200 [00:14<00:05,  7.85runner/s]Fetching scores:  84%|█████████████████████████████████▍      | 167/200 [00:15<00:03,  9.05runner/s]Fetching scores:  88%|███████████████████████████████████▍    | 177/200 [00:17<00:03,  6.67runner/s]Fetching scores:  94%|█████████████████████████████████████▍  | 187/200 [00:23<00:03,  3.68runner/s]Fetching scores:  94%|█████████████████████████████████████▍  | 187/200 [00:39<00:03,  3.68runner/s]Fetching scores:  98%|███████████████████████████████████████▍| 197/200 [00:43<00:02,  1.32runner/s]Fetching scores: 100%|███████████████████████████████████████▊| 199/200 [00:48<00:00,  1.13runner/s]Fetching scores: 100%|████████████████████████████████████████| 200/200 [00:48<00:00,  4.13runner/s]
+  Saved to data/laketoba_2025_10K.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/151
+
+Top 10 finishers:
+ rank_scratch                         name race_time  utmb_index  utmb_score
+          1.0        Rusdiyanto RUSDIYANTO  00:47:28         NaN         NaN
+          2.0               Wilsen SINGGIN  00:48:06         NaN         NaN
+          3.0              Maulana MAULANA  00:54:19         NaN         NaN
+          5.0         Patar Marlon SIREGAR  01:07:33         NaN         NaN
+          6.0                Edy SYAHPUTRA  01:08:28         NaN         NaN
+          7.0                  May HERBERT  01:08:34         NaN         NaN
+          9.0      Adrian SETIYADI SITORUS  01:09:02         NaN         NaN
+         10.0          Siong Hua ALEXANDER  01:09:22         NaN         NaN
+         11.0         Dimas ADITIYA WIBAWA  01:09:53         NaN         NaN
+         12.0  Nicodemus Lamhot SITANGGANG  01:11:35         NaN         NaN

@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: transjeju | Year: 2022 | Race: 100km
+======================================================================
+Loaded 216 runners from data/transjeju_2022_100km.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 174 runners...
+Fetching scores:   0%|                                                  | 0/174 [00:00<?, ?runner/s]Fetching scores:   6%|██▎                                      | 10/174 [00:02<00:35,  4.61runner/s]Fetching scores:  11%|████▋                                    | 20/174 [00:03<00:26,  5.74runner/s]Fetching scores:  17%|███████                                  | 30/174 [00:04<00:22,  6.34runner/s]Fetching scores:  23%|█████████▍                               | 40/174 [00:06<00:19,  6.94runner/s]Fetching scores:  29%|███████████▊                             | 50/174 [00:08<00:21,  5.71runner/s]Fetching scores:  34%|██████████████▏                          | 60/174 [00:09<00:16,  6.80runner/s]Fetching scores:  40%|████████████████▍                        | 70/174 [00:10<00:13,  7.91runner/s]Fetching scores:  46%|██████████████████▊                      | 80/174 [00:11<00:13,  7.18runner/s]Fetching scores:  52%|█████████████████████▏                   | 90/174 [00:12<00:10,  7.82runner/s]Fetching scores:  57%|██████████████████████▉                 | 100/174 [00:15<00:12,  5.92runner/s]Fetching scores:  63%|█████████████████████████▎              | 110/174 [00:19<00:15,  4.02runner/s]Fetching scores:  69%|███████████████████████████▌            | 120/174 [00:26<00:19,  2.75runner/s]Fetching scores:  75%|█████████████████████████████▉          | 130/174 [00:28<00:13,  3.22runner/s]Fetching scores:  80%|████████████████████████████████▏       | 140/174 [00:34<00:13,  2.49runner/s]Fetching scores:  86%|██████████████████████████████████▍     | 150/174 [00:40<00:11,  2.09runner/s]Fetching scores:  92%|████████████████████████████████████▊   | 160/174 [00:46<00:06,  2.03runner/s]Fetching scores:  98%|███████████████████████████████████████ | 170/174 [00:49<00:01,  2.22runner/s]Fetching scores: 100%|████████████████████████████████████████| 174/174 [00:53<00:00,  3.28runner/s]
+  Saved to data/transjeju_2022_100km.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/177
+
+Top 10 finishers:
+ rank_scratch                       name race_time  utmb_index  utmb_score
+          1.0                 Minchul Ko  11:43:10       639.0         NaN
+          2.0                Donguk Kang  12:11:20       563.0         NaN
+          3.0             Sang geun Jang  12:57:10       739.0         NaN
+          4.0  Amgalanjargal Davaajargal  13:05:02         NaN         NaN
+          5.0                  Jooho Yum  13:25:50       655.0         NaN
+          6.0               Taesung Yang  13:57:13       632.0         NaN
+          7.0                 Sangkuk Ye  13:59:19       585.0         NaN
+          7.0               Jinhwan Hyun  13:59:19       661.0         NaN
+          9.0                  Eric Tang  14:01:17         NaN         NaN
+         10.0              Hunyoung Choi  14:17:13       606.0         NaN

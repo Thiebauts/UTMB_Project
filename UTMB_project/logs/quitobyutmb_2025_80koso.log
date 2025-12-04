@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: quitobyutmb | Year: 2025 | Race: 80koso
+======================================================================
+Loaded 164 runners from data/quitobyutmb_2025_80koso.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 164 runners...
+Fetching scores:   0%|                                                  | 0/164 [00:00<?, ?runner/s]Fetching scores:   6%|██▌                                      | 10/164 [00:09<02:32,  1.01runner/s]Fetching scores:  12%|█████                                    | 20/164 [00:11<01:10,  2.05runner/s]Fetching scores:  18%|███████▌                                 | 30/164 [00:17<01:13,  1.82runner/s]Fetching scores:  24%|██████████                               | 40/164 [00:21<00:59,  2.10runner/s]Fetching scores:  30%|████████████▌                            | 50/164 [00:22<00:40,  2.85runner/s]Fetching scores:  37%|███████████████                          | 60/164 [00:23<00:26,  3.95runner/s]Fetching scores:  43%|█████████████████▌                       | 70/164 [00:23<00:17,  5.24runner/s]Fetching scores:  49%|████████████████████                     | 80/164 [00:24<00:12,  6.78runner/s]Fetching scores:  55%|██████████████████████▌                  | 90/164 [00:26<00:12,  5.78runner/s]Fetching scores:  61%|████████████████████████▍               | 100/164 [00:27<00:08,  7.13runner/s]Fetching scores:  70%|███████████████████████████▊            | 114/164 [00:27<00:05,  9.89runner/s]Fetching scores:  76%|██████████████████████████████▏         | 124/164 [00:28<00:03, 11.26runner/s]Fetching scores:  83%|█████████████████████████████████▏      | 136/164 [00:28<00:02, 13.41runner/s]Fetching scores:  89%|███████████████████████████████████▌    | 146/164 [00:29<00:01, 13.88runner/s]Fetching scores:  97%|██████████████████████████████████████▊ | 159/164 [00:30<00:00, 16.47runner/s]Fetching scores: 100%|████████████████████████████████████████| 164/164 [00:30<00:00,  5.43runner/s]
+  Saved to data/quitobyutmb_2025_80koso.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/142
+
+Top 10 finishers:
+ rank_scratch                            name race_time  utmb_index  utmb_score
+          1.0                   Joaquin LOPEZ  08:07:34       887.0         NaN
+          2.0           Remigio HUAMAN QUISPE  08:37:57       873.0         NaN
+          3.0                   Marcelo OLIVO  08:57:00       752.0         NaN
+          4.0         Emerson TRUJILLO FLORES  09:09:47       767.0         NaN
+          5.0                    Kevin AGUIAR  10:10:39       744.0         NaN
+          6.0                  Carlos AGUIRRE  10:22:35       640.0         NaN
+          7.0  Rommel Antonio RIOFRIO MIRANDA  10:31:06       542.0         NaN
+          8.0                   Eduardo ILVAY  10:38:10       663.0         NaN
+          9.0       Kevin Antonio MACAS CORAL  10:40:07       592.0         NaN
+         10.0   Marcos Tulio FERNÁNDEZ GARCÍA  10:44:00       592.0         NaN

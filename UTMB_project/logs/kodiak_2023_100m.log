@@ -1,0 +1,34 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: kodiak | Year: 2023 | Race: 100m
+======================================================================
+Loaded 229 runners from data/kodiak_2023_100m.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 223 runners...
+Fetching scores:   0%|                                                  | 0/223 [00:00<?, ?runner/s]Fetching scores:  74%|█████████████████████████████▍          | 164/223 [00:04<00:01, 40.32runner/s]Fetching scores:  78%|███████████████████████████████▏        | 174/223 [00:06<00:02, 23.38runner/s]Fetching scores:  83%|█████████████████████████████████       | 184/223 [00:07<00:02, 19.00runner/s]Fetching scores:  87%|██████████████████████████████████▊     | 194/223 [00:08<00:01, 17.80runner/s]Fetching scores:  91%|████████████████████████████████████▌   | 204/223 [00:09<00:01, 15.65runner/s]Fetching scores:  96%|██████████████████████████████████████▍ | 214/223 [00:10<00:00, 14.47runner/s]Fetching scores: 100%|████████████████████████████████████████| 223/223 [00:13<00:00, 16.93runner/s]
+  Saved to data/kodiak_2023_100m.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 31/148
+Score range: 389 - 763
+Mean score: 444
+
+Top 10 finishers:
+ rank_scratch               name race_time  utmb_index  utmb_score
+          1.0  Vincent BOUILLARD  16:22:08       816.0         NaN
+          2.0     Michael TAPPEL  18:15:29       783.0       763.0
+          3.0       Jhon BARRERA  19:24:51       841.0         NaN
+          4.0   Michael VERSTEEG  20:10:06         NaN         NaN
+          5.0        Wataru IINO  20:42:25       791.0         NaN
+          6.0  Jorge TORRES INDA  20:43:49         NaN         NaN
+          7.0   Claire BANNWARTH  21:10:28       696.0         NaN
+          8.0       Byron FOSTER  21:33:12         NaN         NaN
+          9.0       Scott MUNSON  23:04:31       652.0         NaN
+         10.0        Jack WATSON  23:14:13       641.0         NaN

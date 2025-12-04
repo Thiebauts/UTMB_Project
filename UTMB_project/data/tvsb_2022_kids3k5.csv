@@ -1,0 +1,22 @@
+# Race: Unknown
+# Distance: 3.5 km
+# D+: 0 m
+# D-: 0 m
+# Date: 2022-07-10
+# URL: https://live.utmb.world/tvsb/2022
+bib,name,country,age,sex,category,club,utmb_profile_url,utmb_index,rank_scratch,rank_sex,rank_category,race_time,race_time_seconds,is_finisher,status,utmb_score
+4045,Lenny COVOLO,BE,15,H,EcolBM,,,,1.0,1.0,1.0,00:17:17,1037.36,True,f,
+4099,Zian VISIOLO-GEORGES,CH,16,H,EcolAM,,,,2.0,2.0,1.0,00:17:30,1050.22,True,f,
+4073,Killian RACLOZ,CH,16,H,EcolAM,,,,3.0,3.0,2.0,00:17:51,1071.0,True,f,
+4020,Marcy EMERY,CH,17,F,EcolAF,,https://utmb.world/runner/4215001.marcy.emery,,4.0,1.0,1.0,00:18:10,1090.6,True,f,
+4008,Victor SCHREVE,NL,16,H,EcolAM,,https://utmb.world/runner/4472407.victor.schreve,,5.0,4.0,3.0,00:18:42,1122.89,True,f,
+4074,Lily PIERROZ,CH,17,F,EcolAF,,,,6.0,2.0,2.0,00:18:45,1125.0,True,f,
+4015,Esteban MATHIAUD,FR,14,H,EcolBM,,,,7.0,5.0,2.0,00:18:49,1129.35,True,f,
+4059,Zoé JUNGO,CH,17,F,EcolAF,,,,8.0,3.0,3.0,00:21:01,1261.39,True,f,
+4085,Lucile MARET,CH,14,F,EcolBF,,,,9.0,4.0,1.0,00:21:15,1275.38,True,f,
+4048,Célia ROH,CH,16,F,EcolAF,,,,10.0,5.0,4.0,00:21:54,1314.73,True,f,
+4051,Charline ROH,CH,14,F,EcolBF,,,,11.0,6.0,2.0,00:21:56,1316.95,True,f,
+4050,Clémence GERMANIER,CH,16,F,EcolAF,,,,12.0,7.0,5.0,00:23:11,1391.56,True,f,
+4035,Naomie MARIEN,FR,14,F,EcolBF,,,,,,,,0.0,False,np,
+4044,Mailys BEVERNAEGIE,BE,14,F,EcolBF,,,,,,,,0.0,False,np,
+4042,Mathias BEVERNAEGIE,BE,14,H,EcolBM,,,,,,,,0.0,False,np,

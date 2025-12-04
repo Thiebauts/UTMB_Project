@@ -1,0 +1,34 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: valholl | Year: 2023 | Race: 11k
+======================================================================
+Loaded 228 runners from data/valholl_2023_11k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 226 runners...
+Fetching scores:   0%|                                                  | 0/226 [00:00<?, ?runner/s]Fetching scores:  69%|██████████████████████████▉            | 156/226 [00:00<00:00, 296.17runner/s]Fetching scores:  76%|█████████████████████████████▌         | 171/226 [00:01<00:00, 130.27runner/s]Fetching scores:  80%|████████████████████████████████        | 181/226 [00:02<00:01, 40.40runner/s]Fetching scores:  85%|█████████████████████████████████▊      | 191/226 [00:03<00:00, 35.52runner/s]Fetching scores:  89%|███████████████████████████████████▌    | 201/226 [00:04<00:01, 22.14runner/s]Fetching scores:  93%|█████████████████████████████████████▎  | 211/226 [00:05<00:00, 17.95runner/s]Fetching scores:  98%|███████████████████████████████████████ | 221/226 [00:07<00:00, 11.84runner/s]Fetching scores: 100%|████████████████████████████████████████| 226/226 [00:09<00:00, 23.43runner/s]
+  Saved to data/valholl_2023_11k.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 78/207
+Score range: 187 - 614
+Mean score: 408
+
+Top 10 finishers:
+ rank_scratch                       name race_time  utmb_index  utmb_score
+          1.0             Agustin ALANIZ  00:49:24         NaN         NaN
+          2.0  Gabriel Alejandro BARRERA  00:54:10         NaN       614.0
+          3.0            Nicolás SANCHEZ  00:58:05       468.0         NaN
+          4.0            Leonardo PIFFER  01:00:45       564.0       547.0
+          5.0               Matías ARIAS  01:01:42         NaN       539.0
+          6.0          Agustín LEJTNEKER  01:02:15       512.0       534.0
+          7.0              Jennifer GRUT  01:02:38         NaN       531.0
+          8.0   Guillermo HUERTA RAMIREZ  01:02:46         NaN       529.0
+          9.0               German PEREZ  01:04:05         NaN       519.0
+         10.0             Claudio BESANA  01:04:10       510.0       518.0

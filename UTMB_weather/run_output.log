@@ -1,0 +1,826 @@
+/usr/lib/python3/dist-packages/urllib3/util/ssl_.py:372: SNIMissingWarning: An HTTPS request has been made, but the SNI (Server Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  warnings.warn(
+============================================================
+UTMB Weather Analysis Pipeline
+============================================================
+
+Loading events from: /aop_mount/home/thisch/UTMB_Project/UTMB_project/events.json
+Found 626 historical races to analyze
+
+Processing 626 races...
+[1/626] Trail Alsace Grand Est by UTMB - Trail des Pèlerins (2023) - Score: 93.2 (Excellent)
+[2/626] Trail Alsace Grand Est by UTMB - Trail des Celtes (2023) - Score: 97.7 (Excellent)
+[3/626] Trail Alsace Grand Est by UTMB - Ultra-Trail des Païens (2023) - Score: 95.2 (Excellent)
+[4/626] Trail Alsace Grand Est by UTMB - Ultra-Trail des  Chevaliers (2023) - Score: 97.5 (Excellent)
+[5/626] Trail Alsace Grand Est by UTMB - Trail des Celtes (2024) - Score: 87.1 (Excellent)
+[6/626] Trail Alsace Grand Est by UTMB - Ultra-Trail des  Chevaliers (2024) - Score: 97.0 (Excellent)
+[7/626] Trail Alsace Grand Est by UTMB - Trail des Pèlerins (2024) - Score: 94.8 (Excellent)
+[8/626] Trail Alsace Grand Est by UTMB - Ultra-Trail des Païens (2024) - Skipped (geocoding failed for Ch. Rathsamhausen)
+[9/626] Trail Alsace Grand Est by UTMB - Trail des Celtes (2025) - Score: 100.0 (Excellent)
+[10/626] Trail Alsace Grand Est by UTMB - Ultra-Trail des  Chevaliers (2025) - Score: 99.6 (Excellent)
+[11/626] Trail Alsace Grand Est by UTMB - Ultra-Trail des Païens (2025) - Score: 100.0 (Excellent)
+[12/626] Trail Alsace Grand Est by UTMB - Trail des Pèlerins (2025) - Score: 99.9 (Excellent)
+[13/626] Trail Alsace Grand Est by UTMB - Ronde des Pages (2025) - Score: 100.0 (Excellent)
+[14/626] Kullamannen by UTMB® - Kullamannen 100 Miles (2022) - Score: 92.0 (Excellent)
+[15/626] Kullamannen by UTMB® - Sprint Ultra 100 km (2022) - Score: 91.5 (Excellent)
+[16/626] Kullamannen by UTMB® - Sibirien Ultra 50 km (2022) - Score: 87.9 (Excellent)
+[17/626] Kullamannen by UTMB® - Dödens Zon 20 km (2022) - Score: 81.4 (Excellent)
+[18/626] Kullamannen by UTMB® - Kullamannen 100 Miles (2023) - Score: 92.3 (Excellent)
+[19/626] Kullamannen by UTMB® - Sprint Ultra 100 km (2023) - Score: 91.2 (Excellent)
+[20/626] Kullamannen by UTMB® - Sibirien Ultra 50 km (2023) - Score: 92.0 (Excellent)
+[21/626] Kullamannen by UTMB® - Dödens Zon 20 km (2023) - Score: 85.8 (Excellent)
+[22/626] Kullamannen by UTMB® - Ultra 100 Miles (2024) - Score: 89.8 (Excellent)
+[23/626] Kullamannen by UTMB® - Sprint Ultra 100km (2024) - Score: 92.4 (Excellent)
+[24/626] Kullamannen by UTMB® - Seventh Seal (2024) - Score: 92.7 (Excellent)
+[25/626] Kullamannen by UTMB® - North Shore (2024) - Score: 92.7 (Excellent)
+[26/626] Kullamannen by UTMB® - Ultra 100 Miles (2025) - Score: 89.4 (Excellent)
+[27/626] Kullamannen by UTMB® - Sprint Ultra 100km (2025) - Score: 84.7 (Excellent)
+[28/626] Kullamannen by UTMB® - Seventh Seal (2025) - Score: 82.5 (Excellent)
+[29/626] Kullamannen by UTMB® - North Shore (2025) - Score: 82.3 (Excellent)
+[30/626] Arc of Attrition by UTMB - ARC 100 (2025) - Score: 84.5 (Excellent)
+[31/626] Arc of Attrition by UTMB - ARC 50 (2025) - Score: 74.2 (Good)
+[32/626] Arc of Attrition by UTMB - ARC 25 (2025) - Skipped (no location)
+[33/626] Chianti Ultra Trail by UTMB - Ultra Trail Chianti Castles (2024) - Score: 94.9 (Excellent)
+[34/626] Chianti Ultra Trail by UTMB - Chianti Ultra Trail (2024) - Score: 94.7 (Excellent)
+[35/626] Chianti Ultra Trail by UTMB - Chianti Marathon Trail (2024) - Score: 94.6 (Excellent)
+[36/626] Chianti Ultra Trail by UTMB - Chianti Half Trail (2024) - Score: 96.5 (Excellent)
+[37/626] Chianti Ultra Trail by UTMB - Chianti Wine Run (2024) - Skipped (geocoding failed for Radda in Chiante)
+[38/626] Chianti Ultra Trail by UTMB - Chianti Marathon Trail (2025) - Score: 96.0 (Excellent)
+[39/626] Chianti Ultra Trail by UTMB - Chianti Half Trail (2025) - Score: 96.0 (Excellent)
+[40/626] Chianti Ultra Trail by UTMB - Ultra Trail Chianti Castles (2025) - Score: 80.5 (Excellent)
+[41/626] Chianti Ultra Trail by UTMB - Chianti Ultra Trail (2025) - Score: 81.9 (Excellent)
+[42/626] Chianti Ultra Trail by UTMB - Chianti Wine Run (2025) - Score: 84.3 (Excellent)
+[43/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 120K (2023) - Score: 99.0 (Excellent)
+[44/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 80K (2023) - Skipped (geocoding failed for San Vito di Cadore)
+[45/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 50K (2023) - Score: 86.6 (Excellent)
+[46/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 20K (2023) - Score: 78.3 (Good)
+[47/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 10K (2023) - Skipped (geocoding failed for Fiames)
+[48/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 120K (2024) - Score: 88.8 (Excellent)
+[49/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 80K (2024) - Skipped (geocoding failed for Alta Badia La Val)
+[50/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 50K (2024) - Score: 92.5 (Excellent)
+[51/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 20K (2024) - Score: 94.7 (Excellent)
+[52/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 10K (2024) - Skipped (geocoding failed for Fiames start)
+[53/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 120K (2025) - Score: 91.6 (Excellent)
+[54/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 80K (2025) - Skipped (geocoding failed for Val Marzon Auronzo)
+[55/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 50K (2025) - Score: 93.0 (Excellent)
+[56/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 20K (2025) - Score: 80.6 (Excellent)
+[57/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO 10K (2025) - Score: 84.6 (Excellent)
+[58/626] La Sportiva Lavaredo Ultra Trail by UTMB® - LAVAREDO ULTRA TRAIL (2022)Error: Geocoding service error for 'Cortina d'Ampezzo': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Cortina d'Ampezzo)
+[59/626] La Sportiva Lavaredo Ultra Trail by UTMB® - ULTRADOLOMITES (2022) - Skipped (geocoding failed for Cortina d'Ampezzo)
+[60/626] La Sportiva Lavaredo Ultra Trail by UTMB® - CORTINA TRAIL (2022) - Skipped (geocoding failed for Cortina d'Ampezzo)
+[61/626] La Sportiva Lavaredo Ultra Trail by UTMB® - CORTINA SKYRACE (2022) - Skipped (geocoding failed for Cortina d'Ampezzo)
+[62/626] Restonica Trail by UTMB - Ultra-Trail® di Corsica (2022)Error: Geocoding service error for 'Corte, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Corte)
+[63/626] Restonica Trail by UTMB - Relais Ultra-Trail® di Corsica (2022) - Skipped (geocoding failed for Corte)
+[64/626] Restonica Trail by UTMB - Restonica Trail (2022) - Skipped (geocoding failed for Corte)
+[65/626] Restonica Trail by UTMB - Tavignanu Trail (2022) - Skipped (geocoding failed for Corte)
+[66/626] Restonica Trail by UTMB - Giru di Tumbone (2022) - Skipped (geocoding failed for Corte)
+[67/626] Restonica Trail by UTMB - Relais Ultra-Trail® di Corsica (2023) - Skipped (geocoding failed for Corte )
+[68/626] Restonica Trail by UTMB - Ultra-Trail® di Corsica (2024) - Skipped (geocoding failed for Corte )
+[69/626] Restonica Trail by UTMB - Restonica Trail (2024) - Skipped (geocoding failed for Corte )
+[70/626] Restonica Trail by UTMB - Tavignanu Trail (2024) - Skipped (geocoding failed for Corte )
+[71/626] Restonica Trail by UTMB - Giru di Tumbone (2024) - Skipped (geocoding failed for Corte )
+[72/626] Restonica Trail by UTMB - Relais Ultra-Trail® di Corsica (2024) - Skipped (geocoding failed for Corte )
+[73/626] Restonica Trail by UTMB - Ultra-Trail® di Corsica (2025) - Skipped (geocoding failed for Corte)
+[74/626] Restonica Trail by UTMB - Relais Ultra-Trail® di Corsica (2025) - Skipped (geocoding failed for Corte )
+[75/626] Restonica Trail by UTMB - Restonica Trail (2025) - Skipped (geocoding failed for Corte )
+[76/626] Restonica Trail by UTMB - Tavignanu Trail (2025) - Skipped (geocoding failed for Corte )
+[77/626] Restonica Trail by UTMB - Giru di Tumbone (2025) - Skipped (geocoding failed for Corte )
+[78/626] Wildstrubel by UTMB® - 100k (2022)Error: Geocoding service error for 'Crans Montana, Switzerland': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Crans Montana)
+[79/626] Wildstrubel by UTMB® - 50K (2022)Error: Geocoding service error for 'Adelboden, Switzerland': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Adelboden)
+[80/626] Wildstrubel by UTMB® - 20K (2022)Error: Geocoding service error for 'Leurkerbad, Switzerland': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Leurkerbad)
+[81/626] Wildstrubel by UTMB® - Wild Run 5K (2022) - Score: 97.3 (Excellent)
+[82/626] Wildstrubel by UTMB® - Wild 110k (2023)Error: Geocoding service error for 'Crans - Montana, Switzerland': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Crans - Montana)
+[83/626] Wildstrubel by UTMB® - Wild 70k (2023)Error: Geocoding service error for 'Kandersteg, Switzerland': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Kandersteg)
+[84/626] Wildstrubel by UTMB® - Wild 50K (2023) - Skipped (geocoding failed for Adelboden)
+[85/626] Wildstrubel by UTMB® - Wild 20K (2023) - Skipped (geocoding failed for Leurkerbad)
+[86/626] Wildstrubel by UTMB® - Wild 110 (2024) - Skipped (geocoding failed for Crans - Montana)
+[87/626] Wildstrubel by UTMB® - Wild 70 (2024) - Skipped (geocoding failed for Kandersteg)
+[88/626] Wildstrubel by UTMB® - Wild 50 (2024) - Skipped (geocoding failed for Adelboden)
+[89/626] Wildstrubel by UTMB® - Wild 25 (2024) - Skipped (geocoding failed for Leurkerbad)
+[90/626] Wildstrubel by UTMB® - Wild 10 (2024)Error: Geocoding service error for 'Aminona, Switzerland': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Aminona)
+[91/626] Wildstrubel by UTMB® - WILD Handi-Sport (2024) - Skipped (geocoding failed for Aminona)
+[92/626] Wildstrubel by UTMB® - Wild 110 (2025) - Skipped (geocoding failed for Crans - Montana)
+[93/626] Wildstrubel by UTMB® - Wild 70 (2025) - Skipped (geocoding failed for Kandersteg)
+[94/626] Wildstrubel by UTMB® - Wild 50 (2025) - Skipped (geocoding failed for Adelboden)
+[95/626] Wildstrubel by UTMB® - Wild 25 (2025) - Skipped (geocoding failed for Leurkerbad)
+[96/626] Wildstrubel by UTMB® - Wild 10 (2025) - Skipped (geocoding failed for Crans - Montana)
+[97/626] Wildstrubel by UTMB® - Wild NextGen (2025) - Skipped (geocoding failed for Crans - Montana)
+[98/626] Kaçkar by UTMB - KAÇKAR 50K (2025)Error: Geocoding service error for 'Ayder Village, Türkiye': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Ayder Village)
+[99/626] Kaçkar by UTMB - KAÇKAR 20K (2025) - Skipped (geocoding failed for Ayder Village)
+[100/626] Kaçkar by UTMB - KAÇKAR 100K (2025) - Skipped (geocoding failed for Ayder Village)
+[101/626] Puglia by Utmb - I Sassi di Matera 140km (2025)Error: Geocoding service error for 'Matera, Italy': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Matera)
+[102/626] Puglia by Utmb - Le Maioliche di Laterza 85km (2025)Error: Geocoding service error for 'Laterza, Italy': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Laterza)
+[103/626] Puglia by Utmb - Castellaneta Underground Trail 50km (2025)Error: Geocoding service error for 'Castellaneta, Italy': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Castellaneta)
+[104/626] Puglia by Utmb - Ginosa RivoltaTrail 35km (2025)Error: Geocoding service error for 'Passo Giacobbe, Italy': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Passo Giacobbe)
+[105/626] Puglia by Utmb - Costa Verde Trail 10km (2025)Error: Geocoding service error for 'Start, Italy': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Start)
+[106/626] Tarawera Ultra-Trail by UTMB - TUM Miler (2023)Error: Geocoding service error for 'Okataina, New Zealand': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Okataina)
+[107/626] Tarawera Ultra-Trail by UTMB - TUM 102 (2023) - Skipped (geocoding failed for Okataina)
+[108/626] Tarawera Ultra-Trail by UTMB - TUM 50 (2023)Error: Geocoding service error for 'Te Puia, New Zealand': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Te Puia)
+[109/626] Tarawera Ultra-Trail by UTMB - TUM 21 (2023)Error: Geocoding service error for 'Lake Tikitapu, New Zealand': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Lake Tikitapu)
+[110/626] Tarawera Ultra-Trail by UTMB - TMiler (2024)Error: Geocoding service error for 'Kawerau, New Zealand': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Kawerau)
+[111/626] Tarawera Ultra-Trail by UTMB - T102 (2024) - Skipped (geocoding failed for Te Puia)
+[112/626] Tarawera Ultra-Trail by UTMB - T50 (2024) - Skipped (geocoding failed for Te Puia)
+[113/626] Tarawera Ultra-Trail by UTMB - T21 (2024)Error: Geocoding service error for 'Blue Lake, New Zealand': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Blue Lake)
+[114/626] Tarawera Ultra-Trail by UTMB - TMiler (2025) - Skipped (geocoding failed for Te Puia)
+[115/626] Tarawera Ultra-Trail by UTMB - T102 (2025) - Skipped (geocoding failed for Kawerau)
+[116/626] Tarawera Ultra-Trail by UTMB - T50 (2025) - Skipped (geocoding failed for Te Puia)
+[117/626] Tarawera Ultra-Trail by UTMB - T21 (2025) - Skipped (geocoding failed for Blue Lake)
+[118/626] Ultra-Trail Australia - UTA100 (2023)Error: Geocoding service error for 'KCC OVAL, Australia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for KCC OVAL)
+[119/626] Ultra-Trail Australia - UTA50 (2023) - Skipped (geocoding failed for KCC OVAL)
+[120/626] Ultra-Trail Australia - UTA22 (2023) - Skipped (geocoding failed for KCC OVAL)
+[121/626] Ultra-Trail Australia - UTA11 (2023) - Skipped (geocoding failed for KCC OVAL)
+[122/626] Ultra-Trail Australia - UTA100 (2024)Error: Geocoding service error for 'SCENIC WORLD KATOOMBA, Australia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for SCENIC WORLD KATOOMBA)
+[123/626] Ultra-Trail Australia - UTA50 (2024)Error: Geocoding service error for 'SCENIC WORLD, KATOOMBA, Australia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for SCENIC WORLD, KATOOMBA)
+[124/626] Ultra-Trail Australia - UTA22 (2024)Error: Geocoding service error for 'Queen Victoria Hospital, Australia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Queen Victoria Hospital)
+[125/626] Ultra-Trail Australia - UTA11 (2024) - Skipped (geocoding failed for SCENIC WORLD, KATOOMBA)
+[126/626] Ultra-Trail Australia - UTAMiler (2025)Error: Geocoding service error for 'Grand Canyon, Australia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Grand Canyon)
+[127/626] Ultra-Trail Australia - UTA100 (2025)Error: Geocoding service error for 'Scenic World, Australia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Scenic World)
+[128/626] Ultra-Trail Australia - UTA50 (2025) - Skipped (geocoding failed for Scenic World)
+[129/626] Ultra-Trail Australia - UTA22 (2025) - Skipped (geocoding failed for Queen Victoria Hospital)
+[130/626] Ultra-Trail Australia - UTA11 (2025) - Skipped (geocoding failed for Scenic World)
+[131/626] Ultra-Trail Australia - UTA100 (2022)Error: Geocoding service error for 'Katoomba': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Katoomba)
+[132/626] Ultra-Trail Australia - UTA50 (2022) - Skipped (geocoding failed for Katoomba)
+[133/626] Ultra-Trail Australia - UTA22 (2022) - Skipped (geocoding failed for Katoomba)
+[134/626] Ultra-Trail Australia - UTA11 (2022) - Skipped (geocoding failed for Katoomba)
+[135/626] Kosciuszko By UTMB - Kosci Miler (2022)Error: Geocoding service error for 'Perisher Valley, Australia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Perisher Valley)
+[136/626] Kosciuszko By UTMB - Kosci 100 (2022) - Skipped (geocoding failed for Perisher Valley)
+[137/626] Kosciuszko By UTMB - Kosci 50 (2022)Error: Geocoding service error for 'Tredbo, Australia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Tredbo)
+[138/626] Kosciuszko By UTMB - Kosci 27 (2022) - Skipped (geocoding failed for Tredbo)
+[139/626] Kosciuszko By UTMB - Kosci Miler (2023)Error: Geocoding service error for 'Friday flat, Australia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Friday flat)
+[140/626] Kosciuszko By UTMB - Kosci 100 (2023) - Skipped (geocoding failed for Friday flat)
+[141/626] Kosciuszko By UTMB - Kosci 27 (2023)Error: Geocoding service error for 'Bullocks flat, Australia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Bullocks flat)
+[142/626] Kosciuszko By UTMB - Kosci 50 (2023) - Skipped (geocoding failed for Bullocks flat)
+[143/626] Kosciuszko By UTMB - Kosci Miler (2024)Error: Geocoding service error for 'Start - Jindabyne, Australia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Start - Jindabyne)
+[144/626] Kosciuszko By UTMB - Kosci 100 (2024)Error: Geocoding service error for 'Start - Perisher, Australia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Start - Perisher)
+[145/626] Kosciuszko By UTMB - Kosci 50 (2024) - Skipped (geocoding failed for Start - Perisher)
+[146/626] Kosciuszko By UTMB - Kosci 30 (2024) - Skipped (geocoding failed for Start - Perisher)
+[147/626] Kosciuszko By UTMB - Kosci Miler (2025)Error: Geocoding service error for 'Jindabyne, Australia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Jindabyne)
+[148/626] Kosciuszko By UTMB - Kosci 100 (2025) - Skipped (geocoding failed for Start - Perisher)
+[149/626] Kosciuszko By UTMB - Kosci 50 (2025)Error: Geocoding service error for 'Perisher, Australia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Perisher)
+[150/626] Kosciuszko By UTMB - Kosci 30 (2025) - Skipped (geocoding failed for Start - Perisher)
+[151/626] Desert RATS Trail running Festival by UTMB - Desert RATS 100K - Alternative 50k race (2023)Error: Geocoding service error for 'Fruita CO, Mack Exit, Hawkeye Trailhead, United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Fruita CO, Mack Exit, Hawkeye Trailhead)
+[152/626] Desert RATS Trail running Festival by UTMB - Desert RATS 50K (2023) - Skipped (geocoding failed for Fruita CO, Mack Exit, Hawkeye Trailhead)
+[153/626] Desert RATS Trail running Festival by UTMB - Desert RATS 42K (2023) - Skipped (geocoding failed for Fruita CO, Mack Exit, Hawkeye Trailhead)
+[154/626] Desert RATS Trail running Festival by UTMB - Desert RATS 21K (2023) - Skipped (geocoding failed for Fruita CO, Mack Exit, Hawkeye Trailhead)
+[155/626] Desert RATS Trail running Festival by UTMB - Desert RATS 10K (2023) - Skipped (geocoding failed for Fruita CO, Mack Exit, Hawkeye Trailhead)
+[156/626] Desert RATS Trail running Festival by UTMB - Desert RATS 100K (2024)Error: Geocoding service error for 'FRUITA, United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for FRUITA)
+[157/626] Desert RATS Trail running Festival by UTMB - Desert RATS 50K (2024) - Skipped (geocoding failed for FRUITA)
+[158/626] Desert RATS Trail running Festival by UTMB - Desert RATS 21K (2024) - Skipped (geocoding failed for FRUITA)
+[159/626] Desert RATS Trail running Festival by UTMB - Desert RATS 10K (2024) - Skipped (geocoding failed for FRUITA)
+[160/626] Desert RATS Trail running Festival by UTMB - Desert RATS 100K (2025)Error: Geocoding service error for 'Start, United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Start)
+[161/626] Desert RATS Trail running Festival by UTMB - Desert RATS 50K (2025) - Skipped (geocoding failed for Start)
+[162/626] Desert RATS Trail running Festival by UTMB - Desert RATS 21K (2025) - Skipped (geocoding failed for Start)
+[163/626] Desert RATS Trail running Festival by UTMB - Desert RATS 10K (2025) - Skipped (geocoding failed for Start)
+[164/626] The Canyons Endurance Runs by UTMB - 100M (2023)Error: Geocoding service error for 'Auburn, United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Auburn)
+[165/626] The Canyons Endurance Runs by UTMB - 100K (2023) - Skipped (geocoding failed for Auburn)
+[166/626] The Canyons Endurance Runs by UTMB - 50K (2023) - Skipped (geocoding failed for Auburn)
+[167/626] The Canyons Endurance Runs by UTMB - 25K (2023) - Skipped (geocoding failed for Auburn)
+[168/626] The Canyons Endurance Runs by UTMB - 100M (2024)Error: Geocoding service error for 'Start - China Wall, United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Start - China Wall)
+[169/626] The Canyons Endurance Runs by UTMB - 100K (2024) - Skipped (geocoding failed for Start - China Wall)
+[170/626] The Canyons Endurance Runs by UTMB - 50K (2024)Error: Geocoding service error for 'Start - Auburn, United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Start - Auburn)
+[171/626] The Canyons Endurance Runs by UTMB - 25K (2024) - Skipped (geocoding failed for Start - Auburn)
+[172/626] The Canyons Endurance Runs by UTMB - 100M (2025)Error: Geocoding service error for 'China Wall, United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for China Wall)
+[173/626] The Canyons Endurance Runs by UTMB - 100K (2025) - Skipped (geocoding failed for China Wall)
+[174/626] The Canyons Endurance Runs by UTMB - 50K (2025) - Skipped (geocoding failed for Auburn)
+[175/626] The Canyons Endurance Runs by UTMB - 25K (2025) - Skipped (geocoding failed for Auburn)
+[176/626] Grindstone Trail Running Festival by UTMB - 100M (2023)Error: Geocoding service error for 'Natural Chimneys, United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Natural Chimneys)
+[177/626] Grindstone Trail Running Festival by UTMB - 100K (2023) - Skipped (geocoding failed for Natural Chimneys)
+[178/626] Grindstone Trail Running Festival by UTMB - 21K (2023) - Skipped (geocoding failed for Natural Chimneys)
+[179/626] Grindstone Trail Running Festival by UTMB - 100m (2024) - Skipped (geocoding failed for Natural Chimneys)
+[180/626] Grindstone Trail Running Festival by UTMB - 100k (2024) - Skipped (geocoding failed for Natural Chimneys)
+[181/626] Grindstone Trail Running Festival by UTMB - 50k (2024) - Skipped (geocoding failed for Natural Chimneys)
+[182/626] Grindstone Trail Running Festival by UTMB - 21k (2024) - Skipped (geocoding failed for Natural Chimneys)
+[183/626] Grindstone Trail Running Festival by UTMB - 100M (2025) - Skipped (geocoding failed for Natural Chimneys)
+[184/626] Grindstone Trail Running Festival by UTMB - 100K (2025) - Skipped (geocoding failed for Natural Chimneys)
+[185/626] Grindstone Trail Running Festival by UTMB - 50K (2025) - Skipped (geocoding failed for Natural Chimneys)
+[186/626] Grindstone Trail Running Festival by UTMB - 21K (2025) - Skipped (geocoding failed for Natural Chimneys)
+[187/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 100M (2023)Error: Geocoding service error for 'Big Bear Lake, United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Big Bear Lake)
+[188/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 100K (2023)Error: Geocoding service error for 'Camp Oaks, United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Camp Oaks)
+[189/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 50K (2023) - Skipped (geocoding failed for Big Bear Lake)
+[190/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 21K (2023) - Skipped (geocoding failed for Big Bear Lake)
+[191/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 10K (2023) - Skipped (geocoding failed for Big Bear Lake)
+[192/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 100 Mile (2024)Error: Geocoding service error for 'Start - Meadows Edge, United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Start - Meadows Edge)
+[193/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 100k (2024) - Skipped (geocoding failed for Start - Meadows Edge)
+[194/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 50k (2024) - Skipped (geocoding failed for Start - Meadows Edge)
+[195/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 21k (2024) - Skipped (geocoding failed for Start - Meadows Edge)
+[196/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 10k (2024) - Skipped (geocoding failed for Start - Meadows Edge)
+[197/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 100 Mile (2025)Error: Geocoding service error for 'Rim Nordic, United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Rim Nordic)
+[198/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 100k (2025)Error: Geocoding service error for 'The Village, United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for The Village)
+[199/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 50k (2025) - Skipped (geocoding failed for The Village)
+[200/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 21k (2025) - Skipped (geocoding failed for The Village)
+[201/626] HOKA Kodiak Ultra Marathons by UTMB MAJOR - 10k (2025) - Skipped (geocoding failed for The Village)
+[202/626] HOKA Pacific Trails California by UTMB - 25k (2025)Error: Geocoding service error for 'Rancho San Fernando Rey, United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Rancho San Fernando Rey)
+[203/626] HOKA Pacific Trails California by UTMB - 50k (2025) - Skipped (geocoding failed for Rancho San Fernando Rey)
+[204/626] Ultra Trail Whistler by UTMB - 25k (2024)Error: Geocoding service error for 'Creekside Plaza - Start, Canada': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Creekside Plaza - Start)
+[205/626] Ultra Trail Whistler by UTMB - 50k (2024) - Skipped (geocoding failed for Creekside Plaza - Start)
+[206/626] Ultra Trail Whistler by UTMB - 70k (2024) - Skipped (geocoding failed for Creekside Plaza - Start)
+[207/626] Ultra Trail Whistler by UTMB - 100k (2025) - Skipped (geocoding failed for Creekside Plaza - Start)
+[208/626] Ultra Trail Whistler by UTMB - 50k (2025) - Skipped (geocoding failed for Creekside Plaza - Start)
+[209/626] Ultra Trail Whistler by UTMB - 25k (2025) - Skipped (geocoding failed for Creekside Plaza - Start)
+[210/626] Ultra Trail Whistler by UTMB - 10k (2025) - Skipped (geocoding failed for Creekside Plaza - Start)
+[211/626] VALHOLL by UTMB - EPIC 125K (2023)Error: Geocoding service error for 'La Cumbrecita, Argentina': check_hostname requires server_hostname
+ - Skipped (geocoding failed for La Cumbrecita)
+[212/626] VALHOLL by UTMB - ADVANCE 80K (2023) - Skipped (geocoding failed for La Cumbrecita)
+[213/626] VALHOLL by UTMB - CHALLENGE 50k (2023)Error: Geocoding service error for 'Villa General Belgrano, Argentina': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Villa General Belgrano)
+[214/626] VALHOLL by UTMB - COURAGE 33K (2023) - Skipped (geocoding failed for Villa General Belgrano)
+[215/626] VALHOLL by UTMB - POWER 22K (2023) - Skipped (geocoding failed for Villa General Belgrano)
+[216/626] VALHOLL by UTMB - EXPLORE 11K (2023) - Skipped (geocoding failed for Villa General Belgrano)
+[217/626] VALHOLL by UTMB - EPIC 125K (2024)Error: Geocoding service error for 'Cumbrecita, Argentina': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Cumbrecita)
+[218/626] VALHOLL by UTMB - ADVANCE 80K (2024) - Skipped (geocoding failed for Cumbrecita)
+[219/626] VALHOLL by UTMB - CHALLENGE 55k (2024) - Skipped (geocoding failed for Cumbrecita)
+[220/626] VALHOLL by UTMB - COURAGE 35K (2024) - Skipped (geocoding failed for Cumbrecita)
+[221/626] VALHOLL by UTMB - POWER 22K (2024)Error: Geocoding service error for 'VGB, Argentina': check_hostname requires server_hostname
+ - Skipped (geocoding failed for VGB)
+[222/626] VALHOLL by UTMB - EXPLORE 11K (2024) - Skipped (geocoding failed for VGB)
+[223/626] VALHOLL by UTMB - EPIC 130K (2025)Error: Geocoding service error for 'USHUAIA, Argentina': check_hostname requires server_hostname
+ - Skipped (geocoding failed for USHUAIA)
+[224/626] VALHOLL by UTMB - ADVANCE 85K (2025) - Skipped (geocoding failed for USHUAIA)
+[225/626] VALHOLL by UTMB - CHALLENGE 50K (2025) - Skipped (geocoding failed for USHUAIA)
+[226/626] VALHOLL by UTMB - COURAGE 32K (2025) - Skipped (geocoding failed for USHUAIA)
+[227/626] VALHOLL by UTMB - POWER 22K (2025) - Skipped (geocoding failed for USHUAIA)
+[228/626] VALHOLL by UTMB - EXPLORE 12K (2025) - Skipped (geocoding failed for USHUAIA)
+[229/626] Paraty Brazil by UTMB® - UTSB 110 (2023)Error: Geocoding service error for 'Paraty, Brazil': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Paraty)
+[230/626] Paraty Brazil by UTMB® - PTR 55 (2023) - Skipped (geocoding failed for Paraty)
+[231/626] Paraty Brazil by UTMB® - PTR 35 (2023) - Skipped (geocoding failed for Paraty)
+[232/626] Paraty Brazil by UTMB® - PTR 20 (2023) - Skipped (geocoding failed for Paraty)
+[233/626] Paraty Brazil by UTMB® - UTSB 110 (2024) - Skipped (geocoding failed for Paraty)
+[234/626] Paraty Brazil by UTMB® - PTR 55 (2024) - Skipped (geocoding failed for Paraty)
+[235/626] Paraty Brazil by UTMB® - PTR 35 (2024) - Skipped (geocoding failed for Paraty)
+[236/626] Paraty Brazil by UTMB® - PTR 20 (2024) - Skipped (geocoding failed for Paraty)
+[237/626] Paraty Brazil by UTMB® - FUN 7 (2025)Error: Geocoding service error for 'Paraty largada, Brazil': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Paraty largada)
+[238/626] Paraty Brazil by UTMB® - UTSB 110 (2025) - Skipped (geocoding failed for Paraty largada)
+[239/626] Paraty Brazil by UTMB® - PTR 55 (2025) - Skipped (geocoding failed for Paraty largada)
+[240/626] Paraty Brazil by UTMB® - PTR 35 (2025) - Skipped (geocoding failed for Paraty largada)
+[241/626] Paraty Brazil by UTMB® - PTR 20 (2025) - Skipped (geocoding failed for Paraty largada)
+[242/626] Malaysia Ultra-Trail by UTMB - MALAYSIA100 (2024)Error: Geocoding service error for 'Esplanade Taiping, Malaysia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Esplanade Taiping)
+[243/626] Malaysia Ultra-Trail by UTMB - MALAYSIA50 (2024) - Skipped (geocoding failed for Esplanade Taiping)
+[244/626] Malaysia Ultra-Trail by UTMB - MALAYSIA25 (2024) - Skipped (geocoding failed for Esplanade Taiping)
+[245/626] Malaysia Ultra-Trail by UTMB - MALAYSIA13 (2024) - Skipped (geocoding failed for Esplanade Taiping)
+[246/626] Malaysia Ultra-Trail by UTMB - MALAYSIAVK (2024)Error: Geocoding service error for 'Kaki Bukit Larut, Malaysia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Kaki Bukit Larut)
+[247/626] Malaysia Ultra-Trail by UTMB - MALAYSIA100 (2025) - Skipped (geocoding failed for Esplanade Taiping)
+[248/626] Malaysia Ultra-Trail by UTMB - MALAYSIA50 (2025) - Skipped (geocoding failed for Esplanade Taiping)
+[249/626] Malaysia Ultra-Trail by UTMB - MALAYSIA25 (2025) - Skipped (geocoding failed for Esplanade Taiping)
+[250/626] Malaysia Ultra-Trail by UTMB - MALAYSIA13 (2025) - Skipped (geocoding failed for Esplanade Taiping)
+[251/626] Malaysia Ultra-Trail by UTMB - MALAYSIAVK (2025) - Skipped (geocoding failed for Kaki Bukit Larut)
+[252/626] TransLantau By UTMB - TransLantau 104 (2022)Error: Geocoding service error for 'MUI WO 梅窩, Hong Kong, China': check_hostname requires server_hostname
+ - Skipped (geocoding failed for MUI WO 梅窩)
+[253/626] TransLantau By UTMB - TransLantau 53 (2022) - Skipped (geocoding failed for MUI WO 梅窩)
+[254/626] TransLantau By UTMB - TransLantau 25 (2022) - Skipped (geocoding failed for MUI WO 梅窩)
+[255/626] TransLantau By UTMB - TransLantau 140 (2023) - Skipped (geocoding failed for Mui Wo 梅窩)
+[256/626] TransLantau By UTMB - TransLantau 100 (2023) - Skipped (geocoding failed for Mui Wo 梅窩)
+[257/626] TransLantau By UTMB - TransLantau 50 (2023) - Skipped (geocoding failed for Mui Wo 梅窩)
+[258/626] TransLantau By UTMB - TransLantau 25 (2023) - Skipped (geocoding failed for Mui Wo 梅窩)
+[259/626] TransLantau By UTMB - TransLantau 120 (2024)Error: Geocoding service error for 'Mui Wo , Hong Kong, China': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Mui Wo )
+[260/626] TransLantau By UTMB - TransLantau 100 (2024) - Skipped (geocoding failed for Mui Wo )
+[261/626] TransLantau By UTMB - TransLantau 50 (2024) - Skipped (geocoding failed for Mui Wo)
+[262/626] TransLantau By UTMB - TransLantau 25 (2024) - Skipped (geocoding failed for Mui Wo )
+[263/626] TransLantau By UTMB - TransLantau 50 (2025)Error: Geocoding service error for 'Start - Mui Wo 梅窩, Hong Kong, China': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Start - Mui Wo 梅窩)
+[264/626] TransLantau By UTMB - TransLantau 120 (2025) - Skipped (geocoding failed for Start - Mui Wo 梅窩)
+[265/626] TransLantau By UTMB - TransLantau 80 (2025) - Skipped (geocoding failed for Start - Mui Wo 梅窩)
+[266/626] TransLantau By UTMB - TransLantau 25 (2025) - Skipped (geocoding failed for Start - Mui Wo 梅窩)
+[267/626] TransLantau By UTMB - TransLantau 100 (2020) - Skipped (no location)
+[268/626] TransLantau By UTMB - TransLantau 50 (2020) - Skipped (no location)
+[269/626] TransLantau By UTMB - TransLantau 25 (2020) - Skipped (no location)
+[270/626] TransJeju BY UTMB - TransJeju by UTMB 100K (2023)Error: Geocoding service error for 'Start, South Korea': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Start)
+[271/626] TransJeju BY UTMB - TransJeju by UTMB 50K (2023) - Skipped (geocoding failed for Start)
+[272/626] TransJeju BY UTMB - TransJeju by UTMB 20K (2023) - Skipped (geocoding failed for Start)
+[273/626] TransJeju BY UTMB - TransJeju by UTMB 10K (2023) - Skipped (geocoding failed for Start)
+[274/626] TransJeju BY UTMB - Jeju 100K (2024) - Skipped (geocoding failed for Start)
+[275/626] TransJeju BY UTMB - Jeju 50K (2024) - Skipped (geocoding failed for Start)
+[276/626] TransJeju BY UTMB - Jeju 20K (2024) - Skipped (geocoding failed for Start)
+[277/626] TransJeju BY UTMB - Jeju100M (2025) - Skipped (geocoding failed for Start)
+[278/626] TransJeju BY UTMB - Jeju100K (2025) - Skipped (geocoding failed for Start)
+[279/626] TransJeju BY UTMB - Jeju70K (2025) - Skipped (geocoding failed for Start)
+[280/626] TransJeju BY UTMB - Jeju20K (2025) - Skipped (geocoding failed for Start)
+[281/626] TransJeju BY UTMB - TransJeju 100 (2022) - Skipped (no location)
+[282/626] TransJeju BY UTMB - TransJeju 50 (2022) - Skipped (no location)
+[283/626] TransJeju BY UTMB - TransJeju 10 (2022) - Skipped (no location)
+[284/626] Trail of the Kings - Lake Toba by UTMB - Caldera Crown 100K (2025)Error: Geocoding service error for 'Marianna Resort & Convention, Indonesia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Marianna Resort & Convention)
+[285/626] Trail of the Kings - Lake Toba by UTMB - Ultimate Expedition 60K (2025)Error: Geocoding service error for 'Waterfront City Pangururan, Indonesia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Waterfront City Pangururan)
+[286/626] Trail of the Kings - Lake Toba by UTMB - King's Ascent 28K (2025) - Skipped (geocoding failed for Waterfront City Pangururan)
+[287/626] Trail of the Kings - Lake Toba by UTMB - Legacy Dash 10K (2025) - Skipped (geocoding failed for Waterfront City Pangururan)
+[288/626] Trail of the Kings - Lake Toba by UTMB - Legend Leap 5K (2025) - Skipped (geocoding failed for Waterfront City Pangururan)
+[289/626] 2025大境门古长城越野赛by UTMB® - 100KM (2025)Error: Geocoding service error for '大境门, China': check_hostname requires server_hostname
+ - Skipped (geocoding failed for 大境门)
+[290/626] 2025大境门古长城越野赛by UTMB® - 50KM (2025) - Skipped (geocoding failed for 大境门)
+[291/626] 2025大境门古长城越野赛by UTMB® - 30KM (2025) - Skipped (geocoding failed for 大境门)
+[292/626] 2025大境门古长城越野赛by UTMB® - 10KM (2025) - Skipped (geocoding failed for 大境门)
+[293/626] Ultra-Trail Xiamen by UTMB - LXM 100K (2025)Error: Geocoding service error for 'Xiamen, China': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Xiamen)
+[294/626] Ultra-Trail Xiamen by UTMB - MXM 50K (2025) - Skipped (geocoding failed for XIamen)
+[295/626] Ultra-Trail Xiamen by UTMB - SXM 20K (2025) - Skipped (geocoding failed for Xiamen)
+[296/626] Ultra-Trail Xiamen by UTMB - EXM 8K (2025) - Skipped (geocoding failed for Xiamen)
+[297/626] Matterhorn Ultraks Trail - << EXTREME >> (2022) - Skipped (no location)
+[298/626] Matterhorn Ultraks Trail - << SKY >> (2022) - Skipped (no location)
+[299/626] Matterhorn Ultraks Trail - << MOUNTAIN >> (2022) - Skipped (no location)
+[300/626] Matterhorn Ultraks Trail - << RELAY >> (2022) - Skipped (no location)
+[301/626] Matterhorn Ultraks Trail - << ACTIVE >> (2022) - Skipped (no location)
+[302/626] Matterhorn Ultraks Trail - << VERTINIGHT>> (2022) - Skipped (no location)
+[303/626] Matterhorn Ultraks Trail - << EXTREME >> (2023)Error: Geocoding service error for 'ZERMATT DEPART VEN': check_hostname requires server_hostname
+ - Skipped (geocoding failed for ZERMATT DEPART VEN)
+[304/626] Matterhorn Ultraks Trail - << SKY >> (2023)Error: Geocoding service error for 'ZERMATT DEPART SAM': check_hostname requires server_hostname
+ - Skipped (geocoding failed for ZERMATT DEPART SAM)
+[305/626] Matterhorn Ultraks Trail - << MOUNTAIN >> (2023) - Skipped (geocoding failed for ZERMATT DEPART SAM)
+[306/626] Matterhorn Ultraks Trail - << RELAY >> (2023) - Skipped (geocoding failed for ZERMATT DEPART SAM)
+[307/626] Matterhorn Ultraks Trail - << ACTIVE >> (2023)Error: Geocoding service error for 'ZERMATT DEPART DIM': check_hostname requires server_hostname
+ - Skipped (geocoding failed for ZERMATT DEPART DIM)
+[308/626] Matterhorn Ultraks Trail - << VERTINIGHT>> (2023) - Skipped (geocoding failed for ZERMATT DEPART VEN)
+[309/626] Matterhorn Ultraks Trail - EXTREME (2024) - Skipped (geocoding failed for ZERMATT DEPART VEN)
+[310/626] Matterhorn Ultraks Trail - SKY (2024) - Skipped (geocoding failed for ZERMATT DEPART SAM)
+[311/626] Matterhorn Ultraks Trail - MOUNTAIN (2024) - Skipped (geocoding failed for ZERMATT DEPART SAM)
+[312/626] Matterhorn Ultraks Trail - RELAY (2024) - Skipped (geocoding failed for ZERMATT DEPART SAM)
+[313/626] Matterhorn Ultraks Trail - ACTIVE (2024) - Skipped (geocoding failed for ZERMATT DEPART DIM)
+[314/626] Matterhorn Ultraks Trail - VERTINIGHT (2024) - Skipped (geocoding failed for ZERMATT DEPART VEN)
+[315/626] TENERIFE BLUETRAIL BY UTMB - 110K (2025)Error: Geocoding service error for 'Cristianos, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Cristianos)
+[316/626] TENERIFE BLUETRAIL BY UTMB - 73K (2025)Error: Geocoding service error for 'Vilaflor salida, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Vilaflor salida)
+[317/626] TENERIFE BLUETRAIL BY UTMB - 47K (2025)Error: Geocoding service error for 'Pinolere, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Pinolere)
+[318/626] TENERIFE BLUETRAIL BY UTMB - 24K (2025)Error: Geocoding service error for 'Palo Blanco, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Palo Blanco)
+[319/626] TENERIFE BLUETRAIL BY UTMB - 47K Relay (2025) - Skipped (geocoding failed for Pinolere)
+[320/626] TENERIFE BLUETRAIL BY UTMB - Vertical Night Challenge (2025)Error: Geocoding service error for 'Los Realejos Salida, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Los Realejos Salida)
+[321/626] Hoka UTMB® Mont-Blanc - UTMB® (2024) - Score: 91.9 (Excellent)
+[322/626] Hoka UTMB® Mont-Blanc - CCC® (2024)Error: Geocoding service error for 'Courmayeur, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Courmayeur)
+[323/626] Hoka UTMB® Mont-Blanc - OCC (2024)Error: Geocoding service error for 'Orsières, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Orsières)
+[324/626] Hoka UTMB® Mont-Blanc - TDS® (2024) - Skipped (geocoding failed for Courmayeur)
+[325/626] Hoka UTMB® Mont-Blanc - PTL® (2024) - Score: 96.8 (Excellent)
+[326/626] Hoka UTMB® Mont-Blanc - YCC Junior - The Revenge (2024) - Score: 92.8 (Excellent)
+[327/626] Hoka UTMB® Mont-Blanc - YCC Cadet - The Revenge (2024) - Score: 92.8 (Excellent)
+[328/626] Hoka UTMB® Mont-Blanc - YCC Minime - The Revenge (2024) - Score: 92.8 (Excellent)
+[329/626] Hoka UTMB® Mont-Blanc - ETC (2024) - Skipped (geocoding failed for Courmayeur)
+[330/626] Hoka UTMB® Mont-Blanc - YCC Junior (2024) - Skipped (geocoding failed for Courmayeur)
+[331/626] Hoka UTMB® Mont-Blanc - YCC Cadet (2024) - Skipped (geocoding failed for Courmayeur)
+[332/626] Hoka UTMB® Mont-Blanc - YCC Minime (2024) - Skipped (geocoding failed for Courmayeur)
+[333/626] Hoka UTMB® Mont-Blanc - MCC (2024)Error: Geocoding service error for 'Martigny Combe, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Martigny Combe)
+[334/626] Hoka UTMB® Mont-Blanc - UTMB® (2022) - Score: 88.4 (Excellent)
+[335/626] Hoka UTMB® Mont-Blanc - CCC® (2022) - Skipped (geocoding failed for Courmayeur)
+[336/626] Hoka UTMB® Mont-Blanc - OCC (2022) - Skipped (geocoding failed for Orsières)
+[337/626] Hoka UTMB® Mont-Blanc - TDS® (2022) - Skipped (geocoding failed for Courmayeur)
+[338/626] Hoka UTMB® Mont-Blanc - PTL® (2022) - Score: 96.3 (Excellent)
+[339/626] Hoka UTMB® Mont-Blanc - MCC (2022)Error: Geocoding service error for 'Martigny-Combe, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Martigny-Combe)
+[340/626] Hoka UTMB® Mont-Blanc - ETC (2022) - Skipped (geocoding failed for Courmayeur)
+[341/626] Hoka UTMB® Mont-Blanc - YCC Junior&Espoir (2022) - Skipped (no location)
+[342/626] Hoka UTMB® Mont-Blanc - YCC Cadet (2022) - Skipped (no location)
+[343/626] Hoka UTMB® Mont-Blanc - YCC Minime (2022) - Skipped (no location)
+[344/626] Hoka UTMB® Mont-Blanc - YCC Junior&Espoir - The Revenge (2022) - Skipped (no location)
+[345/626] Hoka UTMB® Mont-Blanc - YCC Cadet - The Revenge (2022) - Skipped (no location)
+[346/626] Hoka UTMB® Mont-Blanc - YCC Minime - The Revenge (2022) - Skipped (no location)
+[347/626] Hoka UTMB® Mont-Blanc - UTMB® (2023) - Score: 96.9 (Excellent)
+[348/626] Hoka UTMB® Mont-Blanc - CCC® (2023) - Skipped (geocoding failed for Courmayeur)
+[349/626] Hoka UTMB® Mont-Blanc - PTL® (2023) - Score: 72.6 (Good)
+[350/626] Hoka UTMB® Mont-Blanc - OCC (2023) - Skipped (geocoding failed for Orsières)
+[351/626] Hoka UTMB® Mont-Blanc - TDS® (2023) - Skipped (geocoding failed for Courmayeur)
+[352/626] Hoka UTMB® Mont-Blanc - MCC (2023) - Skipped (geocoding failed for Martigny Combe)
+[353/626] Hoka UTMB® Mont-Blanc - ETC (2023) - Skipped (geocoding failed for Courmayeur)
+[354/626] Hoka UTMB® Mont-Blanc - YCC Junior&Espoir (2023) - Skipped (geocoding failed for Courmayeur)
+[355/626] Hoka UTMB® Mont-Blanc - YCC Cadet (2023) - Skipped (geocoding failed for Courmayeur)
+[356/626] Hoka UTMB® Mont-Blanc - YCC Minime (2023) - Skipped (geocoding failed for Courmayeur)
+[357/626] Hoka UTMB® Mont-Blanc - YCC Minime - The Revenge (2023) - Score: 93.8 (Excellent)
+[358/626] Hoka UTMB® Mont-Blanc - YCC Cadet - The Revenge (2023) - Score: 93.8 (Excellent)
+[359/626] Hoka UTMB® Mont-Blanc - YCC Junior&Espoir - The Revenge (2023) - Score: 93.8 (Excellent)
+[360/626] Hoka UTMB® Mont-Blanc - UTMB® (2025) - Score: 90.9 (Excellent)
+[361/626] Hoka UTMB® Mont-Blanc - CCC® (2025) - Skipped (geocoding failed for Courmayeur)
+[362/626] Hoka UTMB® Mont-Blanc - OCC (2025) - Skipped (geocoding failed for Orsières)
+[363/626] Hoka UTMB® Mont-Blanc - TDS® (2025) - Skipped (geocoding failed for Courmayeur)
+[364/626] Hoka UTMB® Mont-Blanc - MCC (2025) - Skipped (geocoding failed for Martigny Combe)
+[365/626] Hoka UTMB® Mont-Blanc - YCC Junior (2025) - Skipped (geocoding failed for Courmayeur)
+[366/626] Hoka UTMB® Mont-Blanc - YCC Cadet (2025) - Skipped (geocoding failed for Courmayeur)
+[367/626] Hoka UTMB® Mont-Blanc - YCC Minime (2025) - Skipped (geocoding failed for Courmayeur)
+[368/626] Hoka UTMB® Mont-Blanc - ETC (2025) - Skipped (geocoding failed for Courmayeur)
+[369/626] Hoka UTMB® Mont-Blanc - YCC Junior The Revenge (2025) - Score: 73.3 (Good)
+[370/626] Hoka UTMB® Mont-Blanc - YCC Cadet - The Revenge (2025) - Score: 73.3 (Good)
+[371/626] Hoka UTMB® Mont-Blanc - YCC Minime - The Revenge (2025) - Score: 73.3 (Good)
+[372/626] Hoka UTMB® Mont-Blanc - PTL® (2025) - Score: 96.2 (Excellent)
+[373/626] Eiger Ultra Trail - E250  (2024) - Score: 93.4 (Excellent)
+[374/626] Eiger Ultra Trail - Trail Surprise (2024) - Score: 92.1 (Excellent)
+[375/626] Eiger Ultra Trail - E101 (2024) - Score: 91.3 (Excellent)
+[376/626] Eiger Ultra Trail - E101Short (2024) - Score: 91.3 (Excellent)
+[377/626] Eiger Ultra Trail - E51 (2024) - Score: 91.4 (Excellent)
+[378/626] Eiger Ultra Trail - E51 Couples (2024) - Score: 91.4 (Excellent)
+[379/626] Eiger Ultra Trail - E35 (2024)Error: Geocoding service error for 'Burglauenen, Switzerland': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Burglauenen)
+[380/626] Eiger Ultra Trail - E16 (2024) - Score: 91.5 (Excellent)
+[381/626] Eiger Ultra Trail - youngsters (2024) - Score: 91.7 (Excellent)
+[382/626] Eiger Ultra Trail - minisrookies (2024) - Score: 91.7 (Excellent)
+[383/626] mozart 100 by UTMB® - mozart  100 NEW (2024)Error: Geocoding service error for 'Salzbourg, Austria': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Salzbourg)
+[384/626] mozart 100 by UTMB® - mozart Ultra NEW (2024)Error: Geocoding service error for 'Fuschl am See, Austria': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Fuschl am See)
+[385/626] mozart 100 by UTMB® - mozart Marathon (2024)Error: Geocoding service error for 'St. Gilgen, Austria': check_hostname requires server_hostname
+ - Skipped (geocoding failed for St. Gilgen)
+[386/626] mozart 100 by UTMB® - mozart Light (2024) - Skipped (geocoding failed for Fuschl am See)
+[387/626] mozart 100 by UTMB® - mozart Half Marathon (2024)Error: Geocoding service error for 'Koppl Start, Austria': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Koppl Start)
+[388/626] mozart 100 by UTMB® - mozart City Trail (2024) - Skipped (geocoding failed for Salzbourg)
+[389/626] mozart 100 by UTMB® - mozart 100 Relay NEW (2024)Error: Geocoding service error for 'Kapitelplatz, Austria': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Kapitelplatz)
+[390/626] mozart 100 by UTMB® - Mozart 100 NEW KOPPL (2024) - Skipped (geocoding failed for Salzbourg)
+[391/626] mozart 100 by UTMB® - mozart Ultra NEW KOPPL (2024) - Skipped (geocoding failed for Fuschl am See)
+[392/626] Istria 100 by UTMB - RED  (2023)Error: Geocoding service error for 'Labin, Croatia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Labin)
+[393/626] Istria 100 by UTMB - BLUE (2023)Error: Geocoding service error for 'Buzet , Croatia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Buzet )
+[394/626] Istria 100 by UTMB - GREEN (2023) - Skipped (geocoding failed for Buzet )
+[395/626] Istria 100 by UTMB - YELLOW (2023)Error: Geocoding service error for 'Motovun, Croatia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Motovun)
+[396/626] Istria 100 by UTMB - WHITE (2023)Error: Geocoding service error for 'Grožnjan, Croatia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Grožnjan)
+[397/626] Istria 100 by UTMB - 168K (2024) - Skipped (geocoding failed for Labin)
+[398/626] Istria 100 by UTMB - 110K (2024) - Skipped (geocoding failed for Buzet )
+[399/626] Istria 100 by UTMB - 69K (2024) - Skipped (geocoding failed for Buzet )
+[400/626] Istria 100 by UTMB - 42K (2024) - Skipped (geocoding failed for Motovun)
+[401/626] Istria 100 by UTMB - 21K (2024) - Skipped (geocoding failed for Grožnjan)
+[402/626] Istria 100 by UTMB - 168K (2025) - Skipped (geocoding failed for Labin)
+[403/626] Istria 100 by UTMB - 110K (2025) - Skipped (geocoding failed for Buzet )
+[404/626] Istria 100 by UTMB - 69K (2025) - Skipped (geocoding failed for Buzet )
+[405/626] Istria 100 by UTMB - 42K (2025) - Skipped (geocoding failed for Motovun)
+[406/626] Istria 100 by UTMB - 21K (2025)Error: Geocoding service error for 'Groznjan, Croatia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Groznjan)
+[407/626] Grand Raid Ventoux by UTMB® 2025 - 125Km (2024)Error: Geocoding service error for 'Départ': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Départ)
+[408/626] Grand Raid Ventoux by UTMB® 2025 - 82Km (2024) - Skipped (geocoding failed for Départ)
+[409/626] Grand Raid Ventoux by UTMB® 2025 - 47Km (2024) - Skipped (geocoding failed for Départ)
+[410/626] Grand Raid Ventoux by UTMB® 2025 - 26Km (2024) - Skipped (geocoding failed for Départ)
+[411/626] Grand Raid Ventoux by UTMB® 2025 - 84Km Relais (2024) - Skipped (geocoding failed for Départ)
+[412/626] Grand Raid Ventoux by UTMB® 2025 - GRV - 100M (2025)Error: Geocoding service error for 'Malaucène, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Malaucène)
+[413/626] Grand Raid Ventoux by UTMB® 2025 - GRV - 100K (2025) - Skipped (geocoding failed for Malaucène)
+[414/626] Grand Raid Ventoux by UTMB® 2025 - GRV - 50K (2025) - Skipped (geocoding failed for Malaucène)
+[415/626] Grand Raid Ventoux by UTMB® 2025 - GRV - 20K (2025) - Skipped (geocoding failed for Malaucène)
+[416/626] Ultra Trail Snowdonia by UTMB - UTS 100M (2023)Error: Geocoding service error for 'National Slate Museum, Llanberis, United Kingdom': check_hostname requires server_hostname
+ - Skipped (geocoding failed for National Slate Museum, Llanberis)
+[417/626] Ultra Trail Snowdonia by UTMB - UTS 100K (2023) - Skipped (geocoding failed for National Slate Museum, Llanberis)
+[418/626] Ultra Trail Snowdonia by UTMB - UTS 50K (2023) - Skipped (geocoding failed for National Slate Museum, Llanberis)
+[419/626] Ultra Trail Snowdonia by UTMB - ERYRI 25K (2023) - Skipped (geocoding failed for National Slate Museum, Llanberis)
+[420/626] Ultra Trail Snowdonia by UTMB - UTS 100M (2024)Error: Geocoding service error for 'Llanberis, United Kingdom': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Llanberis)
+[421/626] Ultra Trail Snowdonia by UTMB - UTS 100K (2024) - Skipped (geocoding failed for Llanberis)
+[422/626] Ultra Trail Snowdonia by UTMB - UTS 50K (2024) - Skipped (geocoding failed for Llanberis)
+[423/626] Ultra Trail Snowdonia by UTMB - ERYRI 25K (2024) - Skipped (geocoding failed for Llanberis)
+[424/626] Ultra Trail Snowdonia by UTMB - UTS 100M (2025) - Skipped (geocoding failed for Llanberis)
+[425/626] Ultra Trail Snowdonia by UTMB - UTS 100K (2025) - Skipped (geocoding failed for Llanberis)
+[426/626] Ultra Trail Snowdonia by UTMB - UTS 50K (2025) - Skipped (geocoding failed for Llanberis)
+[427/626] Ultra Trail Snowdonia by UTMB - ERYRI 25K (2025) - Skipped (geocoding failed for Llanberis)
+[428/626] Trail 100 Andorra BY UTMB - Ultra 105K (2022)Error: Geocoding service error for 'Ordino': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Ordino)
+[429/626] Trail 100 Andorra BY UTMB - 50K (2022) - Skipped (geocoding failed for Ordino)
+[430/626] Trail 100 Andorra BY UTMB - 21K (2022) - Skipped (geocoding failed for Ordino)
+[431/626] Trail 100 Andorra BY UTMB - Ultra 105K (2023)Error: Geocoding service error for 'ORDINO, Andorra': check_hostname requires server_hostname
+ - Skipped (geocoding failed for ORDINO)
+[432/626] Trail 100 Andorra BY UTMB - 50K (2023) - Skipped (geocoding failed for ORDINO)
+[433/626] Trail 100 Andorra BY UTMB - 21K (2023) - Skipped (geocoding failed for ORDINO)
+[434/626] Trail 100 Andorra BY UTMB - Ultra Trail 105K (2024) - Skipped (geocoding failed for ORDINO)
+[435/626] Trail 100 Andorra BY UTMB - Trail 21K (2024) - Skipped (geocoding failed for ORDINO)
+[436/626] Trail 100 Andorra BY UTMB - Trail10K (2024) - Skipped (geocoding failed for ORDINO)
+[437/626] Trail 100 Andorra BY UTMB - Trail 80k (2024) - Skipped (geocoding failed for ORDINO)
+[438/626] Trail 100 Andorra BY UTMB - Trail 50K (2024) - Skipped (geocoding failed for ORDINO)
+[439/626] Trail 100 Andorra BY UTMB - Ultra 105K (2025) - Skipped (geocoding failed for ORDINO)
+[440/626] Trail 100 Andorra BY UTMB - Trail 80K (2025) - Skipped (geocoding failed for ORDINO)
+[441/626] Trail 100 Andorra BY UTMB - Trail 50K (2025) - Skipped (geocoding failed for ORDINO)
+[442/626] Trail 100 Andorra BY UTMB - Trail 21K (2025) - Skipped (geocoding failed for ORDINO)
+[443/626] Trail 100 Andorra BY UTMB - Trail 10K (2025) - Skipped (geocoding failed for ORDINO)
+[444/626] Trail Verbier St-Bernard by UTMB - X-Alpine (2022)Error: Geocoding service error for 'Verbier-Saint-Bernard, Switzerland': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Verbier-Saint-Bernard)
+[445/626] Trail Verbier St-Bernard by UTMB - X-Traversée (2022)Error: Geocoding service error for 'La Fouly, Switzerland': check_hostname requires server_hostname
+ - Skipped (geocoding failed for La Fouly)
+[446/626] Trail Verbier St-Bernard by UTMB - Verbier Marathon 4000 (2022)Error: Geocoding service error for 'Liddes, Switzerland': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Liddes)
+[447/626] Trail Verbier St-Bernard by UTMB - Verbier Marathon (2022) - Skipped (geocoding failed for Liddes)
+[448/626] Trail Verbier St-Bernard by UTMB - Verbier X-Plore (2022) - Skipped (geocoding failed for Verbier-Saint-Bernard)
+[449/626] Trail Verbier St-Bernard by UTMB - Trail Découverte - 1,2km (2022) - Skipped (geocoding failed for Verbier-Saint-Bernard)
+[450/626] Trail Verbier St-Bernard by UTMB - Trail Découverte - 3,5km (2022) - Skipped (geocoding failed for Verbier-Saint-Bernard)
+[451/626] Trail Verbier St-Bernard by UTMB - X-Alpine (2023) - Score: 95.6 (Excellent)
+[452/626] Trail Verbier St-Bernard by UTMB - X-traversée (2023) - Skipped (geocoding failed for La Fouly)
+[453/626] Trail Verbier St-Bernard by UTMB - Verbier Marathon (2023)Error: Geocoding service error for 'Moay (Bruson) , Switzerland': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Moay (Bruson) )
+[454/626] Trail Verbier St-Bernard by UTMB - Verbier X-Plore (2023) - Score: 91.9 (Excellent)
+[455/626] Trail Verbier St-Bernard by UTMB - Trail Decouverte 1.2 (2023) - Score: 91.8 (Excellent)
+[456/626] Trail Verbier St-Bernard by UTMB - Trail Decouverte 3.5 (2023) - Score: 91.8 (Excellent)
+[457/626] Trail Verbier St-Bernard by UTMB - X-Alpine (2024) - Score: 77.0 (Good)
+[458/626] Trail Verbier St-Bernard by UTMB - Le Châble-Verbier (2024)Error: Geocoding service error for 'Châble, Switzerland': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Châble)
+[459/626] Trail Verbier St-Bernard by UTMB - Verbier Marathon (2024)Error: Geocoding service error for 'Moay, Switzerland': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Moay)
+[460/626] Trail Verbier St-Bernard by UTMB - Verbier X-Plore (2024) - Score: 87.8 (Excellent)
+[461/626] Trail Verbier St-Bernard by UTMB - Trail Decouverte 1.2 (2024) - Score: 90.4 (Excellent)
+[462/626] Trail Verbier St-Bernard by UTMB - Trail Decouverte 3.5 (2024) - Score: 90.4 (Excellent)
+[463/626] Trail Verbier St-Bernard by UTMB - X-Alpine (2025) - Score: 99.9 (Excellent)
+[464/626] Trail Verbier St-Bernard by UTMB - X-Traversée (2025) - Skipped (no location)
+[465/626] Trail Verbier St-Bernard by UTMB - Verbier Marathon (2025) - Skipped (no location)
+[466/626] Trail Verbier St-Bernard by UTMB - Verbier X-Plore (2025) - Score: 95.0 (Excellent)
+[467/626] Trail Verbier St-Bernard by UTMB - TDécouverte1.2 (2025) - Score: 92.2 (Excellent)
+[468/626] Trail Verbier St-Bernard by UTMB - TDécouverte3.5 (2025) - Score: 92.2 (Excellent)
+[469/626] KAT100 by UTMB - 100 Miles (2023)Error: Geocoding service error for 'Fieberbrunn, Austria': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Fieberbrunn)
+[470/626] KAT100 by UTMB - Endurance Trail (2023) - Skipped (geocoding failed for Fieberbrunn)
+[471/626] KAT100 by UTMB - Marathon Trail (2023) - Skipped (geocoding failed for Fieberbrunn)
+[472/626] KAT100 by UTMB - Speed Trail (2023) - Skipped (geocoding failed for Fieberbrunn)
+[473/626] KAT100 by UTMB - Easy Trail (2023) - Skipped (geocoding failed for Fieberbrunn)
+[474/626] KAT100 by UTMB - Ekiden 2 (2023) - Skipped (geocoding failed for Fieberbrunn)
+[475/626] KAT100 by UTMB - Ekiden 4 (2023) - Skipped (geocoding failed for Fieberbrunn)
+[476/626] KAT100 by UTMB - 100 Miles (2024) - Skipped (geocoding failed for Fieberbrunn)
+[477/626] KAT100 by UTMB - Endurance Trail (2024)Error: Geocoding service error for 'Kitzbuhel, Austria': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Kitzbuhel)
+[478/626] KAT100 by UTMB - Marathon Trail (2024) - Skipped (geocoding failed for Fieberbrunn)
+[479/626] KAT100 by UTMB - Speed Trail (2024) - Skipped (geocoding failed for Fieberbrunn)
+[480/626] KAT100 by UTMB - Easy Trail (2024) - Skipped (geocoding failed for Fieberbrunn)
+[481/626] KAT100 by UTMB - 100 Miles (2025) - Skipped (geocoding failed for Fieberbrunn)
+[482/626] KAT100 by UTMB - Endurance Trail (2025) - Skipped (geocoding failed for Kitzbuhel)
+[483/626] KAT100 by UTMB - Marathon Trail (2025) - Skipped (geocoding failed for Fieberbrunn)
+[484/626] KAT100 by UTMB - Easy Trail (2025) - Skipped (geocoding failed for Fieberbrunn)
+[485/626] Julian Alps Trail Run by UTMB - I FEEL SLOVENIA ULTRA TRAIL JULIAN ALPS  (2022)Error: Geocoding service error for 'Kobarid, Slovenia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Kobarid)
+[486/626] Julian Alps Trail Run by UTMB - ULTRA SKY TRAIL (2022)Error: Geocoding service error for 'Radovljica, Slovenia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Radovljica)
+[487/626] Julian Alps Trail Run by UTMB - SKY TRAIL (2022)Error: Geocoding service error for 'Žirovnica, Slovenia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Žirovnica)
+[488/626] Julian Alps Trail Run by UTMB - INTERSPORT SKY RACE (2022)Error: Geocoding service error for 'Kranjka Gora, Slovenia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Kranjka Gora)
+[489/626] Julian Alps Trail Run by UTMB - SPEED TRAIL (2022) - Skipped (geocoding failed for Kranjka Gora)
+[490/626] Julian Alps Trail Run by UTMB - PROTEINI.SI FUNNY TRAIL (2022) - Skipped (geocoding failed for Kranjka Gora)
+[491/626] Julian Alps Trail Run by UTMB - 100K Javorniski (2022) - Skipped (geocoding failed for Radovljica)
+[492/626] Julian Alps Trail Run by UTMB - 20K javorniski (2022) - Skipped (geocoding failed for Žirovnica)
+[493/626] Julian Alps Trail Run by UTMB - I FEEL SLOVENIA ULTRA TRAIL JULIAN ALPS  (2023) - Skipped (geocoding failed for Kobarid)
+[494/626] Julian Alps Trail Run by UTMB - ULTRA SKY TRAIL (2023) - Skipped (geocoding failed for Radovljica)
+[495/626] Julian Alps Trail Run by UTMB - SKY TRAIL (2023) - Skipped (geocoding failed for Žirovnica)
+[496/626] Julian Alps Trail Run by UTMB - KRANJSKA GORA TRAIL (2023)Error: Geocoding service error for 'Kranjska Gora, Slovenia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Kranjska Gora)
+[497/626] Julian Alps Trail Run by UTMB - I FEEL SLOVENIA ULTRA TRAIL JULIAN ALPS  (2024)Error: Geocoding service error for 'Radovljica - Start, Slovenia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Radovljica - Start)
+[498/626] Julian Alps Trail Run by UTMB - JAT LAKE BLED (2024)Error: Geocoding service error for 'Bled - Start, Slovenia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Bled - Start)
+[499/626] Julian Alps Trail Run by UTMB - JAT SKY TRAIL (2024)Error: Geocoding service error for 'Završnica - Start, Slovenia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Završnica - Start)
+[500/626] Julian Alps Trail Run by UTMB - JAT KRANJSKA GORA (2024)Error: Geocoding service error for 'Kranjska Gora - Start, Slovenia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Kranjska Gora - Start)
+[501/626] Julian Alps Trail Run by UTMB - I FEEL SLOVENIA 120K (2025) - Skipped (geocoding failed for Radovljica)
+[502/626] Julian Alps Trail Run by UTMB - LAKE BLED 80K (2025)Error: Geocoding service error for 'Bled, Slovenia': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Bled)
+[503/626] Julian Alps Trail Run by UTMB - SKY TRAIL 50K (2025) - Skipped (geocoding failed for Žirovnica)
+[504/626] Julian Alps Trail Run by UTMB - KRANJSKA GORA 25K (2025) - Skipped (geocoding failed for Kranjska Gora)
+[505/626] Julian Alps Trail Run by UTMB - INTERSPORT SPEED 15K (2025) - Skipped (geocoding failed for Kranjska Gora)
+[506/626] Julian Alps Trail Run by UTMB - FUNNY 10K (2025) - Skipped (geocoding failed for Kranjska Gora)
+[507/626] Nice Côte d'Azur by UTMB  - Ultra Trail Métropole Nice Côte d'Azur (2022)Error: Geocoding service error for 'Auron, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Auron)
+[508/626] Nice Côte d'Azur by UTMB  - Roubion - Nice  (2022)Error: Geocoding service error for 'Roubion, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Roubion)
+[509/626] Nice Côte d'Azur by UTMB  - Menton - Nice  (2022)Error: Geocoding service error for 'Menton, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Menton)
+[510/626] Nice Côte d'Azur by UTMB  - Villefranche - Nice  (2022)Error: Geocoding service error for 'Villefranche, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Villefranche)
+[511/626] Nice Côte d'Azur by UTMB  - Ultra Trail Métropole Nice Côte d'Azur (2023) - Skipped (geocoding failed for Auron)
+[512/626] Nice Côte d'Azur by UTMB  - Roubion - Nice  (2023) - Skipped (geocoding failed for Roubion)
+[513/626] Nice Côte d'Azur by UTMB  - Menton - Nice  (2023) - Skipped (geocoding failed for Menton)
+[514/626] Nice Côte d'Azur by UTMB  - Saint-Jean Cap Ferrat - Nice  (2023)Error: Geocoding service error for 'Saint-Jean Cap Ferrat, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Saint-Jean Cap Ferrat)
+[515/626] Nice Côte d'Azur by UTMB  - Relais nocturne (2023)Error: Geocoding service error for 'Nice, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Nice)
+[516/626] Nice Côte d'Azur by UTMB  - Poussins (2023) - Skipped (geocoding failed for Nice)
+[517/626] Nice Côte d'Azur by UTMB  - Benjamins (2023) - Skipped (geocoding failed for Nice)
+[518/626] Nice Côte d'Azur by UTMB  - Minimes (2023) - Skipped (geocoding failed for Nice)
+[519/626] Nice Côte d'Azur by UTMB  - Ultra Trail Métropole Nice Côte d'Azur (2024) - Skipped (geocoding failed for Auron)
+[520/626] Nice Côte d'Azur by UTMB  - Roubion - Nice  (2024) - Skipped (geocoding failed for Roubion)
+[521/626] Nice Côte d'Azur by UTMB  - Eze - Nice  (2024)Error: Geocoding service error for 'Eze, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Eze)
+[522/626] Nice Côte d'Azur by UTMB  - Saint-Jean-Cap-Ferrat - Nice  (2024) - Skipped (geocoding failed for Saint-Jean Cap Ferrat)
+[523/626] Nice Côte d'Azur by UTMB  - Relais nocturne (2024)Error: Geocoding service error for 'Quai des Etats-Unis, Nice, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Quai des Etats-Unis, Nice)
+[524/626] Nice Côte d'Azur by UTMB  - Roubion - Nice  (2025) - Skipped (geocoding failed for Roubion)
+[525/626] Nice Côte d'Azur by UTMB  - Eze - Nice  (2025) - Skipped (geocoding failed for Eze)
+[526/626] Nice Côte d'Azur by UTMB  - Ultra Trail Métropole Nice Côte d'Azur (2025) - Skipped (geocoding failed for Auron)
+[527/626] Nice Côte d'Azur by UTMB  - Saint-Jean-Cap-Ferrat- Nice  (2025) - Skipped (geocoding failed for Saint-Jean Cap Ferrat)
+[528/626] Nice Côte d'Azur by UTMB  - Relais nocturne (2025)Error: Geocoding service error for 'Départ, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Départ)
+[529/626] MALLORCA by UTMB 2025 - Camins de s'Arxiduc (2024)Error: Geocoding service error for 'Valldemosa sortida, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Valldemosa sortida)
+[530/626] MALLORCA by UTMB 2025 - Port de Soller (2024)Error: Geocoding service error for 'Port Sóller sortida, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Port Sóller sortida)
+[531/626] MALLORCA by UTMB 2025 - Els Tres Mils (2024)Error: Geocoding service error for 'Sóller sortida, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Sóller sortida)
+[532/626] MALLORCA by UTMB 2025 - Escales del Calvari (2024)Error: Geocoding service error for 'Sortida Calvari clasificatoria, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Sortida Calvari clasificatoria)
+[533/626] MALLORCA by UTMB 2025 - Serra de Tramuntana (2024) - Skipped (geocoding failed for Sóller sortida)
+[534/626] MALLORCA by UTMB 2025 - Mallorca 5000 (2024) - Skipped (geocoding failed for Sóller sortida)
+[535/626] MALLORCA by UTMB 2025 - M5000 Relleus (2024) - Skipped (geocoding failed for Sóller sortida)
+[536/626] MALLORCA by UTMB 2025 - SDT (2025)Error: Geocoding service error for 'SORTIDA ESTELLENCS, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for SORTIDA ESTELLENCS)
+[537/626] MALLORCA by UTMB 2025 - CPS (2025) - Skipped (geocoding failed for SORTIDA ESTELLENCS)
+[538/626] MALLORCA by UTMB 2025 - ETM (2025)Error: Geocoding service error for 'SORTIDA  SELVA, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for SORTIDA  SELVA)
+[539/626] MALLORCA by UTMB 2025 - CDA (2025)Error: Geocoding service error for 'SORTIDA VALLDEMOSSA, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for SORTIDA VALLDEMOSSA)
+[540/626] Puerto Vallarta Mexico by UTMB 2024 - 100M Wixárica (2022)Error: Geocoding service error for 'San Sebastián, Mexico': check_hostname requires server_hostname
+ - Skipped (geocoding failed for San Sebastián)
+[541/626] Puerto Vallarta Mexico by UTMB 2024 - 100K Hikuri (2022)Error: Geocoding service error for 'Mascota, Mexico': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Mascota)
+[542/626] Puerto Vallarta Mexico by UTMB 2024 - 50K Nakawé (2022)Error: Geocoding service error for 'Vallarta, Mexico': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Vallarta)
+[543/626] Puerto Vallarta Mexico by UTMB 2024 - 20K Ereno (2022) - Skipped (geocoding failed for Vallarta)
+[544/626] Puerto Vallarta Mexico by UTMB 2024 - 10K Pata Salada (2022) - Skipped (geocoding failed for Vallarta)
+[545/626] Puerto Vallarta Mexico by UTMB 2024 - 33K Haramara (2023) - Skipped (geocoding failed for Vallarta)
+[546/626] Puerto Vallarta Mexico by UTMB 2024 - 20K Ereno (2023)Error: Geocoding service error for 'Arenita, Mexico': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Arenita)
+[547/626] Puerto Vallarta Mexico by UTMB 2024 - 100K Hikuri (2023) - Skipped (geocoding failed for  Mascota)
+[548/626] Puerto Vallarta Mexico by UTMB 2024 - 50K Nakawé (2023) - Skipped (geocoding failed for Vallarta)
+[549/626] Puerto Vallarta Mexico by UTMB 2024 - 10K Pata Salada (2023) - Skipped (geocoding failed for Vallarta)
+[550/626] Puerto Vallarta Mexico by UTMB 2024 - 100M Wixárika (2024)Error: Geocoding service error for 'MASCOTA START, Mexico': check_hostname requires server_hostname
+ - Skipped (geocoding failed for MASCOTA START)
+[551/626] Puerto Vallarta Mexico by UTMB 2024 - 100K Hikuri (2024) - Skipped (geocoding failed for MASCOTA START)
+[552/626] Puerto Vallarta Mexico by UTMB 2024 - 50K Nakawé (2024)Error: Geocoding service error for 'VALLARTA START, Mexico': check_hostname requires server_hostname
+ - Skipped (geocoding failed for VALLARTA START)
+[553/626] Puerto Vallarta Mexico by UTMB 2024 - 33K Haramara (2024) - Skipped (geocoding failed for VALLARTA START)
+[554/626] Puerto Vallarta Mexico by UTMB 2024 - 20K Ereno (2024)Error: Geocoding service error for 'ARCOS EJIDO, Mexico': check_hostname requires server_hostname
+ - Skipped (geocoding failed for ARCOS EJIDO)
+[555/626] Puerto Vallarta Mexico by UTMB 2024 - 10K Pata Salada (2024) - Skipped (geocoding failed for VALLARTA START)
+[556/626] QUITO TRAIL by UTMB - 82K OSO (2024)Error: Geocoding service error for 'Mindo, Ecuador': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Mindo)
+[557/626] QUITO TRAIL by UTMB - 47K NUTRIA (2024)Error: Geocoding service error for 'Lloa, Ecuador': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Lloa)
+[558/626] QUITO TRAIL by UTMB - 31K TUCÁN (2024) - Skipped (geocoding failed for Lloa)
+[559/626] QUITO TRAIL by UTMB - 17K QUINDE (2024) - Skipped (geocoding failed for Lloa)
+[560/626] QUITO TRAIL by UTMB - 7K HUMBOLDT (2024)Error: Geocoding service error for 'Teleférico, Ecuador': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Teleférico)
+[561/626] QUITO TRAIL by UTMB - 80K OSO (2025) - Skipped (geocoding failed for Mindo)
+[562/626] QUITO TRAIL by UTMB - 50K NUTRIA (2025) - Skipped (geocoding failed for Lloa)
+[563/626] QUITO TRAIL by UTMB - 30K TUCÁN (2025) - Skipped (geocoding failed for Lloa)
+[564/626] QUITO TRAIL by UTMB - 20K QUINDE (2025) - Skipped (geocoding failed for Lloa)
+[565/626] QUITO TRAIL by UTMB - 8K HUMBOLDT (2025) - Skipped (geocoding failed for Teleférico)
+[566/626] HOKA Chiang Mai Thailand by UTMB® - TRANS - INT 160 (2024)Error: Geocoding service error for 'Wat Nam Tong, Thailand': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Wat Nam Tong)
+[567/626] HOKA Chiang Mai Thailand by UTMB® - ELEPHANT 100 (2024)Error: Geocoding service error for 'Chiang Mai PAO Park, Thailand': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Chiang Mai PAO Park)
+[568/626] HOKA Chiang Mai Thailand by UTMB® - HMONG 50 (2024) - Skipped (geocoding failed for Chiang Mai PAO Park)
+[569/626] HOKA Chiang Mai Thailand by UTMB® - SUTHEP 20 (2024) - Skipped (geocoding failed for Chiang Mai PAO Park)
+[570/626] HOKA Chiang Mai Thailand by UTMB® - CHEDI 10 (2024) - Skipped (geocoding failed for Chiang Mai PAO Park)
+[571/626] HOKA Chiang Mai Thailand by UTMB® - INTHANON 50 (2025)Error: Geocoding service error for 'Doi Inthanon National Park HQ, Thailand': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Doi Inthanon National Park HQ)
+[572/626] HOKA Chiang Mai Thailand by UTMB® - INTHANON 20 (2025) - Skipped (geocoding failed for Doi Inthanon National Park HQ)
+[573/626] 云丘山越野赛 by UTMB® - DMY (2023)Error: Geocoding service error for 'Zhonghe Square, China': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Zhonghe Square)
+[574/626] 云丘山越野赛 by UTMB® - MMY (2023) - Skipped (geocoding failed for Zhonghe Square)
+[575/626] 云丘山越野赛 by UTMB® - EMY (2023) - Skipped (geocoding failed for Zhonghe Square)
+[576/626] 云丘山越野赛 by UTMB® - UMY (2024)Error: Geocoding service error for 'Start-Zhonghe Square 中和广场, China': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Start-Zhonghe Square 中和广场)
+[577/626] 云丘山越野赛 by UTMB® - DMY (2024) - Skipped (geocoding failed for Start-Zhonghe Square 中和广场)
+[578/626] 云丘山越野赛 by UTMB® - MMY (2024) - Skipped (geocoding failed for Start-Zhonghe Square 中和广场)
+[579/626] 云丘山越野赛 by UTMB® - EMY (2024) - Skipped (geocoding failed for Start-Zhonghe Square 中和广场)
+[580/626] 云丘山越野赛 by UTMB® - DMY (2025)Error: Geocoding service error for 'Zhonghe Square 中和广场, China': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Zhonghe Square 中和广场)
+[581/626] 云丘山越野赛 by UTMB® - EMY (2025) - Skipped (geocoding failed for Zhonghe Square 中和广场)
+[582/626] 云丘山越野赛 by UTMB® - UMY (2025)Error: Geocoding service error for '乡宁县体育馆, China': check_hostname requires server_hostname
+ - Skipped (geocoding failed for 乡宁县体育馆)
+[583/626] 云丘山越野赛 by UTMB® - MMY (2025) - Skipped (geocoding failed for Zhonghe Square 中和广场)
+[584/626] 云丘山越野赛 by UTMB® - NMY (2025) - Skipped (geocoding failed for Zhonghe Square 中和广场)
+[585/626] 云丘山越野赛 by UTMB® - TMY (2025) - Skipped (geocoding failed for 乡宁县体育馆)
+[586/626] 云丘山越野赛 by UTMB® - LMY (2025) - Skipped (geocoding failed for Zhonghe Square 中和广场)
+[587/626] 云丘山越野赛 by UTMB® - YMY (2025) - Skipped (geocoding failed for Zhonghe Square 中和广场)
+[588/626] Trail du Saint-Jacques by UTMB 2025 - Ultra (2025)Error: Geocoding service error for 'Saugues, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Saugues)
+[589/626] Trail du Saint-Jacques by UTMB 2025 - Grand Trail du Saint-Jacques (2025)Error: Geocoding service error for 'Monsitrol d'Allier, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Monsitrol d'Allier)
+[590/626] Trail du Saint-Jacques by UTMB 2025 - Monistrail (2025) - Skipped (geocoding failed for Monsitrol d'Allier)
+[591/626] Trail du Saint-Jacques by UTMB 2025 - Les Chibottes (2025)Error: Geocoding service error for 'Solignac sur Loire, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Solignac sur Loire)
+[592/626] Trail du Saint-Jacques by UTMB 2025 - Le 12 du Dolaizon (2025)Error: Geocoding service error for 'Saint-Christophe-sur-Dolaizon, France': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Saint-Christophe-sur-Dolaizon)
+[593/626] Hoka VAL D'ARAN by UTMB 2024 - EXP (2024)Error: Geocoding service error for 'Sortida EXP, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Sortida EXP)
+[594/626] Hoka VAL D'ARAN by UTMB 2024 - EXP VDA (2024) - Skipped (no location)
+[595/626] Hoka VAL D'ARAN by UTMB 2024 - CDH (2024)Error: Geocoding service error for 'Sortida Les, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Sortida Les)
+[596/626] Hoka VAL D'ARAN by UTMB 2024 - PDA (2024)Error: Geocoding service error for 'Sortida Salardú, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Sortida Salardú)
+[597/626] Hoka VAL D'ARAN by UTMB 2024 - VDA (2024)Error: Geocoding service error for 'Sortida Vielha, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Sortida Vielha)
+[598/626] Hoka VAL D'ARAN by UTMB 2024 - SKY MASTER (2024)Error: Geocoding service error for 'Sortida Beret, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Sortida Beret)
+[599/626] Hoka VAL D'ARAN by UTMB 2024 - SKY PROM (2024) - Skipped (geocoding failed for Sortida Beret)
+[600/626] Hoka VAL D'ARAN by UTMB 2024 - TR2 (2024)Error: Geocoding service error for 'Sortida TR2, Spain': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Sortida TR2)
+[601/626] Speedgoat Mountain Races by UTMB - Speedgoat Mountain Races by UTMB-10K (2024)Error: Geocoding service error for 'Snowbird Plaza Deck (Start), United States of America': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Snowbird Plaza Deck (Start))
+[602/626] Speedgoat Mountain Races by UTMB - Speedgoat Mountain Races by UTMB-21k  (2024) - Skipped (geocoding failed for Snowbird Plaza Deck (Start))
+[603/626] Speedgoat Mountain Races by UTMB - Speedgoat Mountain Races by UTMB-28K (2024) - Skipped (geocoding failed for Snowbird Plaza Deck (Start))
+[604/626] Speedgoat Mountain Races by UTMB - Speedgoat Mountain Races by UTMB-50K (2024) - Skipped (geocoding failed for Snowbird Plaza Deck (Start))
+[605/626] Monterosa Walserwaeg by UTMB - Regina Margherita Trail (2025)Error: Geocoding service error for 'Gressoney-Saint-Jean, Italy': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Gressoney-Saint-Jean)
+[606/626] Monterosa Walserwaeg by UTMB - Les Sentiers des Valdôtains (2025)Error: Geocoding service error for 'Aosta, Italy': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Aosta)
+[607/626] Monterosa Walserwaeg by UTMB - Monte Rosa Trail (2025)Error: Geocoding service error for 'Pont-Saint-Martin, Italy': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Pont-Saint-Martin)
+[608/626] Monterosa Walserwaeg by UTMB - Walserwaeg Trail (2025) - Skipped (geocoding failed for Gressoney-Saint-Jean)
+[609/626] CHIHUAHUA by UTMB 2025 - Rarámuri 100M (2025)Error: Geocoding service error for 'Batópilas, Mexico': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Batópilas)
+[610/626] CHIHUAHUA by UTMB 2025 - Weriga 100K (2025)Error: Geocoding service error for 'Cerrocahui, Mexico': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Cerrocahui)
+[611/626] CHIHUAHUA by UTMB 2025 - Akáa 59K (2025)Error: Geocoding service error for 'Salida Parque Barrancas, Mexico': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Salida Parque Barrancas)
+[612/626] CHIHUAHUA by UTMB 2025 - Komakali 37K (2025) - Skipped (geocoding failed for Salida Parque Barrancas)
+[613/626] CHIHUAHUA by UTMB 2025 - Napurega 20K (2025) - Skipped (geocoding failed for Salida Parque Barrancas)
+[614/626] CHIHUAHUA by UTMB 2025 - Norawa 8,5K (2025) - Skipped (geocoding failed for Salida Parque Barrancas)
+[615/626] TORRENCIAL CHILE by UTMB - 100K (2025)Error: Geocoding service error for 'Salida Punucapa, Chile': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Salida Punucapa)
+[616/626] TORRENCIAL CHILE by UTMB - 50K (2025) - Skipped (geocoding failed for Salida Punucapa)
+[617/626] TORRENCIAL CHILE by UTMB - 37K (2025) - Skipped (geocoding failed for Salida Punucapa)
+[618/626] TORRENCIAL CHILE by UTMB - 27K (2025) - Skipped (geocoding failed for Salida Punucapa)
+[619/626] TORRENCIAL CHILE by UTMB - 12K (2025)Error: Geocoding service error for 'Salida Parque Saval, Chile': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Salida Parque Saval)
+[620/626] TORRENCIAL CHILE by UTMB - 6K (2025) - Skipped (geocoding failed for Salida Parque Saval)
+[621/626] BARILOCHE by UTMB - TRONADOR 130K (2025)Error: Geocoding service error for 'Bariloche, Argentina': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Bariloche)
+[622/626] BARILOCHE by UTMB - FREY 80K (2025) - Skipped (geocoding failed for Bariloche)
+[623/626] BARILOCHE by UTMB - BELLA VISTA 55K (2025)Error: Geocoding service error for 'Los Baqueanos, Argentina': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Los Baqueanos)
+[624/626] BARILOCHE by UTMB - NAHUEL HUAPI 33K (2025) - Skipped (geocoding failed for Los Baqueanos)
+[625/626] BARILOCHE by UTMB - ARRAYANES 22K (2025)Error: Geocoding service error for 'Cerro Lindo, Argentina': check_hostname requires server_hostname
+ - Skipped (geocoding failed for Cerro Lindo)
+[626/626] BARILOCHE by UTMB - OTTO 12K (2025) - Skipped (geocoding failed for Cerro Lindo)
+
+Results saved to: /aop_mount/home/thisch/UTMB_Project/UTMB_weather/data/weather_results.csv
+Total races analyzed: 88
+
+==================================================
+Weather Summary by Category:
+weather_category
+Excellent    81
+Good          7
+
+Average Weather Score by Event:
+  Wildstrubel by UTMB®: 97.3
+  Trail Alsace Grand Est by UTMB: 96.8
+  Eiger Ultra Trail: 91.8
+  Trail Verbier St-Bernard by UTMB: 91.3
+  Chianti Ultra Trail by UTMB: 91.0
+  La Sportiva Lavaredo Ultra Trail by UTMB®: 89.0
+  Hoka UTMB® Mont-Blanc: 88.8
+  Kullamannen by UTMB®: 88.8
+  Arc of Attrition by UTMB: 79.3
+
+Geocoder cache: {'total_entries': 228, 'successful': 53, 'failed': 175}

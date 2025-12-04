@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: puertovallarta | Year: 2023 | Race: 10K
+======================================================================
+Loaded 219 runners from data/puertovallarta_2023_10K.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 216 runners...
+Fetching scores:   0%|                                                  | 0/216 [00:00<?, ?runner/s]Fetching scores:   5%|█▉                                       | 10/216 [00:06<02:13,  1.55runner/s]Fetching scores:   9%|███▊                                     | 20/216 [00:08<01:13,  2.68runner/s]Fetching scores:  14%|█████▋                                   | 30/216 [00:10<00:52,  3.54runner/s]Fetching scores:  19%|███████▌                                 | 40/216 [00:11<00:42,  4.10runner/s]Fetching scores:  23%|█████████▍                               | 50/216 [00:13<00:38,  4.34runner/s]Fetching scores:  33%|█████████████▍                           | 71/216 [00:14<00:17,  8.07runner/s]Fetching scores:  38%|███████████████▍                         | 81/216 [00:17<00:23,  5.74runner/s]Fetching scores:  43%|█████████████████▋                       | 93/216 [00:18<00:16,  7.48runner/s]Fetching scores:  48%|███████████████████                     | 103/216 [00:19<00:14,  8.07runner/s]Fetching scores:  52%|████████████████████▉                   | 113/216 [00:20<00:11,  8.77runner/s]Fetching scores:  57%|██████████████████████▊                 | 123/216 [00:21<00:10,  8.48runner/s]Fetching scores:  62%|████████████████████████▋               | 133/216 [00:22<00:08,  9.52runner/s]Fetching scores:  66%|██████████████████████████▍             | 143/216 [00:23<00:09,  7.98runner/s]Fetching scores:  71%|████████████████████████████▎           | 153/216 [00:24<00:07,  8.06runner/s]Fetching scores:  75%|██████████████████████████████▏         | 163/216 [00:26<00:06,  8.27runner/s]Fetching scores:  84%|█████████████████████████████████▌      | 181/216 [00:26<00:02, 11.74runner/s]Fetching scores:  88%|███████████████████████████████████▎    | 191/216 [00:28<00:02, 10.58runner/s]Fetching scores:  93%|█████████████████████████████████████▏  | 201/216 [00:28<00:01, 11.84runner/s]Fetching scores:  98%|███████████████████████████████████████ | 211/216 [00:29<00:00, 11.95runner/s]Fetching scores: 100%|████████████████████████████████████████| 216/216 [00:32<00:00,  6.65runner/s]
+  Saved to data/puertovallarta_2023_10K.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/185
+
+Top 10 finishers:
+ rank_scratch                                name race_time  utmb_index  utmb_score
+          1.0           Oswaldo Damian MUÑOZ DIAZ  00:51:33       605.0         NaN
+          2.0                  Ruben Dario ARANDA  00:53:39         NaN         NaN
+          3.0  Alex Roudayna De La Huerta Susilla  01:02:05         NaN         NaN
+          4.0                       Erwin ZEEKANT  01:08:14         NaN         NaN
+          5.0                         Sarah FORAN  01:10:29         NaN         NaN
+          6.0                        Perla POLINO  01:11:08         NaN         NaN
+          7.0             Maria Del Carmen CORONA  01:17:07         NaN         NaN
+          8.0                        Ian SHEWFELT  01:17:27         NaN         NaN
+          9.0                    Sabrina TILLBERG  01:17:59         NaN         NaN
+         10.0            Cesar Giovanni CERVANTES  01:19:34         NaN         NaN

@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: julianalps | Year: 2022 | Race: Funny10
+======================================================================
+Loaded 189 runners from data/julianalps_2022_Funny10.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 51 runners...
+Fetching scores:   0%|                                                   | 0/51 [00:00<?, ?runner/s]Fetching scores:  20%|████████▏                                 | 10/51 [00:04<00:17,  2.31runner/s]Fetching scores:  41%|█████████████████▎                        | 21/51 [00:05<00:07,  4.11runner/s]Fetching scores:  61%|█████████████████████████▌                | 31/51 [00:06<00:03,  6.22runner/s]Fetching scores:  80%|█████████████████████████████████▊        | 41/51 [00:07<00:01,  6.09runner/s]Fetching scores: 100%|██████████████████████████████████████████| 51/51 [00:12<00:00,  3.93runner/s]Fetching scores: 100%|██████████████████████████████████████████| 51/51 [00:12<00:00,  4.21runner/s]
+  Saved to data/julianalps_2022_Funny10.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/134
+
+Top 10 finishers:
+ rank_scratch                  name race_time  utmb_index  utmb_score
+          1.0    Maruša CIJAN BRKIČ  00:51:40         NaN         NaN
+          2.0           Nejc BEŠTER  00:52:02       537.0         NaN
+          3.0            Amanda JUS  00:53:09         NaN         NaN
+          4.0            Uroš KERMC  00:54:06         NaN         NaN
+          5.0         Jure BENKOVIČ  00:54:19         NaN         NaN
+          6.0  Katerina VALENTINOVA  00:56:48         NaN         NaN
+          7.0            Ana MAKLIN  00:56:50         NaN         NaN
+          8.0           Nina KUSTEC  00:58:20       505.0         NaN
+          9.0           Peter GRČAR  01:01:34         NaN         NaN
+         10.0     Alejandro METZGER  01:03:27         NaN         NaN

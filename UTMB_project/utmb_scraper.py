@@ -21,6 +21,10 @@ BATCH MODE: Scrape all races from events.json
     python3 utmb_scraper.py --step 1 --all --tenant kullamannen --year 2025  # All races for one event/year
     python3 utmb_scraper.py --step 1 --all --skip-existing    # Skip races already scraped
 
+BATCH MODE: Add UTMB scores to all CSV files
+    python3 utmb_scraper.py --step 2 --all --cookie "YOUR_COOKIE"                # All CSV files
+    python3 utmb_scraper.py --step 2 --all --cookie "YOUR_COOKIE" --skip-existing  # Only files without scores
+
 HOW TO GET YOUR COOKIE:
 -----------------------
 1. Log in to utmb.world in your browser
@@ -52,6 +56,7 @@ import pandas as pd
 import time
 import argparse
 import os
+import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
@@ -259,7 +264,7 @@ def get_race_metadata(tenant: str, year: int, race_id: str) -> dict:
     }
 
 
-def get_next_data(url, headers=None, max_retries=3):
+def get_next_data(url, headers=None, max_retries=3, session=None):
     """
     Extract __NEXT_DATA__ JSON from a page with retry logic.
     
@@ -269,9 +274,12 @@ def get_next_data(url, headers=None, max_retries=3):
     if headers is None:
         headers = HEADERS
     
+    # Use session if provided for connection reuse
+    requester = session if session else requests
+    
     for attempt in range(max_retries):
         try:
-            response = requests.get(url, headers=headers, timeout=30)
+            response = requester.get(url, headers=headers, timeout=30)
             if response.status_code != 200:
                 return None
             match = re.search(
@@ -307,7 +315,7 @@ def extract_access_token(cookie: str) -> str:
     return match.group(1) if match else None
 
 
-def fetch_runner_race_history(runner_uri: str, access_token: str = None, max_retries: int = 3) -> dict:
+def fetch_runner_race_history(runner_uri: str, access_token: str = None, max_retries: int = 3, session=None) -> dict:
     """
     Fetch complete race history for a runner using the UTMB API.
     
@@ -315,6 +323,7 @@ def fetch_runner_race_history(runner_uri: str, access_token: str = None, max_ret
         runner_uri: Runner URI (e.g., "758585.alexandre.boucheix")
         access_token: Optional access token for authenticated requests
         max_retries: Number of retries for transient network errors
+        session: Optional requests.Session for connection reuse
     
     Returns:
         dict with race history data, or None on failure
@@ -332,9 +341,12 @@ def fetch_runner_race_history(runner_uri: str, access_token: str = None, max_ret
     if access_token:
         headers['Authorization'] = f'Bearer {access_token}'
     
+    # Use session if provided for connection reuse
+    requester = session if session else requests
+    
     for attempt in range(max_retries):
         try:
-            response = requests.get(url, headers=headers, timeout=15)
+            response = requester.get(url, headers=headers, timeout=15)
             if response.status_code == 200:
                 data = response.json()
                 results = data.get('results', [])
@@ -444,10 +456,10 @@ def read_csv_with_metadata(filepath: Path) -> tuple:
 # STEP 1: SCRAPE RACE RESULTS (NO AUTH REQUIRED)
 # =============================================================================
 
-def get_runner_data(base_url: str, tenant: str, year: int, bib: int) -> dict:
+def get_runner_data(base_url: str, tenant: str, year: int, bib: int, session=None) -> dict:
     """Fetch detailed data for a single runner."""
     url = f"{base_url}/{tenant}/{year}/runners/{bib}"
-    data = get_next_data(url)
+    data = get_next_data(url, session=session)
     
     if not data:
         return None
@@ -468,7 +480,7 @@ def get_runner_data(base_url: str, tenant: str, year: int, bib: int) -> dict:
 
 
 def discover_bib_range(base_url: str, tenant: str, year: int, race_id: str, 
-                       num_workers: int = 20, max_search_bib: int = 10000) -> tuple:
+                       num_workers: int = 50, max_search_bib: int = 10000) -> tuple:
     """
     Discover the actual bib range for a specific race by sampling.
     
@@ -574,13 +586,13 @@ def discover_bib_range(base_url: str, tenant: str, year: int, race_id: str,
 
 
 def scan_for_runners(base_url: str, tenant: str, year: int, race_id: str,
-                     bib_range: tuple = None, num_workers: int = 20, 
+                     bib_range: tuple = None, num_workers: int = 50, 
                      max_search_bib: int = 10000) -> list:
     """Scan for all runners in a race using parallel requests."""
     
     if bib_range is None:
         bib_range = discover_bib_range(base_url, tenant, year, race_id, 
-                                       num_workers=20, max_search_bib=max_search_bib)
+                                       num_workers=50, max_search_bib=max_search_bib)
         if bib_range is None:
             print(f"Could not discover bib range. Falling back to 1-{max_search_bib}.")
             bib_range = (1, max_search_bib)
@@ -588,9 +600,13 @@ def scan_for_runners(base_url: str, tenant: str, year: int, race_id: str,
     min_bib, max_bib = bib_range
     print(f"\nScanning for runners (bibs {min_bib} to {max_bib})...")
     
+    # Create a session for connection reuse (better performance)
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    
     def fetch_single_bib(bib):
         try:
-            runner_data = get_runner_data(base_url, tenant, year, bib)
+            runner_data = get_runner_data(base_url, tenant, year, bib, session=session)
             if runner_data and runner_data.get('race_id') == race_id:
                 return runner_data
         except Exception:
@@ -782,29 +798,50 @@ def run_step2(tenant: str, year: int, race_id: str, cookie: str):
     
     print("  Access token extracted successfully")
     
-    # Test authentication
+    # Test authentication - try multiple runners to find one with scores
     print("\nTesting authentication...")
-    test_url = df[df['utmb_profile_url'].notna()]['utmb_profile_url'].iloc[0]
-    test_result = fetch_runner_race_history(test_url, access_token)
+    test_runners = df[df['utmb_profile_url'].notna()]['utmb_profile_url'].head(5).tolist()
     
-    if not test_result:
-        print("ERROR: API request failed! Cookie may be expired.")
-        return
-    
-    if test_result.get('races_with_scores', 0) == 0 and test_result.get('total_races', 0) > 0:
-        print("ERROR: Authentication failed! No scores returned.")
-        print("Please get a fresh cookie from your browser.")
-        return
+    if not test_runners:
+        print("  Warning: No runners with UTMB profiles found, skipping auth test")
+    else:
+        auth_verified = False
+        test_result = None
+        
+        for test_url in test_runners:
+            test_result = fetch_runner_race_history(test_url, access_token)
+            
+            if not test_result:
+                # API request failed completely - likely cookie expired
+                print("ERROR: API request failed! Cookie may be expired.")
+                return
+            
+            # If we got any results back, the API is working
+            if test_result.get('total_races', 0) > 0:
+                if test_result.get('races_with_scores', 0) > 0:
+                    # Found a runner with scores - auth definitely works
+                    auth_verified = True
+                    break
+                # Runner has races but no scores - API works, try next runner
+                continue
+            # Runner has no races at all - try next runner
+            continue
+        
+        if not auth_verified and test_result:
+            # API responded but no runner had scores - this is OK, auth still works
+            # (the race might just have runners without UTMB score history)
+            print("  Note: Test runners have no score history, but API is responding")
     
     print(f"  Authentication successful!")
     
-    # Get race name pattern for matching scores
+    # Get race name pattern for matching scores (case-insensitive)
     cached = get_cached_race_metadata(tenant, year, race_id)
     if cached:
         # Extract just the race name (not full "Event Year - Race" format)
         race_name_pattern = cached.get('race_name', '').split(' - ')[-1] if cached.get('race_name') else race_id
     else:
         race_name_pattern = race_id
+    race_name_pattern_lower = race_name_pattern.lower()
     
     # Fetch scores for all runners
     runners_with_profiles = df[df['utmb_profile_url'].notna()]
@@ -817,19 +854,31 @@ def run_step2(tenant: str, year: int, race_id: str, cookie: str):
         for idx, row in runners_with_profiles.iterrows()
     ]
     
+    # Use thread-local sessions for connection reuse
+    # (requests.Session is not thread-safe when shared)
+    thread_local = threading.local()
+    
+    def get_session():
+        if not hasattr(thread_local, 'session'):
+            thread_local.session = requests.Session()
+            thread_local.session.headers.update(UTMB_API_HEADERS)
+        return thread_local.session
+    
     def fetch_score_for_runner(runner_info):
         idx, url = runner_info
-        history = fetch_runner_race_history(url, access_token)
+        session = get_session()
+        history = fetch_runner_race_history(url, access_token, session=session)
         
         if history:
-            # Find the score for this specific race
+            # Find the score for this specific race (case-insensitive matching)
             for race in history.get('results', []):
                 race_name = race.get('race', '')
-                if race_name_pattern in race_name and str(year) in race_name:
+                race_name_lower = race_name.lower()
+                if race_name_pattern_lower in race_name_lower and str(year) in race_name:
                     return (idx, race.get('index'))
         return None
     
-    with ThreadPoolExecutor(max_workers=15) as executor:
+    with ThreadPoolExecutor(max_workers=100) as executor:
         futures = {executor.submit(fetch_score_for_runner, r): r for r in runners_to_fetch}
         
         if TQDM_AVAILABLE:
@@ -1036,8 +1085,27 @@ def run_batch_step1(tenant_filter: str = None, year_filter: int = None,
     print(f"\nCSV files saved to: {get_data_dir()}/")
 
 
+def csv_has_utmb_scores(filepath: Path) -> bool:
+    """
+    Check if a CSV file already has UTMB scores populated.
+    
+    Returns True if the file has a utmb_score column with at least some non-null values.
+    """
+    try:
+        df, _ = read_csv_with_metadata(filepath)
+        if 'utmb_score' not in df.columns:
+            return False
+        # Check if any finishers have scores
+        finishers = df[df['is_finisher'] == True] if 'is_finisher' in df.columns else df
+        scores_count = finishers['utmb_score'].notna().sum()
+        # Consider it "has scores" if at least 10% of finishers have scores
+        return scores_count > len(finishers) * 0.1
+    except Exception:
+        return False
+
+
 def run_batch_step2(tenant_filter: str = None, year_filter: int = None,
-                    cookie: str = None):
+                    cookie: str = None, skip_existing: bool = False):
     """
     BATCH MODE: Add UTMB scores to all existing CSV files
     
@@ -1045,6 +1113,7 @@ def run_batch_step2(tenant_filter: str = None, year_filter: int = None,
         tenant_filter: Optional - only process this tenant
         year_filter: Optional - only process this year
         cookie: Browser cookie for authentication
+        skip_existing: If True, skip files that already have UTMB scores
     """
     if not cookie:
         print("ERROR: --cookie is required for step 2")
@@ -1062,8 +1131,9 @@ def run_batch_step2(tenant_filter: str = None, year_filter: int = None,
         print("No CSV files found. Run Step 1 first.")
         return
     
-    # Filter files based on tenant/year
+    # Filter files based on tenant/year and skip_existing
     files_to_process = []
+    files_skipped = []
     for csv_file in csv_files:
         # Parse filename: tenant_year_race.csv
         parts = csv_file.stem.split('_')
@@ -1081,16 +1151,26 @@ def run_batch_step2(tenant_filter: str = None, year_filter: int = None,
             if year_filter and year != year_filter:
                 continue
             
+            # Check if should skip files with existing scores
+            if skip_existing and csv_has_utmb_scores(csv_file):
+                files_skipped.append((csv_file, tenant, year, race_id))
+                continue
+            
             files_to_process.append((csv_file, tenant, year, race_id))
     
     if not files_to_process:
         print("No matching CSV files found.")
+        if files_skipped:
+            print(f"  ({len(files_skipped)} files skipped - already have UTMB scores)")
+            print("  Remove --skip-existing to re-fetch scores for all files.")
         return
     
     print("\n" + "=" * 70)
     print("BATCH MODE: Adding UTMB Scores")
     print("=" * 70)
     print(f"\nFiles to process: {len(files_to_process)}")
+    if files_skipped:
+        print(f"Files skipped (already have scores): {len(files_skipped)}")
     
     for csv_file, tenant, year, race_id in files_to_process:
         print(f"  - {csv_file.name}")
@@ -1133,7 +1213,7 @@ def main():
     parser.add_argument('--all', action='store_true',
                         help='Batch mode: scrape all races from events.json')
     parser.add_argument('--skip-existing', action='store_true',
-                        help='With --all: skip races that already have CSV files')
+                        help='With --all: Step 1 skips races with CSV files, Step 2 skips files with UTMB scores')
     parser.add_argument('--dry-run', action='store_true',
                         help='With --all: show what would be scraped without actually scraping')
     parser.add_argument('--bib-min', type=int, default=None,
@@ -1171,7 +1251,8 @@ def main():
             run_batch_step2(
                 tenant_filter=args.tenant,
                 year_filter=args.year,
-                cookie=args.cookie
+                cookie=args.cookie,
+                skip_existing=args.skip_existing
             )
         return
     

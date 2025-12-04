@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: utmb | Year: 2023 | Race: tds
+======================================================================
+Loaded 97 runners from data/utmb_2023_tds.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 97 runners...
+Fetching scores:   0%|                                                   | 0/97 [00:00<?, ?runner/s]Fetching scores:  10%|████▎                                     | 10/97 [00:03<00:26,  3.24runner/s]Fetching scores:  21%|████████▋                                 | 20/97 [00:05<00:18,  4.15runner/s]Fetching scores:  31%|████████████▉                             | 30/97 [00:08<00:18,  3.55runner/s]Fetching scores:  41%|█████████████████▎                        | 40/97 [00:10<00:13,  4.17runner/s]Fetching scores:  52%|█████████████████████▋                    | 50/97 [00:12<00:11,  4.24runner/s]Fetching scores:  62%|█████████████████████████▉                | 60/97 [00:14<00:07,  4.66runner/s]Fetching scores:  72%|██████████████████████████████▎           | 70/97 [00:19<00:08,  3.04runner/s]Fetching scores:  82%|██████████████████████████████████▋       | 80/97 [00:21<00:04,  3.60runner/s]Fetching scores:  93%|██████████████████████████████████████▉   | 90/97 [00:23<00:01,  3.79runner/s]Fetching scores:  93%|██████████████████████████████████████▉   | 90/97 [00:39<00:01,  3.79runner/s]Fetching scores: 100%|██████████████████████████████████████████| 97/97 [00:46<00:00,  1.02runner/s]Fetching scores: 100%|██████████████████████████████████████████| 97/97 [00:46<00:00,  2.08runner/s]
+  Saved to data/utmb_2023_tds.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/45
+
+Top 10 finishers:
+ rank_scratch                     name race_time  utmb_index  utmb_score
+          1.0          Christian MEIER  19:36:35       827.0         NaN
+          2.0   Simen Hjalmar WÄSTLUND  19:57:41       829.0         NaN
+          3.0             Yannick NOËL  20:18:02       856.0         NaN
+          4.0     Jean-Marie THEVENARD  20:29:53       823.0         NaN
+          5.0  Cristofer CLEMENTE MORA  20:43:52       862.0         NaN
+          6.0        Guillaume BEAUXIS  21:02:19       823.0         NaN
+          7.0          Nicolas GOURDON  21:02:22       850.0         NaN
+          8.0           André PURSCHKE  21:16:33       798.0         NaN
+          9.0              Paul LENOIR  21:38:41       803.0         NaN
+         12.0             Sage CANADAY  22:06:21       763.0         NaN

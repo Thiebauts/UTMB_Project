@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: kodiak | Year: 2025 | Race: 10k
+======================================================================
+Loaded 107 runners from data/kodiak_2025_10k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 107 runners...
+Fetching scores:   0%|                                                  | 0/107 [00:00<?, ?runner/s]Fetching scores:   9%|███▊                                     | 10/107 [00:02<00:20,  4.72runner/s]Fetching scores:  19%|███████▋                                 | 20/107 [00:03<00:13,  6.57runner/s]Fetching scores:  30%|████████████▎                            | 32/107 [00:03<00:07, 10.03runner/s]Fetching scores:  44%|██████████████████                       | 47/107 [00:04<00:05, 11.54runner/s]Fetching scores:  53%|█████████████████████▊                   | 57/107 [00:05<00:03, 13.12runner/s]Fetching scores:  64%|██████████████████████████▍              | 69/107 [00:05<00:02, 15.55runner/s]Fetching scores:  76%|███████████████████████████████          | 81/107 [00:06<00:01, 15.90runner/s]Fetching scores:  85%|██████████████████████████████████▊      | 91/107 [00:07<00:01, 15.37runner/s]Fetching scores:  94%|█████████████████████████████████████▊  | 101/107 [00:08<00:00, 11.15runner/s]Fetching scores: 100%|████████████████████████████████████████| 107/107 [00:08<00:00, 12.02runner/s]
+  Saved to data/kodiak_2025_10k.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/84
+
+Top 10 finishers:
+ rank_scratch                  name race_time  utmb_index  utmb_score
+          1.0         Mike BUENTING  00:53:14         NaN         NaN
+          2.0      Cristobal GARCIN  00:55:54         NaN         NaN
+          3.0         Marco HAERENS  00:55:57         NaN         NaN
+          4.0          Zach DELANGE  01:00:54         NaN         NaN
+          5.0         Karl MARTINEZ  01:01:32       362.0         NaN
+          6.0          Bria SHANNON  01:01:35       444.0         NaN
+          7.0      Arturo FERNANDEZ  01:03:27       515.0         NaN
+          8.0        Caroline DUMAS  01:04:41       477.0         NaN
+          9.0  Jean-Baptiste TRAHIN  01:06:13         NaN         NaN
+         10.0   Francisco GOICOCHEA  01:06:41         NaN         NaN

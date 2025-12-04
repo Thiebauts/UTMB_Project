@@ -1,0 +1,34 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: chihuahuabyutmb | Year: 2025 | Race: 100k
+======================================================================
+Loaded 222 runners from data/chihuahuabyutmb_2025_100k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 221 runners...
+Fetching scores:   0%|                                                  | 0/221 [00:00<?, ?runner/s]Fetching scores:   5%|██                                       | 11/221 [00:00<00:10, 19.84runner/s]Fetching scores:  12%|████▊                                    | 26/221 [00:01<00:08, 24.06runner/s]Fetching scores:  16%|██████▋                                  | 36/221 [00:01<00:10, 17.25runner/s]Fetching scores:  22%|████████▉                                | 48/221 [00:02<00:09, 18.68runner/s]Fetching scores:  26%|██████████▊                              | 58/221 [00:03<00:09, 17.75runner/s]Fetching scores:  31%|████████████▌                            | 68/221 [00:04<00:13, 11.24runner/s]Fetching scores:  36%|██████████████▋                          | 79/221 [00:05<00:10, 13.35runner/s]Fetching scores:  40%|████████████████▌                        | 89/221 [00:05<00:09, 14.18runner/s]Fetching scores:  52%|████████████████████▋                   | 114/221 [00:06<00:04, 22.01runner/s]Fetching scores:  71%|████████████████████████████▏           | 156/221 [00:06<00:01, 36.67runner/s]Fetching scores:  79%|███████████████████████████████▍        | 174/221 [00:07<00:01, 36.26runner/s]Fetching scores:  83%|█████████████████████████████████▎      | 184/221 [00:08<00:01, 27.62runner/s]Fetching scores:  88%|███████████████████████████████████     | 194/221 [00:10<00:02, 12.24runner/s]Fetching scores:  94%|█████████████████████████████████████▋  | 208/221 [00:11<00:00, 14.12runner/s]Fetching scores:  99%|███████████████████████████████████████▍| 218/221 [00:15<00:00,  6.75runner/s]Fetching scores: 100%|████████████████████████████████████████| 221/221 [00:15<00:00, 13.83runner/s]
+  Saved to data/chihuahuabyutmb_2025_100k.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 115/117
+Score range: 402 - 854
+Mean score: 500
+
+Top 10 finishers:
+ rank_scratch                              name race_time  utmb_index  utmb_score
+          1.0              Jupiter CARERA CASAS  10:44:50       838.0       854.0
+          2.0              Julián VINASCO MARÍN  11:43:16       788.0       783.0
+          3.0                      Martin SAENZ  12:57:39       687.0       708.0
+          4.0                 Juan Carlos CLETO  12:59:18         NaN       707.0
+          5.0  Cesar Arturo | FLORES ARMENDARIZ  13:45:07         NaN       667.0
+          6.0                 Julius VAINAUSKAS  13:50:18       625.0       663.0
+          7.0                     Benoît RIDARD  13:55:28       639.0       659.0
+          8.0                  Simon CHIFFOLEAU  14:17:01       592.0       643.0
+          9.0                   Gregorio MORENO  14:18:31         NaN       642.0
+         10.0           Ignacio MORENO CARRILLO  14:19:41         NaN       641.0

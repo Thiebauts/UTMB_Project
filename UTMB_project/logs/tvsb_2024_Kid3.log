@@ -1,0 +1,33 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: tvsb | Year: 2024 | Race: Kid3
+======================================================================
+Loaded 95 runners from data/tvsb_2024_Kid3.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Note: Test runners have no score history, but API is responding
+  Authentication successful!
+
+Fetching UTMB scores for 3 runners...
+Fetching scores:   0%|                                                    | 0/3 [00:00<?, ?runner/s]Fetching scores: 100%|████████████████████████████████████████████| 3/3 [00:00<00:00,  3.74runner/s]
+  Saved to data/tvsb_2024_Kid3.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/81
+
+Top 10 finishers:
+ rank_scratch                  name race_time  utmb_index  utmb_score
+          1.0           Elio FAIVRE  00:13:58         NaN         NaN
+          2.0        Quentin RACLOZ  00:14:13         NaN         NaN
+          3.0  Sacha DERIEZ GRANGER  00:14:16         NaN         NaN
+          4.0       Lucas DYSSELEER  00:14:22         NaN         NaN
+          5.0           Zélie CUCHE  00:14:23         NaN         NaN
+          6.0             Lena KONÉ  00:15:03         NaN         NaN
+          7.0           Louka FARCY  00:15:08         NaN         NaN
+          7.0            Ben GEIGER  00:15:08         NaN         NaN
+          9.0            Ayssa KONÉ  00:15:11         NaN         NaN
+         10.0        Victor SCHREVE  00:15:43         NaN         NaN

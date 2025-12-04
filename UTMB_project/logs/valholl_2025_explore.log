@@ -1,0 +1,34 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: valholl | Year: 2025 | Race: explore
+======================================================================
+Loaded 224 runners from data/valholl_2025_explore.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 222 runners...
+Fetching scores:   0%|                                                  | 0/222 [00:00<?, ?runner/s]Fetching scores:   6%|██▌                                      | 14/222 [00:00<00:07, 27.60runner/s]Fetching scores:  21%|████████▋                                | 47/222 [00:01<00:03, 48.74runner/s]Fetching scores:  39%|███████████████▉                         | 86/222 [00:01<00:02, 61.44runner/s]Fetching scores:  52%|████████████████████▋                   | 115/222 [00:02<00:01, 59.77runner/s]Fetching scores:  72%|████████████████████████████▋           | 159/222 [00:02<00:00, 69.68runner/s]Fetching scores:  79%|███████████████████████████████▌        | 175/222 [00:03<00:00, 53.95runner/s]Fetching scores:  87%|██████████████████████████████████▊     | 193/222 [00:03<00:00, 43.78runner/s]Fetching scores:  91%|████████████████████████████████████▌   | 203/222 [00:07<00:01, 11.98runner/s]Fetching scores:  97%|██████████████████████████████████████▋ | 215/222 [00:08<00:00, 12.89runner/s]Fetching scores: 100%|████████████████████████████████████████| 222/222 [00:08<00:00, 25.05runner/s]
+  Saved to data/valholl_2025_explore.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 180/183
+Score range: 143 - 559
+Mean score: 301
+
+Top 10 finishers:
+ rank_scratch                         name race_time  utmb_index  utmb_score
+          1.0  Maximiliano Esteban SAUCEDO  01:23:21         NaN       559.0
+          2.0              Lisandro FORESI  01:28:51         NaN       524.0
+          4.0               Kevin MARTINES  01:30:17         NaN       516.0
+          5.0            Cristian CISTERNA  01:30:20         NaN       516.0
+          6.0            Nicolas BADARACCO  01:30:42         NaN         NaN
+          8.0                Tobias ROMERO  01:34:13         NaN       494.0
+         11.0       Gustavo Ezequiel LAREU  01:39:12         NaN       469.0
+         12.0  Juan Lucio Ramon DE LA VEGA  01:39:56       410.0       466.0
+         15.0      Luciano NICOLAS GONZALO  01:47:55         NaN       432.0
+         16.0        Javier Andres VAZQUEZ  01:48:06         NaN       431.0

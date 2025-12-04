@@ -1,0 +1,34 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: torrencialbyutmb | Year: 2025 | Race: 100k
+======================================================================
+Loaded 224 runners from data/torrencialbyutmb_2025_100k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 221 runners...
+Fetching scores:   0%|                                                  | 0/221 [00:00<?, ?runner/s]Fetching scores:   5%|█▊                                       | 10/221 [00:00<00:11, 17.91runner/s]Fetching scores:   9%|███▋                                     | 20/221 [00:01<00:12, 16.09runner/s]Fetching scores:  14%|█████▌                                   | 30/221 [00:01<00:11, 17.31runner/s]Fetching scores:  19%|███████▊                                 | 42/221 [00:02<00:09, 19.13runner/s]Fetching scores:  26%|██████████▌                              | 57/221 [00:02<00:07, 21.86runner/s]Fetching scores:  33%|█████████████▌                           | 73/221 [00:03<00:05, 24.99runner/s]Fetching scores:  38%|███████████████▊                         | 85/221 [00:03<00:05, 24.15runner/s]Fetching scores:  45%|██████████████████▎                      | 99/221 [00:04<00:04, 24.82runner/s]Fetching scores:  52%|████████████████████▋                   | 114/221 [00:05<00:04, 25.18runner/s]Fetching scores:  62%|████████████████████████▉               | 138/221 [00:05<00:02, 31.18runner/s]Fetching scores:  71%|████████████████████████████▏           | 156/221 [00:06<00:02, 30.75runner/s]Fetching scores:  77%|██████████████████████████████▉         | 171/221 [00:06<00:01, 29.25runner/s]Fetching scores:  82%|████████████████████████████████▊       | 181/221 [00:07<00:01, 23.83runner/s]Fetching scores:  89%|███████████████████████████████████▋    | 197/221 [00:07<00:00, 25.83runner/s]Fetching scores:  94%|█████████████████████████████████████▍  | 207/221 [00:08<00:00, 21.24runner/s]Fetching scores:  98%|███████████████████████████████████████▎| 217/221 [00:10<00:00, 11.57runner/s]Fetching scores: 100%|████████████████████████████████████████| 221/221 [00:12<00:00, 17.18runner/s]
+  Saved to data/torrencialbyutmb_2025_100k.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 119/122
+Score range: 407 - 832
+Mean score: 514
+
+Top 10 finishers:
+ rank_scratch                        name race_time  utmb_index  utmb_score
+          1.0  Luis Alberto LOBOS MASSIFF  09:59:35       688.0       832.0
+          2.0       Remigio HUAMAN QUISPE  10:05:08       873.0       825.0
+          3.0              Fernando ROJAS  10:26:38       707.0       797.0
+          4.0               Patricio BOPP  10:34:45       704.0       786.0
+          5.0           Sthefano CALDERÓN  10:36:55       751.0       784.0
+          6.0  Santiago MARGOZZINI VALDÉS  10:59:56       728.0       756.0
+          7.0               Victor CCANTO  11:37:56       693.0       715.0
+          8.0          Cristian D'ALFONSO  11:50:09       708.0       703.0
+          9.0               Gustavo GODOY  11:52:33       666.0       701.0
+         10.0            Emmanuel SALINAS  11:57:40       721.0       696.0

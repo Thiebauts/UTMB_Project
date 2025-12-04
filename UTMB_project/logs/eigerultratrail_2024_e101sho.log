@@ -1,0 +1,26 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: eigerultratrail | Year: 2024 | Race: e101sho
+======================================================================
+Loaded 4 runners from data/eigerultratrail_2024_e101sho.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 4 runners...
+Fetching scores:   0%|                                                    | 0/4 [00:00<?, ?runner/s]Fetching scores: 100%|████████████████████████████████████████████| 4/4 [00:00<00:00, 34.09runner/s]
+  Saved to data/eigerultratrail_2024_e101sho.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/4
+
+Top 10 finishers:
+ rank_scratch            name race_time  utmb_index  utmb_score
+          NaN    Remy MARGAUX  12:54:47         NaN         NaN
+          NaN  Amanda CALVERT  13:08:38         NaN         NaN
+          NaN    Alex STEPANO  13:50:22         NaN         NaN
+          NaN  Young MICHELLE  14:03:42         NaN         NaN

@@ -1,0 +1,657 @@
+# Race: Unknown
+# Tenant: kullamannen
+# Year: 2025
+# Race URI: 10675.kullamannenbyutmbultra100miles.2025
+# Total Finishers: 650
+# Scraped: 2025-12-04T15:51:59.392197
+rank_scratch,name,race_time,race_time_seconds,country,country_code,age_group,sex,utmb_index,utmb_score,runner_uri,utmb_profile_url
+1.0,Christian MALMSTROM,16:18:22,58702.0,Sweden,SE,45-49,H,,,1243141.christian.malmstrom,https://utmb.world/runner/1243141.christian.malmstrom
+2.0,Alexandre BOUCHEIX,16:34:44,59684.0,France,FR,20-34,H,,,758585.alexandre.boucheix,https://utmb.world/runner/758585.alexandre.boucheix
+3.0,Jakob ÅBERG (Jakob ABERG),17:03:29,61409.0,Sweden,SE,20-34,H,,,1843273.jakob.aberg,https://utmb.world/runner/1843273.jakob.aberg
+4.0,Hanna AHO,17:59:21,64761.0,Sweden,SE,20-34,F,,,3976348.hanna.aho,https://utmb.world/runner/3976348.hanna.aho
+5.0,Anne-Sofie POLLESTAD,18:32:13,66733.0,Norway,NO,40-44,F,,,4131603.annesofie.pollestad,https://utmb.world/runner/4131603.annesofie.pollestad
+6.0,Eevi BENGS,18:32:41,66761.0,Finland,FI,35-39,F,,,4583132.eevi.bengs,https://utmb.world/runner/4583132.eevi.bengs
+7.0,Aurimas BRAZAUSKAS,18:58:55,68335.0,Lithuania,LT,45-49,H,,,4270487.aurimas.brazauskas,https://utmb.world/runner/4270487.aurimas.brazauskas
+8.0,Joakim JOHANSSON,19:27:34,70054.0,Sweden,SE,35-39,H,,,508271.joakim.johansson,https://utmb.world/runner/508271.joakim.johansson
+9.0,Claes CHRISTENSSON,19:41:36,70896.0,Sweden,SE,35-39,H,,,665600.claes.christensson,https://utmb.world/runner/665600.claes.christensson
+10.0,Oscar ASKERLUND,20:01:53,72113.0,Sweden,SE,40-44,H,,,691416.oscar.askerlund,https://utmb.world/runner/691416.oscar.askerlund
+11.0,Elin ÖHMAN (Elin OHMAN),20:03:19,72199.0,Sweden,SE,20-34,F,,,1996521.elin.ohman,https://utmb.world/runner/1996521.elin.ohman
+12.0,Eric HOLMSTRÖM,20:04:41,72281.0,Sweden,SE,40-44,H,,,4445146.eric.holmstrom,https://utmb.world/runner/4445146.eric.holmstrom
+13.0,Tomas NORDLOF,20:19:34,73174.0,Sweden,SE,40-44,H,,,936155.tomas.nordlof,https://utmb.world/runner/936155.tomas.nordlof
+14.0,Erik ENG,20:19:44,73184.0,Sweden,SE,45-49,H,,,438604.erik.eng,https://utmb.world/runner/438604.erik.eng
+15.0,Andreas SKOGEN,20:21:04,73264.0,Norway,NO,40-44,H,,,4484264.andreas.skogen,https://utmb.world/runner/4484264.andreas.skogen
+16.0,Mikael KRISTENSSON,20:25:09,73509.0,Sweden,SE,35-39,H,,,1135875.mikael.kristensson,https://utmb.world/runner/1135875.mikael.kristensson
+17.0,Magnus ANUNDSSON,20:42:59,74579.0,Sweden,SE,40-44,H,,,2292411.magnus.anundsson,https://utmb.world/runner/2292411.magnus.anundsson
+18.0,Antoine BLUY,20:53:47,75227.0,France,FR,20-34,H,,,427006.antoine.bluy,https://utmb.world/runner/427006.antoine.bluy
+19.0,Lenaic MOENNE LOCCOZ,21:03:39,75819.0,France,FR,35-39,H,,,4538636.lenaic.moenneloccoz,https://utmb.world/runner/4538636.lenaic.moenneloccoz
+20.0,Magdalena SZNIGIR,21:17:20,76640.0,Poland,PL,20-34,F,,,4308550.magdalena.sznigir,https://utmb.world/runner/4308550.magdalena.sznigir
+21.0,Paul SZYNDRALEWICZ,21:18:10,76690.0,France,FR,20-34,H,,,4163043.paul.szyndralewicz,https://utmb.world/runner/4163043.paul.szyndralewicz
+22.0,Emil CHRISTENSEN,21:26:45,77205.0,Denmark,DK,20-34,H,,,1189927.emil.christensen,https://utmb.world/runner/1189927.emil.christensen
+23.0,Andreas Ladefoged Møller ANDERSEN,21:26:46,77206.0,Denmark,DK,20-34,H,,,4823022.andreasladefogedmoller.andersen,https://utmb.world/runner/4823022.andreasladefogedmoller.andersen
+24.0,Patrik JOHANSSON,21:28:34,77314.0,Sweden,SE,50-54,H,,,3816061.patrik.johansson,https://utmb.world/runner/3816061.patrik.johansson
+25.0,Robin STENBERG,21:30:23,77423.0,Sweden,SE,40-44,H,,,696571.robin.stenberg,https://utmb.world/runner/696571.robin.stenberg
+26.0,Per JOHANSSON,21:45:38,78338.0,Sweden,SE,40-44,H,,,5147385.per.johansson,https://utmb.world/runner/5147385.per.johansson
+27.0,Jörgen SCHÖLD,21:49:10,78550.0,Sweden,SE,45-49,H,,,4547962.jorgen.schold,https://utmb.world/runner/4547962.jorgen.schold
+28.0,Linda LINDBERG,21:49:57,78597.0,Sweden,SE,50-54,F,,,4173037.linda.lindberg,https://utmb.world/runner/4173037.linda.lindberg
+29.0,Kirsi VEHVILÄINEN,21:51:59,78719.0,Finland,FI,40-44,F,,,1390945.kirsi.vehvilainen,https://utmb.world/runner/1390945.kirsi.vehvilainen
+30.0,Tobias ANDREASSON,21:56:05,78965.0,Sweden,SE,35-39,H,,,5743847.tobias.andreasson,https://utmb.world/runner/5743847.tobias.andreasson
+31.0,Sten ORSVARN,21:57:41,79061.0,Sweden,SE,60-64,H,,,37082.sten.orsvarn,https://utmb.world/runner/37082.sten.orsvarn
+32.0,Richard NYLEN,22:11:12,79872.0,Sweden,SE,40-44,H,,,5743853.richard.nylen,https://utmb.world/runner/5743853.richard.nylen
+33.0,Petter REPSJØ,22:16:10,80170.0,Norway,NO,35-39,H,,,4568146.petter.repsjo,https://utmb.world/runner/4568146.petter.repsjo
+34.0,Nils HERNSTROM,22:19:47,80387.0,Sweden,SE,35-39,H,,,6770623.nils.hernstrom,https://utmb.world/runner/6770623.nils.hernstrom
+35.0,Antonio NAVARRO,22:21:31,80491.0,Sweden,SE,50-54,H,,,986669.antonio.navarro,https://utmb.world/runner/986669.antonio.navarro
+36.0,Mattias KRISTENSSON,22:25:23,80723.0,Sweden,SE,40-44,H,,,911697.mattias.kristensson,https://utmb.world/runner/911697.mattias.kristensson
+37.0,Otto NORIN,22:26:31,80791.0,Sweden,SE,45-49,H,,,4822956.otto.norin,https://utmb.world/runner/4822956.otto.norin
+38.0,Justin GARDNER,22:29:51,80991.0,United Kingdom,GB,40-44,H,,,4467982.justin.gardner,https://utmb.world/runner/4467982.justin.gardner
+39.0,Fredrik HAUSMANN,22:37:23,81443.0,Norway,NO,35-39,H,,,6317968.fredrik.hausmann,https://utmb.world/runner/6317968.fredrik.hausmann
+40.0,Vidar PEDERSEN,22:39:11,81551.0,Norway,NO,45-49,H,,,4834112.vidar.pedersen,https://utmb.world/runner/4834112.vidar.pedersen
+41.0,Joel ANDERSSON,22:40:24,81624.0,Sweden,SE,40-44,H,,,5439870.joel.andersson,https://utmb.world/runner/5439870.joel.andersson
+41.0,Jon NORDIN,22:40:24,81624.0,Sweden,SE,45-49,H,,,4681572.jon.nordin,https://utmb.world/runner/4681572.jon.nordin
+43.0,Enar WARFVINGE,22:41:27,81687.0,Sweden,SE,40-44,H,,,410664.enar.warfvinge,https://utmb.world/runner/410664.enar.warfvinge
+44.0,Isabelle STAUB,22:44:41,81881.0,Sweden,SE,50-54,F,,,4710546.isabelle.staub,https://utmb.world/runner/4710546.isabelle.staub
+45.0,Fredrik HÄGGKVIST,22:44:55,81895.0,Sweden,SE,35-39,H,,,3377675.fredrik.haggkvist,https://utmb.world/runner/3377675.fredrik.haggkvist
+46.0,Emil LILJA,22:46:24,81984.0,Sweden,SE,20-34,H,,,5484352.emil.lilja,https://utmb.world/runner/5484352.emil.lilja
+47.0,Annika WESTIN,22:48:23,82103.0,Sweden,SE,45-49,F,,,5478976.annika.westin,https://utmb.world/runner/5478976.annika.westin
+48.0,Trygve GRONDAHL,22:50:21,82221.0,Sweden,SE,20-34,H,,,5289171.trygve.grondahl,https://utmb.world/runner/5289171.trygve.grondahl
+49.0,Roope VARTIAINEN,23:00:50,82850.0,Finland,FI,20-34,H,,,4329720.roope.vartiainen,https://utmb.world/runner/4329720.roope.vartiainen
+50.0,Katarina PERSSON,23:01:11,82871.0,Sweden,SE,50-54,F,,,1843319.katarina.persson,https://utmb.world/runner/1843319.katarina.persson
+51.0,Håkan SANDBERG,23:03:52,83032.0,Sweden,SE,45-49,H,,,1960317.hakan.sandberg,https://utmb.world/runner/1960317.hakan.sandberg
+52.0,David ROSENBORG,23:12:43,83563.0,Sweden,SE,55-59,H,,,6770787.david.rosenborg,https://utmb.world/runner/6770787.david.rosenborg
+53.0,Johannes RIDEFELT,23:16:43,83803.0,Sweden,SE,20-34,H,,,2307549.johannes.ridefelt,https://utmb.world/runner/2307549.johannes.ridefelt
+54.0,Bram CECAT,23:19:48,83988.0,Belgium,BE,20-34,H,,,5203226.bram.cecat,https://utmb.world/runner/5203226.bram.cecat
+55.0,Rafael FLISBERG,23:20:07,84007.0,Sweden,SE,20-34,H,,,6770725.rafael.flisberg,https://utmb.world/runner/6770725.rafael.flisberg
+56.0,Daniel MUSOKE,23:24:50,84290.0,United Kingdom,GB,20-34,H,,,6460592.daniel.musoke,https://utmb.world/runner/6460592.daniel.musoke
+57.0,Johan HARVIGSSON,23:26:44,84404.0,Sweden,SE,35-39,H,,,1242723.johan.harvigsson,https://utmb.world/runner/1242723.johan.harvigsson
+58.0,Remi HJORTDAHL-KRISTENSEN,23:27:06,84426.0,Norway,NO,35-39,H,,,6770745.remi.hjortdahlkristensen,https://utmb.world/runner/6770745.remi.hjortdahlkristensen
+59.0,Thomas JONSSON,23:27:18,84438.0,Sweden,SE,55-59,H,,,508293.thomas.jonsson,https://utmb.world/runner/508293.thomas.jonsson
+60.0,Adrian MARTINEZ AZORIN,23:27:43,84463.0,Spain,ES,40-44,H,,,559605.adrian.martinezazorin,https://utmb.world/runner/559605.adrian.martinezazorin
+61.0,Tim KARLSSON,23:32:58,84778.0,Sweden,SE,20-34,H,,,6770679.tim.karlsson,https://utmb.world/runner/6770679.tim.karlsson
+62.0,Daniel LARSSON,23:37:24,85044.0,Sweden,SE,50-54,H,,,425025.daniel.larsson,https://utmb.world/runner/425025.daniel.larsson
+63.0,Alex CRAVCENCO,23:40:47,85247.0,Sweden,SE,35-39,H,,,4292411.alex.cravcenco,https://utmb.world/runner/4292411.alex.cravcenco
+64.0,Martin WESTLUND,23:58:29,86309.0,Sweden,SE,45-49,H,,,4202099.martin.westlund,https://utmb.world/runner/4202099.martin.westlund
+65.0,Andreas ANDERSSON,23:59:28,86368.0,Sweden,SE,35-39,H,,,6770607.andreas.andersson,https://utmb.world/runner/6770607.andreas.andersson
+66.0,Peter HALLDÉN,24:02:21,86541.0,Sweden,SE,40-44,H,,,1619803.peter.hallden,https://utmb.world/runner/1619803.peter.hallden
+67.0,Gautier MACAREZ,24:06:16,86776.0,France,FR,35-39,H,,,1805521.gautier.macarez,https://utmb.world/runner/1805521.gautier.macarez
+68.0,Martin JOHANSSON,24:06:31,86791.0,Sweden,SE,20-34,H,,,6496229.martin.johansson,https://utmb.world/runner/6496229.martin.johansson
+69.0,Linus LIDSTROM,24:06:46,86806.0,Sweden,SE,35-39,H,,,5524811.linus.lidstrom,https://utmb.world/runner/5524811.linus.lidstrom
+70.0,Anton LIDBLAD,24:11:04,87064.0,Sweden,SE,45-49,H,,,696407.anton.lidblad,https://utmb.world/runner/696407.anton.lidblad
+71.0,Marcus KJELLBERG,24:14:20,87260.0,Sweden,SE,50-54,H,,,1135785.marcus.kjellberg,https://utmb.world/runner/1135785.marcus.kjellberg
+72.0,Fredrik ANDERSSON,24:14:54,87294.0,Sweden,SE,35-39,H,,,5118930.fredrik.andersson,https://utmb.world/runner/5118930.fredrik.andersson
+73.0,Alexander JOHANSSON,24:15:11,87311.0,Sweden,SE,45-49,H,,,662041.alexander.johansson,https://utmb.world/runner/662041.alexander.johansson
+74.0,Christine FORSELL,24:20:13,87613.0,Sweden,SE,40-44,F,,,4716144.christine.forsell,https://utmb.world/runner/4716144.christine.forsell
+75.0,Petra PEUHU,24:26:31,87991.0,Finland,FI,50-54,F,,,750790.petra.peuhu,https://utmb.world/runner/750790.petra.peuhu
+76.0,Anders NOREN,24:27:24,88044.0,Sweden,SE,50-54,H,,,508777.anders.noren,https://utmb.world/runner/508777.anders.noren
+77.0,Mikael ANDERSSON,24:27:56,88076.0,Sweden,SE,45-49,H,,,1355777.mikael.andersson,https://utmb.world/runner/1355777.mikael.andersson
+78.0,Birger BOESEL,24:27:57,88077.0,Germany,DE,50-54,H,,,1537615.birger.boesel,https://utmb.world/runner/1537615.birger.boesel
+79.0,Joe WALFRIDSON,24:27:59,88079.0,Sweden,SE,50-54,H,,,1355779.joe.walfridson,https://utmb.world/runner/1355779.joe.walfridson
+80.0,Mikael BRIXEN,24:32:15,88335.0,Denmark,DK,40-44,H,,,4023456.mikael.brixen,https://utmb.world/runner/4023456.mikael.brixen
+81.0,Stefan TVEIT,24:36:16,88576.0,Sweden,SE,35-39,H,,,6047427.stefan.tveit,https://utmb.world/runner/6047427.stefan.tveit
+82.0,Andreas NOREN,24:46:16,89176.0,Sweden,SE,50-54,H,,,321149.andreas.noren,https://utmb.world/runner/321149.andreas.noren
+83.0,Linnea KARLSSON,24:46:18,89178.0,Sweden,SE,20-34,F,,,5075991.linnea.karlsson,https://utmb.world/runner/5075991.linnea.karlsson
+84.0,Antti VUORIO,24:49:22,89362.0,Finland,FI,40-44,H,,,4179812.antti.vuorio,https://utmb.world/runner/4179812.antti.vuorio
+85.0,Max SUDERBYS,24:53:23,89603.0,Sweden,SE,40-44,H,,,6770625.max.suderbys,https://utmb.world/runner/6770625.max.suderbys
+86.0,Ulf ÅKESSON (Ulf AKESSON),24:56:33,89793.0,Sweden,SE,50-54,H,,,4978416.ulf.akesson,https://utmb.world/runner/4978416.ulf.akesson
+87.0,Tim TUVESSON,24:56:53,89813.0,Sweden,SE,35-39,H,,,4301490.tim.tuvesson,https://utmb.world/runner/4301490.tim.tuvesson
+88.0,Oscar LINDEBORG,24:57:18,89838.0,Sweden,SE,40-44,H,,,4301495.oscar.lindeborg,https://utmb.world/runner/4301495.oscar.lindeborg
+89.0,Johan SUNDGREN,25:01:59,90119.0,Sweden,SE,20-34,H,,,5100464.johan.sundgren,https://utmb.world/runner/5100464.johan.sundgren
+90.0,Peter JAKOBSEN,25:02:40,90160.0,Denmark,DK,35-39,H,,,5543852.peter.jakobsen,https://utmb.world/runner/5543852.peter.jakobsen
+91.0,Martin WIRSTRÖM,25:04:48,90288.0,Sweden,SE,50-54,H,,,3377505.martin.wirstrom,https://utmb.world/runner/3377505.martin.wirstrom
+92.0,David THYLEN,25:05:04,90304.0,Sweden,SE,40-44,H,,,696500.david.thylen,https://utmb.world/runner/696500.david.thylen
+92.0,David SVENSSON,25:05:04,90304.0,Sweden,SE,20-34,H,,,4648853.david.svensson,https://utmb.world/runner/4648853.david.svensson
+94.0,Markus FORSSTRÖM,25:09:28,90568.0,Finland,FI,40-44,H,,,532672.markus.forsstrom,https://utmb.world/runner/532672.markus.forsstrom
+95.0,Nicolai Gravers NIELSEN,25:11:36,90696.0,Denmark,DK,55-59,H,,,4742282.nicolaigravers.nielsen,https://utmb.world/runner/4742282.nicolaigravers.nielsen
+96.0,Mats VIDINGER,25:13:24,90804.0,Sweden,SE,50-54,H,,,6770811.mats.vidinger,https://utmb.world/runner/6770811.mats.vidinger
+97.0,David PILERUD,25:15:36,90936.0,Sweden,SE,50-54,H,,,2576611.david.pilerud,https://utmb.world/runner/2576611.david.pilerud
+98.0,Sebastian SVANEBORN,25:15:56,90956.0,Sweden,SE,35-39,H,,,4954029.sebastian.svaneborn,https://utmb.world/runner/4954029.sebastian.svaneborn
+99.0,Fredrik UDDGREN,25:18:44,91124.0,Sweden,SE,50-54,H,,,551612.fredrik.uddgren,https://utmb.world/runner/551612.fredrik.uddgren
+100.0,Philip PEDERSEN,25:23:28,91408.0,Denmark,DK,40-44,H,,,495817.philip.pedersen,https://utmb.world/runner/495817.philip.pedersen
+101.0,Leon LYNNERUP,25:28:44,91724.0,Denmark,DK,20-34,H,,,6770631.leon.lynnerup,https://utmb.world/runner/6770631.leon.lynnerup
+102.0,Niklas KALLIN,25:29:27,91767.0,Sweden,SE,20-34,H,,,4301486.niklas.kallin,https://utmb.world/runner/4301486.niklas.kallin
+103.0,Anders HANSSON,25:32:01,91921.0,Sweden,SE,50-54,H,,,2987095.anders.hansson,https://utmb.world/runner/2987095.anders.hansson
+104.0,Joakim RO-POULSEN,25:33:56,92036.0,Denmark,DK,35-39,H,,,4823342.joakim.ropoulsen,https://utmb.world/runner/4823342.joakim.ropoulsen
+105.0,Jonas ENGER,25:34:54,92094.0,Sweden,SE,55-59,H,,,2272121.jonas.enger,https://utmb.world/runner/2272121.jonas.enger
+106.0,Jonathan WEIDOW,25:34:55,92095.0,Sweden,SE,45-49,H,,,3377489.jonathan.weidow,https://utmb.world/runner/3377489.jonathan.weidow
+107.0,Jesper CIVILIS,25:35:04,92104.0,Sweden,SE,35-39,H,,,5224281.jesper.civilis,https://utmb.world/runner/5224281.jesper.civilis
+108.0,Dennis LANDING,25:41:50,92510.0,Norway,NO,35-39,H,,,4151382.dennis.landing,https://utmb.world/runner/4151382.dennis.landing
+109.0,John FORS,25:45:50,92750.0,Sweden,SE,35-39,H,,,4823084.john.fors,https://utmb.world/runner/4823084.john.fors
+110.0,Adam BIRATH,25:57:07,93427.0,Sweden,SE,20-34,H,,,5479492.adam.birath,https://utmb.world/runner/5479492.adam.birath
+111.0,Jouni KEMPPAINEN,26:02:52,93772.0,Finland,FI,45-49,H,,,3189911.jouni.kemppainen,https://utmb.world/runner/3189911.jouni.kemppainen
+112.0,Matias HILSKA,26:02:53,93773.0,Finland,FI,20-34,H,,,6350584.matias.hilska,https://utmb.world/runner/6350584.matias.hilska
+113.0,Outi SEPPÄ,26:08:23,94103.0,Finland,FI,45-49,F,,,4580680.outi.seppa,https://utmb.world/runner/4580680.outi.seppa
+114.0,Martin RACZ GRANATH,26:09:48,94188.0,Sweden,SE,40-44,H,,,4379224.martin.raczgranath,https://utmb.world/runner/4379224.martin.raczgranath
+115.0,Robert JOHANSSON,26:13:56,94436.0,Sweden,SE,45-49,H,,,3394617.robert.johansson,https://utmb.world/runner/3394617.robert.johansson
+116.0,Santeri HILJANDER,26:18:26,94706.0,Finland,FI,20-34,H,,,4583154.santeri.hiljander,https://utmb.world/runner/4583154.santeri.hiljander
+117.0,Kai NIIRANEN,26:18:27,94707.0,Finland,FI,50-54,H,,,4581104.kai.niiranen,https://utmb.world/runner/4581104.kai.niiranen
+118.0,Sebastian MAURITSSON,26:19:35,94775.0,Sweden,SE,40-44,H,,,6770615.sebastian.mauritsson,https://utmb.world/runner/6770615.sebastian.mauritsson
+119.0,Morten FUNDINGSRUD,26:21:38,94898.0,Norway,NO,50-54,H,,,1454253.morten.fundingsrud,https://utmb.world/runner/1454253.morten.fundingsrud
+120.0,Andreas ANDERSSON,26:22:28,94948.0,Sweden,SE,50-54,H,,,6460488.andreas.andersson,https://utmb.world/runner/6460488.andreas.andersson
+121.0,Björn BARUP,26:28:10,95290.0,Sweden,SE,40-44,H,,,5063411.bjorn.barup,https://utmb.world/runner/5063411.bjorn.barup
+122.0,Zdeněk KŘIVÁNEK,26:29:57,95397.0,Czech Republic,CZ,40-44,H,,,4297968.zdenek.krivanek,https://utmb.world/runner/4297968.zdenek.krivanek
+123.0,Tobias FAHLEN,26:31:17,95477.0,Sweden,SE,35-39,H,,,5175581.tobias.fahlen,https://utmb.world/runner/5175581.tobias.fahlen
+124.0,Luke CLARK,26:32:19,95539.0,New Zealand,NZ,45-49,H,,,5883287.luke.clark,https://utmb.world/runner/5883287.luke.clark
+125.0,Tony HALVARSSON,26:38:02,95882.0,Sweden,SE,45-49,H,,,4301460.tony.halvarsson,https://utmb.world/runner/4301460.tony.halvarsson
+126.0,MICHAEL TONDER HOLM,26:39:26,95966.0,Denmark,DK,45-49,H,,,4373706.michael.tonderholm,https://utmb.world/runner/4373706.michael.tonderholm
+127.0,Thomas STAUN,26:39:34,95974.0,Denmark,DK,50-54,H,,,527337.thomas.staun,https://utmb.world/runner/527337.thomas.staun
+128.0,Henrik TOUDAL OFFERSEN,26:40:01,96001.0,Denmark,DK,35-39,H,,,2204383.henrik.toudaloffersen,https://utmb.world/runner/2204383.henrik.toudaloffersen
+129.0,Nicky BASS MOLHOLM,26:41:18,96078.0,Denmark,DK,45-49,H,,,4879951.nicky.bassmolholm,https://utmb.world/runner/4879951.nicky.bassmolholm
+130.0,Christian SAMUELSSON,26:41:34,96094.0,Sweden,SE,45-49,H,,,5973741.christian.samuelsson,https://utmb.world/runner/5973741.christian.samuelsson
+131.0,Johan EDENTEG,26:45:47,96347.0,Sweden,SE,45-49,H,,,508307.johan.edenteg,https://utmb.world/runner/508307.johan.edenteg
+132.0,Daniel HÅKANSSON,26:46:29,96389.0,Sweden,SE,45-49,H,,,2986963.daniel.hakansson,https://utmb.world/runner/2986963.daniel.hakansson
+133.0,Christine BJÖRK,26:46:31,96391.0,Sweden,SE,50-54,F,,,4681648.christine.bjork,https://utmb.world/runner/4681648.christine.bjork
+134.0,Martin NILSSON,26:49:39,96579.0,Sweden,SE,45-49,H,,,3585607.martin.nilsson,https://utmb.world/runner/3585607.martin.nilsson
+135.0,Mattias TOIVANEN,26:53:08,96788.0,Sweden,SE,35-39,H,,,6770627.mattias.toivanen,https://utmb.world/runner/6770627.mattias.toivanen
+136.0,Jenny STENGÅRD,26:58:32,97112.0,Sweden,SE,45-49,F,,,2222009.jenny.stengard,https://utmb.world/runner/2222009.jenny.stengard
+136.0,Filip JOELSSON,26:58:32,97112.0,Sweden,SE,50-54,H,,,4681718.filip.joelsson,https://utmb.world/runner/4681718.filip.joelsson
+138.0,Filip GAVEFALK,26:58:38,97118.0,Sweden,SE,20-34,H,,,4727502.filip.gavefalk,https://utmb.world/runner/4727502.filip.gavefalk
+139.0,Mika PÄIVINEN,27:05:06,97506.0,Finland,FI,40-44,H,,,2617853.mika.paivinen,https://utmb.world/runner/2617853.mika.paivinen
+140.0,Ida EK,27:06:16,97576.0,Sweden,SE,35-39,F,,,4682134.ida.ek,https://utmb.world/runner/4682134.ida.ek
+141.0,Jens EINARSSON,27:06:55,97615.0,Sweden,SE,45-49,H,,,3377793.jens.einarsson,https://utmb.world/runner/3377793.jens.einarsson
+142.0,Marcel MAGERMANS,27:09:03,97743.0,Netherlands,NL,60-64,H,,,1505741.marcel.magermans,https://utmb.world/runner/1505741.marcel.magermans
+143.0,Jeanette MIKKELSEN,27:10:08,97808.0,Denmark,DK,50-54,F,,,1008249.jeanette.mikkelsen,https://utmb.world/runner/1008249.jeanette.mikkelsen
+144.0,Anu OSSBERG,27:10:24,97824.0,Finland,FI,50-54,F,,,722614.anu.ossberg,https://utmb.world/runner/722614.anu.ossberg
+145.0,Gustav LARSEN,27:15:52,98152.0,Sweden,SE,35-39,H,,,6104540.gustav.larsen,https://utmb.world/runner/6104540.gustav.larsen
+146.0,Mattias GUNGNER,27:15:56,98156.0,Sweden,SE,40-44,H,,,5510286.mattias.gungner,https://utmb.world/runner/5510286.mattias.gungner
+147.0,Ole LARSEN,27:16:20,98180.0,Denmark,DK,60-64,H,,,4215488.ole.larsen,https://utmb.world/runner/4215488.ole.larsen
+147.0,Mikkel Tønder HAUSKOV,27:16:20,98180.0,Denmark,DK,20-34,H,,,6770777.mikkeltonder.hauskov,https://utmb.world/runner/6770777.mikkeltonder.hauskov
+149.0,Tommy FURLAND,27:18:27,98307.0,Sweden,SE,45-49,H,,,4812792.tommy.furland,https://utmb.world/runner/4812792.tommy.furland
+150.0,Andrzej BEDNARSKI,27:18:31,98311.0,France,FR,50-54,H,,,6152454.andrzej.bednarski,https://utmb.world/runner/6152454.andrzej.bednarski
+151.0,Mandus ANDERSSON,27:19:54,98394.0,Sweden,SE,20-34,H,,,4823498.mandus.andersson,https://utmb.world/runner/4823498.mandus.andersson
+151.0,Stefan VEDENBRANT,27:19:54,98394.0,Sweden,SE,35-39,H,,,4301461.stefan.vedenbrant,https://utmb.world/runner/4301461.stefan.vedenbrant
+151.0,Andreas FABIAN,27:19:54,98394.0,Sweden,SE,40-44,H,,,5880467.andreas.fabian,https://utmb.world/runner/5880467.andreas.fabian
+154.0,Igor ČUHEL (Igor CUHEL),27:22:11,98531.0,Czech Republic,CZ,35-39,H,,,2114993.igor.cuhel,https://utmb.world/runner/2114993.igor.cuhel
+155.0,Matthieu BERTHION,27:22:49,98569.0,France,FR,45-49,H,,,163516.matthieu.berthion,https://utmb.world/runner/163516.matthieu.berthion
+156.0,Patrik BJERNINGE,27:24:31,98671.0,Sweden,SE,40-44,H,,,5292131.patrik.bjerninge,https://utmb.world/runner/5292131.patrik.bjerninge
+157.0,Hedvig ORVENHOLT,27:34:50,99290.0,Sweden,SE,20-34,F,,,6770683.hedvig.orvenholt,https://utmb.world/runner/6770683.hedvig.orvenholt
+158.0,Markus AHRMAN,27:34:51,99291.0,Sweden,SE,45-49,H,,,6770779.markus.ahrman,https://utmb.world/runner/6770779.markus.ahrman
+159.0,Henrik SVANHOLT,27:49:37,100177.0,Denmark,DK,50-54,H,,,5750505.henrik.svanholt,https://utmb.world/runner/5750505.henrik.svanholt
+160.0,Niklas KARLSSON,27:49:38,100178.0,Sweden,SE,50-54,H,,,508239.niklas.karlsson,https://utmb.world/runner/508239.niklas.karlsson
+161.0,Elise Sangolt HEDALV,27:58:01,100681.0,Norway,NO,45-49,F,,,532553.elisesangolt.hedalv,https://utmb.world/runner/532553.elisesangolt.hedalv
+162.0,Jill WAKE,28:02:14,100934.0,Sweden,SE,40-44,F,,,5504625.jill.wake,https://utmb.world/runner/5504625.jill.wake
+163.0,Patrik RUNG,28:02:15,100935.0,Sweden,SE,45-49,H,,,492295.patrik.rung,https://utmb.world/runner/492295.patrik.rung
+164.0,Jonas ANDERSSON,28:08:26,101306.0,Sweden,SE,40-44,H,,,1619831.jonas.andersson,https://utmb.world/runner/1619831.jonas.andersson
+165.0,Jens ERIKSSON,28:12:33,101553.0,Sweden,SE,55-59,H,,,4193361.jens.eriksson,https://utmb.world/runner/4193361.jens.eriksson
+166.0,Camilla ALMSTEDT MALMGREN,28:12:34,101554.0,Sweden,SE,40-44,F,,,4301449.camilla.almstedtmalmgren,https://utmb.world/runner/4301449.camilla.almstedtmalmgren
+167.0,Kalle GORANSSON,28:12:35,101555.0,Sweden,SE,20-34,H,,,6770757.kalle.goransson,https://utmb.world/runner/6770757.kalle.goransson
+168.0,Kristian WOLLERSJÖ,28:12:46,101566.0,Sweden,SE,55-59,H,,,2576479.kristian.wollersjo,https://utmb.world/runner/2576479.kristian.wollersjo
+169.0,Mikkel THILO,28:24:16,102256.0,Denmark,DK,35-39,H,,,5574560.mikkel.thilo,https://utmb.world/runner/5574560.mikkel.thilo
+170.0,Baptiste MENEAU,28:24:25,102265.0,France,FR,20-34,H,,,6621206.baptiste.meneau,https://utmb.world/runner/6621206.baptiste.meneau
+171.0,Salla LAIHO,28:26:51,102411.0,Finland,FI,40-44,F,,,2092355.salla.laiho,https://utmb.world/runner/2092355.salla.laiho
+172.0,Nicolas RISTOJA,28:26:52,102412.0,Finland,FI,35-39,H,,,4715798.nicolas.ristoja,https://utmb.world/runner/4715798.nicolas.ristoja
+173.0,Mads EBBENSGAARD,28:31:47,102707.0,Denmark,DK,35-39,H,,,5743849.mads.ebbensgaard,https://utmb.world/runner/5743849.mads.ebbensgaard
+174.0,Dan NYKVIST,28:32:20,102740.0,Sweden,SE,50-54,H,,,4484372.dan.nykvist,https://utmb.world/runner/4484372.dan.nykvist
+175.0,Anton PÅLSSON,28:36:43,103003.0,Sweden,SE,40-44,H,,,4253285.anton.palsson,https://utmb.world/runner/4253285.anton.palsson
+176.0,Adrian GROSICKI,28:38:10,103090.0,Poland,PL,35-39,H,,,4365668.adrian.grosicki,https://utmb.world/runner/4365668.adrian.grosicki
+177.0,Sandra MARINILLI,28:38:33,103113.0,Sweden,SE,50-54,F,,,5439890.sandra.marinilli,https://utmb.world/runner/5439890.sandra.marinilli
+178.0,Anu KÄHKÖNEN,28:43:21,103401.0,Finland,FI,40-44,F,,,4898084.anu.kahkonen,https://utmb.world/runner/4898084.anu.kahkonen
+179.0,Rasmus LARSEN,28:44:17,103457.0,Denmark,DK,35-39,H,,,4823426.rasmus.larsen,https://utmb.world/runner/4823426.rasmus.larsen
+180.0,Carl-Johan DÖMSTEDT,28:48:51,103731.0,Sweden,SE,45-49,H,,,4681798.carljohan.domstedt,https://utmb.world/runner/4681798.carljohan.domstedt
+181.0,Henrik RYE,28:49:19,103759.0,Sweden,SE,50-54,H,,,4527930.henrik.rye,https://utmb.world/runner/4527930.henrik.rye
+182.0,Anton EK,28:49:20,103760.0,Sweden,SE,35-39,H,,,4823436.anton.ek,https://utmb.world/runner/4823436.anton.ek
+182.0,Sean KELLY,28:49:20,103760.0,United Kingdom,GB,45-49,H,,,4168445.sean.kelly,https://utmb.world/runner/4168445.sean.kelly
+184.0,Nicklas LARSSON,28:49:25,103765.0,Sweden,SE,55-59,H,,,4383934.nicklas.larsson,https://utmb.world/runner/4383934.nicklas.larsson
+185.0,Martin BURTON,28:50:14,103814.0,United Kingdom,GB,50-54,H,,,569300.martin.burton,https://utmb.world/runner/569300.martin.burton
+186.0,Ludvig DICKMAN,28:55:59,104159.0,Sweden,SE,35-39,H,,,4536729.ludvig.dickman,https://utmb.world/runner/4536729.ludvig.dickman
+187.0,Marko KYLMÄLÄ,28:57:24,104244.0,Finland,FI,40-44,H,,,320654.marko.kylmala,https://utmb.world/runner/320654.marko.kylmala
+188.0,Christofer WAHLMAN,29:01:55,104515.0,Sweden,SE,45-49,H,,,3461359.christofer.wahlman,https://utmb.world/runner/3461359.christofer.wahlman
+188.0,Julius ANDERBERG,29:01:55,104515.0,Sweden,SE,20-34,H,,,6460966.julius.anderberg,https://utmb.world/runner/6460966.julius.anderberg
+190.0,Jens MOGENSEN,29:02:24,104544.0,Denmark,DK,60-64,H,,,6770845.jens.mogensen,https://utmb.world/runner/6770845.jens.mogensen
+191.0,Peter FISKER,29:02:57,104577.0,Denmark,DK,45-49,H,,,1031139.peter.fisker,https://utmb.world/runner/1031139.peter.fisker
+192.0,Sittichai PANROD,29:03:28,104608.0,Thailand,TH,35-39,H,,,6700598.sittichai.panrod,https://utmb.world/runner/6700598.sittichai.panrod
+193.0,Victor NILSSON,29:03:45,104625.0,Sweden,SE,50-54,H,,,4301516.victor.nilsson,https://utmb.world/runner/4301516.victor.nilsson
+194.0,Maria NORDFJELL,29:05:18,104718.0,Sweden,SE,55-59,F,,,494861.maria.nordfjell,https://utmb.world/runner/494861.maria.nordfjell
+195.0,Susann ERIKSSON,29:05:28,104728.0,Sweden,SE,40-44,F,,,5320262.susann.eriksson,https://utmb.world/runner/5320262.susann.eriksson
+196.0,Tay TRAN,29:06:23,104783.0,Sweden,SE,40-44,H,,,5327498.tay.tran,https://utmb.world/runner/5327498.tay.tran
+197.0,Alexander OLOFSSON,29:10:51,105051.0,Sweden,SE,40-44,H,,,5742217.alexander.olofsson,https://utmb.world/runner/5742217.alexander.olofsson
+198.0,Simon TREPP,29:11:15,105075.0,Sweden,SE,40-44,H,,,6770847.simon.trepp,https://utmb.world/runner/6770847.simon.trepp
+199.0,Lewis WATMOUGH,29:15:20,105320.0,United Kingdom,GB,20-34,H,,,5175579.lewis.watmough,https://utmb.world/runner/5175579.lewis.watmough
+200.0,Marek POLACH,29:17:59,105479.0,Czech Republic,CZ,20-34,H,,,4713206.marek.polach,https://utmb.world/runner/4713206.marek.polach
+201.0,Jessica STÅHL-NORRIS,29:19:35,105575.0,Sweden,SE,45-49,F,,,2439905.jessica.stahlnorris,https://utmb.world/runner/2439905.jessica.stahlnorris
+202.0,Daniel BJÖRNSON,29:19:57,105597.0,Sweden,SE,45-49,H,,,4301518.daniel.bjornson,https://utmb.world/runner/4301518.daniel.bjornson
+203.0,Carsten JACOBSEN,29:21:23,105683.0,Denmark,DK,55-59,H,,,321182.carsten.jacobsen,https://utmb.world/runner/321182.carsten.jacobsen
+204.0,Ia ERLANDSSON,29:21:26,105686.0,Sweden,SE,20-34,F,,,5517865.ia.erlandsson,https://utmb.world/runner/5517865.ia.erlandsson
+205.0,Mikkel KRÖYER,29:21:56,105716.0,Sweden,SE,50-54,H,,,4823280.mikkel.kroyer,https://utmb.world/runner/4823280.mikkel.kroyer
+206.0,Urban ÅSTRÖM (Urban ASTROM),29:21:57,105717.0,Sweden,SE,45-49,H,,,527953.urban.astrom,https://utmb.world/runner/527953.urban.astrom
+207.0,Edwin VAN ASSELDONK,29:24:10,105850.0,Netherlands,NL,45-49,H,,,3230693.edwin.vanasseldonk,https://utmb.world/runner/3230693.edwin.vanasseldonk
+208.0,Mikael SINIJÄRV,29:24:13,105853.0,Sweden,SE,35-39,H,,,6460620.mikael.sinijarv,https://utmb.world/runner/6460620.mikael.sinijarv
+209.0,Helmi HALLAPAA,29:25:35,105935.0,Finland,FI,20-34,F,,,1081163.helmi.hallapaa,https://utmb.world/runner/1081163.helmi.hallapaa
+210.0,Johan HOLMSTRAND,29:25:58,105958.0,Sweden,SE,40-44,H,,,6152568.johan.holmstrand,https://utmb.world/runner/6152568.johan.holmstrand
+211.0,Juha KAMPPINEN,29:26:18,105978.0,Sweden,SE,55-59,H,,,723754.juha.kamppinen,https://utmb.world/runner/723754.juha.kamppinen
+212.0,Jonas SVENSSON,29:28:39,106119.0,Sweden,SE,50-54,H,,,4416376.jonas.svensson,https://utmb.world/runner/4416376.jonas.svensson
+213.0,Simon CARL,29:48:36,107316.0,Belgium,BE,55-59,H,,,1395015.simon.carl,https://utmb.world/runner/1395015.simon.carl
+214.0,Anton ANGELING,29:51:05,107465.0,Sweden,SE,35-39,H,,,4691518.anton.angeling,https://utmb.world/runner/4691518.anton.angeling
+215.0,Steen ANDERSEN,29:55:14,107714.0,Sweden,SE,50-54,H,,,4379194.steen.andersen,https://utmb.world/runner/4379194.steen.andersen
+216.0,Gustav AGLERT,29:58:11,107891.0,Sweden,SE,20-34,H,,,6474750.gustav.aglert,https://utmb.world/runner/6474750.gustav.aglert
+217.0,Mewen RENONCOURT,29:59:00,107940.0,France,FR,U20,H,,,6770761.mewen.renoncourt,https://utmb.world/runner/6770761.mewen.renoncourt
+218.0,Johan LELIE,30:01:33,108093.0,Belgium,BE,55-59,H,,,5066285.johan.lelie,https://utmb.world/runner/5066285.johan.lelie
+219.0,Niclas KLING,30:02:31,108151.0,Sweden,SE,50-54,H,,,4200830.niclas.kling,https://utmb.world/runner/4200830.niclas.kling
+220.0,Olle TOUR SOHLIN,30:04:16,108256.0,Sweden,SE,40-44,H,,,4416450.olle.toursohlin,https://utmb.world/runner/4416450.olle.toursohlin
+221.0,Mattias JOHANSSON,30:05:24,108324.0,Sweden,SE,40-44,H,,,811479.mattias.johansson,https://utmb.world/runner/811479.mattias.johansson
+222.0,Fredrik SETTERBERG,30:06:34,108394.0,Sweden,SE,40-44,H,,,5365604.fredrik.setterberg,https://utmb.world/runner/5365604.fredrik.setterberg
+223.0,Kim Jessing PEDERSEN,30:07:42,108462.0,Denmark,DK,50-54,H,,,2367827.kimjessing.pedersen,https://utmb.world/runner/2367827.kimjessing.pedersen
+224.0,Ewa WISNIEWSKA,30:11:28,108688.0,Sweden,SE,50-54,F,,,1629105.ewa.wisniewska,https://utmb.world/runner/1629105.ewa.wisniewska
+225.0,Jonniaux GERY,30:11:31,108691.0,Belgium,BE,35-39,H,,,5256635.jonniaux.gery,https://utmb.world/runner/5256635.jonniaux.gery
+226.0,Philip NYHLEN,30:18:15,109095.0,Sweden,SE,40-44,H,,,5742263.philip.nyhlen,https://utmb.world/runner/5742263.philip.nyhlen
+227.0,Robert Svensson,30:18:22,109102.0,Sweden,SE,40-44,H,,,7809821.robert.svensson,https://utmb.world/runner/7809821.robert.svensson
+228.0,Martin WASIELEWSKI,30:23:13,109393.0,Germany,DE,40-44,H,,,4661900.martin.wasielewski,https://utmb.world/runner/4661900.martin.wasielewski
+229.0,Markus DUNST,30:23:39,109419.0,Germany,DE,35-39,H,,,4277419.markus.dunst,https://utmb.world/runner/4277419.markus.dunst
+230.0,Rokas AUGUNAS,30:23:51,109431.0,Lithuania,LT,20-34,H,,,5064997.rokas.augunas,https://utmb.world/runner/5064997.rokas.augunas
+231.0,Andy COOKSEY,30:28:14,109694.0,United Kingdom,GB,60-64,H,,,577809.andy.cooksey,https://utmb.world/runner/577809.andy.cooksey
+232.0,Mats ROSENBERG,30:28:58,109738.0,Sweden,SE,55-59,H,,,2168443.mats.rosenberg,https://utmb.world/runner/2168443.mats.rosenberg
+233.0,Daniel HUSSFELT,30:29:18,109758.0,Sweden,SE,45-49,H,,,4681470.daniel.hussfelt,https://utmb.world/runner/4681470.daniel.hussfelt
+234.0,Kristina GUSTAVSSON,30:29:41,109781.0,Sweden,SE,55-59,F,,,4681852.kristina.gustavsson,https://utmb.world/runner/4681852.kristina.gustavsson
+235.0,Magnus ELMQUIST,30:29:46,109786.0,Sweden,SE,45-49,H,,,4715866.magnus.elmquist,https://utmb.world/runner/4715866.magnus.elmquist
+236.0,Jesper FLINK,30:36:19,110179.0,Sweden,SE,55-59,H,,,665770.jesper.flink,https://utmb.world/runner/665770.jesper.flink
+237.0,Johan Loco NORDENBERG,30:39:26,110366.0,Sweden,SE,45-49,H,,,2986855.johanloco.nordenberg,https://utmb.world/runner/2986855.johanloco.nordenberg
+238.0,Johan EHRIN,30:39:57,110397.0,Sweden,SE,40-44,H,,,1634775.johan.ehrin,https://utmb.world/runner/1634775.johan.ehrin
+239.0,Pekka KOTILA,30:43:54,110634.0,Finland,FI,45-49,H,,,3123225.pekka.kotila,https://utmb.world/runner/3123225.pekka.kotila
+240.0,Saku PUUMALA,30:44:09,110649.0,Finland,FI,40-44,H,,,1305961.saku.puumala,https://utmb.world/runner/1305961.saku.puumala
+241.0,Harri VUOLLE,30:46:26,110786.0,Finland,FI,45-49,H,,,1080531.harri.vuolle,https://utmb.world/runner/1080531.harri.vuolle
+242.0,Thor TVEITAN,30:50:06,111006.0,Norway,NO,55-59,H,,,6318006.thor.tveitan,https://utmb.world/runner/6318006.thor.tveitan
+243.0,Morgan SJODAL,30:50:34,111034.0,Sweden,SE,50-54,H,,,5058173.morgan.sjodal,https://utmb.world/runner/5058173.morgan.sjodal
+244.0,Johan NILSSON,30:50:46,111046.0,Sweden,SE,45-49,H,,,1619891.johan.nilsson,https://utmb.world/runner/1619891.johan.nilsson
+245.0,Jesper ELFVING,30:50:58,111058.0,Denmark,DK,60-64,H,,,2054813.jesper.elfving,https://utmb.world/runner/2054813.jesper.elfving
+246.0,Jonas BIRGERSSON,30:54:34,111274.0,Sweden,SE,45-49,H,,,116220.jonas.birgersson,https://utmb.world/runner/116220.jonas.birgersson
+247.0,Odd EDØY,30:54:51,111291.0,Norway,NO,65-69,H,,,532484.odd.edoy,https://utmb.world/runner/532484.odd.edoy
+248.0,Benjamin MURPHY,30:57:58,111478.0,United States of America,US,20-34,H,,,6489063.benjamin.murphy,https://utmb.world/runner/6489063.benjamin.murphy
+249.0,Isak FREDIN,30:59:34,111574.0,Sweden,SE,20-34,H,,,5742265.isak.fredin,https://utmb.world/runner/5742265.isak.fredin
+250.0,Mikael LINDSTRAND,31:00:28,111628.0,Sweden,SE,55-59,H,,,665734.mikael.lindstrand,https://utmb.world/runner/665734.mikael.lindstrand
+251.0,Tiina MAKELA,31:01:16,111676.0,Finland,FI,40-44,F,,,438881.tiina.makela,https://utmb.world/runner/438881.tiina.makela
+251.0,Mikko MÄKI,31:01:16,111676.0,Finland,FI,50-54,H,,,4180178.mikko.maki,https://utmb.world/runner/4180178.mikko.maki
+253.0,Andreas FEYMARK,31:02:15,111735.0,Sweden,SE,40-44,H,,,6770763.andreas.feymark,https://utmb.world/runner/6770763.andreas.feymark
+254.0,James THACKERAY,31:04:54,111894.0,United Kingdom,GB,50-54,H,,,566308.james.thackeray,https://utmb.world/runner/566308.james.thackeray
+255.0,Mikael BRAMSTEDT,31:06:16,111976.0,Sweden,SE,50-54,H,,,5742095.mikael.bramstedt,https://utmb.world/runner/5742095.mikael.bramstedt
+256.0,Joel TOVSTEDT,31:06:28,111988.0,Sweden,SE,35-39,H,,,5479254.joel.tovstedt,https://utmb.world/runner/5479254.joel.tovstedt
+257.0,Lukasz BOBER,31:07:36,112056.0,Sweden,SE,45-49,H,,,4200836.lukasz.bober,https://utmb.world/runner/4200836.lukasz.bober
+258.0,Petri LASSHEIKKI,31:07:41,112061.0,Finland,FI,50-54,H,,,201202.petri.lassheikki,https://utmb.world/runner/201202.petri.lassheikki
+259.0,Petri NUKARINEN,31:07:45,112065.0,Finland,FI,45-49,H,,,1447087.petri.nukarinen,https://utmb.world/runner/1447087.petri.nukarinen
+260.0,Peter ROISSETTER,31:10:29,112229.0,United Kingdom,GB,55-59,H,,,5465210.peter.roissetter,https://utmb.world/runner/5465210.peter.roissetter
+261.0,Andreas WALLIN,31:11:55,112315.0,Sweden,SE,35-39,H,,,6446362.andreas.wallin,https://utmb.world/runner/6446362.andreas.wallin
+262.0,Alexis ROLLAND JACOUB,31:12:11,112331.0,France,FR,45-49,H,,,731.alexis.rollandjacoub,https://utmb.world/runner/731.alexis.rollandjacoub
+263.0,Ilker BURGAÇ,31:13:01,112381.0,Türkiye,TR,50-54,H,,,1819471.ilker.burgac,https://utmb.world/runner/1819471.ilker.burgac
+264.0,Jonas LUDVIGSSON,31:13:58,112438.0,Sweden,SE,45-49,H,,,1356237.jonas.ludvigsson,https://utmb.world/runner/1356237.jonas.ludvigsson
+265.0,Fredrik TOLF,31:13:59,112439.0,Sweden,SE,45-49,H,,,1356195.fredrik.tolf,https://utmb.world/runner/1356195.fredrik.tolf
+266.0,Andreas HANSSON,31:14:06,112446.0,Sweden,SE,40-44,H,,,5066293.andreas.hansson,https://utmb.world/runner/5066293.andreas.hansson
+266.0,Christofer SCHYBERG,31:14:06,112446.0,Sweden,SE,35-39,H,,,6488227.christofer.schyberg,https://utmb.world/runner/6488227.christofer.schyberg
+268.0,Martin NORDLUND,31:14:43,112483.0,Sweden,SE,45-49,H,,,2211089.martin.nordlund,https://utmb.world/runner/2211089.martin.nordlund
+269.0,Jonas LARSSON,31:14:46,112486.0,Sweden,SE,50-54,H,,,4301589.jonas.larsson,https://utmb.world/runner/4301589.jonas.larsson
+270.0,Hans-Johan NYHOLM,31:16:46,112606.0,Sweden,SE,20-34,H,,,6491755.hansjohan.nyholm,https://utmb.world/runner/6491755.hansjohan.nyholm
+271.0,Martin ABRAHAMSSON,31:16:49,112609.0,Sweden,SE,50-54,H,,,4201170.martin.abrahamsson,https://utmb.world/runner/4201170.martin.abrahamsson
+272.0,Sofia ERIKSSON,31:18:05,112685.0,Sweden,SE,50-54,F,,,691558.sofia.eriksson,https://utmb.world/runner/691558.sofia.eriksson
+272.0,Anders STENVALL,31:18:05,112685.0,Sweden,SE,45-49,H,,,5742063.anders.stenvall,https://utmb.world/runner/5742063.anders.stenvall
+274.0,Tobias FABBEKE,31:18:31,112711.0,Sweden,SE,40-44,H,,,4135485.tobias.fabbeke,https://utmb.world/runner/4135485.tobias.fabbeke
+275.0,Patrik SMITH,31:19:02,112742.0,Sweden,SE,45-49,H,,,4301575.patrik.smith,https://utmb.world/runner/4301575.patrik.smith
+276.0,Mikael SELDAHL,31:20:38,112838.0,Sweden,SE,35-39,H,,,6770729.mikael.seldahl,https://utmb.world/runner/6770729.mikael.seldahl
+277.0,Rikard ROVA,31:20:39,112839.0,Sweden,SE,35-39,H,,,6770843.rikard.rova,https://utmb.world/runner/6770843.rikard.rova
+278.0,Kim ANDERSEN,31:20:57,112857.0,Denmark,DK,55-59,H,,,5140495.kim.andersen,https://utmb.world/runner/5140495.kim.andersen
+279.0,Rasmus GLIMBERG,31:22:01,112921.0,Sweden,SE,20-34,H,,,5742121.rasmus.glimberg,https://utmb.world/runner/5742121.rasmus.glimberg
+280.0,Felix IVARSSON LUNDMARK,31:22:05,112925.0,Sweden,SE,20-34,H,,,6045785.felix.ivarssonlundmark,https://utmb.world/runner/6045785.felix.ivarssonlundmark
+281.0,Rasmus MALMBORG,31:24:36,113076.0,Sweden,SE,45-49,H,,,1087959.rasmus.malmborg,https://utmb.world/runner/1087959.rasmus.malmborg
+282.0,Anna MALMBORG,31:24:39,113079.0,Sweden,SE,45-49,F,,,662246.anna.malmborg,https://utmb.world/runner/662246.anna.malmborg
+283.0,Mikael WHERN,31:25:08,113108.0,Sweden,SE,45-49,H,,,5479274.mikael.whern,https://utmb.world/runner/5479274.mikael.whern
+284.0,Tobias WULFF,31:26:49,113209.0,Sweden,SE,50-54,H,,,3816105.tobias.wulff,https://utmb.world/runner/3816105.tobias.wulff
+285.0,Malo LE FUR,31:27:37,113257.0,France,FR,20-34,H,,,6317258.malo.lefur,https://utmb.world/runner/6317258.malo.lefur
+286.0,Leonard BACHNER,31:28:20,113300.0,Sweden,SE,40-44,H,,,6460670.leonard.bachner,https://utmb.world/runner/6460670.leonard.bachner
+287.0,Kajsa SVENSSON,31:28:22,113302.0,Sweden,SE,45-49,F,,,1960589.kajsa.svensson,https://utmb.world/runner/1960589.kajsa.svensson
+287.0,Kiki SOLENDER,31:28:22,113302.0,Sweden,SE,50-54,F,,,532693.kiki.solender,https://utmb.world/runner/532693.kiki.solender
+289.0,Otto BLUCKER,31:29:22,113362.0,Sweden,SE,35-39,H,,,6408816.otto.blucker,https://utmb.world/runner/6408816.otto.blucker
+290.0,Clara VIKLUND BORG,31:30:02,113402.0,Sweden,SE,45-49,F,,,1279065.clara.viklundborg,https://utmb.world/runner/1279065.clara.viklundborg
+291.0,Lars VAEDELED ROED,31:30:36,113436.0,Denmark,DK,45-49,H,,,4978962.lars.vaedeledroed,https://utmb.world/runner/4978962.lars.vaedeledroed
+292.0,Benny GLASSEE,31:31:01,113461.0,Belgium,BE,50-54,H,,,428217.benny.glassee,https://utmb.world/runner/428217.benny.glassee
+293.0,Charlotte LAGERSTED,31:37:40,113860.0,Denmark,DK,45-49,F,,,3022745.charlotte.lagersted,https://utmb.world/runner/3022745.charlotte.lagersted
+294.0,Jonas AAGAARD MADSEN,31:37:41,113861.0,Denmark,DK,45-49,H,,,6770837.jonas.aagaardmadsen,https://utmb.world/runner/6770837.jonas.aagaardmadsen
+295.0,Margarita SJURSEN,31:38:01,113881.0,Norway,NO,40-44,F,,,4205685.margarita.sjursen,https://utmb.world/runner/4205685.margarita.sjursen
+296.0,Axel RISINGER LILJEGREN,31:38:04,113884.0,Sweden,SE,20-34,H,,,5742097.axel.risingerliljegren,https://utmb.world/runner/5742097.axel.risingerliljegren
+297.0,Lars ABELIUS,31:39:21,113961.0,Sweden,SE,45-49,H,,,1660817.lars.abelius,https://utmb.world/runner/1660817.lars.abelius
+298.0,Peter CARLSTEDT,31:39:55,113995.0,Sweden,SE,50-54,H,,,4681698.peter.carlstedt,https://utmb.world/runner/4681698.peter.carlstedt
+299.0,Marcus NORDIN,31:39:57,113997.0,Sweden,SE,40-44,H,,,4679990.marcus.nordin,https://utmb.world/runner/4679990.marcus.nordin
+300.0,Van LE,31:40:38,114038.0,Sweden,SE,40-44,H,,,5074159.van.le,https://utmb.world/runner/5074159.van.le
+301.0,Anders SVAN,31:42:43,114163.0,Sweden,SE,45-49,H,,,4141376.anders.svan,https://utmb.world/runner/4141376.anders.svan
+301.0,Camilla LINDSTRÖM,31:42:43,114163.0,Sweden,SE,45-49,F,,,4681774.camilla.lindstrom,https://utmb.world/runner/4681774.camilla.lindstrom
+303.0,Richard OHLSSON,31:42:44,114164.0,Sweden,SE,40-44,H,,,4681776.richard.ohlsson,https://utmb.world/runner/4681776.richard.ohlsson
+304.0,Johan OLSSON,31:42:46,114166.0,Sweden,SE,45-49,H,,,6461088.johan.olsson,https://utmb.world/runner/6461088.johan.olsson
+305.0,Martin EKSTRÖM,31:42:57,114177.0,Sweden,SE,50-54,H,,,6770715.martin.ekstrom,https://utmb.world/runner/6770715.martin.ekstrom
+306.0,Niclas SUNDBERG,31:44:07,114247.0,Sweden,SE,35-39,H,,,6460530.niclas.sundberg,https://utmb.world/runner/6460530.niclas.sundberg
+307.0,Ulrika SEGERLUND,31:44:57,114297.0,Sweden,SE,55-59,F,,,4409138.ulrika.segerlund,https://utmb.world/runner/4409138.ulrika.segerlund
+308.0,Catrine BARKENTIN,31:45:00,114300.0,Sweden,SE,55-59,F,,,3022675.catrine.barkentin,https://utmb.world/runner/3022675.catrine.barkentin
+309.0,Erik JOHANSSON,31:45:11,114311.0,Sweden,SE,20-34,H,,,5136085.erik.johansson,https://utmb.world/runner/5136085.erik.johansson
+310.0,Martin KRAENZMER,31:47:52,114472.0,Sweden,SE,60-64,H,,,293493.martin.kraenzmer,https://utmb.world/runner/293493.martin.kraenzmer
+311.0,Karim LAHMINI,31:51:13,114673.0,Finland,FI,45-49,H,,,3015189.karim.lahmini,https://utmb.world/runner/3015189.karim.lahmini
+312.0,Anonymous,31:51:42,114702.0,Sweden,SE,40-44,H,,,,
+313.0,Conny E ANDERBERG,31:56:37,114997.0,Sweden,SE,55-59,H,,,2576879.conny.eanderberg,https://utmb.world/runner/2576879.conny.eanderberg
+314.0,Vinh NORBERG NGUYEN,31:57:55,115075.0,Sweden,SE,40-44,H,,,5233307.vinh.norbergnguyen,https://utmb.world/runner/5233307.vinh.norbergnguyen
+,Julien LURTON,,,France,FR,20-34,H,,,6314220.julien.lurton,https://utmb.world/runner/6314220.julien.lurton
+,Olle ZETTERBERG,,,Sweden,SE,20-34,H,,,6461544.olle.zetterberg,https://utmb.world/runner/6461544.olle.zetterberg
+,Niklas JONSSON,,,Sweden,SE,40-44,H,,,6770801.niklas.jonsson,https://utmb.world/runner/6770801.niklas.jonsson
+,Mats HEDLUND,,,Sweden,SE,40-44,H,,,4200848.mats.hedlund,https://utmb.world/runner/4200848.mats.hedlund
+,Joakim OHLANDER,,,Sweden,SE,20-34,H,,,6770703.joakim.ohlander,https://utmb.world/runner/6770703.joakim.ohlander
+,Klas ALENLJUNG,,,Sweden,SE,45-49,H,,,4301530.klas.alenljung,https://utmb.world/runner/4301530.klas.alenljung
+,Nils NYBERG,,,Sweden,SE,20-34,H,,,5398427.nils.nyberg,https://utmb.world/runner/5398427.nils.nyberg
+,Joakim TUOVINEN,,,Sweden,SE,40-44,H,,,5742251.joakim.tuovinen,https://utmb.world/runner/5742251.joakim.tuovinen
+,Daniel SKJELHAUGEN,,,Norway,NO,20-34,H,,,6113444.daniel.skjelhaugen,https://utmb.world/runner/6113444.daniel.skjelhaugen
+,Stefan BOLLING,,,Sweden,SE,50-54,H,,,5742237.stefan.bolling,https://utmb.world/runner/5742237.stefan.bolling
+,Peter EDVIK,,,Sweden,SE,50-54,H,,,551640.peter.edvik,https://utmb.world/runner/551640.peter.edvik
+,Lukas SVENSSON,,,Sweden,SE,20-34,H,,,6461130.lukas.svensson,https://utmb.world/runner/6461130.lukas.svensson
+,Raymond SMITH,,,Norway,NO,45-49,H,,,5227735.raymond.smith,https://utmb.world/runner/5227735.raymond.smith
+,Kristian HEDENDAL,,,Sweden,SE,45-49,H,,,4934638.kristian.hedendal,https://utmb.world/runner/4934638.kristian.hedendal
+,Jennie STAHRE,,,Sweden,SE,45-49,F,,,2272209.jennie.stahre,https://utmb.world/runner/2272209.jennie.stahre
+,Kent ANDERSSON,,,Sweden,SE,50-54,H,,,5479376.kent.andersson,https://utmb.world/runner/5479376.kent.andersson
+,Ola PETERSSON,,,Sweden,SE,50-54,H,,,1658643.ola.petersson,https://utmb.world/runner/1658643.ola.petersson
+,Daniel TORNVALL,,,Sweden,SE,35-39,H,,,4823898.daniel.tornvall,https://utmb.world/runner/4823898.daniel.tornvall
+,Oscar SKULLMAN,,,Sweden,SE,20-34,H,,,5801351.oscar.skullman,https://utmb.world/runner/5801351.oscar.skullman
+,Bo HÖGBERG,,,Sweden,SE,35-39,H,,,4528300.bo.hogberg,https://utmb.world/runner/4528300.bo.hogberg
+,Nicklas NORDBORG,,,Sweden,SE,55-59,H,,,3816149.nicklas.nordborg,https://utmb.world/runner/3816149.nicklas.nordborg
+,Johanna SVENSSON,,,Sweden,SE,55-59,F,,,3407253.johanna.svensson,https://utmb.world/runner/3407253.johanna.svensson
+,Anonymous,,,Sweden,SE,50-54,H,,,,
+,Tommy SWING,,,Sweden,SE,50-54,H,,,5742129.tommy.swing,https://utmb.world/runner/5742129.tommy.swing
+,Anna LARSSON,,,Sweden,SE,40-44,F,,,4715900.anna.larsson,https://utmb.world/runner/4715900.anna.larsson
+,Grégory BOURGARD,,,Belgium,BE,40-44,H,,,1460663.gregory.bourgard,https://utmb.world/runner/1460663.gregory.bourgard
+,Jacob DE LEUR,,,Sweden,SE,50-54,H,,,5912895.jacob.deleur,https://utmb.world/runner/5912895.jacob.deleur
+,Malin ENGRUND,,,Sweden,SE,50-54,F,,,6770619.malin.engrund,https://utmb.world/runner/6770619.malin.engrund
+,Per GUSTAVSSON,,,Sweden,SE,60-64,H,,,6461200.per.gustavsson,https://utmb.world/runner/6461200.per.gustavsson
+,Erik GUSTAFSSON,,,Sweden,SE,50-54,H,,,1620099.erik.gustafsson,https://utmb.world/runner/1620099.erik.gustafsson
+,Mikaela SVENSSON,,,Sweden,SE,20-34,F,,,5061875.mikaela.svensson,https://utmb.world/runner/5061875.mikaela.svensson
+,Uldis GALBALINS,,,Latvia,LV,20-34,H,,,5599293.uldis.galbalins,https://utmb.world/runner/5599293.uldis.galbalins
+,Daniel Elowsson,,,Sweden,SE,40-44,H,,,7809827.daniel.elowsson,https://utmb.world/runner/7809827.daniel.elowsson
+,Madelene FELLÄNDER,,,Sweden,SE,40-44,F,,,5479160.madelene.fellander,https://utmb.world/runner/5479160.madelene.fellander
+,Sofia WALLTOFT,,,Sweden,SE,45-49,F,,,2292565.sofia.walltoft,https://utmb.world/runner/2292565.sofia.walltoft
+,Mats NÄS,,,Sweden,SE,50-54,H,,,4528488.mats.nas,https://utmb.world/runner/4528488.mats.nas
+,Fredrik KLAAR,,,Sweden,SE,50-54,H,,,5479768.fredrik.klaar,https://utmb.world/runner/5479768.fredrik.klaar
+,Patrik ÖNNHEIM (Patrik ONNHEIM),,,Sweden,SE,40-44,H,,,3985953.patrik.onnheim,https://utmb.world/runner/3985953.patrik.onnheim
+,Marko AROTAIVAL,,,Sweden,SE,55-59,H,,,691602.marko.arotaival,https://utmb.world/runner/691602.marko.arotaival
+,Bart WISSINK,,,Netherlands,NL,40-44,H,,,5078929.bart.wissink,https://utmb.world/runner/5078929.bart.wissink
+,Yann BENZ,,,France,FR,50-54,H,,,4217636.yann.benz,https://utmb.world/runner/4217636.yann.benz
+,Christian JOHANSSON,,,Sweden,SE,45-49,H,,,6770823.christian.johansson,https://utmb.world/runner/6770823.christian.johansson
+,Mads DOLLERIS,,,Denmark,DK,45-49,H,,,837242.mads.dolleris,https://utmb.world/runner/837242.mads.dolleris
+,Karl-Johan MELÉN,,,Sweden,SE,20-34,H,,,5479538.karljohan.melen,https://utmb.world/runner/5479538.karljohan.melen
+,Barbro JULIN,,,Sweden,SE,60-64,F,,,4245776.barbro.julin,https://utmb.world/runner/4245776.barbro.julin
+,Gunnar KARLSSON,,,Sweden,SE,55-59,H,,,5638406.gunnar.karlsson,https://utmb.world/runner/5638406.gunnar.karlsson
+,Ossian ANDERSSON,,,Sweden,SE,20-34,H,,,6770709.ossian.andersson,https://utmb.world/runner/6770709.ossian.andersson
+,Cédric QUENARDEL,,,France,FR,20-34,H,,,4863589.cedric.quenardel,https://utmb.world/runner/4863589.cedric.quenardel
+,Monica JOHANSSON,,,Sweden,SE,45-49,F,,,1858289.monica.johansson,https://utmb.world/runner/1858289.monica.johansson
+,Oscar ISAKSSON,,,Sweden,SE,35-39,H,,,4301448.oscar.isaksson,https://utmb.world/runner/4301448.oscar.isaksson
+,Maria SAXVALL,,,Sweden,SE,40-44,F,,,1630619.maria.saxvall,https://utmb.world/runner/1630619.maria.saxvall
+,Thomas MELEN,,,Sweden,SE,60-64,H,,,532722.thomas.melen,https://utmb.world/runner/532722.thomas.melen
+,Nicolaj HØJER,,,Sweden,SE,50-54,H,,,6770621.nicolaj.hojer,https://utmb.world/runner/6770621.nicolaj.hojer
+,Pål ABRAHAMSSON,,,Sweden,SE,55-59,H,,,4201875.pal.abrahamsson,https://utmb.world/runner/4201875.pal.abrahamsson
+,Margareta WILUND,,,Sweden,SE,50-54,F,,,4680012.margareta.wilund,https://utmb.world/runner/4680012.margareta.wilund
+,Anders ISAKSSON,,,Sweden,SE,50-54,H,,,3585569.anders.isaksson,https://utmb.world/runner/3585569.anders.isaksson
+,Catharina SÖRVING,,,Sweden,SE,20-34,F,,,4682390.catharina.sorving,https://utmb.world/runner/4682390.catharina.sorving
+,Johan ASPLUND,,,Sweden,SE,50-54,H,,,5068663.johan.asplund,https://utmb.world/runner/5068663.johan.asplund
+,Andrzej LOSOR,,,Poland,PL,50-54,H,,,1964691.andrzej.losor,https://utmb.world/runner/1964691.andrzej.losor
+,Karolina ENGRUND,,,Sweden,SE,40-44,F,,,6770629.karolina.engrund,https://utmb.world/runner/6770629.karolina.engrund
+,Pernilla HANSSON,,,Sweden,SE,55-59,F,,,4682480.pernilla.hansson,https://utmb.world/runner/4682480.pernilla.hansson
+,Ingemar Inko PERA,,,Sweden,SE,60-64,H,,,3293847.ingemarinko.pera,https://utmb.world/runner/3293847.ingemarinko.pera
+,Oskar SVÄRD,,,Sweden,SE,45-49,H,,,3277761.oskar.svard,https://utmb.world/runner/3277761.oskar.svard
+,Espen SKAUFEL,,,Norway,NO,40-44,H,,,532550.espen.skaufel,https://utmb.world/runner/532550.espen.skaufel
+,Jonas HOLMBERG,,,Sweden,SE,50-54,H,,,5066165.jonas.holmberg,https://utmb.world/runner/5066165.jonas.holmberg
+,Aurélien TACONNE,,,France,FR,20-34,H,,,6770783.aurelien.taconne,https://utmb.world/runner/6770783.aurelien.taconne
+,Madeleine WAERMÖ,,,Sweden,SE,40-44,F,,,6460510.madeleine.waermo,https://utmb.world/runner/6460510.madeleine.waermo
+,Johan LILIEQUIST,,,Sweden,SE,50-54,H,,,2269231.johan.liliequist,https://utmb.world/runner/2269231.johan.liliequist
+,Mads WARNECKE,,,Denmark,DK,45-49,H,,,5070729.mads.warnecke,https://utmb.world/runner/5070729.mads.warnecke
+,Guillaume BEVILLARD,,,France,FR,40-44,H,,,3240241.guillaume.bevillard,https://utmb.world/runner/3240241.guillaume.bevillard
+,Ruben VLAANDER,,,Netherlands,NL,40-44,H,,,317111.ruben.vlaander,https://utmb.world/runner/317111.ruben.vlaander
+,Annika WIGREN,,,Sweden,SE,45-49,F,,,4823040.annika.wigren,https://utmb.world/runner/4823040.annika.wigren
+,Christopher BIRGER,,,Sweden,SE,40-44,H,,,2194173.christopher.birger,https://utmb.world/runner/2194173.christopher.birger
+,Anders AHLGREN,,,Sweden,SE,60-64,H,,,986679.anders.ahlgren,https://utmb.world/runner/986679.anders.ahlgren
+,Ingo KRUCK,,,Germany,DE,55-59,H,,,5524124.ingo.kruck,https://utmb.world/runner/5524124.ingo.kruck
+,Emelie EKLÖF,,,Sweden,SE,40-44,F,,,4135487.emelie.eklof,https://utmb.world/runner/4135487.emelie.eklof
+,Martin KOLSTAD,,,Norway,NO,20-34,H,,,3256331.martin.kolstad,https://utmb.world/runner/3256331.martin.kolstad
+,Carlos RIVAS,,,Spain,ES,35-39,H,,,5530399.carlos.rivas,https://utmb.world/runner/5530399.carlos.rivas
+,Nicklas LINDQVIST,,,Sweden,SE,45-49,H,,,3377935.nicklas.lindqvist,https://utmb.world/runner/3377935.nicklas.lindqvist
+,Valentin TABOR,,,Denmark,DK,45-49,H,,,5173943.valentin.tabor,https://utmb.world/runner/5173943.valentin.tabor
+,Manuel CELOIU,,,France,FR,50-54,H,,,480703.manuel.celoiu,https://utmb.world/runner/480703.manuel.celoiu
+,Erwin ROTH,,,Austria,AT,50-54,H,,,2969337.erwin.roth,https://utmb.world/runner/2969337.erwin.roth
+,Nils HAMMARLUND,,,Sweden,SE,20-34,H,,,5119204.nils.hammarlund,https://utmb.world/runner/5119204.nils.hammarlund
+,Patric LAGER,,,United States of America,US,55-59,H,,,4301462.patric.lager,https://utmb.world/runner/4301462.patric.lager
+,Roger LINDBERG,,,Sweden,SE,50-54,H,,,6460948.roger.lindberg,https://utmb.world/runner/6460948.roger.lindberg
+,Anna WESTLUND,,,Sweden,SE,45-49,F,,,4692478.anna.westlund,https://utmb.world/runner/4692478.anna.westlund
+,Fredrik BERGSTRÖM,,,Sweden,SE,40-44,H,,,4110086.fredrik.bergstrom,https://utmb.world/runner/4110086.fredrik.bergstrom
+,Ted HELMESJÖ,,,Sweden,SE,35-39,H,,,4379258.ted.helmesjo,https://utmb.world/runner/4379258.ted.helmesjo
+,Daniel HÖRNQVIST,,,Sweden,SE,40-44,H,,,5667718.daniel.hornqvist,https://utmb.world/runner/5667718.daniel.hornqvist
+,Kenneth LÖFMAN,,,Sweden,SE,50-54,H,,,508259.kenneth.lofman,https://utmb.world/runner/508259.kenneth.lofman
+,Linda LOENNEBERG,,,Sweden,SE,50-54,F,,,5071761.linda.loenneberg,https://utmb.world/runner/5071761.linda.loenneberg
+,Tomas AMNESKOG,,,Sweden,SE,50-54,H,,,574228.tomas.amneskog,https://utmb.world/runner/574228.tomas.amneskog
+,Fredrik FJOSE,,,Norway,NO,40-44,H,,,3449653.fredrik.fjose,https://utmb.world/runner/3449653.fredrik.fjose
+,Michael NILSSON PAULI,,,Sweden,SE,50-54,H,,,3816067.michael.nilssonpauli,https://utmb.world/runner/3816067.michael.nilssonpauli
+,Jesper DELGÅRD,,,Sweden,SE,40-44,H,,,1861525.jesper.delgard,https://utmb.world/runner/1861525.jesper.delgard
+,Daniel ARNOLD,,,Germany,DE,35-39,H,,,2367871.daniel.arnold,https://utmb.world/runner/2367871.daniel.arnold
+,Kristian RYBAK,,,Sweden,SE,45-49,H,,,2439899.kristian.rybak,https://utmb.world/runner/2439899.kristian.rybak
+,Tom NIJLAND,,,Netherlands,NL,50-54,H,,,915557.tom.nijland,https://utmb.world/runner/915557.tom.nijland
+,Yu HU,,,China,CN,20-34,F,,,3055975.yu.hu,https://utmb.world/runner/3055975.yu.hu
+,Paula MICHAILIDOU,,,Sweden,SE,50-54,F,,,4823308.paula.michailidou,https://utmb.world/runner/4823308.paula.michailidou
+,Henrik MOLL,,,Denmark,DK,55-59,H,,,1355863.henrik.moll,https://utmb.world/runner/1355863.henrik.moll
+,Stephan KELLER,,,Switzerland,CH,55-59,H,,,5062461.stephan.keller,https://utmb.world/runner/5062461.stephan.keller
+,Simon SKOOGH,,,Sweden,SE,20-34,H,,,5673465.simon.skoogh,https://utmb.world/runner/5673465.simon.skoogh
+,Marcus JOSEFSSON,,,Sweden,SE,45-49,H,,,533001.marcus.josefsson,https://utmb.world/runner/533001.marcus.josefsson
+,Søren LUND,,,Denmark,DK,40-44,H,,,401136.soren.lund,https://utmb.world/runner/401136.soren.lund
+,Mika VAINIONPAA,,,Finland,FI,40-44,H,,,4179810.mika.vainionpaa,https://utmb.world/runner/4179810.mika.vainionpaa
+,Michael ULANDER,,,Sweden,SE,45-49,H,,,2257963.michael.ulander,https://utmb.world/runner/2257963.michael.ulander
+,Tommy STEFANAC,,,Norway,NO,45-49,H,,,6770735.tommy.stefanac,https://utmb.world/runner/6770735.tommy.stefanac
+,Ulrik FERKO,,,Sweden,SE,20-34,H,,,6770799.ulrik.ferko,https://utmb.world/runner/6770799.ulrik.ferko
+,Emilie FRIBERG,,,Sweden,SE,45-49,F,,,4195083.emilie.friberg,https://utmb.world/runner/4195083.emilie.friberg
+,Antoni PIZA BESTARD,,,Spain,ES,20-34,H,,,4318112.antoni.pizabestard,https://utmb.world/runner/4318112.antoni.pizabestard
+,Johannes HANSSON,,,Sweden,SE,50-54,H,,,4301607.johannes.hansson,https://utmb.world/runner/4301607.johannes.hansson
+,Anonymous,,,Sweden,SE,35-39,H,,,,
+,Thomas JOHANSSON,,,Sweden,SE,40-44,H,,,696836.thomas.johansson,https://utmb.world/runner/696836.thomas.johansson
+,Stefan LINDBERG,,,Sweden,SE,50-54,H,,,4173070.stefan.lindberg,https://utmb.world/runner/4173070.stefan.lindberg
+,Niklas HÄGGSTRÖM,,,Sweden,SE,45-49,H,,,1243117.niklas.haggstrom,https://utmb.world/runner/1243117.niklas.haggstrom
+,Mattias SKAFAR,,,Sweden,SE,55-59,H,,,551699.mattias.skafar,https://utmb.world/runner/551699.mattias.skafar
+,Niklas RUNG,,,Sweden,SE,50-54,H,,,492294.niklas.rung,https://utmb.world/runner/492294.niklas.rung
+,Johan HAMMARLUND,,,Sweden,SE,50-54,H,,,3320909.johan.hammarlund,https://utmb.world/runner/3320909.johan.hammarlund
+,Sandra LIND,,,Sweden,SE,40-44,F,,,2221627.sandra.lind,https://utmb.world/runner/2221627.sandra.lind
+,Mark SHUTTLEWORTH,,,United Kingdom,GB,40-44,H,,,812815.mark.shuttleworth,https://utmb.world/runner/812815.mark.shuttleworth
+,Yakob SHARIFI,,,Sweden,SE,20-34,H,,,6770721.yakob.sharifi,https://utmb.world/runner/6770721.yakob.sharifi
+,Andreas MALMSTEN,,,Sweden,SE,50-54,H,,,691426.andreas.malmsten,https://utmb.world/runner/691426.andreas.malmsten
+,Erik WISKAR,,,Sweden,SE,35-39,H,,,6546652.erik.wiskar,https://utmb.world/runner/6546652.erik.wiskar
+,Ida Klerck,,,Sweden,SE,20-34,F,,,7781965.ida.klerck,https://utmb.world/runner/7781965.ida.klerck
+,Phuong DO,,,Sweden,SE,40-44,H,,,6770617.phuong.do,https://utmb.world/runner/6770617.phuong.do
+,James WRIGHT,,,United Kingdom,GB,20-34,H,,,3512915.james.wright,https://utmb.world/runner/3512915.james.wright
+,Thomas BERG TOLLUND,,,Denmark,DK,40-44,H,,,6770727.thomas.bergtollund,https://utmb.world/runner/6770727.thomas.bergtollund
+,Mårten NYGREN,,,Sweden,SE,45-49,H,,,936169.marten.nygren,https://utmb.world/runner/936169.marten.nygren
+,Sanna LUNDH,,,Sweden,SE,40-44,F,,,1355835.sanna.lundh,https://utmb.world/runner/1355835.sanna.lundh
+,Patrik HAMMAR,,,Sweden,SE,55-59,H,,,2111043.patrik.hammar,https://utmb.world/runner/2111043.patrik.hammar
+,Joakim JÖNSSON,,,Sweden,SE,45-49,H,,,4824510.joakim.jonsson,https://utmb.world/runner/4824510.joakim.jonsson
+,Emil BLIXT,,,Sweden,SE,35-39,H,,,6770767.emil.blixt,https://utmb.world/runner/6770767.emil.blixt
+,Rickard SJOLANDER,,,Sweden,SE,35-39,H,,,6770681.rickard.sjolander,https://utmb.world/runner/6770681.rickard.sjolander
+,Jonas ANDERSSON,,,Sweden,SE,40-44,H,,,5059165.jonas.andersson,https://utmb.world/runner/5059165.jonas.andersson
+,Lars RIMAN,,,Sweden,SE,45-49,H,,,5068549.lars.riman,https://utmb.world/runner/5068549.lars.riman
+,Ingvill FAUSKE,,,Norway,NO,45-49,F,,,1454205.ingvill.fauske,https://utmb.world/runner/1454205.ingvill.fauske
+,Henrik PALMQUIST,,,Sweden,SE,50-54,H,,,4253126.henrik.palmquist,https://utmb.world/runner/4253126.henrik.palmquist
+,Jenny STENVALL,,,Sweden,SE,50-54,F,,,6770819.jenny.stenvall,https://utmb.world/runner/6770819.jenny.stenvall
+,Thai TRAN,,,Sweden,SE,20-34,F,,,6770813.thai.tran,https://utmb.world/runner/6770813.thai.tran
+,Edwin EVANS,,,Sweden,SE,20-34,H,,,6770719.edwin.evans,https://utmb.world/runner/6770719.edwin.evans
+,Nicolas DEBLAY,,,France,FR,35-39,H,,,6770723.nicolas.deblay,https://utmb.world/runner/6770723.nicolas.deblay
+,William ENGLUND,,,Sweden,SE,20-34,H,,,2257665.william.englund,https://utmb.world/runner/2257665.william.englund
+,Dennis KALLERTEG,,,Sweden,SE,20-34,H,,,831586.dennis.kallerteg,https://utmb.world/runner/831586.dennis.kallerteg
+,Petter LIND,,,Sweden,SE,35-39,H,,,5071755.petter.lind,https://utmb.world/runner/5071755.petter.lind
+,Daniel BÅÅTH,,,Sweden,SE,45-49,H,,,1111089.daniel.baath,https://utmb.world/runner/1111089.daniel.baath
+,Katarina THORNGREN,,,Sweden,SE,45-49,F,,,4301567.katarina.thorngren,https://utmb.world/runner/4301567.katarina.thorngren
+,Björn JANSSON,,,Sweden,SE,50-54,H,,,6770775.bjorn.jansson,https://utmb.world/runner/6770775.bjorn.jansson
+,Ludvig FRIBERG,,,Sweden,SE,40-44,H,,,696713.ludvig.friberg,https://utmb.world/runner/696713.ludvig.friberg
+,Stephane DE NIES,,,Belgium,BE,45-49,H,,,1018133.stephane.denies,https://utmb.world/runner/1018133.stephane.denies
+,Christian EVENSEN,,,Norway,NO,40-44,H,,,353803.christian.evensen,https://utmb.world/runner/353803.christian.evensen
+,Ulf BYLUND,,,Sweden,SE,65-69,H,,,5476360.ulf.bylund,https://utmb.world/runner/5476360.ulf.bylund
+,Emil BYLUND,,,Sweden,SE,35-39,H,,,5476356.emil.bylund,https://utmb.world/runner/5476356.emil.bylund
+,Fredrik BYLUND,,,Sweden,SE,35-39,H,,,5476358.fredrik.bylund,https://utmb.world/runner/5476358.fredrik.bylund
+,Oskar HULTMAN,,,Sweden,SE,20-34,H,,,6770855.oskar.hultman,https://utmb.world/runner/6770855.oskar.hultman
+,Jonas SVENSSON,,,Sweden,SE,20-34,H,,,6770753.jonas.svensson,https://utmb.world/runner/6770753.jonas.svensson
+,Tim ANDERSSON,,,Sweden,SE,20-34,H,,,5351519.tim.andersson,https://utmb.world/runner/5351519.tim.andersson
+,Jonas NILSSON,,,Sweden,SE,35-39,H,,,5484542.jonas.nilsson,https://utmb.world/runner/5484542.jonas.nilsson
+,Alexander BOLDIN,,,Sweden,SE,20-34,H,,,6770733.alexander.boldin,https://utmb.world/runner/6770733.alexander.boldin
+,Markus SPÅNGBERG,,,Sweden,SE,45-49,H,,,665790.markus.spangberg,https://utmb.world/runner/665790.markus.spangberg
+,Dennis Bengt Vincent WAHLQVIST,,,Sweden,SE,20-34,H,,,5751989.dennisbengtvincent.wahlqvist,https://utmb.world/runner/5751989.dennisbengtvincent.wahlqvist
+,Tilda ANELL,,,Sweden,SE,20-34,F,,,4548382.tilda.anell,https://utmb.world/runner/4548382.tilda.anell
+,Knut Willy STEEN,,,Norway,NO,40-44,H,,,3977606.knutwilly.steen,https://utmb.world/runner/3977606.knutwilly.steen
+,Alexander BAUSTAD,,,Norway,NO,40-44,H,,,3977607.alexander.baustad,https://utmb.world/runner/3977607.alexander.baustad
+,Kristofer BENGTSSON,,,Sweden,SE,45-49,H,,,2576659.kristofer.bengtsson,https://utmb.world/runner/2576659.kristofer.bengtsson
+,Simon HULTMAN,,,Sweden,SE,20-34,H,,,5865385.simon.hultman,https://utmb.world/runner/5865385.simon.hultman
+,Mattias RYDIN,,,Sweden,SE,40-44,H,,,508627.mattias.rydin,https://utmb.world/runner/508627.mattias.rydin
+,Per BOLDIN,,,Sweden,SE,55-59,H,,,4823934.per.boldin,https://utmb.world/runner/4823934.per.boldin
+,Per-Adam JAGERSTROM,,,Sweden,SE,35-39,H,,,5118886.peradam.jagerstrom,https://utmb.world/runner/5118886.peradam.jagerstrom
+,Sofia ATTELIND,,,Sweden,SE,45-49,F,,,692070.sofia.attelind,https://utmb.world/runner/692070.sofia.attelind
+,Peter Rask MØLLER,,,Denmark,DK,55-59,H,,,4301443.peterrask.moller,https://utmb.world/runner/4301443.peterrask.moller
+,Adam PETTERSSON,,,Sweden,SE,35-39,H,,,5479270.adam.pettersson,https://utmb.world/runner/5479270.adam.pettersson
+,Roland LJUNGH,,,Sweden,SE,45-49,H,,,5815033.roland.ljungh,https://utmb.world/runner/5815033.roland.ljungh
+,Bjørnar GUNDERSEN,,,Norway,NO,20-34,H,,,532470.bjornar.gundersen,https://utmb.world/runner/532470.bjornar.gundersen
+,Maria ELIASSON,,,Sweden,SE,45-49,F,,,2110931.maria.eliasson,https://utmb.world/runner/2110931.maria.eliasson
+,Anna-Karin HAMMAR,,,Sweden,SE,50-54,F,,,2111005.annakarin.hammar,https://utmb.world/runner/2111005.annakarin.hammar
+,Fredrik EKMAN,,,Sweden,SE,40-44,H,,,2210949.fredrik.ekman,https://utmb.world/runner/2210949.fredrik.ekman
+,Benjamin HOLST KJELDSEN,,,Denmark,DK,50-54,H,,,1189989.benjamin.holstkjeldsen,https://utmb.world/runner/1189989.benjamin.holstkjeldsen
+,Matthew GRIFFITHS,,,United Kingdom,GB,35-39,H,,,4571756.matthew.griffiths,https://utmb.world/runner/4571756.matthew.griffiths
+,Johan VALLON-CHRISTERSSON,,,Sweden,SE,50-54,H,,,676169.johan.vallonchristersson,https://utmb.world/runner/676169.johan.vallonchristersson
+,Bjorn WALLBERG,,,Sweden,SE,40-44,H,,,3394629.bjorn.wallberg,https://utmb.world/runner/3394629.bjorn.wallberg
+,Lukas PETERSSON,,,Sweden,SE,35-39,H,,,6770613.lukas.petersson,https://utmb.world/runner/6770613.lukas.petersson
+,Martin KEDÉN,,,Sweden,SE,35-39,H,,,3377681.martin.keden,https://utmb.world/runner/3377681.martin.keden
+,Magnus BERG,,,Sweden,SE,40-44,H,,,5295850.magnus.berg,https://utmb.world/runner/5295850.magnus.berg
+,Jesper VALBAK,,,Denmark,DK,45-49,H,,,4141425.jesper.valbak,https://utmb.world/runner/4141425.jesper.valbak
+,Malin RAMNE,,,Sweden,SE,20-34,F,,,4193632.malin.ramne,https://utmb.world/runner/4193632.malin.ramne
+,Stefan NORLIN,,,Sweden,SE,55-59,H,,,4201789.stefan.norlin,https://utmb.world/runner/4201789.stefan.norlin
+,Viktor JOHANSSON,,,Sweden,SE,35-39,H,,,5975682.viktor.johansson,https://utmb.world/runner/5975682.viktor.johansson
+,Patrik JONASSON,,,Sweden,SE,50-54,H,,,4201786.patrik.jonasson,https://utmb.world/runner/4201786.patrik.jonasson
+,Carl STENSTROM,,,Sweden,SE,35-39,H,,,5565455.carl.stenstrom,https://utmb.world/runner/5565455.carl.stenstrom
+,Charlotte LA FLEUR,,,Sweden,SE,40-44,F,,,4106826.charlotte.lafleur,https://utmb.world/runner/4106826.charlotte.lafleur
+,Sylvain COURTEL,,,France,FR,35-39,H,,,127651.sylvain.courtel,https://utmb.world/runner/127651.sylvain.courtel
+,Gisle NJAASTAD,,,Norway,NO,50-54,H,,,4016020.gisle.njaastad,https://utmb.world/runner/4016020.gisle.njaastad
+,Anders ROSEN,,,Sweden,SE,55-59,H,,,1619785.anders.rosen,https://utmb.world/runner/1619785.anders.rosen
+,Morgan JOHANSSON,,,Sweden,SE,50-54,H,,,4823420.morgan.johansson,https://utmb.world/runner/4823420.morgan.johansson
+,Daniel CRONFALK,,,Sweden,SE,50-54,H,,,1634849.daniel.cronfalk,https://utmb.world/runner/1634849.daniel.cronfalk
+,Johnny SVENSSON,,,Sweden,SE,50-54,H,,,4000313.johnny.svensson,https://utmb.world/runner/4000313.johnny.svensson
+,Elias NILSSON,,,Sweden,SE,20-34,H,,,6770707.elias.nilsson,https://utmb.world/runner/6770707.elias.nilsson
+,Tommy AVEKVIST,,,Sweden,SE,55-59,H,,,4681808.tommy.avekvist,https://utmb.world/runner/4681808.tommy.avekvist
+,Fernando BERNARDINO,,,Portugal,PT,50-54,H,,,392967.fernando.bernardino,https://utmb.world/runner/392967.fernando.bernardino
+,Peter JENSEN,,,Denmark,DK,20-34,H,,,6599364.peter.jensen,https://utmb.world/runner/6599364.peter.jensen
+,Christoffer STENSTRÖM,,,Sweden,SE,35-39,H,,,3585603.christoffer.stenstrom,https://utmb.world/runner/3585603.christoffer.stenstrom
+,Bjorn SKARMAN,,,Sweden,SE,55-59,H,,,5075975.bjorn.skarman,https://utmb.world/runner/5075975.bjorn.skarman
+,Tim HELMESJO,,,Sweden,SE,40-44,H,,,3934431.tim.helmesjo,https://utmb.world/runner/3934431.tim.helmesjo
+,Thomas BECK,,,Denmark,DK,45-49,H,,,3156701.thomas.beck,https://utmb.world/runner/3156701.thomas.beck
+,Marcus LEKBERG,,,Sweden,SE,20-34,H,,,5938355.marcus.lekberg,https://utmb.world/runner/5938355.marcus.lekberg
+,Bo NILSSON,,,Sweden,SE,65-69,H,,,1036509.bo.nilsson,https://utmb.world/runner/1036509.bo.nilsson
+,Rasmus SØRENSEN,,,Denmark,DK,40-44,H,,,1861447.rasmus.sorensen,https://utmb.world/runner/1861447.rasmus.sorensen
+,Lukas LARSSON,,,Sweden,SE,35-39,H,,,5136083.lukas.larsson,https://utmb.world/runner/5136083.lukas.larsson
+,Majed SAFAEE,,,Sweden,SE,40-44,H,,,4682206.majed.safaee,https://utmb.world/runner/4682206.majed.safaee
+,Amir KADIC,,,Sweden,SE,40-44,H,,,4654400.amir.kadic,https://utmb.world/runner/4654400.amir.kadic
+,Nina EIBRING,,,Sweden,SE,50-54,F,,,1057231.nina.eibring,https://utmb.world/runner/1057231.nina.eibring
+,Gunilla KIDMARK,,,Sweden,SE,50-54,F,,,492369.gunilla.kidmark,https://utmb.world/runner/492369.gunilla.kidmark
+,Anna ANDRÉASSON,,,Sweden,SE,35-39,F,,,4823908.anna.andreasson,https://utmb.world/runner/4823908.anna.andreasson
+,Henrik ELDHOLM,,,Sweden,SE,45-49,H,,,3378367.henrik.eldholm,https://utmb.world/runner/3378367.henrik.eldholm
+,Björn PERSSON,,,Sweden,SE,35-39,H,,,1858663.bjorn.persson,https://utmb.world/runner/1858663.bjorn.persson
+,Jan NILSSON,,,Sweden,SE,50-54,H,,,4301500.jan.nilsson,https://utmb.world/runner/4301500.jan.nilsson
+,Tony PETTERSSON,,,Sweden,SE,45-49,H,,,5479462.tony.pettersson,https://utmb.world/runner/5479462.tony.pettersson
+,Ali HAJDAREVIC,,,Sweden,SE,35-39,H,,,4379202.ali.hajdarevic,https://utmb.world/runner/4379202.ali.hajdarevic
+,Sylvain LALLEMAND,,,France,FR,40-44,H,,,2526427.sylvain.lallemand,https://utmb.world/runner/2526427.sylvain.lallemand
+,Lars Jonsson,,,Sweden,SE,20-34,H,,,6974985.lars.jonsson,https://utmb.world/runner/6974985.lars.jonsson
+,Jonas LINDAHL,,,Sweden,SE,55-59,H,,,495128.jonas.lindahl,https://utmb.world/runner/495128.jonas.lindahl
+,Malin YNGSTROM,,,Sweden,SE,50-54,F,,,2572743.malin.yngstrom,https://utmb.world/runner/2572743.malin.yngstrom
+,Roger LÖFSTRÖM,,,Sweden,SE,60-64,H,,,6770807.roger.lofstrom,https://utmb.world/runner/6770807.roger.lofstrom
+,Sébastien CLOUX,,,Switzerland,CH,40-44,H,,,729334.sebastien.cloux,https://utmb.world/runner/729334.sebastien.cloux
+,Guillaume DUCRET,,,Switzerland,CH,40-44,H,,,3096803.guillaume.ducret,https://utmb.world/runner/3096803.guillaume.ducret
+,Mia SAARNI,,,Sweden,SE,40-44,F,,,5071765.mia.saarni,https://utmb.world/runner/5071765.mia.saarni
+,Maria VON SCHMALENSEE,,,Sweden,SE,50-54,F,,,4003280.maria.vonschmalensee,https://utmb.world/runner/4003280.maria.vonschmalensee
+,Jens ERLANDSSON,,,Sweden,SE,40-44,H,,,4301475.jens.erlandsson,https://utmb.world/runner/4301475.jens.erlandsson
+,Gustav RICHERT,,,Sweden,SE,50-54,H,,,4823174.gustav.richert,https://utmb.world/runner/4823174.gustav.richert
+,Claes ROGIUS SVENSSON,,,Sweden,SE,20-34,H,,,6460490.claes.rogiussvensson,https://utmb.world/runner/6460490.claes.rogiussvensson
+,Mattias ERIKSSON,,,Sweden,SE,40-44,H,,,2986875.mattias.eriksson,https://utmb.world/runner/2986875.mattias.eriksson
+,Anna TRANKELL,,,Sweden,SE,50-54,F,,,4682578.anna.trankell,https://utmb.world/runner/4682578.anna.trankell
+,Marie-Louise WIMMERSTEDT,,,Sweden,SE,55-59,F,,,5742059.marielouise.wimmerstedt,https://utmb.world/runner/5742059.marielouise.wimmerstedt
+,Malin ABERG,,,Sweden,SE,35-39,F,,,5974788.malin.aberg,https://utmb.world/runner/5974788.malin.aberg
+,Elov OLSSON,,,Sweden,SE,35-39,H,,,422972.elov.olsson,https://utmb.world/runner/422972.elov.olsson
+,Mikael ÖHMAN (Mikael OHMAN),,,Sweden,SE,45-49,H,,,1036283.mikael.ohman,https://utmb.world/runner/1036283.mikael.ohman
+,Patrik SODERGREN,,,Sweden,SE,40-44,H,,,3342247.patrik.sodergren,https://utmb.world/runner/3342247.patrik.sodergren
+,Koen DE KORT,,,Netherlands,NL,40-44,H,,,5742209.koen.dekort,https://utmb.world/runner/5742209.koen.dekort
+,Filip SOEDERLING,,,Sweden,SE,35-39,H,,,5029366.filip.soederling,https://utmb.world/runner/5029366.filip.soederling
+,Julian BUNKE,,,Germany,DE,35-39,H,,,4972490.julian.bunke,https://utmb.world/runner/4972490.julian.bunke
+,Lari TUOMINEN,,,Finland,FI,40-44,H,,,6351074.lari.tuominen,https://utmb.world/runner/6351074.lari.tuominen
+,Alexander POSSE,,,Sweden,SE,35-39,H,,,5825271.alexander.posse,https://utmb.world/runner/5825271.alexander.posse
+,Kalle ANDERSSON,,,Sweden,SE,20-34,H,,,4201085.kalle.andersson,https://utmb.world/runner/4201085.kalle.andersson
+,Pontus SAVOLAINEN,,,Sweden,SE,20-34,H,,,5120068.pontus.savolainen,https://utmb.world/runner/5120068.pontus.savolainen
+,Jesper HEDAR,,,Sweden,SE,20-34,H,,,6460578.jesper.hedar,https://utmb.world/runner/6460578.jesper.hedar
+,Tony RASMUSSON,,,Sweden,SE,40-44,H,,,3585631.tony.rasmusson,https://utmb.world/runner/3585631.tony.rasmusson
+,Dan LANGELOTZ,,,Sweden,SE,50-54,H,,,4301464.dan.langelotz,https://utmb.world/runner/4301464.dan.langelotz
+,Ronja MELLA,,,Sweden,SE,45-49,F,,,5480018.ronja.mella,https://utmb.world/runner/5480018.ronja.mella
+,Didrik BIRKEMALM,,,Sweden,SE,20-34,H,,,4682290.didrik.birkemalm,https://utmb.world/runner/4682290.didrik.birkemalm
+,Fredrik LARSSON,,,Sweden,SE,35-39,H,,,6770747.fredrik.larsson,https://utmb.world/runner/6770747.fredrik.larsson
+,Vilhelm BERG MALMBORG,,,Sweden,SE,40-44,H,,,6241534.vilhelm.bergmalmborg,https://utmb.world/runner/6241534.vilhelm.bergmalmborg
+,Linnea BÄCKSTRÖM,,,Sweden,SE,50-54,F,,,574260.linnea.backstrom,https://utmb.world/runner/574260.linnea.backstrom
+,Hugo MOLLER,,,France,FR,35-39,H,,,1917055.hugo.moller,https://utmb.world/runner/1917055.hugo.moller
+,Anders NILSSON,,,Sweden,SE,40-44,H,,,5062677.anders.nilsson,https://utmb.world/runner/5062677.anders.nilsson
+,Emil ROMMER,,,Sweden,SE,20-34,H,,,4824164.emil.rommer,https://utmb.world/runner/4824164.emil.rommer
+,Susanna RIMAN,,,Sweden,SE,45-49,F,,,1243029.susanna.riman,https://utmb.world/runner/1243029.susanna.riman
+,Jona EKSTROM,,,Sweden,SE,50-54,H,,,5815067.jona.ekstrom,https://utmb.world/runner/5815067.jona.ekstrom
+,Lasse BAY,,,Denmark,DK,40-44,H,,,6048127.lasse.bay,https://utmb.world/runner/6048127.lasse.bay
+,Andreas WIKSTRAND,,,Sweden,SE,50-54,H,,,3609443.andreas.wikstrand,https://utmb.world/runner/3609443.andreas.wikstrand
+,Henrik ÅHLUND (HENRIK AHLUND),,,Sweden,SE,35-39,H,,,7107234.henrik.ahlund,https://utmb.world/runner/7107234.henrik.ahlund
+,Grégoire GAUTIER,,,France,FR,20-34,H,,,6313834.gregoire.gautier,https://utmb.world/runner/6313834.gregoire.gautier
+,Christian STROM,,,Sweden,SE,40-44,H,,,6770665.christian.strom,https://utmb.world/runner/6770665.christian.strom
+,Philip SANDWALL,,,Sweden,SE,35-39,H,,,6770717.philip.sandwall,https://utmb.world/runner/6770717.philip.sandwall
+,Mattias KARLSSON,,,Sweden,SE,45-49,H,,,4379174.mattias.karlsson,https://utmb.world/runner/4379174.mattias.karlsson
+,Justin HARBS,,,Germany,DE,20-34,H,,,4416430.justin.harbs,https://utmb.world/runner/4416430.justin.harbs
+,Axel CAMITZ,,,Sweden,SE,20-34,H,,,4416408.axel.camitz,https://utmb.world/runner/4416408.axel.camitz
+,Anton LINDBERG,,,Sweden,SE,20-34,H,,,5479420.anton.lindberg,https://utmb.world/runner/5479420.anton.lindberg
+,Ammar HALILOVIC,,,Sweden,SE,20-34,H,,,5075987.ammar.halilovic,https://utmb.world/runner/5075987.ammar.halilovic
+,Maarten DE VRIES,,,Netherlands,NL,40-44,H,,,5648290.maarten.devries,https://utmb.world/runner/5648290.maarten.devries
+,Håkan LANZ,,,Sweden,SE,40-44,H,,,804097.hakan.lanz,https://utmb.world/runner/804097.hakan.lanz
+,Phil SCHUBERT,,,Germany,DE,35-39,H,,,5068699.phil.schubert,https://utmb.world/runner/5068699.phil.schubert
+,Thomas CROISIER,,,France,FR,50-54,H,,,1037361.thomas.croisier,https://utmb.world/runner/1037361.thomas.croisier
+,Henrik LYSEMARK,,,Sweden,SE,55-59,H,,,691555.henrik.lysemark,https://utmb.world/runner/691555.henrik.lysemark
+,Paula MIETZNER,,,Germany,DE,20-34,F,,,6770759.paula.mietzner,https://utmb.world/runner/6770759.paula.mietzner
+,Karin ÖSTBERG (Karin OSTBERG),,,Sweden,SE,45-49,F,,,2272301.karin.ostberg,https://utmb.world/runner/2272301.karin.ostberg
+,Nick FROST,,,Denmark,DK,35-39,H,,,4823850.nick.frost,https://utmb.world/runner/4823850.nick.frost
+,Sebastian LÖFQUIST,,,Sweden,SE,35-39,H,,,5100472.sebastian.lofquist,https://utmb.world/runner/5100472.sebastian.lofquist
+,Markus NORDQVIST,,,Sweden,SE,35-39,H,,,4710674.markus.nordqvist,https://utmb.world/runner/4710674.markus.nordqvist
+,Stuart MACDONALD,,,Sweden,SE,40-44,H,,,2397779.stuart.macdonald,https://utmb.world/runner/2397779.stuart.macdonald
+,Daniel OTTOSEN,,,Sweden,SE,45-49,H,,,6770749.daniel.ottosen,https://utmb.world/runner/6770749.daniel.ottosen
+,Håkan SJUNNESSON,,,Sweden,SE,55-59,H,,,861646.hakan.sjunnesson,https://utmb.world/runner/861646.hakan.sjunnesson
+,Christian MIETZNER,,,Germany,DE,55-59,H,,,4265992.christian.mietzner,https://utmb.world/runner/4265992.christian.mietzner
+,Nicklas STARKEL,,,Sweden,SE,45-49,H,,,5742067.nicklas.starkel,https://utmb.world/runner/5742067.nicklas.starkel
+,Markus LINDSJO,,,Sweden,SE,50-54,H,,,5742193.markus.lindsjo,https://utmb.world/runner/5742193.markus.lindsjo
+,Sara RAIS,,,Sweden,SE,35-39,F,,,4201793.sara.rais,https://utmb.world/runner/4201793.sara.rais
+,Pontus RUTGERSSON,,,Sweden,SE,20-34,H,,,5504815.pontus.rutgersson,https://utmb.world/runner/5504815.pontus.rutgersson
+,Anna ORNELL,,,Sweden,SE,40-44,F,,,4200838.anna.ornell,https://utmb.world/runner/4200838.anna.ornell
+,Lars KRONFÄLT,,,Sweden,SE,45-49,H,,,2986885.lars.kronfalt,https://utmb.world/runner/2986885.lars.kronfalt
+,Magnus ANDERSSON,,,Sweden,SE,45-49,H,,,6770851.magnus.andersson,https://utmb.world/runner/6770851.magnus.andersson
+,Sebastian BRANDT,,,Sweden,SE,45-49,H,,,5667724.sebastian.brandt,https://utmb.world/runner/5667724.sebastian.brandt
+,Alex MATHAE MOLINA,,,Sweden,SE,20-34,H,,,6770675.alex.mathaemolina,https://utmb.world/runner/6770675.alex.mathaemolina
+,Emil GUSTAFSSON,,,Sweden,SE,20-34,H,,,6460824.emil.gustafsson,https://utmb.world/runner/6460824.emil.gustafsson
+,Rasmus DAM HOLDRUP,,,Denmark,DK,35-39,H,,,6651365.rasmus.damholdrup,https://utmb.world/runner/6651365.rasmus.damholdrup
+,Biao LI,,,China,CN,45-49,H,,,6498219.biao.li,https://utmb.world/runner/6498219.biao.li
+,Robert BERNTSSON,,,Sweden,SE,55-59,H,,,4186319.robert.berntsson,https://utmb.world/runner/4186319.robert.berntsson
+,Simon UNGA,,,Sweden,SE,35-39,H,,,6770671.simon.unga,https://utmb.world/runner/6770671.simon.unga
+,Tom FORSBERG,,,Sweden,SE,20-34,H,,,2271459.tom.forsberg,https://utmb.world/runner/2271459.tom.forsberg
+,Lars PERSSON,,,Sweden,SE,50-54,H,,,4548404.lars.persson,https://utmb.world/runner/4548404.lars.persson
+,Jenny ERIKSSON,,,Sweden,SE,50-54,F,,,4193458.jenny.eriksson,https://utmb.world/runner/4193458.jenny.eriksson
+,Michel ANDRÉ,,,Sweden,SE,50-54,H,,,4253341.michel.andre,https://utmb.world/runner/4253341.michel.andre
+,Michael LEIJON,,,Sweden,SE,40-44,H,,,6770789.michael.leijon,https://utmb.world/runner/6770789.michael.leijon
+,Erik DORE,,,Sweden,SE,45-49,H,,,691508.erik.dore,https://utmb.world/runner/691508.erik.dore
+,Veronica STRANDH,,,Sweden,SE,40-44,F,,,696301.veronica.strandh,https://utmb.world/runner/696301.veronica.strandh
+,Linda WRIGHT,,,Sweden,SE,45-49,F,,,1630529.linda.wright,https://utmb.world/runner/1630529.linda.wright
+,Jens BOMANSON,,,Finland,FI,35-39,H,,,5479534.jens.bomanson,https://utmb.world/runner/5479534.jens.bomanson
+,Anton TORNEREFELT,,,Sweden,SE,20-34,H,,,6770713.anton.tornerefelt,https://utmb.world/runner/6770713.anton.tornerefelt
+,Aramis SASINKA,,,Sweden,SE,50-54,H,,,626443.aramis.sasinka,https://utmb.world/runner/626443.aramis.sasinka
+,Michael NYAME,,,Denmark,DK,35-39,H,,,6770737.michael.nyame,https://utmb.world/runner/6770737.michael.nyame
+,Claes RYDBERG,,,Sweden,SE,45-49,H,,,3188083.claes.rydberg,https://utmb.world/runner/3188083.claes.rydberg
+,Daniel STRAND,,,Sweden,SE,45-49,H,,,4528576.daniel.strand,https://utmb.world/runner/4528576.daniel.strand
+,Aaron MONTGOMERY,,,Australia,AU,45-49,H,,,829298.aaron.montgomery,https://utmb.world/runner/829298.aaron.montgomery
+,Tracey MONTGOMERY,,,Ireland,IE,50-54,F,,,5139503.tracey.montgomery,https://utmb.world/runner/5139503.tracey.montgomery
+,Fredrik SJÖHOLM,,,Sweden,SE,40-44,H,,,2271423.fredrik.sjoholm,https://utmb.world/runner/2271423.fredrik.sjoholm
+,Helene BENGTSSON,,,Sweden,SE,50-54,F,,,4682314.helene.bengtsson,https://utmb.world/runner/4682314.helene.bengtsson
+,Tom RINGLSTETTER,,,Germany,DE,20-34,H,,,6770827.tom.ringlstetter,https://utmb.world/runner/6770827.tom.ringlstetter
+,Markus Midtlyng PETTERSEN,,,Norway,NO,20-34,H,,,5801945.markusmidtlyng.pettersen,https://utmb.world/runner/5801945.markusmidtlyng.pettersen
+,Fredrik TYRBERG,,,Sweden,SE,45-49,H,,,4681580.fredrik.tyrberg,https://utmb.world/runner/4681580.fredrik.tyrberg
+,Simon HELLBE,,,Sweden,SE,35-39,H,,,1960301.simon.hellbe,https://utmb.world/runner/1960301.simon.hellbe
+,Corentin LE MELINER,,,France,FR,20-34,H,,,5449518.corentin.lemeliner,https://utmb.world/runner/5449518.corentin.lemeliner
+,Thomas ILLIMINSKY,,,Sweden,SE,40-44,H,,,5484518.thomas.illiminsky,https://utmb.world/runner/5484518.thomas.illiminsky
+,Olli HEISKANEN,,,Finland,FI,35-39,H,,,4583134.olli.heiskanen,https://utmb.world/runner/4583134.olli.heiskanen
+,Dennis PEDERSEN,,,Denmark,DK,40-44,H,,,5028764.dennis.pedersen,https://utmb.world/runner/5028764.dennis.pedersen
+,Lars ROOS,,,Sweden,SE,45-49,H,,,1209561.lars.roos,https://utmb.world/runner/1209561.lars.roos
+,Fredrik ANUNDSSON,,,Sweden,SE,45-49,H,,,2292477.fredrik.anundsson,https://utmb.world/runner/2292477.fredrik.anundsson
+,Jonas PETTERSEN,,,Norway,NO,20-34,H,,,5801949.jonas.pettersen,https://utmb.world/runner/5801949.jonas.pettersen
+,Matteo ROSSI,,,Italy,IT,45-49,H,,,1559861.matteo.rossi,https://utmb.world/runner/1559861.matteo.rossi
+,Mikael ANDERSSON,,,Sweden,SE,20-34,H,,,5071775.mikael.andersson,https://utmb.world/runner/5071775.mikael.andersson
+,Louise OLOW,,,Sweden,SE,45-49,F,,,1858251.louise.olow,https://utmb.world/runner/1858251.louise.olow
+,Jan-Anders EKELUND,,,Sweden,SE,60-64,H,,,5479572.jananders.ekelund,https://utmb.world/runner/5479572.jananders.ekelund
+,Tobias Dahl FENRE,,,Norway,NO,35-39,H,,,3282377.tobiasdahl.fenre,https://utmb.world/runner/3282377.tobiasdahl.fenre
+,Johanna BYGDELL,,,Sweden,SE,40-44,F,,,665723.johanna.bygdell,https://utmb.world/runner/665723.johanna.bygdell
+,Thomas SNABB,,,Sweden,SE,40-44,H,,,2257727.thomas.snabb,https://utmb.world/runner/2257727.thomas.snabb
+,Mats JOHANNESSON,,,Sweden,SE,45-49,H,,,4121595.mats.johannesson,https://utmb.world/runner/4121595.mats.johannesson
+,Jonas LINDELL,,,Finland,FI,35-39,H,,,1429211.jonas.lindell,https://utmb.world/runner/1429211.jonas.lindell
+,Anders HOLGERSSON,,,Sweden,SE,55-59,H,,,691554.anders.holgersson,https://utmb.world/runner/691554.anders.holgersson

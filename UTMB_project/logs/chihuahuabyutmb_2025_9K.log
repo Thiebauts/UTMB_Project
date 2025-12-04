@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: chihuahuabyutmb | Year: 2025 | Race: 9K
+======================================================================
+Loaded 173 runners from data/chihuahuabyutmb_2025_9K.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 170 runners...
+Fetching scores:   0%|                                                  | 0/170 [00:00<?, ?runner/s]Fetching scores:  10%|████                                     | 17/170 [00:02<00:22,  6.77runner/s]Fetching scores:  21%|████████▍                                | 35/170 [00:03<00:11, 11.87runner/s]Fetching scores:  46%|██████████████████▊                      | 78/170 [00:03<00:03, 28.16runner/s]Fetching scores:  61%|████████████████████████▍               | 104/170 [00:04<00:02, 31.07runner/s]Fetching scores:  99%|███████████████████████████████████████▌| 168/170 [00:04<00:00, 53.73runner/s]Fetching scores: 100%|████████████████████████████████████████| 170/170 [00:04<00:00, 34.03runner/s]
+  Saved to data/chihuahuabyutmb_2025_9K.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/146
+
+Top 10 finishers:
+ rank_scratch                          name race_time  utmb_index  utmb_score
+          1.0       Jesús QUIROZ DE LA CRUZ  00:32:53       750.0         NaN
+          2.0     Alexander CORRALES RASCON  00:39:01         NaN         NaN
+          3.0            Abel CRUZ QUINTERO  00:39:09         NaN         NaN
+          4.0                   Hector LARA  00:40:30         NaN         NaN
+          5.0           Alexander CONTRERAS  00:42:05         NaN         NaN
+          6.0          Rosa Amelia CORRALES  00:43:24         NaN         NaN
+          7.0  Mauro David ARELLANO SÁNCHEZ  00:44:59         NaN         NaN
+          7.0                  Alan RAMIREZ  00:44:59         NaN         NaN
+          9.0               Patricio MENDEZ  00:45:19         NaN         NaN
+         10.0       Miguel Ángel VALENZUELA  00:50:23         NaN         NaN

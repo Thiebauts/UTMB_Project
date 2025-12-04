@@ -1,0 +1,24 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: tenerifebyutmb | Year: 2025 | Race: verti
+======================================================================
+Loaded 155 runners from data/tenerifebyutmb_2025_verti.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 155 runners...
+Fetching scores:   0%|                                                  | 0/155 [00:00<?, ?runner/s]Fetching scores:   6%|██▋                                      | 10/155 [00:03<00:44,  3.28runner/s]Fetching scores:  13%|█████▎                                   | 20/155 [00:04<00:28,  4.70runner/s]Fetching scores:  19%|███████▉                                 | 30/155 [00:05<00:21,  5.92runner/s]Fetching scores:  26%|██████████▊                              | 41/155 [00:06<00:13,  8.47runner/s]Fetching scores:  33%|█████████████▍                           | 51/155 [00:06<00:10, 10.01runner/s]Fetching scores:  42%|█████████████████▏                       | 65/155 [00:07<00:06, 13.59runner/s]Fetching scores:  48%|███████████████████▊                     | 75/155 [00:07<00:05, 14.99runner/s]Fetching scores:  55%|██████████████████████▍                  | 85/155 [00:09<00:05, 12.49runner/s]Fetching scores:  61%|█████████████████████████▏               | 95/155 [00:09<00:04, 14.04runner/s]Fetching scores:  68%|███████████████████████████             | 105/155 [00:10<00:04, 10.61runner/s]Fetching scores:  74%|█████████████████████████████▋          | 115/155 [00:12<00:04,  9.92runner/s]Fetching scores:  81%|████████████████████████████████▎       | 125/155 [00:13<00:03,  9.23runner/s]Fetching scores:  87%|██████████████████████████████████▊     | 135/155 [00:15<00:02,  7.75runner/s]Fetching scores:  94%|█████████████████████████████████████▍  | 145/155 [00:17<00:01,  6.35runner/s]Fetching scores:  94%|█████████████████████████████████████▍  | 145/155 [00:29<00:01,  6.35runner/s]Fetching scores:  97%|██████████████████████████████████████▉ | 151/155 [00:30<00:02,  1.76runner/s]Fetching scores:  99%|███████████████████████████████████████▍| 153/155 [00:39<00:01,  1.11runner/s]Fetching scores:  99%|███████████████████████████████████████▋| 154/155 [00:40<00:00,  1.11runner/s]Fetching scores: 100%|████████████████████████████████████████| 155/155 [00:42<00:00,  1.01s/runner]Fetching scores: 100%|████████████████████████████████████████| 155/155 [00:42<00:00,  3.66runner/s]
+  Saved to data/tenerifebyutmb_2025_verti.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/0
+
+Top 10 finishers:
+Empty DataFrame
+Columns: [rank_scratch, name, race_time, utmb_index, utmb_score]
+Index: []

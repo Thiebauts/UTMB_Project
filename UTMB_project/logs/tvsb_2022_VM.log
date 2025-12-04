@@ -1,0 +1,34 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: tvsb | Year: 2022 | Race: VM
+======================================================================
+Loaded 162 runners from data/tvsb_2022_VM.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 160 runners...
+Fetching scores:   0%|                                                  | 0/160 [00:00<?, ?runner/s]Fetching scores:   6%|██▌                                      | 10/160 [00:05<01:26,  1.74runner/s]Fetching scores:  12%|█████▏                                   | 20/160 [00:07<00:48,  2.87runner/s]Fetching scores:  19%|███████▋                                 | 30/160 [00:10<00:39,  3.30runner/s]Fetching scores:  25%|██████████▎                              | 40/160 [00:11<00:30,  3.96runner/s]Fetching scores:  31%|████████████▊                            | 50/160 [00:13<00:24,  4.46runner/s]Fetching scores:  38%|███████████████▍                         | 60/160 [00:15<00:21,  4.74runner/s]Fetching scores:  44%|█████████████████▉                       | 70/160 [00:21<00:29,  3.01runner/s]Fetching scores:  50%|████████████████████▌                    | 80/160 [00:22<00:21,  3.67runner/s]Fetching scores:  56%|███████████████████████                  | 90/160 [00:25<00:19,  3.63runner/s]Fetching scores:  62%|█████████████████████████               | 100/160 [00:26<00:13,  4.36runner/s]Fetching scores:  69%|███████████████████████████▌            | 110/160 [00:31<00:14,  3.42runner/s]Fetching scores:  75%|██████████████████████████████          | 120/160 [00:33<00:10,  3.66runner/s]Fetching scores:  81%|████████████████████████████████▌       | 130/160 [00:35<00:07,  3.89runner/s]Fetching scores:  88%|███████████████████████████████████     | 140/160 [00:36<00:04,  4.89runner/s]Fetching scores:  94%|█████████████████████████████████████▌  | 150/160 [00:37<00:01,  5.77runner/s]Fetching scores: 100%|████████████████████████████████████████| 160/160 [00:37<00:00,  4.23runner/s]
+  Saved to data/tvsb_2022_VM.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 63/64
+Score range: 284 - 650
+Mean score: 404
+
+Top 10 finishers:
+ rank_scratch                name race_time  utmb_index  utmb_score
+          1.0    Thomas SOUVERAIN  07:18:45       523.0       650.0
+          4.0  Grégoire SOUVERAIN  08:14:59       489.0       576.0
+         14.0      Philippe BALET  09:35:02       338.0       496.0
+         16.0  Guillaume BONNORON  09:40:28       442.0       491.0
+         20.0     David BALLARINI  10:04:38       499.0       472.0
+         21.0    Mickaël CARDINAL  10:11:47         NaN       466.0
+         24.0   Lilith BERNASCONI  10:19:36         NaN       460.0
+         24.0        Chiara CROCI  10:19:36       527.0       460.0
+         26.0   Carl Otto HANSSON  10:27:55       382.0       454.0
+         26.0  Francisco BARRUTIA  10:27:55         NaN       454.0

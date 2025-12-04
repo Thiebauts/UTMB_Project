@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: puertovallarta | Year: 2024 | Race: 100M
+======================================================================
+Loaded 123 runners from data/puertovallarta_2024_100M.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 122 runners...
+Fetching scores:   0%|                                                  | 0/122 [00:00<?, ?runner/s]Fetching scores:   8%|███▎                                     | 10/122 [00:01<00:12,  8.62runner/s]Fetching scores:  16%|██████▋                                  | 20/122 [00:01<00:07, 12.77runner/s]Fetching scores:  25%|██████████                               | 30/122 [00:02<00:06, 14.96runner/s]Fetching scores:  37%|███████████████                          | 45/122 [00:02<00:04, 19.09runner/s]Fetching scores:  45%|██████████████████▍                      | 55/122 [00:03<00:03, 18.95runner/s]Fetching scores:  55%|██████████████████████▌                  | 67/122 [00:03<00:02, 18.46runner/s]Fetching scores:  66%|███████████████████████████▏             | 81/122 [00:04<00:01, 20.72runner/s]Fetching scores:  81%|█████████████████████████████████▎       | 99/122 [00:05<00:00, 24.99runner/s]Fetching scores:  89%|███████████████████████████████████▋    | 109/122 [00:06<00:00, 18.19runner/s]Fetching scores:  98%|███████████████████████████████████████ | 119/122 [00:06<00:00, 16.62runner/s]Fetching scores: 100%|████████████████████████████████████████| 122/122 [00:08<00:00, 14.12runner/s]
+  Saved to data/puertovallarta_2024_100M.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/76
+
+Top 10 finishers:
+ rank_scratch                            name race_time  utmb_index  utmb_score
+          1.0           Remigio HUAMAN QUISPE  16:20:20       823.0         NaN
+          2.0                  Samuel COLLINS  17:20:21       780.0         NaN
+          3.0                     Steven DOLL  18:57:46       640.0         NaN
+          4.0           Edson Scorpion CHÁVEZ  20:53:30         NaN         NaN
+          5.0                    Alyssa CLARK  21:38:51       701.0         NaN
+          6.0             Marc-Antoine FORAND  21:51:55       647.0         NaN
+          7.0           Hector FUENTES RIVERA  22:35:31       699.0         NaN
+          8.0  Esteban Alejandro MARÍN TORRES  22:40:00       689.0         NaN
+          9.0               Julius VAINAUSKAS  22:50:33       595.0         NaN
+         10.0                    Kelsey HOGAN  23:29:41       638.0         NaN

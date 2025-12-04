@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: aranbyutmb | Year: 2024 | Race: skypro
+======================================================================
+Loaded 65 runners from data/aranbyutmb_2024_skypro.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 57 runners...
+Fetching scores:   0%|                                                   | 0/57 [00:00<?, ?runner/s]Fetching scores:  18%|███████▎                                  | 10/57 [00:00<00:04, 10.03runner/s]Fetching scores:  39%|████████████████▏                         | 22/57 [00:01<00:02, 14.83runner/s]Fetching scores:  68%|████████████████████████████▋             | 39/57 [00:02<00:00, 21.42runner/s]Fetching scores:  86%|████████████████████████████████████      | 49/57 [00:04<00:00, 10.51runner/s]Fetching scores: 100%|██████████████████████████████████████████| 57/57 [00:07<00:00,  8.11runner/s]
+  Saved to data/aranbyutmb_2024_skypro.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/52
+
+Top 10 finishers:
+ rank_scratch                    name race_time  utmb_index  utmb_score
+          1.0     Guillaume LHERISSON  01:18:20       714.0         NaN
+          2.0        Adrian VOS PEREZ  01:19:31       673.0         NaN
+          3.0  Adrià LÓPEZ VILAJOSANA  01:20:25       715.0         NaN
+          4.0         Timothé PARADIS  01:21:42       690.0         NaN
+          5.0           Harris PAGETT  01:22:43         NaN         NaN
+          6.0            Isaac GARCÍA  01:23:18         NaN         NaN
+          7.0  Albert SOLER CAPDEVILA  01:24:19         NaN         NaN
+          8.0        Paweł PODBIELSKI  01:27:51         NaN         NaN
+          9.0  Sergi MARTÍNEZ VÁZQUEZ  01:28:52         NaN         NaN
+         10.0            Hugo MÁRQUEZ  01:29:06         NaN         NaN

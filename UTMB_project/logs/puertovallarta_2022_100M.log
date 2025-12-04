@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: puertovallarta | Year: 2022 | Race: 100M
+======================================================================
+Loaded 137 runners from data/puertovallarta_2022_100M.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 115 runners...
+Fetching scores:   0%|                                                  | 0/115 [00:00<?, ?runner/s]Fetching scores:   9%|███▌                                     | 10/115 [00:02<00:23,  4.39runner/s]Fetching scores:  17%|███████▏                                 | 20/115 [00:03<00:18,  5.14runner/s]Fetching scores:  26%|██████████▋                              | 30/115 [00:05<00:13,  6.49runner/s]Fetching scores:  35%|██████████████▎                          | 40/115 [00:06<00:10,  7.30runner/s]Fetching scores:  43%|█████████████████▊                       | 50/115 [00:07<00:09,  7.19runner/s]Fetching scores:  52%|█████████████████████▍                   | 60/115 [00:08<00:07,  7.77runner/s]Fetching scores:  61%|████████████████████████▉                | 70/115 [00:09<00:05,  8.26runner/s]Fetching scores:  70%|████████████████████████████▌            | 80/115 [00:10<00:03,  9.10runner/s]Fetching scores:  78%|████████████████████████████████         | 90/115 [00:11<00:02, 10.83runner/s]Fetching scores:  87%|██████████████████████████████████▊     | 100/115 [00:11<00:01, 12.12runner/s]Fetching scores:  96%|██████████████████████████████████████▎ | 110/115 [00:12<00:00, 12.88runner/s]Fetching scores: 100%|████████████████████████████████████████| 115/115 [00:13<00:00,  8.23runner/s]
+  Saved to data/puertovallarta_2022_100M.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/65
+
+Top 10 finishers:
+ rank_scratch                      name race_time  utmb_index  utmb_score
+          1.0              Dave Stevens  23:45:04       833.0         NaN
+          2.0       jhon barrera moreno  23:52:58       827.0         NaN
+          3.0             Jeff Mogavero  24:02:49         NaN         NaN
+          4.0               Anthony Lee  26:11:49       839.0         NaN
+          5.0            Tony Rodriguez  28:19:47       724.0         NaN
+          6.0  Mauricio Martinez Valdez  29:20:50       726.0         NaN
+          7.0     Hector Fuentes Rivera  29:54:31       635.0         NaN
+          8.0            Jou Valenzuela  30:15:56         NaN         NaN
+          9.0             Roberto Meier  30:43:29       436.0         NaN
+         10.0                Matt Smith  30:49:49       666.0         NaN

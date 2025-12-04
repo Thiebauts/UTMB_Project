@@ -1,0 +1,89 @@
+event_name,race_name,race_code,year,start_date,start_time,location,country,latitude,longitude,distance_km,elevation_gain,utmb_category,avg_temp_c,min_temp_c,max_temp_c,total_precip_mm,max_wind_kmh,avg_wind_kmh,avg_humidity_pct,hours_analyzed,temp_score,precip_score,wind_score,humidity_score,weather_score,weather_category
+Arc of Attrition by UTMB,ARC 100,arc100,2025,2025-01-24,12:00,Coverack,United Kingdom,50.0234,-5.093,160.0,4250,100m,8.1,6.2,10.5,8.2,30.3,18.9,70.7,24,100.0,73.6,69.5,98.7,84.5,Excellent
+Arc of Attrition by UTMB,ARC 50,arc50,2025,2025-01-25,08:30,Porthcurno - Minack Theatre,United Kingdom,50.0402,-5.6389,80.0,2300,100k,8.8,5.5,10.1,9.7,67.5,28.3,68.0,24,100.0,70.6,22.5,100.0,74.2,Good
+Chianti Ultra Trail by UTMB,Chianti Half Trail,CHT,2024,2024-03-24,08:00,Radda in Chianti,Italy,43.4865,11.3734,20.0,850,20k,8.3,2.1,13.0,1.0,15.9,8.3,75.7,24,100.0,96.0,98.2,88.7,96.5,Excellent
+Chianti Ultra Trail by UTMB,Chianti Marathon Trail,CMT,2024,2024-03-23,06:00,Radda in Chianti,Italy,43.4865,11.3734,43.0,1650,50k,11.1,6.6,16.1,0.0,20.1,12.4,81.1,24,100.0,100.0,89.8,77.8,94.6,Excellent
+Chianti Ultra Trail by UTMB,Chianti Ultra Trail,CUT,2024,2024-03-23,05:00,Radda in Chianti,Italy,43.4865,11.3734,73.0,2850,100k,11.2,7.1,16.1,0.0,20.1,12.3,80.8,24,100.0,100.0,89.8,78.5,94.7,Excellent
+Chianti Ultra Trail by UTMB,Ultra Trail Chianti Castles,UTCC,2024,2024-03-23,03:00,Radda in Chianti,Italy,43.4865,11.3734,103.0,4000,100k,11.1,7.1,16.1,0.0,20.1,12.0,80.0,24,100.0,100.0,89.8,79.9,94.9,Excellent
+Chianti Ultra Trail by UTMB,Chianti Half Trail,CHT,2025,2025-03-23,07:15,Radda in Chianti,Italy,43.4865,11.3734,20.0,800,20k,10.8,6.7,16.8,2.3,13.7,9.2,72.7,24,100.0,90.8,100.0,94.6,96.0,Excellent
+Chianti Ultra Trail by UTMB,Chianti Marathon Trail,CMT,2025,2025-03-23,07:15,Radda in Chianti,Italy,43.4865,11.3734,46.0,1700,50k,10.8,6.7,16.8,2.3,13.7,9.2,72.7,24,100.0,90.8,100.0,94.6,96.0,Excellent
+Chianti Ultra Trail by UTMB,Chianti Ultra Trail,CUT,2025,2025-03-22,06:00,Radda in Chianti,Italy,43.4865,11.3734,73.0,3000,100k,9.5,6.2,12.2,8.8,19.5,14.5,92.3,24,100.0,72.4,91.0,55.4,81.9,Excellent
+Chianti Ultra Trail by UTMB,Chianti Wine Run,CWR,2025,2025-03-21,18:00,Radda in Chianti,Italy,43.4865,11.3734,10.0,400,,8.9,5.9,12.2,8.7,18.4,13.1,85.8,24,100.0,72.6,93.2,68.3,84.3,Excellent
+Chianti Ultra Trail by UTMB,Ultra Trail Chianti Castles,UTCC,2025,2025-03-22,03:00,Radda in Chianti,Italy,43.4865,11.3734,120.0,5200,100m,9.3,5.9,12.2,11.3,19.5,15.0,90.8,24,100.0,67.4,91.0,58.3,80.5,Excellent
+Eiger Ultra Trail,E101,E101,2024,2024-07-20,02:00,Grindelwald,Switzerland,46.6243,8.0414,101.0,6700,100k,20.8,14.9,25.9,0.0,6.4,3.8,55.2,24,71.0,100.0,100.0,100.0,91.3,Excellent
+Eiger Ultra Trail,E101Short,e101sho,2024,2024-07-20,02:00,Grindelwald,Switzerland,46.6243,8.0414,60.0,3100,,20.8,14.9,25.9,0.0,6.4,3.8,55.2,24,71.0,100.0,100.0,100.0,91.3,Excellent
+Eiger Ultra Trail,E16,E16,2024,2024-07-20,07:00,Grindelwald,Switzerland,46.6243,8.0414,16.0,960,20k,20.7,14.9,25.9,0.0,6.4,3.6,55.4,24,71.7,100.0,100.0,100.0,91.5,Excellent
+Eiger Ultra Trail,E250 ,E250,2024,2024-07-17,06:00,Grindelwald,Switzerland,46.6243,8.0414,246.0,17000,100m,16.6,13.3,20.9,0.9,7.4,3.2,79.5,24,91.9,96.4,100.0,80.9,93.4,Excellent
+Eiger Ultra Trail,E51,E51,2024,2024-07-20,05:15,Grindelwald,Switzerland,46.6243,8.0414,51.0,3100,50k,20.7,14.9,25.9,0.0,6.4,3.7,55.3,24,71.4,100.0,100.0,100.0,91.4,Excellent
+Eiger Ultra Trail,E51 Couples,E51cou,2024,2024-07-20,05:15,Grindelwald,Switzerland,46.6243,8.0414,51.0,3100,50k,20.7,14.9,25.9,0.0,6.4,3.7,55.3,24,71.4,100.0,100.0,100.0,91.4,Excellent
+Eiger Ultra Trail,Trail Surprise,TS,2024,2024-07-19,10:33,Grindelwald,Switzerland,46.6243,8.0414,14.0,0,20k,20.3,14.5,24.6,0.0,5.2,3.5,58.3,24,73.6,100.0,100.0,100.0,92.1,Excellent
+Eiger Ultra Trail,minisrookies,minis,2024,2024-07-19,16:05,Grindelwald,Switzerland,46.6243,8.0414,0.35,0,,20.5,14.5,25.9,0.0,6.4,3.9,55.4,24,72.5,100.0,100.0,100.0,91.7,Excellent
+Eiger Ultra Trail,youngsters,youngs,2024,2024-07-19,16:08,Grindelwald,Switzerland,46.6243,8.0414,0.95,0,,20.5,14.5,25.9,0.0,6.4,3.9,55.4,24,72.5,100.0,100.0,100.0,91.7,Excellent
+Hoka UTMB® Mont-Blanc,PTL®,ptl,2022,2022-08-22,06:00,Chamonix,France,45.9237,6.8694,290.0,26500,,15.8,8.2,20.8,0.5,7.8,3.9,75.8,24,95.9,98.0,100.0,88.5,96.3,Excellent
+Hoka UTMB® Mont-Blanc,UTMB®,utmb,2022,2022-08-26,15:59,Chamonix,France,45.9237,6.8694,170.0,10000,,15.7,9.0,21.9,4.3,6.1,3.0,85.3,24,96.5,82.8,100.0,69.4,88.4,Excellent
+Hoka UTMB® Mont-Blanc,PTL®,ptl,2023,2023-08-28,06:00,Chamonix,France,45.9237,6.8694,290.0,26500,,8.4,7.1,9.9,24.0,8.0,5.1,98.4,24,100.0,46.0,100.0,43.2,72.6,Good
+Hoka UTMB® Mont-Blanc,UTMB®,utmb,2023,2023-09-01,15:59,Chamonix,France,45.9237,6.8694,170.0,10000,,15.9,8.9,23.1,0.1,8.7,4.0,75.2,24,95.4,99.6,100.0,89.5,96.9,Excellent
+Hoka UTMB® Mont-Blanc,YCC Cadet - The Revenge,ycc2C,2023,2023-08-30,07:59,Chamonix,France,45.9237,6.8694,3.5,0,,10.6,5.0,15.0,1.3,6.1,3.8,84.7,24,100.0,94.8,100.0,70.6,93.8,Excellent
+Hoka UTMB® Mont-Blanc,YCC Junior&Espoir - The Revenge,ycc2JE,2023,2023-08-30,08:28,Chamonix,France,45.9237,6.8694,5.0,0,,10.7,5.0,15.0,1.3,6.1,3.9,84.6,24,100.0,94.8,100.0,70.8,93.8,Excellent
+Hoka UTMB® Mont-Blanc,YCC Minime - The Revenge,ycc2M,2023,2023-08-30,07:40,Chamonix,France,45.9237,6.8694,2.0,0,,10.6,5.0,15.0,1.3,6.1,3.8,84.7,24,100.0,94.8,100.0,70.6,93.8,Excellent
+Hoka UTMB® Mont-Blanc,PTL®,ptl,2024,2024-08-26,06:01,Chamonix,France,45.9237,6.8694,305.0,24765,,15.0,9.3,21.5,0.0,7.4,4.4,80.6,24,99.8,100.0,100.0,78.8,96.8,Excellent
+Hoka UTMB® Mont-Blanc,UTMB®,utmb,2024,2024-08-30,16:01,Chamonix,France,45.9237,6.8694,176.4,9915,100m,20.0,13.4,27.3,0.4,6.0,3.6,66.2,24,74.9,98.4,100.0,100.0,91.9,Excellent
+Hoka UTMB® Mont-Blanc,YCC Cadet - The Revenge,ycc2C,2024,2024-08-28,09:23,Chamonix,France,45.9237,6.8694,3.5,0,,19.8,13.6,26.2,0.0,5.9,3.6,64.0,24,75.9,100.0,100.0,100.0,92.8,Excellent
+Hoka UTMB® Mont-Blanc,YCC Junior - The Revenge,ycc2JE,2024,2024-08-28,09:47,Chamonix,France,45.9237,6.8694,5.0,0,,19.8,13.6,26.2,0.0,5.9,3.6,64.0,24,75.9,100.0,100.0,100.0,92.8,Excellent
+Hoka UTMB® Mont-Blanc,YCC Minime - The Revenge,ycc2M,2024,2024-08-28,09:03,Chamonix,France,45.9237,6.8694,2.0,0,,19.8,13.6,26.2,0.0,5.9,3.6,64.0,24,75.9,100.0,100.0,100.0,92.8,Excellent
+Hoka UTMB® Mont-Blanc,PTL®,ptl,2025,2025-08-25,06:00,Chamonix,France,45.9237,6.8694,300.0,25000,,17.5,10.9,24.7,0.0,6.3,4.2,50.5,24,87.3,100.0,100.0,100.0,96.2,Excellent
+Hoka UTMB® Mont-Blanc,UTMB®,utmb,2025,2025-08-29,15:45,Chamonix,France,45.9237,6.8694,174.0,10000,100m,12.6,8.6,16.9,3.8,7.4,3.1,82.7,24,100.0,84.8,100.0,74.6,90.9,Excellent
+Hoka UTMB® Mont-Blanc,YCC Cadet - The Revenge,ycc2C,2025,2025-08-27,09:20,Chamonix,France,45.9237,6.8694,3.5,0,,19.0,16.0,25.0,24.0,6.6,2.5,76.1,24,80.2,46.0,100.0,87.8,73.3,Good
+Hoka UTMB® Mont-Blanc,YCC Junior The Revenge,ycc2JE,2025,2025-08-27,09:45,Chamonix,France,45.9237,6.8694,5.0,0,,19.0,16.0,25.0,24.0,6.6,2.5,76.1,24,80.2,46.0,100.0,87.8,73.3,Good
+Hoka UTMB® Mont-Blanc,YCC Minime - The Revenge,ycc2M,2025,2025-08-27,09:04,Chamonix,France,45.9237,6.8694,2.0,0,,19.0,16.0,25.0,24.0,6.6,2.5,76.1,24,80.2,46.0,100.0,87.8,73.3,Good
+Kullamannen by UTMB®,Dödens Zon 20 km,20K,2022,2022-11-05,08:00,Mölle,Sweden,56.2833,12.4965,20.0,620,,10.5,9.2,11.1,4.2,40.6,34.0,81.9,24,100.0,83.2,54.1,76.2,81.4,Excellent
+Kullamannen by UTMB®,Kullamannen 100 Miles,100M,2022,2022-11-04,17:00,Båstad,Sweden,56.4258,12.8515,161.0,2150,,9.5,8.4,10.8,0.6,20.3,16.4,86.7,24,100.0,97.6,89.4,66.6,92.0,Excellent
+Kullamannen by UTMB®,Sibirien Ultra 50 km,50k,2022,2022-11-05,08:00,Ängelholm,Sweden,56.2416,12.8579,54.0,1060,,9.2,8.2,10.8,2.7,23.3,16.0,86.8,24,100.0,89.2,83.4,66.3,87.9,Excellent
+Kullamannen by UTMB®,Sprint Ultra 100 km,100k,2022,2022-11-04,21:59,Båstad,Sweden,56.4258,12.8515,103.0,1240,,9.5,8.4,10.8,0.8,22.0,17.2,85.3,24,100.0,96.8,86.0,69.4,91.5,Excellent
+Kullamannen by UTMB®,Dödens Zon 20 km,20K,2023,2023-11-04,09:00,MÖLLE HARBOUR,Sweden,56.2833,12.4965,20.0,625,,9.2,8.6,10.0,1.8,37.4,31.2,81.6,24,100.0,92.8,58.9,76.8,85.8,Excellent
+Kullamannen by UTMB®,Kullamannen 100 Miles,100M,2023,2023-11-03,17:00,HÖGANÄS,Sweden,56.1989,12.5586,161.0,2586,,8.8,7.9,9.6,0.0,22.7,14.0,85.4,24,100.0,100.0,84.6,69.2,92.3,Excellent
+Kullamannen by UTMB®,Sibirien Ultra 50 km,50k,2023,2023-11-04,10:00,BÅSTAD,Sweden,56.4258,12.8515,50.0,834,,8.3,7.3,9.7,0.6,22.6,18.6,83.8,24,100.0,97.6,84.8,72.4,92.0,Excellent
+Kullamannen by UTMB®,Sprint Ultra 100 km,100k,2023,2023-11-03,21:00,HÖGANÄS,Sweden,56.1989,12.5586,103.0,1045,,8.8,7.9,9.6,0.5,23.7,15.6,85.2,24,100.0,98.0,82.6,69.5,91.2,Excellent
+Kullamannen by UTMB®,North Shore,20K,2024,2024-11-02,09:15,Båstad harbour,Sweden,56.4258,12.8515,21.9,83,20k,7.3,3.9,10.0,0.2,29.6,16.5,68.5,24,96.0,99.2,70.8,100.0,92.7,Excellent
+Kullamannen by UTMB®,Seventh Seal,50k,2024,2024-11-02,10:00,Båstad harbour,Sweden,56.4258,12.8515,56.9,853,50k,7.5,3.9,10.5,0.3,30.1,17.4,69.4,24,97.2,98.8,69.8,100.0,92.7,Excellent
+Kullamannen by UTMB®,Sprint Ultra 100km,100k,2024,2024-11-01,21:00,Höganäs,Sweden,56.1989,12.5586,104.0,1043,100k,7.4,5.6,10.3,0.0,32.4,14.3,56.0,24,96.9,100.0,66.4,100.0,92.4,Excellent
+Kullamannen by UTMB®,Ultra 100 Miles,100M,2024,2024-11-01,17:00,Höganäs,Sweden,56.1989,12.5586,159.9,2547,100m,7.9,5.6,10.8,0.0,43.1,17.8,56.9,24,99.2,100.0,50.3,100.0,89.8,Excellent
+Kullamannen by UTMB®,North Shore,20K,2025,2025-11-01,12:00,Bastad,Sweden,56.4258,12.8515,22.0,96,20k,10.7,9.7,11.9,4.6,26.6,19.6,91.9,24,100.0,81.6,76.8,56.2,82.3,Excellent
+Kullamannen by UTMB®,Seventh Seal,50k,2025,2025-11-01,10:00,Bastad,Sweden,56.4258,12.8515,53.0,727,50k,10.6,9.7,11.9,4.5,26.6,19.4,91.7,24,100.0,82.0,76.8,56.6,82.5,Excellent
+Kullamannen by UTMB®,Sprint Ultra 100km,100k,2025,2025-10-31,21:00,Hoganas,Sweden,56.1989,12.5586,108.0,749,100k,9.9,7.9,11.7,3.2,29.2,23.0,87.1,24,100.0,87.2,71.6,65.8,84.7,Excellent
+Kullamannen by UTMB®,Ultra 100 Miles,100M,2025,2025-10-31,17:00,Hoganas,Sweden,56.1989,12.5586,173.0,2300,100m,9.5,7.9,11.7,0.0,29.2,21.9,86.5,24,100.0,100.0,71.6,67.1,89.4,Excellent
+La Sportiva Lavaredo Ultra Trail by UTMB®,LAVAREDO 120K,120K,2023,2023-06-23,21:00,Cortina d'Ampezzo,Italy,46.5404,12.1357,120.0,5800,,15.7,10.8,21.1,0.0,10.7,8.8,63.2,24,96.6,100.0,100.0,100.0,99.0,Excellent
+La Sportiva Lavaredo Ultra Trail by UTMB®,LAVAREDO 20K,20K,2023,2023-06-22,15:00,Cortina d'Ampezzo,Italy,46.5404,12.1357,20.0,1000,,18.0,13.3,24.2,13.6,9.1,4.9,84.0,24,85.2,62.8,100.0,72.1,78.3,Good
+La Sportiva Lavaredo Ultra Trail by UTMB®,LAVAREDO 50K,50K,2023,2023-06-23,06:00,Cortina d'Ampezzo,Italy,46.5404,12.1357,50.0,2600,,15.0,10.8,21.1,13.2,10.5,8.3,72.0,24,99.9,63.6,100.0,96.1,86.6,Excellent
+La Sportiva Lavaredo Ultra Trail by UTMB®,LAVAREDO 120K,120K,2024,2024-06-28,21:00,Cortina d'Ampezzo,Italy,46.5404,12.1357,120.0,5800,100m,19.3,13.4,24.3,1.0,8.7,4.6,80.8,24,78.3,96.0,100.0,78.3,88.8,Excellent
+La Sportiva Lavaredo Ultra Trail by UTMB®,LAVAREDO 20K,20K,2024,2024-06-27,14:59,Cortina d'Ampezzo,Italy,46.5404,12.1357,20.0,1000,20k,18.1,11.5,25.2,0.5,7.4,5.4,68.8,24,84.6,98.0,100.0,100.0,94.7,Excellent
+La Sportiva Lavaredo Ultra Trail by UTMB®,LAVAREDO 50K,50K,2024,2024-06-28,05:59,Cortina d'Ampezzo,Italy,46.5404,12.1357,50.0,2600,50k,19.4,13.4,25.2,0.6,7.0,4.4,69.4,24,77.8,97.6,100.0,100.0,92.5,Excellent
+La Sportiva Lavaredo Ultra Trail by UTMB®,LAVAREDO 10K,10K,2025,2025-06-25,17:00,Cortina d'Ampezzo,Italy,46.5404,12.1357,10.0,300,,19.5,12.7,25.7,4.2,10.4,4.4,79.3,24,77.6,83.2,100.0,81.3,84.6,Excellent
+La Sportiva Lavaredo Ultra Trail by UTMB®,LAVAREDO 120K,120K,2025,2025-06-27,21:00,Cortina d'Ampezzo,Italy,46.5404,12.1357,120.0,5800,100m,20.6,14.1,27.3,0.0,12.6,6.0,61.3,24,72.0,100.0,100.0,100.0,91.6,Excellent
+La Sportiva Lavaredo Ultra Trail by UTMB®,LAVAREDO 20K,20K,2025,2025-06-26,15:00,Cortina d'Ampezzo,Italy,46.5404,12.1357,20.0,1000,20k,18.2,13.0,24.9,13.7,10.2,5.8,75.2,24,84.2,62.6,100.0,89.7,80.6,Excellent
+La Sportiva Lavaredo Ultra Trail by UTMB®,LAVAREDO 50K,50K,2025,2025-06-27,06:00,Cortina d'Ampezzo,Italy,46.5404,12.1357,50.0,2600,50k,19.4,14.1,24.9,0.3,11.6,6.2,61.7,24,78.2,98.8,100.0,100.0,93.0,Excellent
+Trail Alsace Grand Est by UTMB,Trail des Celtes,TDC,2023,2023-05-19,07:50,Barr,France,48.4084,7.4499,50.0,1990,,13.9,11.2,16.3,0.0,20.8,15.1,66.8,24,100.0,100.0,88.4,100.0,97.7,Excellent
+Trail Alsace Grand Est by UTMB,Trail des Pèlerins,TDP,2023,2023-05-21,05:49,Barr,France,48.4084,7.4499,34.0,1280,,18.4,13.8,23.5,0.0,13.4,8.5,75.5,24,82.8,100.0,100.0,89.1,93.2,Excellent
+Trail Alsace Grand Est by UTMB,Ultra-Trail des  Chevaliers,UTDC,2023,2023-05-19,17:59,Colmar,France,48.0794,7.3559,175.0,6200,,15.2,11.9,20.0,0.4,18.9,14.7,70.4,24,99.2,98.4,92.2,99.2,97.5,Excellent
+Trail Alsace Grand Est by UTMB,Ultra-Trail des Païens,UTDP,2023,2023-05-20,04:50,Orschwiller,France,48.2566,7.3997,109.0,3820,,16.7,12.0,21.0,0.1,19.5,15.5,70.7,24,91.3,99.6,91.0,98.7,95.2,Excellent
+Trail Alsace Grand Est by UTMB,Trail des Celtes,TDC,2024,2024-05-20,05:00,Barr,France,48.4084,7.4499,50.0,1990,50k,17.2,11.5,21.6,6.5,12.2,6.1,75.3,24,89.1,77.0,100.0,89.3,87.1,Excellent
+Trail Alsace Grand Est by UTMB,Trail des Pèlerins,TDP,2024,2024-05-19,08:30,Barr,France,48.4084,7.4499,34.0,1280,20k,15.2,9.5,19.2,2.2,9.2,4.3,76.0,24,99.0,91.2,100.0,88.0,94.8,Excellent
+Trail Alsace Grand Est by UTMB,Ultra-Trail des  Chevaliers,UTDC,2024,2024-05-17,18:00,Colmar,France,48.0794,7.3559,171.0,6300,100m,14.0,7.1,20.4,0.6,9.3,5.5,77.3,24,100.0,97.6,100.0,85.3,97.0,Excellent
+Trail Alsace Grand Est by UTMB,Ronde des Pages,RDP,2025,2025-05-16,18:00,Obernai,France,48.4619,7.4819,17.0,300,20k,13.9,8.1,18.1,0.0,13.4,7.1,57.2,24,100.0,100.0,100.0,100.0,100.0,Excellent
+Trail Alsace Grand Est by UTMB,Trail des Celtes,TDC,2025,2025-05-18,05:00,Barr,France,48.4084,7.4499,50.0,2000,50k,14.3,7.1,20.3,0.0,13.2,7.6,60.2,24,100.0,100.0,100.0,100.0,100.0,Excellent
+Trail Alsace Grand Est by UTMB,Trail des Pèlerins,TDP,2025,2025-05-17,13:00,Barr,France,48.4084,7.4499,34.0,1300,20k,13.0,5.0,19.1,0.1,13.2,6.3,64.7,24,100.0,99.6,100.0,100.0,99.9,Excellent
+Trail Alsace Grand Est by UTMB,Ultra-Trail des  Chevaliers,UTDC,2025,2025-05-16,17:00,Turckheim,France,48.0853,7.279,158.0,5800,100m,13.7,5.9,18.4,0.3,8.9,4.9,58.1,24,100.0,98.8,100.0,100.0,99.6,Excellent
+Trail Alsace Grand Est by UTMB,Ultra-Trail des Païens,UTDP,2025,2025-05-16,05:00,Orschwiller,France,48.2566,7.3997,116.0,4200,100k,13.5,6.9,18.2,0.0,12.8,7.4,56.7,24,100.0,100.0,100.0,100.0,100.0,Excellent
+Trail Verbier St-Bernard by UTMB,Trail Decouverte 1.2,Kid1,2023,2023-07-09,08:00,Verbier,Switzerland,46.0964,7.2287,1.2,50,,20.4,12.7,27.8,0.0,6.2,4.1,45.3,24,72.8,100.0,100.0,100.0,91.8,Excellent
+Trail Verbier St-Bernard by UTMB,Trail Decouverte 3.5,Kid3,2023,2023-07-09,08:19,Verbier,Switzerland,46.0964,7.2287,3.5,170,,20.4,12.7,27.8,0.0,6.2,4.1,45.3,24,72.8,100.0,100.0,100.0,91.8,Excellent
+Trail Verbier St-Bernard by UTMB,Verbier X-Plore,XP,2023,2023-07-09,06:07,Verbier,Switzerland,46.0964,7.2287,26.0,1700,,20.4,12.7,27.8,0.0,6.2,4.1,44.8,24,73.1,100.0,100.0,100.0,91.9,Excellent
+Trail Verbier St-Bernard by UTMB,X-Alpine,XA,2023,2023-07-07,20:01,Verbier,Switzerland,46.0964,7.2287,140.0,9300,,17.4,10.1,24.5,0.5,7.6,3.9,60.8,24,87.8,98.0,100.0,100.0,95.6,Excellent
+Trail Verbier St-Bernard by UTMB,Trail Decouverte 1.2,Kid1,2024,2024-07-07,07:35,Verbier,Switzerland,46.0964,7.2287,1.2,50,,13.4,8.9,17.8,3.5,8.2,3.7,85.6,24,100.0,86.0,100.0,68.8,90.4,Excellent
+Trail Verbier St-Bernard by UTMB,Trail Decouverte 3.5,Kid3,2024,2024-07-07,07:50,Verbier,Switzerland,46.0964,7.2287,3.5,170,,13.4,8.9,17.8,3.5,8.2,3.7,85.6,24,100.0,86.0,100.0,68.8,90.4,Excellent
+Trail Verbier St-Bernard by UTMB,Verbier X-Plore,XP,2024,2024-07-07,05:34,Verbier,Switzerland,46.0964,7.2287,26.0,1700,20k,13.4,8.9,17.8,5.5,8.2,3.8,86.3,24,100.0,79.0,100.0,67.3,87.8,Excellent
+Trail Verbier St-Bernard by UTMB,X-Alpine,XA,2024,2024-07-05,20:00,Verbier,Switzerland,46.0964,7.2287,60.0,3900,100k,15.7,12.0,20.1,24.6,7.3,3.7,79.4,24,96.3,45.4,100.0,81.2,77.0,Good
+Trail Verbier St-Bernard by UTMB,TDécouverte1.2,TDA,2025,2025-07-13,07:30,Verbier,Switzerland,46.0964,7.2287,1.2,50,,16.1,11.6,20.6,4.4,5.9,2.7,65.7,24,94.5,82.4,100.0,100.0,92.2,Excellent
+Trail Verbier St-Bernard by UTMB,TDécouverte3.5,TDB,2025,2025-07-13,07:50,Verbier,Switzerland,46.0964,7.2287,3.5,170,,16.1,11.6,20.6,4.4,5.9,2.7,65.7,24,94.5,82.4,100.0,100.0,92.2,Excellent
+Trail Verbier St-Bernard by UTMB,Verbier X-Plore,XP,2025,2025-07-13,05:30,Verbier,Switzerland,46.0964,7.2287,28.0,1700,20k,16.0,10.3,20.6,2.5,5.9,2.6,65.3,24,95.0,90.0,100.0,100.0,95.0,Excellent
+Trail Verbier St-Bernard by UTMB,X-Alpine,XA,2025,2025-07-11,19:59,Verbier,Switzerland,46.0964,7.2287,140.2,9193,100m,14.1,5.0,20.6,0.1,5.9,4.0,61.5,24,100.0,99.6,100.0,100.0,99.9,Excellent
+Wildstrubel by UTMB®,Wild Run 5K,5k,2022,2022-09-09,17:04,Crans-Montana,Switzerland,46.3072,7.4793,5.0,250,,10.8,7.4,14.8,1.8,7.4,3.9,70.5,24,100.0,92.8,100.0,99.0,97.3,Excellent

@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: mut | Year: 2024 | Race: verti
+======================================================================
+Loaded 215 runners from data/mut_2024_verti.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 110 runners...
+Fetching scores:   0%|                                                  | 0/110 [00:00<?, ?runner/s]Fetching scores:   9%|███▋                                     | 10/110 [00:02<00:24,  4.11runner/s]Fetching scores:  20%|████████▏                                | 22/110 [00:03<00:10,  8.32runner/s]Fetching scores:  29%|███████████▉                             | 32/110 [00:03<00:08,  9.08runner/s]Fetching scores:  38%|███████████████▋                         | 42/110 [00:05<00:07,  9.23runner/s]Fetching scores:  47%|███████████████████▍                     | 52/110 [00:06<00:07,  7.44runner/s]Fetching scores:  56%|███████████████████████                  | 62/110 [00:10<00:09,  5.03runner/s]Fetching scores:  65%|██████████████████████████▊              | 72/110 [00:14<00:10,  3.59runner/s]Fetching scores:  75%|██████████████████████████████▌          | 82/110 [00:21<00:11,  2.48runner/s]Fetching scores:  84%|██████████████████████████████████▎      | 92/110 [00:26<00:07,  2.32runner/s]Fetching scores:  84%|██████████████████████████████████▎      | 92/110 [00:39<00:07,  2.32runner/s]Fetching scores:  91%|████████████████████████████████████▎   | 100/110 [00:41<00:08,  1.20runner/s]Fetching scores:  93%|█████████████████████████████████████   | 102/110 [00:45<00:07,  1.09runner/s]Fetching scores:  95%|█████████████████████████████████████▊  | 104/110 [00:46<00:05,  1.16runner/s]Fetching scores: 100%|████████████████████████████████████████| 110/110 [00:46<00:00,  2.35runner/s]
+  Saved to data/mut_2024_verti.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/182
+
+Top 10 finishers:
+ rank_scratch               name race_time  utmb_index  utmb_score
+          1.0     Pablo VANHOORN  00:33:05         NaN         NaN
+          2.0         Hugo LONNE  00:34:01       794.0         NaN
+          3.0  Diederick CALKOEN  00:34:27       685.0         NaN
+          4.0   Guillaume MAIOLO  00:35:06       674.0         NaN
+          5.0      Arnaud LEHNER  00:35:14       614.0         NaN
+          6.0     Célien CRETTEX  00:36:23       734.0         NaN
+          7.0       Louis GRUBER  00:36:37         NaN         NaN
+          8.0     Mike MCMONAGLE  00:36:43       805.0         NaN
+          9.0       Yann LIVACHE  00:36:59       677.0         NaN
+         10.0    Benjamin MÜLLER  00:37:05       765.0         NaN

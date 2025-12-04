@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: kat100 | Year: 2023 | Race: 8
+======================================================================
+Loaded 90 runners from data/kat100_2023_8.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 28 runners...
+Fetching scores:   0%|                                                   | 0/28 [00:00<?, ?runner/s]Fetching scores:  36%|███████████████                           | 10/28 [00:00<00:00, 18.20runner/s]Fetching scores:  71%|██████████████████████████████            | 20/28 [00:01<00:00, 11.03runner/s]Fetching scores: 100%|██████████████████████████████████████████| 28/28 [00:01<00:00, 14.29runner/s]
+  Saved to data/kat100_2023_8.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/83
+
+Top 10 finishers:
+ rank_scratch                   name race_time  utmb_index  utmb_score
+          1.0        Saverio MESSINA  00:28:22         NaN         NaN
+          2.0        Cornelius WEBER  00:31:59         NaN         NaN
+          3.0               Tim ROSE  00:32:01         NaN         NaN
+          4.0           Moritz BEYER  00:33:33       646.0         NaN
+          5.0          Markus HOLZER  00:34:26       634.0         NaN
+          6.0  Johannes UNTERASINGER  00:35:16         NaN         NaN
+          7.0        Anton SCHWENTER  00:36:13       622.0         NaN
+          8.0    Niklas BRANDSTÄTTER  00:36:42       506.0         NaN
+          9.0       Valentin FALKNER  00:36:59         NaN         NaN
+         10.0       Mateusz KOWALSKI  00:37:54         NaN         NaN

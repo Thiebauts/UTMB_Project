@@ -1,0 +1,23 @@
+# Race: Unknown
+# Distance: 1.2 km
+# D+: 50 m
+# D-: 50 m
+# Date: 2023-07-09
+# URL: https://live.utmb.world/tvsb/2023
+bib,name,country,age,sex,category,club,utmb_profile_url,utmb_index,rank_scratch,rank_sex,rank_category,race_time,race_time_seconds,is_finisher,status,utmb_score
+6110,Jules FILLIEZ,ST,10,H,PoussinA,,,,4,3,3,00:06:17,376.97,True,f,
+6103,Emilien DELATTRE,ST,10,H,PoussinA,,,,6,4,5,00:06:30,390.15,True,f,
+6108,Mathieu MURPHY,ST,9,H,PoussinA,,,,12,8,11,00:06:47,406.67,True,f,
+6124,Kaitlyn Rose TONER,CH,11,F,EcolAW,,,,18,7,1,00:07:02,421.86,True,f,
+6126,Giglio JOAO PAREDES,ST,10,H,PoussinA,,,,22,13,17,00:07:09,429.12,True,f,
+6122,France LEJELLEN,ST,9,H,PoussinA,,,,23,14,18,00:07:10,430.2,True,f,
+6115,Ruben SCHREVE,ST,10,H,PoussinA,,,,30,19,21,00:07:30,449.85,True,f,
+6101,André RIZZO,ST,10,H,PoussinA,,,,33,22,22,00:07:40,460.34,True,f,
+6125,Elias ALBA,ST,10,F,PoussinA,,,,41,16,28,00:07:57,477.46,True,f,
+6107,Leo KLINGER JENSEN,ST,10,H,PoussinA,,,,44,26,30,00:07:59,479.16,True,f,
+6119,Cameron VAN HUYCHEM,ST,10,H,PoussinA,,,,46,27,32,00:08:00,480.68,True,f,
+6120,Noémie TORNAY,ST,8,F,PoussinB,,,,59,24,21,00:08:58,538.24,True,f,
+6112,Leo RODRIGUEZ,ST,8,H,PoussinB,,,,62,36,23,00:09:25,565.58,True,f,
+6121,Anaïs TORNAY,ST,6,F,PoussinB,,,,71,33,29,00:11:40,699.89,True,f,
+6104,Snow SLATER,ST,6,F,PoussinB,,,,73,34,31,00:12:03,723.09,True,f,
+6109,Ortega EROS,CH,6,H,PoussinB,,,,76,40,34,00:00:00,0.0,False,c,

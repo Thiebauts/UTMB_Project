@@ -1,0 +1,36 @@
+# Race: Unknown
+# Distance: 0.4 km
+# D+: 100 m
+# D-: 100 m
+# Date: 2024-10-30
+# URL: https://live.utmb.world/mallorcabyutmb/2024
+bib,name,country,age,sex,category,club,utmb_profile_url,utmb_index,rank_scratch,rank_sex,rank_category,race_time,race_time_seconds,is_finisher,status,utmb_score
+8001,Valentin BENARD,FR,28,H,20-34M,Asics Fuji Trail,https://utmb.world/runner/1565203.valentin.benard,856.0,1.0,1.0,1.0,00:05:06,306.79999999999967,True,f,
+8002,Hugues GIRARD,FR,33,H,20-34M,Lynx,https://utmb.world/runner/924031.hugues.girard,746.0,2.0,2.0,2.0,00:05:33,335.23,True,f,
+8028,Adrien MICHAUD,FR,42,H,40-44M,,https://utmb.world/runner/117038.adrien.michaud,867.0,3.0,3.0,1.0,00:05:39,340.7400000000003,True,f,
+8027,Alberto FERNÁNDEZ ABUJA,ES,25,H,20-34M,TRAILXTREM TEAM,https://utmb.world/runner/4857272.alberto.fernandezabuja,636.0,4.0,4.0,3.0,00:05:42,343.25,True,f,
+8024,Ellen VITTING,IE,40,F,35-39W,Kenmare AC,https://utmb.world/runner/2967703.ellen.vitting,624.0,5.0,1.0,1.0,00:08:07,487.91000000000014,True,f,
+8030,Ingalena SCHÖMBURG-HEUCK,DE,39,F,35-39W,LG BAMBERG,,,6.0,2.0,2.0,00:08:10,490.95000000000033,True,f,
+8025,Winnie DANKERS,NL,40,F,35-39W,,,,7.0,3.0,3.0,00:08:40,521.71,True,f,
+8010,Géraldine FAVRAT,FR,50,F,45-49W,Wind Soles,https://utmb.world/runner/3524035.geraldine.favrat,510.0,8.0,4.0,1.0,00:09:47,587.6600000000002,True,f,
+8026,Joseph MESTRALLET,FR,28,H,20-34M,Enduraw / CMBM,https://utmb.world/runner/3418845.joseph.mestrallet,677.0,9.0,5.0,4.0,00:03:59,239.31,False,c,
+8029,Xesc GALLEGO,ES,22,H,20-34M,c. e. spartan's academy,,,10.0,6.0,5.0,00:04:01,242.19999999999985,False,c,
+8005,Gaël FONTENEAU,FR,38,H,35-39M,Stade cubzaguais athlétisme,https://utmb.world/runner/472221.gael.fonteneau,635.0,11.0,7.0,1.0,00:04:21,261.54,False,c,
+8008,Arūnas KISIELIUS,LT,40,H,35-39M,Wild Souls,https://utmb.world/runner/4778610.arunas.kisielius,568.0,12.0,8.0,2.0,00:04:31,271.15999999999985,False,c,
+8017,Björn SCHUHMACHER,DE,40,H,35-39M,,,,13.0,9.0,3.0,00:02:07,127.8,False,c,
+8020,Corentin GALAUO,FR,21,H,20-34M,,,,13.0,9.0,6.0,00:02:07,127.77,False,c,
+8003,Franck FAILLON,FR,35,H,20-34M,Chablais Mountain Runners,https://utmb.world/runner/117120.franck.faillon,701.0,15.0,11.0,7.0,00:02:11,131.72,False,c,
+8007,Martin COLLANTES PEÑA,ES,34,H,20-34M,GM orza,https://utmb.world/runner/4221766.martin.collantespena,604.0,16.0,12.0,8.0,00:02:36,156.58,False,c,
+8009,Stefan AMANN,DE,60,H,55-59M,Team Target,https://utmb.world/runner/1453405.stefan.amann,539.0,17.0,13.0,1.0,00:02:47,167.41,False,c,
+8021,Nicolas GALAUP,FR,49,H,45-49M,,,,18.0,14.0,1.0,00:02:51,171.13,False,c,
+8014,Caroline GALAUP-MASSON,FR,45,F,40-44W,Stade Mont-de-Marsan,https://utmb.world/runner/4317602.caroline.galaupmasson,431.0,19.0,5.0,1.0,00:03:31,211.63,False,c,
+8016,Francisco Luis BLASCO QUEROL,ES,74,H,70-74M,Sa Milana,https://utmb.world/runner/4437518.franciscoluis.blascoquerol,333.0,20.0,15.0,1.0,00:03:54,234.56,False,c,
+8011,Pablo DOMENECH CALBO,ES,25,H,20-34M,Kiko Training Team,https://utmb.world/runner/5875812.pablo.domenechcalbo,454.0,,,,00:00:00,0.0,False,np,
+8013,Mark O'KELLY,IE,45,H,40-44M,,https://utmb.world/runner/1883625.mark.okelly,481.0,,,,00:00:00,0.0,False,np,
+8004,Juan BONNIN GARAU,ES,33,H,20-34M,Tramuntana Esport,https://utmb.world/runner/4108236.juan.bonningarau,668.0,,,,00:00:00,0.0,False,np,
+8023,Kai KINGMA,ZA,25,H,20-34M,,,,,,,00:00:00,0.0,False,np,
+8006,Yessica PEREZ TORRENTE,ES,33,F,20-34W,Mallorca Trail,https://utmb.world/runner/6178533.yessica.pereztorrente,630.0,,,,00:00:00,0.0,False,np,
+8019,Toni SASTRE COLL,ES,29,H,20-34M,Tramuntana Esport,https://utmb.world/runner/6196781.toni.sastrecoll,,,,,00:00:00,0.0,False,np,
+8015,David FIGUERAS,ES,50,H,45-49M,,https://utmb.world/runner/156152.david.figueras,422.0,,,,00:00:00,0.0,False,np,
+8022,Daniel LOCK,ZA,23,H,20-34M,,,,,,,00:00:00,0.0,False,np,
+8018,Aina SASTRE,ES,26,F,20-34W,Tramuntana Esport,https://utmb.world/runner/6196783.aina.sastre,,,,,00:00:00,0.0,False,np,

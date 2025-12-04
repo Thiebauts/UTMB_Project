@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: desertrats | Year: 2023 | Race: 100k
+======================================================================
+Loaded 73 runners from data/desertrats_2023_100k.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 71 runners...
+Fetching scores:   0%|                                                   | 0/71 [00:00<?, ?runner/s]Fetching scores:  14%|█████▉                                    | 10/71 [00:01<00:08,  7.37runner/s]Fetching scores:  31%|█████████████                             | 22/71 [00:01<00:04, 12.11runner/s]Fetching scores:  45%|██████████████████▉                       | 32/71 [00:02<00:03, 12.26runner/s]Fetching scores:  59%|████████████████████████▊                 | 42/71 [00:03<00:02, 12.99runner/s]Fetching scores:  73%|██████████████████████████████▊           | 52/71 [00:04<00:01, 12.41runner/s]Fetching scores:  87%|████████████████████████████████████▋     | 62/71 [00:06<00:01,  8.31runner/s]Fetching scores: 100%|██████████████████████████████████████████| 71/71 [00:08<00:00,  8.45runner/s]
+  Saved to data/desertrats_2023_100k.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/52
+
+Top 10 finishers:
+ rank_scratch              name race_time  utmb_index  utmb_score
+          1.0        Craig HUNT  03:39:45       876.0         NaN
+          2.0      Jonathan REA  03:41:28       884.0         NaN
+          3.0   Yutaro YOKOUCHI  03:52:54       803.0         NaN
+          4.0    Austin CHIRICO  04:05:16       737.0         NaN
+          5.0     Tyler VEERMAN  04:11:34       813.0         NaN
+          6.0       Byron YODER  04:17:29       726.0         NaN
+          7.0     Matt TAVERNER  04:23:20         NaN         NaN
+          8.0       Grant ROPER  04:27:21         NaN         NaN
+          9.0     Taylor ALLRED  04:35:36         NaN         NaN
+         10.0  Michael MARTINEZ  04:36:28         NaN         NaN

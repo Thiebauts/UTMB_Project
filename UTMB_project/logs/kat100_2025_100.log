@@ -1,0 +1,34 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: kat100 | Year: 2025 | Race: 100
+======================================================================
+Loaded 154 runners from data/kat100_2025_100.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 153 runners...
+Fetching scores:   0%|                                                  | 0/153 [00:00<?, ?runner/s]Fetching scores:   7%|██▋                                      | 10/153 [00:02<00:41,  3.44runner/s]Fetching scores:  13%|█████▎                                   | 20/153 [00:05<00:32,  4.04runner/s]Fetching scores:  20%|████████                                 | 30/153 [00:06<00:22,  5.49runner/s]Fetching scores:  26%|██████████▋                              | 40/153 [00:07<00:17,  6.65runner/s]Fetching scores:  33%|█████████████▍                           | 50/153 [00:08<00:15,  6.85runner/s]Fetching scores:  39%|████████████████                         | 60/153 [00:11<00:19,  4.75runner/s]Fetching scores:  46%|██████████████████▊                      | 70/153 [00:12<00:14,  5.62runner/s]Fetching scores:  52%|█████████████████████▍                   | 80/153 [00:13<00:10,  6.86runner/s]Fetching scores:  59%|████████████████████████                 | 90/153 [00:14<00:08,  7.24runner/s]Fetching scores:  65%|██████████████████████████▏             | 100/153 [00:22<00:18,  2.94runner/s]Fetching scores:  72%|████████████████████████████▊           | 110/153 [00:28<00:17,  2.39runner/s]Fetching scores:  78%|███████████████████████████████▎        | 120/153 [00:34<00:15,  2.18runner/s]Fetching scores:  85%|█████████████████████████████████▉      | 130/153 [00:36<00:09,  2.53runner/s]Fetching scores:  92%|████████████████████████████████████▌   | 140/153 [00:39<00:04,  2.90runner/s]Fetching scores:  98%|███████████████████████████████████████▏| 150/153 [00:41<00:00,  3.29runner/s]Fetching scores: 100%|████████████████████████████████████████| 153/153 [00:41<00:00,  3.69runner/s]
+  Saved to data/kat100_2025_100.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 77/79
+Score range: 425 - 830
+Mean score: 530
+
+Top 10 finishers:
+ rank_scratch               name race_time  utmb_index  utmb_score
+          1.0        Martin GRAF  24:28:09       807.0       830.0
+          2.0      Sylvain COURT  24:55:02       835.0       816.0
+          3.0       David WÖHRER  27:15:04       765.0       746.0
+          4.0   Dennis KÄLLERTEG  29:00:18       722.0         NaN
+          5.0      Clément ROZÈS  29:25:17       661.0       691.0
+          6.0        Lukáš ĎOPAN  29:44:56       708.0       683.0
+          7.0    Kamil DĄBROWSKI  30:12:14       726.0       673.0
+          8.0       Simon MARCIL  31:50:07       639.0       638.0
+          9.0     Tero YLI-KYYNY  31:53:08       637.0       637.0
+         10.0  Alexis CALLEWAERT  32:00:46       630.0       635.0

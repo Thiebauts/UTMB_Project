@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: kosciuszko | Year: 2022 | Race: miller
+======================================================================
+Loaded 232 runners from data/kosciuszko_2022_miller.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 206 runners...
+Fetching scores:   0%|                                                  | 0/206 [00:00<?, ?runner/s]Fetching scores:  67%|█████████████████████████▉             | 137/206 [00:01<00:00, 132.22runner/s]Fetching scores:  71%|████████████████████████████▌           | 147/206 [00:02<00:01, 50.79runner/s]Fetching scores:  76%|██████████████████████████████▍         | 157/206 [00:03<00:01, 33.68runner/s]Fetching scores:  81%|████████████████████████████████▍       | 167/206 [00:04<00:01, 22.43runner/s]Fetching scores:  86%|██████████████████████████████████▎     | 177/206 [00:05<00:01, 19.31runner/s]Fetching scores:  91%|████████████████████████████████████▎   | 187/206 [00:07<00:01, 12.94runner/s]Fetching scores:  96%|██████████████████████████████████████▎ | 197/206 [00:08<00:00, 10.88runner/s]Fetching scores: 100%|████████████████████████████████████████| 206/206 [00:12<00:00, 16.68runner/s]
+  Saved to data/kosciuszko_2022_miller.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/179
+
+Top 10 finishers:
+ rank_scratch              name race_time  utmb_index  utmb_score
+          1.0  Adrian MacDonald  14:07:42         NaN         NaN
+          2.0      Vlad Shatrov  15:10:36       816.0         NaN
+          3.0      Luke Barrett  15:50:44         NaN         NaN
+          4.0   Shane Johnstone  17:27:56       713.0         NaN
+          5.0  HAYATO NISHIKATA  18:08:55       750.0         NaN
+          6.0      James Quaife  18:28:05         NaN         NaN
+          7.0   Jared Penetcost  18:43:22         NaN         NaN
+          8.0      Thomas Scott  18:45:48       679.0         NaN
+          9.0       Elijah Mayr  18:56:01       628.0         NaN
+         10.0     Leigh Chapman  19:17:35       713.0         NaN

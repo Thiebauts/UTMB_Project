@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: puertovallarta | Year: 2024 | Race: 100K
+======================================================================
+Loaded 212 runners from data/puertovallarta_2024_100K.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 212 runners...
+Fetching scores:   0%|                                                  | 0/212 [00:00<?, ?runner/s]Fetching scores:   6%|██▌                                      | 13/212 [00:08<02:12,  1.51runner/s]Fetching scores:  11%|████▍                                    | 23/212 [00:09<01:11,  2.63runner/s]Fetching scores:  16%|██████▍                                  | 33/212 [00:11<00:48,  3.68runner/s]Fetching scores:  20%|████████▎                                | 43/212 [00:13<00:44,  3.76runner/s]Fetching scores:  25%|██████████▎                              | 53/212 [00:16<00:44,  3.54runner/s]Fetching scores:  30%|████████████▏                            | 63/212 [00:19<00:43,  3.40runner/s]Fetching scores:  34%|██████████████                           | 73/212 [00:20<00:31,  4.35runner/s]Fetching scores:  39%|████████████████                         | 83/212 [00:22<00:25,  5.11runner/s]Fetching scores:  44%|█████████████████▉                       | 93/212 [00:24<00:24,  4.90runner/s]Fetching scores:  49%|███████████████████▍                    | 103/212 [00:25<00:17,  6.17runner/s]Fetching scores:  56%|██████████████████████▎                 | 118/212 [00:25<00:10,  8.81runner/s]Fetching scores:  60%|████████████████████████▏               | 128/212 [00:26<00:09,  8.57runner/s]Fetching scores:  65%|██████████████████████████              | 138/212 [00:28<00:08,  8.40runner/s]Fetching scores:  70%|███████████████████████████▉            | 148/212 [00:29<00:07,  8.03runner/s]Fetching scores:  75%|█████████████████████████████▊          | 158/212 [00:30<00:05,  9.32runner/s]Fetching scores:  81%|████████████████████████████████▍       | 172/212 [00:31<00:03, 10.23runner/s]Fetching scores:  86%|██████████████████████████████████▎     | 182/212 [00:34<00:04,  6.80runner/s]Fetching scores:  91%|████████████████████████████████████▏   | 192/212 [00:35<00:03,  6.63runner/s]Fetching scores:  95%|██████████████████████████████████████  | 202/212 [00:37<00:01,  6.43runner/s]Fetching scores: 100%|████████████████████████████████████████| 212/212 [00:42<00:00,  3.72runner/s]Fetching scores: 100%|████████████████████████████████████████| 212/212 [00:42<00:00,  4.95runner/s]
+  Saved to data/puertovallarta_2024_100K.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/154
+
+Top 10 finishers:
+ rank_scratch                         name race_time  utmb_index  utmb_score
+          1.0         Julián VINASCO MARÍN  10:10:29       786.0         NaN
+          2.0         Jupiter CARERA CASAS  10:23:52       844.0         NaN
+          3.0                Paddy O'LEARY  10:42:24       799.0         NaN
+          4.0               Moises JIMENEZ  10:54:29       805.0         NaN
+          5.0                Jason SCHLARB  10:56:50       779.0         NaN
+          6.0      Cornelio CIPRIÁN VARGAS  11:12:02       676.0         NaN
+          7.0      Carlos LOREDO HERNÁNDEZ  11:44:27       750.0         NaN
+          8.0                  Arden YOUNG  11:53:51       709.0         NaN
+          9.0  Jose Eliezer ARCUBIA PATIÑO  11:54:43         NaN         NaN
+         10.0         Charles PERROT-MINOT  12:02:54       703.0         NaN

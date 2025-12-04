@@ -1,613 +1,613 @@
-# Race: Restonica Trail by UTMB 2024 - Giru di Tumbone
+# Race: Unknown
 # Distance: 16 km
 # D+: 650 m
 # D-: 650 m
 # Date: 2024-07-05
 # URL: https://live.utmb.world/restonica/2024
 bib,name,country,age,sex,category,club,utmb_profile_url,utmb_index,rank_scratch,rank_sex,rank_category,race_time,race_time_seconds,is_finisher,status,utmb_score
-3021,Tiago VIEIRA,PT,23,H,ES H,Bigk,https://utmb.world/runner/4040934.tiago.vieira,853.0,1.0,1.0,1.0,01:13:21,4401.689,True,f,
-3022,Xavier BARTOLI,FR,39,H,M0 H,La Suarellaise,https://utmb.world/runner/4868301.xavier.bartoli,810.0,2.0,2.0,1.0,01:13:48,4428.423,True,f,
-3002,Anthony QUILICI,FR,39,H,M0 H,Restonica Trail,https://utmb.world/runner/671310.anthony.quilici,809.0,3.0,3.0,2.0,01:17:07,4627.473,True,f,
-3004,Robin SCHMITT,FR,35,H,SE H,,https://utmb.world/runner/215557.robin.schmitt,756.0,4.0,4.0,1.0,01:20:08,4808.705,True,f,
-3480,Flaviu FILIDORI,FR,25,H,SE H,A furmicula,https://utmb.world/runner/4527435.flaviu.filidori,711.0,5.0,5.0,2.0,01:20:20,4820.914,True,f,
-3006,Jörn HARLAND,DE,44,H,M1 H,Frankfurt Running,https://utmb.world/runner/2594017.jorn.harland,731.0,6.0,6.0,1.0,01:20:26,4826.878,True,f,
-3005,Benjamin BERKOUKCHI,FR,29,H,SE H,BLAUSASC TRAIL,https://utmb.world/runner/1963247.benjamin.berkoukchi,734.0,7.0,7.0,3.0,01:21:06,4866.557,True,f,
-3008,Lenzo BATTAGLINI,CH,22,H,ES H,Merrell Switzerland,https://utmb.world/runner/4240640.lenzo.battaglini,695.0,8.0,8.0,2.0,01:22:09,4929.576,True,f,
-3348,Nicolas FERNANDEZ,FR,28,H,SE H,Stade rodez athletisme,https://utmb.world/runner/6152023.nicolas.fernandez,,9.0,9.0,4.0,01:23:03,4983.934,True,f,
-3016,Valentin NICOLAS,FR,26,H,SE H,,https://utmb.world/runner/5785357.valentin.nicolas,629.0,10.0,10.0,5.0,01:25:35,5135.988,True,f,
-3542,Francois CIVETTA,FR,29,H,SE H,,https://utmb.world/runner/4162995.francois.civetta,,10.0,10.0,5.0,01:25:35,5135.734,True,f,
-3509,Pierre HENRY,FR,25,H,SE H,,https://utmb.world/runner/5026787.pierre.henry,649.0,12.0,12.0,7.0,01:25:56,5156.645,True,f,
-3414,Pierre-Paul GIACOMINI,FR,44,H,M1 H,C A PROPRIANO,https://utmb.world/runner/5249287.pierrepaul.giacomini,,13.0,13.0,2.0,01:26:22,5182.897,True,f,
-3010,Stefane COSTA,FR,25,H,SE H,AS Figarella,https://utmb.world/runner/5306793.stefane.costa,655.0,14.0,14.0,8.0,01:26:41,5201.716,True,f,
-3013,Émile VENDASI,FR,36,H,M0 H,a Furmicula,https://utmb.world/runner/5141608.emile.vendasi,646.0,15.0,15.0,3.0,01:26:48,5208.426,True,f,
-3015,Arthur D'ARMAGNAC,FR,26,H,SE H,,https://utmb.world/runner/5535081.arthur.darmagnac,646.0,16.0,16.0,9.0,01:27:55,5275.538,True,f,
-3027,Sylvain MONTET,FR,43,H,M1 H,CA BASTIA,https://utmb.world/runner/4065127.sylvain.montet,592.0,17.0,17.0,3.0,01:28:48,5328.518,True,f,
-3003,Régis RICO,FR,30,H,SE H,LA SUARELLAISE,https://utmb.world/runner/968327.regis.rico,780.0,18.0,18.0,10.0,01:28:50,5330.107,True,f,
-3553,Lucas GALINDO,FR,25,H,SE H,,,,19.0,19.0,11.0,01:28:56,5336.827,True,f,
-3278,Antoine CHOMBEAU,FR,41,H,M1 H,,https://utmb.world/runner/3080001.antoine.chombeau,,20.0,20.0,4.0,01:29:49,5389.814,True,f,
-3012,Jeremy COLOMBINI,FR,28,H,SE H,Club omnisports Porticcio,https://utmb.world/runner/1963255.jeremy.colombini,651.0,21.0,21.0,12.0,01:29:54,5394.516,True,f,
+3021,Tiago VIEIRA,PT,23,H,ES H,Bigk,https://utmb.world/runner/4040934.tiago.vieira,853.0,1.0,1.0,1.0,01:13:21,4401.689,True,f,781.0
+3022,Xavier BARTOLI,FR,39,H,M0 H,La Suarellaise,https://utmb.world/runner/4868301.xavier.bartoli,810.0,2.0,2.0,1.0,01:13:48,4428.423,True,f,777.0
+3002,Anthony QUILICI,FR,39,H,M0 H,Restonica Trail,https://utmb.world/runner/671310.anthony.quilici,809.0,3.0,3.0,2.0,01:17:07,4627.473,True,f,743.0
+3004,Robin SCHMITT,FR,35,H,SE H,,https://utmb.world/runner/215557.robin.schmitt,756.0,4.0,4.0,1.0,01:20:08,4808.705,True,f,715.0
+3480,Flaviu FILIDORI,FR,25,H,SE H,A furmicula,https://utmb.world/runner/4527435.flaviu.filidori,711.0,5.0,5.0,2.0,01:20:20,4820.914000000001,True,f,713.0
+3006,Jörn HARLAND,DE,44,H,M1 H,Frankfurt Running,https://utmb.world/runner/2594017.jorn.harland,731.0,6.0,6.0,1.0,01:20:26,4826.878,True,f,712.0
+3005,Benjamin BERKOUKCHI,FR,29,H,SE H,BLAUSASC TRAIL,https://utmb.world/runner/1963247.benjamin.berkoukchi,734.0,7.0,7.0,3.0,01:21:06,4866.557,True,f,707.0
+3008,Lenzo BATTAGLINI,CH,22,H,ES H,Merrell Switzerland,https://utmb.world/runner/4240640.lenzo.battaglini,695.0,8.0,8.0,2.0,01:22:09,4929.576,True,f,698.0
+3348,Nicolas FERNANDEZ,FR,28,H,SE H,Stade rodez athletisme,https://utmb.world/runner/6152023.nicolas.fernandez,,9.0,9.0,4.0,01:23:03,4983.934,True,f,690.0
+3016,Valentin NICOLAS,FR,26,H,SE H,,https://utmb.world/runner/5785357.valentin.nicolas,629.0,10.0,10.0,5.0,01:25:35,5135.988,True,f,670.0
+3542,Francois CIVETTA,FR,29,H,SE H,,https://utmb.world/runner/4162995.francois.civetta,,10.0,10.0,5.0,01:25:35,5135.734,True,f,670.0
+3509,Pierre HENRY,FR,25,H,SE H,,https://utmb.world/runner/5026787.pierre.henry,649.0,12.0,12.0,7.0,01:25:56,5156.645,True,f,667.0
+3414,Pierre-Paul GIACOMINI,FR,44,H,M1 H,C A PROPRIANO,https://utmb.world/runner/5249287.pierrepaul.giacomini,,13.0,13.0,2.0,01:26:22,5182.897,True,f,664.0
+3010,Stefane COSTA,FR,25,H,SE H,AS Figarella,https://utmb.world/runner/5306793.stefane.costa,655.0,14.0,14.0,8.0,01:26:41,5201.715999999999,True,f,661.0
+3013,Émile VENDASI,FR,36,H,M0 H,a Furmicula,https://utmb.world/runner/5141608.emile.vendasi,646.0,15.0,15.0,3.0,01:26:48,5208.4259999999995,True,f,660.0
+3015,Arthur D'ARMAGNAC,FR,26,H,SE H,,https://utmb.world/runner/5535081.arthur.darmagnac,646.0,16.0,16.0,9.0,01:27:55,5275.5380000000005,True,f,652.0
+3027,Sylvain MONTET,FR,43,H,M1 H,CA BASTIA,https://utmb.world/runner/4065127.sylvain.montet,592.0,17.0,17.0,3.0,01:28:48,5328.518,True,f,645.0
+3003,Régis RICO,FR,30,H,SE H,LA SUARELLAISE,https://utmb.world/runner/968327.regis.rico,780.0,18.0,18.0,10.0,01:28:50,5330.107,True,f,645.0
+3553,Lucas GALINDO,FR,25,H,SE H,,,,19.0,19.0,11.0,01:28:56,5336.826999999999,True,f,
+3278,Antoine CHOMBEAU,FR,41,H,M1 H,,https://utmb.world/runner/3080001.antoine.chombeau,,20.0,20.0,4.0,01:29:49,5389.814,True,f,638.0
+3012,Jeremy COLOMBINI,FR,28,H,SE H,Club omnisports Porticcio,https://utmb.world/runner/1963255.jeremy.colombini,651.0,21.0,21.0,12.0,01:29:54,5394.516,True,f,637.0
 3550,Marc-Antoine MAMONE,FR,21,H,ES H,La Suarellaise,,,22.0,22.0,3.0,01:30:47,5447.977,True,f,
-3531,François GELMINI,FR,45,H,M1 H,A FURMICULA,https://utmb.world/runner/2029509.francois.gelmini,692.0,23.0,23.0,5.0,01:30:54,5454.728,True,f,
-3028,Jean Mathieu LEANDRI,FR,36,H,M0 H,A Paolina,https://utmb.world/runner/1581179.jeanmathieu.leandri,588.0,24.0,24.0,4.0,01:31:03,5463.818,True,f,
-3014,Adrien REDON,FR,29,H,SE H,ASVEL TRIATHLON,https://utmb.world/runner/3695521.adrien.redon,633.0,25.0,25.0,13.0,01:31:50,5510.86,True,f,
-3597,Urko OTXOA ERAUSKIN,ES,46,H,M2 H,Urdaburn Hendi Elkartea,,,26.0,26.0,1.0,01:31:55,5515.748,True,f,
-3396,Marin DANIELOU,FR,19,H,JU H,Sport in calvi,https://utmb.world/runner/6188731.marin.danielou,,27.0,27.0,1.0,01:32:12,5532.698,True,f,
-3228,Arnaud REMILLON,FR,51,H,M3 H,Triandine,https://utmb.world/runner/344302.arnaud.remillon,,28.0,28.0,1.0,01:32:23,5543.499,True,f,
-3512,Najwa LAAJAIL,FR,37,F,M0 F,gfca,https://utmb.world/runner/5268084.najwa.laajail,588.0,29.0,1.0,1.0,01:32:49,5569.778,True,f,
-3541,Maëlys DEVOS,FR,30,F,SE F,CA Bastia / CTCA,https://utmb.world/runner/4045389.maelys.devos,601.0,29.0,1.0,1.0,01:32:49,5569.538,True,f,
-3371,Léo MORGANA,FR,31,H,SE H,ALTORE TEAM,https://utmb.world/runner/6103644.leo.morgana,,31.0,29.0,14.0,01:33:18,5598.518,True,f,
+3531,François GELMINI,FR,45,H,M1 H,A FURMICULA,https://utmb.world/runner/2029509.francois.gelmini,692.0,23.0,23.0,5.0,01:30:54,5454.728,True,f,630.0
+3028,Jean Mathieu LEANDRI,FR,36,H,M0 H,A Paolina,https://utmb.world/runner/1581179.jeanmathieu.leandri,588.0,24.0,24.0,4.0,01:31:03,5463.818,True,f,629.0
+3014,Adrien REDON,FR,29,H,SE H,ASVEL TRIATHLON,https://utmb.world/runner/3695521.adrien.redon,633.0,25.0,25.0,13.0,01:31:50,5510.86,True,f,624.0
+3597,Urko OTXOA ERAUSKIN,ES,46,H,M2 H,Urdaburn Hendi Elkartea,,,26.0,26.0,1.0,01:31:55,5515.7480000000005,True,f,
+3396,Marin DANIELOU,FR,19,H,JU H,Sport in calvi,https://utmb.world/runner/6188731.marin.danielou,,27.0,27.0,1.0,01:32:12,5532.698,True,f,622.0
+3228,Arnaud REMILLON,FR,51,H,M3 H,Triandine,https://utmb.world/runner/344302.arnaud.remillon,,28.0,28.0,1.0,01:32:23,5543.499,True,f,620.0
+3541,Maëlys DEVOS,FR,30,F,SE F,CA Bastia / CTCA,https://utmb.world/runner/4045389.maelys.devos,601.0,29.0,1.0,1.0,01:32:49,5569.5380000000005,True,f,617.0
+3512,Najwa LAAJAIL,FR,37,F,M0 F,gfca,https://utmb.world/runner/5268084.najwa.laajail,588.0,29.0,1.0,1.0,01:32:49,5569.778,True,f,617.0
+3371,Léo MORGANA,FR,31,H,SE H,ALTORE TEAM,https://utmb.world/runner/6103644.leo.morgana,,31.0,29.0,14.0,01:33:18,5598.518,True,f,614.0
 3592,Fabien VECCHIOLI,FR,43,H,M1 H,,,,32.0,30.0,6.0,01:33:31,5611.54,True,f,
-3394,Tony VAN DER BORGHT,FR,25,H,SE H,,https://utmb.world/runner/5321510.tony.vanderborght,,33.0,31.0,15.0,01:34:12,5652.639,True,f,
-3543,Joseph BAGHIONI,FR,37,H,M0 H,Olibike2a,,,34.0,32.0,5.0,01:34:37,5677.12,True,f,
+3394,Tony VAN DER BORGHT,FR,25,H,SE H,,https://utmb.world/runner/5321510.tony.vanderborght,,33.0,31.0,15.0,01:34:12,5652.639,True,f,608.0
 3581,Axel MONDAIN,FR,27,H,SE H,CAB Pont l'Abbé,,,34.0,32.0,16.0,01:34:37,5677.898,True,f,
-3322,Juan Cruz LUENGO,AR,21,H,ES H,,https://utmb.world/runner/1309191.juancruz.luengo,,36.0,34.0,4.0,01:34:48,5688.759,True,f,
-3026,Victoire ALZON,FR,30,F,SE F,C.A Bastia,https://utmb.world/runner/4210059.victoire.alzon,592.0,37.0,3.0,2.0,01:35:25,5725.751,True,f,
-3565,Jean-Christophe DUCHANGE,FR,42,H,M1 H,,https://utmb.world/runner/5319587.duchange.jeanchristophe,528.0,38.0,35.0,7.0,01:36:12,5772.579,True,f,
-3032,Jean-Mathieu MATTEI,FR,47,H,M2 H,,https://utmb.world/runner/5266971.jeanmathieu.mattei,578.0,39.0,36.0,2.0,01:36:28,5788.93,True,f,
-3472,Antoine Félix CAMPANA,FR,38,H,M0 H,,https://utmb.world/runner/1587873.antoinefelix.campana,,40.0,37.0,6.0,01:38:20,5900.321,True,f,
-3018,Javier SANZ SANFRUCTUOSO,ES,51,H,M3 H,Salamanca Raids & Trail Runners,https://utmb.world/runner/1162641.javier.sanzsanfructuoso,618.0,41.0,38.0,2.0,01:38:25,5905.512,True,f,
-3054,Enzo AUBERT,FR,28,H,SE H,,https://utmb.world/runner/4928763.enzo.aubert,520.0,42.0,39.0,17.0,01:38:53,5933.351,True,f,
-3518,Anthony CERTAL DO PACO,FR,28,H,SE H,,https://utmb.world/runner/6261527.anthony.certaldopaco,,42.0,39.0,17.0,01:38:53,5933.471,True,f,
-3029,Jean Marc GIOVANSILI,FR,43,H,M1 H,Team P.A,https://utmb.world/runner/108871.jeanmarc.giovansili,585.0,42.0,39.0,8.0,01:38:53,5933.904,True,f,
-3435,François CASAMATTA,FR,22,H,ES H,Redolat Team,https://utmb.world/runner/6212985.francois.casamatta,,45.0,42.0,5.0,01:39:47,5987.38,True,f,
-3332,Julien LESELLIER,FR,25,H,SE H,,https://utmb.world/runner/6113305.lesellier.julien,,46.0,43.0,19.0,01:39:57,5997.461,True,f,
-3345,Juliette PETILLON,FR,26,F,SE F,Rodez athlétisme,https://utmb.world/runner/6152283.juliette.petillon,,47.0,4.0,3.0,01:40:01,6001.974,True,f,
-3474,Abderrahim BENYOUCEF,FR,50,H,M2 H,Affûtés et Gominés,https://utmb.world/runner/4543741.abderrahim.benyoucef,,48.0,44.0,3.0,01:40:19,6019.631,True,f,
-3237,Dryss BENAMAR,FR,20,H,JU H,Courir au Vigan,https://utmb.world/runner/5016250.dryss.benamar,,49.0,45.0,2.0,01:40:42,6042.881,True,f,
+3543,Joseph BAGHIONI,FR,37,H,M0 H,Olibike2a,,,34.0,32.0,5.0,01:34:37,5677.12,True,f,
+3322,Juan Cruz LUENGO,AR,21,H,ES H,,https://utmb.world/runner/1309191.juancruz.luengo,,36.0,34.0,4.0,01:34:48,5688.759,True,f,605.0
+3026,Victoire ALZON,FR,30,F,SE F,C.A Bastia,https://utmb.world/runner/4210059.victoire.alzon,592.0,37.0,3.0,2.0,01:35:25,5725.751,True,f,601.0
+3565,Jean-Christophe DUCHANGE,FR,42,H,M1 H,,https://utmb.world/runner/5319587.duchange.jeanchristophe,528.0,38.0,35.0,7.0,01:36:12,5772.579000000001,True,f,596.0
+3032,Jean-Mathieu MATTEI,FR,47,H,M2 H,,https://utmb.world/runner/5266971.jeanmathieu.mattei,578.0,39.0,36.0,2.0,01:36:28,5788.93,True,f,594.0
+3472,Antoine Félix CAMPANA,FR,38,H,M0 H,,https://utmb.world/runner/1587873.antoinefelix.campana,,40.0,37.0,6.0,01:38:20,5900.321,True,f,583.0
+3018,Javier SANZ SANFRUCTUOSO,ES,51,H,M3 H,Salamanca Raids & Trail Runners,https://utmb.world/runner/1162641.javier.sanzsanfructuoso,618.0,41.0,38.0,2.0,01:38:25,5905.512,True,f,582.0
+3054,Enzo AUBERT,FR,28,H,SE H,,https://utmb.world/runner/4928763.enzo.aubert,520.0,42.0,39.0,17.0,01:38:53,5933.351,True,f,580.0
+3518,Anthony CERTAL DO PACO,FR,28,H,SE H,,https://utmb.world/runner/6261527.anthony.certaldopaco,,42.0,39.0,17.0,01:38:53,5933.471,True,f,580.0
+3029,Jean Marc GIOVANSILI,FR,43,H,M1 H,Team P.A,https://utmb.world/runner/108871.jeanmarc.giovansili,585.0,42.0,39.0,8.0,01:38:53,5933.904,True,f,580.0
+3435,François CASAMATTA,FR,22,H,ES H,Redolat Team,https://utmb.world/runner/6212985.francois.casamatta,,45.0,42.0,5.0,01:39:47,5987.38,True,f,574.0
+3332,Julien LESELLIER,FR,25,H,SE H,,https://utmb.world/runner/6113305.lesellier.julien,,46.0,43.0,19.0,01:39:57,5997.460999999999,True,f,573.0
+3345,Juliette PETILLON,FR,26,F,SE F,Rodez athlétisme,https://utmb.world/runner/6152283.juliette.petillon,,47.0,4.0,3.0,01:40:01,6001.974,True,f,573.0
+3474,Abderrahim BENYOUCEF,FR,50,H,M2 H,Affûtés et Gominés,https://utmb.world/runner/4543741.abderrahim.benyoucef,,48.0,44.0,3.0,01:40:19,6019.630999999999,True,f,571.0
+3237,Dryss BENAMAR,FR,20,H,JU H,Courir au Vigan,https://utmb.world/runner/5016250.dryss.benamar,,49.0,45.0,2.0,01:40:42,6042.880999999999,True,f,569.0
 3573,Ratib BAHI,FR,20,H,JU H,Zouzou FC,,,50.0,46.0,3.0,01:40:43,6043.51,True,f,
 3023,Hermine PIETRI,FR,20,F,JU F,Altor racing club,,,51.0,5.0,1.0,01:40:51,6051.654,True,f,
 3566,Nicolas DORADOUX,FR,30,H,SE H,,,,52.0,47.0,20.0,01:40:58,6058.391,True,f,
-3497,Luc Vincent ROCCHETTI,FR,39,H,M0 H,La suarellaise,https://utmb.world/runner/6252275.rocchetti.lucvincent,,53.0,48.0,7.0,01:41:08,6068.681,True,f,
+3497,Luc Vincent ROCCHETTI,FR,39,H,M0 H,La suarellaise,https://utmb.world/runner/6252275.rocchetti.lucvincent,,53.0,48.0,7.0,01:41:08,6068.681,True,f,567.0
 3587,David DUCHANGE,FR,50,H,M2 H,Casinca Trail,,,53.0,48.0,4.0,01:41:08,6068.861,True,f,
-3046,Priscilla TESSIER,FR,30,F,SE F,La Suarellaise,https://utmb.world/runner/1428221.priscilla.tessier,547.0,55.0,6.0,4.0,01:41:13,6073.841,True,f,
-3514,Axel DUHOUX,FR,27,H,SE H,,https://utmb.world/runner/5316058.axel.duhoux,520.0,56.0,50.0,21.0,01:41:17,6077.575,True,f,
-3048,Nuper THOMAS,FR,34,H,SE H,E muvre Balanine,https://utmb.world/runner/5116343.nuper.thomas,540.0,57.0,51.0,22.0,01:41:18,6078.94,True,f,
-3062,Tristan HINGANT,FR,20,H,JU H,,https://utmb.world/runner/5238555.tristan.hingant,505.0,58.0,52.0,4.0,01:41:44,6104.981,True,f,
-3020,François LUNARDI,FR,60,H,M4 H,GFCA Athlétisme,https://utmb.world/runner/1428723.francois.lunardi,604.0,59.0,53.0,1.0,01:41:51,6111.313,True,f,
-3492,Louis RUMEAU,FR,28,H,SE H,,https://utmb.world/runner/6244855.louis.rumeau,,60.0,54.0,23.0,01:42:02,6122.891,True,f,
-3611,Emrys PERRIER,FR,19,H,JU H,CA BASTIA,,,61.0,55.0,5.0,01:42:03,6123.881,True,f,
-3469,Antoine MAURIN,FR,20,H,JU H,,https://utmb.world/runner/6231043.maurin.antoine,,62.0,56.0,6.0,01:42:40,6160.812,True,f,
+3046,Priscilla TESSIER,FR,30,F,SE F,La Suarellaise,https://utmb.world/runner/1428221.priscilla.tessier,547.0,55.0,6.0,4.0,01:41:13,6073.840999999999,True,f,566.0
+3514,Axel DUHOUX,FR,27,H,SE H,,https://utmb.world/runner/5316058.axel.duhoux,520.0,56.0,50.0,21.0,01:41:17,6077.575,True,f,566.0
+3048,Nuper THOMAS,FR,34,H,SE H,E muvre Balanine,https://utmb.world/runner/5116343.nuper.thomas,540.0,57.0,51.0,22.0,01:41:18,6078.94,True,f,566.0
+3062,Tristan HINGANT,FR,20,H,JU H,,https://utmb.world/runner/5238555.tristan.hingant,505.0,58.0,52.0,4.0,01:41:44,6104.981,True,f,563.0
+3020,François LUNARDI,FR,60,H,M4 H,GFCA Athlétisme,https://utmb.world/runner/1428723.francois.lunardi,604.0,59.0,53.0,1.0,01:41:51,6111.313,True,f,563.0
+3492,Louis RUMEAU,FR,28,H,SE H,,https://utmb.world/runner/6244855.louis.rumeau,,60.0,54.0,23.0,01:42:02,6122.891,True,f,562.0
+3611,Emrys PERRIER,FR,19,H,JU H,CA BASTIA,,,61.0,55.0,5.0,01:42:03,6123.880999999999,True,f,
+3469,Antoine MAURIN,FR,20,H,JU H,,https://utmb.world/runner/6231043.maurin.antoine,,62.0,56.0,6.0,01:42:40,6160.812,True,f,558.0
 3552,Romain BENET,FR,41,H,M1 H,E MUVRE BALANINE,,,63.0,57.0,9.0,01:43:14,6194.41,True,f,
-3017,Guillaume PRIETO,FR,49,H,M2 H,,https://utmb.world/runner/1428755.guillaume.prieto,620.0,64.0,58.0,5.0,01:43:17,6197.141,True,f,
+3017,Guillaume PRIETO,FR,49,H,M2 H,,https://utmb.world/runner/1428755.guillaume.prieto,620.0,64.0,58.0,5.0,01:43:17,6197.141,True,f,555.0
 3589,Jackson ONAMI,KE,37,H,M0 H,,,,65.0,59.0,8.0,01:43:32,6212.771,True,f,
-3036,Kenzo CARPENTIER,FR,24,H,SE H,,https://utmb.world/runner/4539538.kenzo.carpentier,568.0,66.0,60.0,24.0,01:43:35,6215.353,True,f,
-3570,Jean-Michel RAFFAELLI,FR,28,H,SE H,,,,67.0,61.0,25.0,01:43:42,6222.792,True,f,
-3041,Andrea TORRINI,IT,58,H,M4 H,GS MAIANO,https://utmb.world/runner/4519668.andrea.torrini,560.0,68.0,62.0,2.0,01:43:57,6237.945,True,f,
-3284,Laura ESTOURNES,FR,29,F,SE F,,https://utmb.world/runner/6128775.laura.estournes,,69.0,7.0,5.0,01:44:07,6247.873,True,f,
-3234,Gaël MOINE,FR,48,H,M2 H,AJA Triathlon,https://utmb.world/runner/5871601.gael.moine,,70.0,63.0,6.0,01:44:16,6256.662,True,f,
-3056,Pierre-Ange BERNARDI,FR,39,H,M0 H,,https://utmb.world/runner/2173395.pierreange.bernardi,517.0,71.0,64.0,9.0,01:44:30,6270.583,True,f,
-3038,Aude LAMBERT,FR,38,F,M0 F,,https://utmb.world/runner/337351.aude.lambert,566.0,72.0,8.0,2.0,01:44:40,6280.903,True,f,
-3376,Matteu MICAELLI,FR,19,H,JU H,Running Club Furiani  furiani,https://utmb.world/runner/6188779.matteu.micaelli,,73.0,65.0,7.0,01:44:55,6295.932,True,f,
-3528,Eric WERMELINGER,CH,22,H,ES H,,https://utmb.world/runner/6265967.eric.wermelinger,,74.0,66.0,6.0,01:45:09,6309.678,True,f,
-3108,Thomas SCHNOEBELEN,FR,37,H,M0 H,,https://utmb.world/runner/4826530.thomas.schnoebelen,447.0,75.0,67.0,10.0,01:45:23,6323.382,True,f,
+3036,Kenzo CARPENTIER,FR,24,H,SE H,,https://utmb.world/runner/4539538.kenzo.carpentier,568.0,66.0,60.0,24.0,01:43:35,6215.353,True,f,553.0
+3570,Jean-Michel RAFFAELLI,FR,28,H,SE H,,,,67.0,61.0,25.0,01:43:42,6222.7919999999995,True,f,
+3041,Andrea TORRINI,IT,58,H,M4 H,GS MAIANO,https://utmb.world/runner/4519668.andrea.torrini,560.0,68.0,62.0,2.0,01:43:57,6237.945,True,f,551.0
+3284,Laura ESTOURNES,FR,29,F,SE F,,https://utmb.world/runner/6128775.laura.estournes,,69.0,7.0,5.0,01:44:07,6247.8730000000005,True,f,550.0
+3234,Gaël MOINE,FR,48,H,M2 H,AJA Triathlon,https://utmb.world/runner/5871601.gael.moine,,70.0,63.0,6.0,01:44:16,6256.661999999999,True,f,550.0
+3056,Pierre-Ange BERNARDI,FR,39,H,M0 H,,https://utmb.world/runner/2173395.pierreange.bernardi,517.0,71.0,64.0,9.0,01:44:30,6270.5830000000005,True,f,548.0
+3038,Aude LAMBERT,FR,38,F,M0 F,,https://utmb.world/runner/337351.aude.lambert,566.0,72.0,8.0,2.0,01:44:40,6280.903,True,f,548.0
+3376,Matteu MICAELLI,FR,19,H,JU H,Running Club Furiani  furiani,https://utmb.world/runner/6188779.matteu.micaelli,,73.0,65.0,7.0,01:44:55,6295.932,True,f,546.0
+3528,Eric WERMELINGER,CH,22,H,ES H,,https://utmb.world/runner/6265967.eric.wermelinger,,74.0,66.0,6.0,01:45:09,6309.678000000001,True,f,545.0
+3108,Thomas SCHNOEBELEN,FR,37,H,M0 H,,https://utmb.world/runner/4826530.thomas.schnoebelen,447.0,75.0,67.0,10.0,01:45:23,6323.382,True,f,544.0
 3598,Jonathan KUHL,FR,39,H,M0 H,,,,76.0,68.0,11.0,01:45:28,6328.658,True,f,
-3068,Matteo VANNI,FR,27,H,SE H,,https://utmb.world/runner/5332697.matteo.vanni,500.0,77.0,69.0,26.0,01:45:29,6329.322,True,f,
-3569,Amandine VINCHON,FR,36,F,M0 F,Club omnisports porticcio,,,78.0,9.0,3.0,01:45:35,6335.713,True,f,
-3031,René NUESSGEN,DE,55,H,M3 H,Kleinopitz,https://utmb.world/runner/3959145.rene.nuessgen,580.0,79.0,70.0,3.0,01:45:38,6338.801,True,f,
-3389,Bastian GODEFROID,BE,20,H,JU H,,https://utmb.world/runner/6195569.bastian.godefroid,,80.0,71.0,8.0,01:45:43,6343.722,True,f,
-3043,François MORISSE,FR,35,H,SE H,,https://utmb.world/runner/5890313.francois.morisse,553.0,81.0,72.0,27.0,01:45:53,6353.293,True,f,
+3068,Matteo VANNI,FR,27,H,SE H,,https://utmb.world/runner/5332697.matteo.vanni,500.0,77.0,69.0,26.0,01:45:29,6329.321999999999,True,f,543.0
+3569,Amandine VINCHON,FR,36,F,M0 F,Club omnisports porticcio,,,78.0,9.0,3.0,01:45:35,6335.713000000001,True,f,
+3031,René NUESSGEN,DE,55,H,M3 H,Kleinopitz,https://utmb.world/runner/3959145.rene.nuessgen,580.0,79.0,70.0,3.0,01:45:38,6338.8009999999995,True,f,543.0
+3389,Bastian GODEFROID,BE,20,H,JU H,,https://utmb.world/runner/6195569.bastian.godefroid,,80.0,71.0,8.0,01:45:43,6343.722,True,f,542.0
+3043,François MORISSE,FR,35,H,SE H,,https://utmb.world/runner/5890313.francois.morisse,553.0,81.0,72.0,27.0,01:45:53,6353.293000000001,True,f,541.0
 3610,Idriss TROUSSIER,FR,40,H,M0 H,,,,82.0,73.0,12.0,01:45:55,6355.82,True,f,
-3248,Corentin BOUÉ,FR,24,H,SE H,Joué running 37,https://utmb.world/runner/5974503.boue.corentin,,83.0,74.0,28.0,01:45:57,6357.979,True,f,
-3501,Cynthia BALOUT,FR,32,F,SE F,,https://utmb.world/runner/5243049.cynthia.balout,502.0,84.0,10.0,6.0,01:45:58,6358.482,True,f,
+3248,Corentin BOUÉ,FR,24,H,SE H,Joué running 37,https://utmb.world/runner/5974503.boue.corentin,,83.0,74.0,28.0,01:45:57,6357.979,True,f,541.0
+3501,Cynthia BALOUT,FR,32,F,SE F,,https://utmb.world/runner/5243049.cynthia.balout,502.0,84.0,10.0,6.0,01:45:58,6358.482,True,f,541.0
 3561,Pierre LAFARGE,FR,35,H,SE H,,,,85.0,75.0,29.0,01:46:18,6378.852,True,f,
-3265,Florian GUISSANI,FR,37,H,M0 H,,https://utmb.world/runner/5618403.florian.guissani,,86.0,76.0,13.0,01:46:19,6379.932,True,f,
-3475,Romain TADDEI,FR,38,H,M0 H,,https://utmb.world/runner/5268520.romain.taddei,519.0,87.0,77.0,14.0,01:46:21,6381.162,True,f,
-3384,Pierre Jean MURACCIOLI,FR,39,H,M0 H,,https://utmb.world/runner/1428121.pierrejean.muraccioli,,88.0,78.0,15.0,01:46:28,6388.877,True,f,
-3286,Romain BURESI,FR,25,H,SE H,GFCA,https://utmb.world/runner/3076103.romain.buresi,,89.0,79.0,30.0,01:46:42,6402.552,True,f,
-3484,Jules LEBRETON,FR,21,H,ES H,,https://utmb.world/runner/6175738.jules.lebreton,490.0,90.0,80.0,7.0,01:46:44,6404.262,True,f,
-3105,Matthieu DUPUY,FR,32,H,SE H,,https://utmb.world/runner/5089308.matthieu.dupuy,449.0,91.0,81.0,31.0,01:46:48,6408.553,True,f,
-3381,Xavier SAINT-ANTONIN,FR,24,H,SE H,,https://utmb.world/runner/6195419.xavier.saintantonin,,92.0,82.0,32.0,01:47:02,6422.743,True,f,
-3039,Jorge BORAD,UY,43,H,M1 H,Diez Club,https://utmb.world/runner/1216417.jorge.borad,565.0,93.0,83.0,10.0,01:47:07,6427.753,True,f,
-3464,Cyril GIOVANNONI,FR,39,H,M0 H,,https://utmb.world/runner/6225033.giovannoni.cyril,,94.0,84.0,16.0,01:47:11,6431.443,True,f,
-3064,Jessica MARRUCHO FERNANDES,FR,34,F,SE F,RUNNING CLUB FURIANI AGLIANI,https://utmb.world/runner/2087159.jessica.marruchofernandes,505.0,95.0,11.0,7.0,01:47:12,6432.462,True,f,
-3011,François BETTINI,FR,43,H,M1 H,Running Club Furiani,https://utmb.world/runner/1048573.francois.bettini,653.0,95.0,85.0,11.0,01:47:12,6432.733,True,f,
-3382,Louis ORSINI,FR,24,H,SE H,,https://utmb.world/runner/6195423.louis.orsini,,97.0,86.0,33.0,01:47:14,6434.777,True,f,
-3544,Vincent BANET,FR,27,H,SE H,,https://utmb.world/runner/4482659.vincent.banet,545.0,98.0,87.0,34.0,01:47:41,6461.562,True,f,
-3451,Florian VILLA,FR,33,H,SE H,,https://utmb.world/runner/6190084.florian.villa,,98.0,87.0,34.0,01:47:41,6461.998,True,f,
-3421,Julien HINCKER,FR,42,H,M1 H,,https://utmb.world/runner/2526871.julien.hincker,,100.0,89.0,12.0,01:47:43,6463.573,True,f,
-3453,Antoine COLONNA,FR,28,H,SE H,EDF CMCAS,https://utmb.world/runner/5268606.antoine.colonna,401.0,101.0,90.0,36.0,01:48:09,6489.493,True,f,
+3265,Florian GUISSANI,FR,37,H,M0 H,,https://utmb.world/runner/5618403.florian.guissani,,86.0,76.0,13.0,01:46:19,6379.932,True,f,539.0
+3475,Romain TADDEI,FR,38,H,M0 H,,https://utmb.world/runner/5268520.romain.taddei,519.0,87.0,77.0,14.0,01:46:21,6381.161999999999,True,f,539.0
+3384,Pierre Jean MURACCIOLI,FR,39,H,M0 H,,https://utmb.world/runner/1428121.pierrejean.muraccioli,,88.0,78.0,15.0,01:46:28,6388.8769999999995,True,f,538.0
+3286,Romain BURESI,FR,25,H,SE H,GFCA,https://utmb.world/runner/3076103.romain.buresi,,89.0,79.0,30.0,01:46:42,6402.552,True,f,537.0
+3484,Jules LEBRETON,FR,21,H,ES H,,https://utmb.world/runner/6175738.jules.lebreton,490.0,90.0,80.0,7.0,01:46:44,6404.262,True,f,537.0
+3105,Matthieu DUPUY,FR,32,H,SE H,,https://utmb.world/runner/5089308.matthieu.dupuy,449.0,91.0,81.0,31.0,01:46:48,6408.553000000001,True,f,537.0
+3381,Xavier SAINT-ANTONIN,FR,24,H,SE H,,https://utmb.world/runner/6195419.xavier.saintantonin,,92.0,82.0,32.0,01:47:02,6422.743,True,f,535.0
+3039,Jorge BORAD,UY,43,H,M1 H,Diez Club,https://utmb.world/runner/1216417.jorge.borad,565.0,93.0,83.0,10.0,01:47:07,6427.753000000001,True,f,535.0
+3464,Cyril GIOVANNONI,FR,39,H,M0 H,,https://utmb.world/runner/6225033.giovannoni.cyril,,94.0,84.0,16.0,01:47:11,6431.443,True,f,535.0
+3011,François BETTINI,FR,43,H,M1 H,Running Club Furiani,https://utmb.world/runner/1048573.francois.bettini,653.0,95.0,85.0,11.0,01:47:12,6432.733,True,f,535.0
+3064,Jessica MARRUCHO FERNANDES,FR,34,F,SE F,RUNNING CLUB FURIANI AGLIANI,https://utmb.world/runner/2087159.jessica.marruchofernandes,505.0,95.0,11.0,7.0,01:47:12,6432.4619999999995,True,f,535.0
+3382,Louis ORSINI,FR,24,H,SE H,,https://utmb.world/runner/6195423.louis.orsini,,97.0,86.0,33.0,01:47:14,6434.776999999999,True,f,534.0
+3544,Vincent BANET,FR,27,H,SE H,,https://utmb.world/runner/4482659.vincent.banet,545.0,98.0,87.0,34.0,01:47:41,6461.562,True,f,532.0
+3451,Florian VILLA,FR,33,H,SE H,,https://utmb.world/runner/6190084.florian.villa,,98.0,87.0,34.0,01:47:41,6461.9980000000005,True,f,532.0
+3421,Julien HINCKER,FR,42,H,M1 H,,https://utmb.world/runner/2526871.julien.hincker,,100.0,89.0,12.0,01:47:43,6463.573,True,f,532.0
+3453,Antoine COLONNA,FR,28,H,SE H,EDF CMCAS,https://utmb.world/runner/5268606.antoine.colonna,401.0,101.0,90.0,36.0,01:48:09,6489.493,True,f,530.0
 3559,Fabien DEVOS,FR,56,H,M4 H,Triathlon Club Grand Bastia,,,101.0,90.0,3.0,01:48:09,6489.882,True,f,
-3455,Ange-Marie PARIGI,FR,19,H,JU H,,https://utmb.world/runner/6219665.angemarie.parigi,,103.0,92.0,9.0,01:48:13,6493.982,True,f,
-3580,Yohann BURELLI,FR,40,H,M0 H,AS Figarella,https://utmb.world/runner/1808195.yohann.burelli,574.0,104.0,93.0,17.0,01:48:26,6506.615,True,f,
-3516,Sean LUZI,FR,45,H,M1 H,A Santamariaccia,https://utmb.world/runner/3400919.sean.luzi,535.0,105.0,94.0,13.0,01:48:28,6508.394,True,f,
-3422,François-Noël REGAZZACCI,FR,44,H,M1 H,À Santamariaccia,https://utmb.world/runner/5148741.regazzacci.francoisnoel,504.0,106.0,95.0,14.0,01:49:22,6562.906,True,f,
-3096,Jean-Jacques ZUCCARELLI,FR,30,H,SE H,AC CORTE,https://utmb.world/runner/4489161.jeanjacques.zuccarelli,463.0,107.0,96.0,37.0,01:49:24,6564.314,True,f,
-3481,Thibault DEMANGEL,FR,37,H,M0 H,,https://utmb.world/runner/6104140.thibault.demangel,458.0,108.0,97.0,18.0,01:49:35,6575.864,True,f,
-3037,Jean Baptiste GIORGETTI,FR,37,H,M0 H,I CERVI VENACHESI ,https://utmb.world/runner/968433.jeanbaptiste.giorgetti,566.0,108.0,97.0,18.0,01:49:35,6575.412,True,f,
-3491,Thomas SASSOULAS,FR,24,H,SE H,,https://utmb.world/runner/6244703.thomas.sassoulas,,110.0,99.0,38.0,01:49:45,6585.403,True,f,
-3370,Kristens PIKSENS,LV,19,H,JU H,Kalpaka skola,https://utmb.world/runner/5832649.kristens.piksens,,111.0,100.0,10.0,01:49:50,6590.863,True,f,
-3034,David BOUE,FR,52,H,M3 H,Coureurs de fond Déolois,https://utmb.world/runner/488620.david.boue,572.0,112.0,101.0,4.0,01:50:21,6621.735,True,f,
-3295,Adrien RESSE,FR,28,H,SE H,,https://utmb.world/runner/5744499.adrien.resse,514.0,112.0,101.0,39.0,01:50:21,6621.494,True,f,
-3111,Élise MAUVIEUX,FR,26,F,SE F,Plaintel aventure,https://utmb.world/runner/5241708.elise.mauvieux,439.0,114.0,12.0,8.0,01:50:23,6623.937,True,f,
-3200,Adrian POPA,RO,47,H,M2 H,Tigres,https://utmb.world/runner/4222404.adrian.popa,,115.0,103.0,7.0,01:50:34,6634.725,True,f,
-3400,Jérôme CARDELLA,FR,33,H,SE H,Club Omnisports Porticcio,https://utmb.world/runner/6103682.jerome.cardella,,116.0,104.0,40.0,01:50:42,6642.583,True,f,
-3059,Olivier ALZIARI-SANTINI,FR,39,H,M0 H,,https://utmb.world/runner/6104112.olivier.alziarisantini,508.0,117.0,105.0,20.0,01:50:45,6645.779,True,f,
+3455,Ange-Marie PARIGI,FR,19,H,JU H,,https://utmb.world/runner/6219665.angemarie.parigi,,103.0,92.0,9.0,01:48:13,6493.982,True,f,530.0
+3580,Yohann BURELLI,FR,40,H,M0 H,AS Figarella,https://utmb.world/runner/1808195.yohann.burelli,574.0,104.0,93.0,17.0,01:48:26,6506.615,True,f,528.0
+3516,Sean LUZI,FR,45,H,M1 H,A Santamariaccia,https://utmb.world/runner/3400919.sean.luzi,535.0,105.0,94.0,13.0,01:48:28,6508.394,True,f,528.0
+3422,François-Noël REGAZZACCI,FR,44,H,M1 H,À Santamariaccia,https://utmb.world/runner/5148741.regazzacci.francoisnoel,504.0,106.0,95.0,14.0,01:49:22,6562.906,True,f,524.0
+3096,Jean-Jacques ZUCCARELLI,FR,30,H,SE H,AC CORTE,https://utmb.world/runner/4489161.jeanjacques.zuccarelli,463.0,107.0,96.0,37.0,01:49:24,6564.314,True,f,524.0
+3037,Jean Baptiste GIORGETTI,FR,37,H,M0 H,I CERVI VENACHESI ,https://utmb.world/runner/968433.jeanbaptiste.giorgetti,566.0,108.0,97.0,18.0,01:49:35,6575.411999999999,True,f,523.0
+3481,Thibault DEMANGEL,FR,37,H,M0 H,,https://utmb.world/runner/6104140.thibault.demangel,458.0,108.0,97.0,18.0,01:49:35,6575.8640000000005,True,f,523.0
+3491,Thomas SASSOULAS,FR,24,H,SE H,,https://utmb.world/runner/6244703.thomas.sassoulas,,110.0,99.0,38.0,01:49:45,6585.403,True,f,522.0
+3370,Kristens PIKSENS,LV,19,H,JU H,Kalpaka skola,https://utmb.world/runner/5832649.kristens.piksens,,111.0,100.0,10.0,01:49:50,6590.863,True,f,522.0
+3295,Adrien RESSE,FR,28,H,SE H,,https://utmb.world/runner/5744499.adrien.resse,514.0,112.0,101.0,39.0,01:50:21,6621.494000000001,True,f,519.0
+3034,David BOUE,FR,52,H,M3 H,Coureurs de fond Déolois,https://utmb.world/runner/488620.david.boue,572.0,112.0,101.0,4.0,01:50:21,6621.735,True,f,519.0
+3111,Élise MAUVIEUX,FR,26,F,SE F,Plaintel aventure,https://utmb.world/runner/5241708.elise.mauvieux,439.0,114.0,12.0,8.0,01:50:23,6623.937,True,f,519.0
+3200,Adrian POPA,RO,47,H,M2 H,Tigres,https://utmb.world/runner/4222404.adrian.popa,,115.0,103.0,7.0,01:50:34,6634.725,True,f,518.0
+3400,Jérôme CARDELLA,FR,33,H,SE H,Club Omnisports Porticcio,https://utmb.world/runner/6103682.jerome.cardella,,116.0,104.0,40.0,01:50:42,6642.5830000000005,True,f,518.0
+3059,Olivier ALZIARI-SANTINI,FR,39,H,M0 H,,https://utmb.world/runner/6104112.olivier.alziarisantini,508.0,117.0,105.0,20.0,01:50:45,6645.779,True,f,517.0
 3549,Jean-Pierre NATALI,FR,48,H,M2 H,lucciana atletisimu,,,118.0,106.0,8.0,01:51:09,6669.823,True,f,
-3207,Adrien GRANELLI,FR,24,H,SE H,,https://utmb.world/runner/5897041.adrien.granelli,,119.0,107.0,41.0,01:51:13,6673.544,True,f,
+3207,Adrien GRANELLI,FR,24,H,SE H,,https://utmb.world/runner/5897041.adrien.granelli,,119.0,107.0,41.0,01:51:13,6673.544,True,f,515.0
 3596,Jordan RENAUDIN,FR,25,H,SE H,,,,120.0,108.0,42.0,01:51:47,6707.743,True,f,
-3375,Ewann GILBERT,FR,28,H,SE H,,https://utmb.world/runner/6189027.ewann.gilbert,,121.0,109.0,43.0,01:51:54,6714.253,True,f,
-3082,Pascal BERNARDI,FR,37,H,M0 H,,https://utmb.world/runner/1388087.pascal.bernardi,479.0,122.0,110.0,21.0,01:51:59,6719.924,True,f,
-3094,Stephane FANGEAUD,FR,52,H,M3 H,CASINCA TRAIL,https://utmb.world/runner/6054558.stephane.fangeaud,465.0,122.0,110.0,5.0,01:51:59,6719.504,True,f,
-3060,Louis VARLET,FR,33,H,SE H,,https://utmb.world/runner/1677853.louis.varlet,506.0,124.0,112.0,44.0,01:52:10,6730.965,True,f,
-3142,Andy CAZAUX,FR,28,H,SE H,,https://utmb.world/runner/5283339.andy.cazaux,394.0,125.0,113.0,45.0,01:52:41,6761.355,True,f,
-3074,Patrick MISERAZZI,FR,62,H,M5 H,,https://utmb.world/runner/4623860.patrick.miserazzi,490.0,126.0,114.0,1.0,01:53:16,6796.486,True,f,
-3391,Jean-Philippe D’AMORE,FR,40,H,M0 H,,https://utmb.world/runner/6196725.jeanphilippe.d---amore,,127.0,115.0,22.0,01:53:38,6818.805,True,f,
-3050,Virginie MOINE,FR,49,F,M2 F,AJA Marathon,https://utmb.world/runner/4772446.virginie.moine,535.0,128.0,13.0,1.0,01:53:57,6837.945,True,f,
-3103,Sacha LOUIS,FR,44,H,M1 H,-,https://utmb.world/runner/5400797.sacha.louis,452.0,129.0,116.0,15.0,01:54:00,6840.554,True,f,
-3398,Michel STEBLER,CH,42,H,M1 H,,https://utmb.world/runner/5944103.michel.stebler,,130.0,117.0,16.0,01:54:19,6859.636,True,f,
-3590,Pierre François ORRU,FR,19,H,JU H,,,,131.0,118.0,11.0,01:54:26,6866.744,True,f,
+3375,Ewann GILBERT,FR,28,H,SE H,,https://utmb.world/runner/6189027.ewann.gilbert,,121.0,109.0,43.0,01:51:54,6714.253000000001,True,f,512.0
+3082,Pascal BERNARDI,FR,37,H,M0 H,,https://utmb.world/runner/1388087.pascal.bernardi,479.0,122.0,110.0,21.0,01:51:59,6719.924,True,f,512.0
+3094,Stephane FANGEAUD,FR,52,H,M3 H,CASINCA TRAIL,https://utmb.world/runner/6054558.stephane.fangeaud,465.0,122.0,110.0,5.0,01:51:59,6719.504,True,f,512.0
+3060,Louis VARLET,FR,33,H,SE H,,https://utmb.world/runner/1677853.louis.varlet,506.0,124.0,112.0,44.0,01:52:10,6730.965,True,f,511.0
+3142,Andy CAZAUX,FR,28,H,SE H,,https://utmb.world/runner/5283339.andy.cazaux,394.0,125.0,113.0,45.0,01:52:41,6761.355,True,f,509.0
+3074,Patrick MISERAZZI,FR,62,H,M5 H,,https://utmb.world/runner/4623860.patrick.miserazzi,490.0,126.0,114.0,1.0,01:53:16,6796.486,True,f,506.0
+3391,Jean-Philippe D’AMORE,FR,40,H,M0 H,,https://utmb.world/runner/6196725.jeanphilippe.d---amore,,127.0,115.0,22.0,01:53:38,6818.805,True,f,504.0
+3050,Virginie MOINE,FR,49,F,M2 F,AJA Marathon,https://utmb.world/runner/4772446.virginie.moine,535.0,128.0,13.0,1.0,01:53:57,6837.945,True,f,503.0
+3103,Sacha LOUIS,FR,44,H,M1 H,-,https://utmb.world/runner/5400797.sacha.louis,452.0,129.0,116.0,15.0,01:54:00,6840.554,True,f,503.0
+3398,Michel STEBLER,CH,42,H,M1 H,,https://utmb.world/runner/5944103.michel.stebler,,130.0,117.0,16.0,01:54:19,6859.6359999999995,True,f,501.0
+3590,Pierre François ORRU,FR,19,H,JU H,,,,131.0,118.0,11.0,01:54:26,6866.744000000001,True,f,
 3558,Stein H. HAGEN,NO,59,H,M4 H,Fossum Orientering,,,132.0,119.0,4.0,01:54:42,6882.971,True,f,
-3061,Joanna KAMINSKI,FR,30,F,SE F,,https://utmb.world/runner/4961159.joanna.kaminski,511.0,133.0,14.0,9.0,01:55:13,6913.575,True,f,
-3432,Pierre Jean FITTIPALDI,FR,38,H,M0 H,A SANTAMARIACCIA,https://utmb.world/runner/5182565.pierrejean.fittipaldi,498.0,134.0,120.0,23.0,01:55:17,6917.894,True,f,
-3083,Alice COSQUER,FR,35,F,SE F,,https://utmb.world/runner/4987768.alice.cosquer,475.0,135.0,15.0,10.0,01:55:18,6918.588,True,f,
-3545,Johan MAIRE,FR,38,H,M0 H,CS MEZZAVIA,https://utmb.world/runner/5168603.johan.maire,553.0,135.0,121.0,24.0,01:55:18,6918.555,True,f,
-3294,Henri THIROUIN,FR,25,H,SE H,,https://utmb.world/runner/6064901.henri.thirouin,,137.0,122.0,46.0,01:55:19,6919.937,True,f,
-3080,Anthony PIGLIONI,FR,36,H,M0 H,,https://utmb.world/runner/4775300.anthony.piglioni,485.0,138.0,123.0,25.0,01:55:25,6925.816,True,f,
+3061,Joanna KAMINSKI,FR,30,F,SE F,,https://utmb.world/runner/4961159.joanna.kaminski,511.0,133.0,14.0,9.0,01:55:13,6913.575,True,f,497.0
+3432,Pierre Jean FITTIPALDI,FR,38,H,M0 H,A SANTAMARIACCIA,https://utmb.world/runner/5182565.pierrejean.fittipaldi,498.0,134.0,120.0,23.0,01:55:17,6917.894,True,f,497.0
+3545,Johan MAIRE,FR,38,H,M0 H,CS MEZZAVIA,https://utmb.world/runner/5168603.johan.maire,553.0,135.0,121.0,24.0,01:55:18,6918.555,True,f,497.0
+3083,Alice COSQUER,FR,35,F,SE F,,https://utmb.world/runner/4987768.alice.cosquer,475.0,135.0,15.0,10.0,01:55:18,6918.588000000001,True,f,497.0
+3294,Henri THIROUIN,FR,25,H,SE H,,https://utmb.world/runner/6064901.henri.thirouin,,137.0,122.0,46.0,01:55:19,6919.937,True,f,497.0
+3080,Anthony PIGLIONI,FR,36,H,M0 H,,https://utmb.world/runner/4775300.anthony.piglioni,485.0,138.0,123.0,25.0,01:55:25,6925.816,True,f,497.0
 3438,Malherbe JENNIFER,BE,36,F,M0 F,A SANTAMARIACCIA,https://utmb.world/runner/6213863.malherbe.jennifer,,139.0,16.0,4.0,01:55:27,6927.647,True,f,
-3296,Yves Marie PUCCINI,FR,64,H,M5 H,,https://utmb.world/runner/5268112.yvesmarie.puccini,,140.0,124.0,2.0,01:55:42,6942.496,True,f,
-3190,Julien ZEIDHEFTER,FR,41,H,M1 H,,https://utmb.world/runner/5669795.julien.zeidhefter,522.0,141.0,125.0,17.0,01:55:46,6946.547,True,f,
-3069,Marianne JOUBARD,FR,41,F,M1 F,,https://utmb.world/runner/4021171.marianne.joubard,499.0,142.0,17.0,1.0,01:55:49,6949.696,True,f,
-3045,Remi CHANTELOUBE,FR,41,H,M1 H,TUVB,https://utmb.world/runner/4408914.remi.chanteloube,545.0,143.0,126.0,18.0,01:55:52,6952.637,True,f,
-3066,Marie GALLO,FR,40,F,M0 F,Kiwami Racing Team,https://utmb.world/runner/4973472.marie.gallo,501.0,144.0,18.0,5.0,01:56:11,6971.992,True,f,
-3461,Alexandre POLVERELLI,FR,27,H,SE H,Sport in Calvi,https://utmb.world/runner/6103624.alexandre.polverelli,398.0,145.0,127.0,47.0,01:56:19,6979.635,True,f,
-3515,Clara BISTON,FR,33,F,SE F,,https://utmb.world/runner/6261395.clara.biston,,146.0,19.0,11.0,01:56:32,6992.597,True,f,
-3311,Elena FELICIAGGI,FR,26,F,SE F,,https://utmb.world/runner/6064883.elena.feliciaggi,,146.0,19.0,11.0,01:56:32,6992.567,True,f,
-3065,Quentin TRUFFIN,FR,33,H,SE H,Runnin Club Bellegarde,https://utmb.world/runner/3400717.quentin.truffin,504.0,148.0,128.0,48.0,01:56:55,7015.908,True,f,
-3538,Jean-Francois CIABRINI,FR,59,H,M4 H,,https://utmb.world/runner/4775270.jeanfrancois.ciabrini,,149.0,129.0,5.0,01:56:58,7018.936,True,f,
-3120,Elisa FERRAGUTI,FR,28,F,SE F,,https://utmb.world/runner/6054594.elisa.ferraguti,419.0,150.0,21.0,13.0,01:57:05,7025.748,True,f,
-3225,Louis CHAHUNEAU,FR,29,H,SE H,,https://utmb.world/runner/5814633.louis.chahuneau,,151.0,130.0,49.0,01:57:10,7030.906,True,f,
+3296,Yves Marie PUCCINI,FR,64,H,M5 H,,https://utmb.world/runner/5268112.yvesmarie.puccini,,140.0,124.0,2.0,01:55:42,6942.496,True,f,495.0
+3190,Julien ZEIDHEFTER,FR,41,H,M1 H,,https://utmb.world/runner/5669795.julien.zeidhefter,522.0,141.0,125.0,17.0,01:55:46,6946.547,True,f,495.0
+3069,Marianne JOUBARD,FR,41,F,M1 F,,https://utmb.world/runner/4021171.marianne.joubard,499.0,142.0,17.0,1.0,01:55:49,6949.696,True,f,495.0
+3045,Remi CHANTELOUBE,FR,41,H,M1 H,TUVB,https://utmb.world/runner/4408914.remi.chanteloube,545.0,143.0,126.0,18.0,01:55:52,6952.637,True,f,495.0
+3066,Marie GALLO,FR,40,F,M0 F,Kiwami Racing Team,https://utmb.world/runner/4973472.marie.gallo,501.0,144.0,18.0,5.0,01:56:11,6971.991999999999,True,f,493.0
+3461,Alexandre POLVERELLI,FR,27,H,SE H,Sport in Calvi,https://utmb.world/runner/6103624.alexandre.polverelli,398.0,145.0,127.0,47.0,01:56:19,6979.635,True,f,493.0
+3311,Elena FELICIAGGI,FR,26,F,SE F,,https://utmb.world/runner/6064883.elena.feliciaggi,,146.0,19.0,11.0,01:56:32,6992.566999999999,True,f,492.0
+3515,Clara BISTON,FR,33,F,SE F,,https://utmb.world/runner/6261395.clara.biston,,146.0,19.0,11.0,01:56:32,6992.597,True,f,492.0
+3065,Quentin TRUFFIN,FR,33,H,SE H,Runnin Club Bellegarde,https://utmb.world/runner/3400717.quentin.truffin,504.0,148.0,128.0,48.0,01:56:55,7015.908,True,f,490.0
+3538,Jean-Francois CIABRINI,FR,59,H,M4 H,,https://utmb.world/runner/4775270.jeanfrancois.ciabrini,,149.0,129.0,5.0,01:56:58,7018.936,True,f,490.0
+3120,Elisa FERRAGUTI,FR,28,F,SE F,,https://utmb.world/runner/6054594.elisa.ferraguti,419.0,150.0,21.0,13.0,01:57:05,7025.7480000000005,True,f,489.0
+3225,Louis CHAHUNEAU,FR,29,H,SE H,,https://utmb.world/runner/5814633.louis.chahuneau,,151.0,130.0,49.0,01:57:10,7030.906,True,f,489.0
 3613,Jean Marc BALDESI,FR,51,H,M3 H,EDF CMCAS TEAM,,,152.0,131.0,6.0,01:57:17,7037.944,True,f,
-3487,Jerome FORNALI,FR,48,H,M2 H,,https://utmb.world/runner/6243079.jerome.fornali,,153.0,132.0,9.0,01:57:27,7047.557,True,f,
-3218,Manon CLAMENS,FR,25,F,SE F,,https://utmb.world/runner/5825975.manon.clamens,,154.0,22.0,14.0,01:57:29,7049.478,True,f,
-3392,Florian RICO,FR,29,H,SE H,,https://utmb.world/runner/6190090.florian.rico,,155.0,133.0,50.0,01:57:44,7064.388,True,f,
-3084,Marie-Ange PADOVANI,FR,36,F,M0 F,,https://utmb.world/runner/1581257.marieange.padovani,473.0,156.0,23.0,6.0,01:58:01,7081.187,True,f,
-3090,Hélena POURRAIN,FR,28,F,SE F,,https://utmb.world/runner/6126639.pourrain.helena,471.0,157.0,24.0,15.0,01:58:06,7086.846,True,f,
-3600,Bastien CARACIOLI,FR,31,H,SE H,,,,158.0,134.0,51.0,01:58:15,7095.947,True,f,
-3379,Thierry RESCAN,FR,58,H,M4 H,Infosport-Loiret,https://utmb.world/runner/518577.thierry.rescan,,159.0,135.0,6.0,01:58:17,7097.418,True,f,
-3076,Annette LE GOFF,FR,60,F,M4 F,LES FOULEES DE FONTAINE ETOUPEFOUR,https://utmb.world/runner/4782810.annette.legoff,486.0,160.0,25.0,1.0,01:58:27,7107.347,True,f,
-3488,Thierry MONCIOVI,FR,42,H,M1 H,,https://utmb.world/runner/6243123.thierry.monciovi,,161.0,136.0,19.0,01:58:49,7129.848,True,f,
-3141,Sébastien GUILLEMOT,FR,49,H,M2 H,,https://utmb.world/runner/6133121.sebastien.guillemot,398.0,162.0,137.0,10.0,01:59:16,7156.577,True,f,
-3364,Alexandre ALBERTINI,FR,36,H,M0 H,A Petralbinca,https://utmb.world/runner/6174393.alexandre.albertini,,163.0,138.0,26.0,01:59:19,7159.578,True,f,
-3539,Thomas FASCETTI,FR,41,H,M1 H,,https://utmb.world/runner/6276187.thomas.fascetti,,164.0,139.0,20.0,01:59:30,7170.919,True,f,
-3053,Gauthier DEMUYNCK,FR,20,H,JU H,BMX Tech Corsica,https://utmb.world/runner/5302019.gauthier.demuynck,523.0,165.0,140.0,12.0,01:59:35,7175.839,True,f,
-3380,Jean-Thomas AMONI-CRISTIANI,FR,20,H,JU H,,https://utmb.world/runner/6195409.jeanthomas.amonicristiani,,166.0,141.0,13.0,01:59:36,7176.228,True,f,
-3224,Jean DELTERME,FR,30,H,SE H,,https://utmb.world/runner/5814811.jean.delterme,,167.0,142.0,52.0,01:59:56,7196.96,True,f,
-3121,Delphine TARDIVEL,FR,45,F,M1 F,Plaintel Aventure,https://utmb.world/runner/4868385.delphine.tardivel,413.0,168.0,26.0,2.0,02:00:03,7203.991,True,f,
-3289,Samuel SANDRIN,FR,33,H,SE H,,https://utmb.world/runner/6027967.samuel.sandrin,,169.0,143.0,53.0,02:00:05,7205.209,True,f,
-3369,Angelina PETITJEAN,FR,28,F,SE F,,https://utmb.world/runner/6181585.angelina.petitjean,,170.0,27.0,16.0,02:00:06,7206.772,True,f,
-3330,Quentin REGNIER,FR,28,H,SE H,,https://utmb.world/runner/2980307.quentin.regnier,,171.0,144.0,54.0,02:00:09,7209.649,True,f,
-3493,Clémence MALLET,FR,29,F,SE F,,https://utmb.world/runner/6244857.clemence.mallet,,172.0,28.0,17.0,02:00:31,7231.549,True,f,
-3443,Celia BOISSELEAU,FR,37,F,M0 F,,https://utmb.world/runner/5638952.celia.boisseleau,514.0,173.0,29.0,7.0,02:00:34,7234.55,True,f,
-3442,Jean Francois GEORGE,FR,62,H,M5 H,,https://utmb.world/runner/5141648.jeanfrancois.george,,174.0,145.0,3.0,02:00:47,7247.508,True,f,
-3219,Aymeric BOUHOURS,FR,46,H,M2 H,US Laval,https://utmb.world/runner/5826413.aymeric.bouhours,,175.0,146.0,11.0,02:00:57,7257.47,True,f,
-3099,Herve SZEFLINSKI,FR,61,H,M5 H,XTrem running Trail,https://utmb.world/runner/825685.herve.szeflinski,456.0,176.0,147.0,4.0,02:01:07,7267.368,True,f,
-3089,Philippe USCIATI,FR,55,H,M3 H,Corsica Sport Mezzavia,https://utmb.world/runner/9980.philippe.usciati,471.0,177.0,148.0,7.0,02:01:09,7269.958,True,f,
-3608,Maelis KAUFFMANN,FR,33,F,SE F,,https://utmb.world/runner/4973464.maelis.kauffmann,485.0,178.0,30.0,18.0,02:01:14,7274.569,True,f,
-3070,Jean WIRTH,FR,66,H,M6 H,,https://utmb.world/runner/2121319.jean.wirth,497.0,179.0,149.0,1.0,02:01:30,7290.852,True,f,
-3301,Patrick GENOUD,CH,40,H,M0 H,,https://utmb.world/runner/5685057.patrick.genoud,,180.0,150.0,27.0,02:01:54,7314.499,True,f,
-3292,Marie REDOLFI,FR,30,F,SE F,,https://utmb.world/runner/6014833.marie.redolfi,,181.0,31.0,19.0,02:02:07,7327.851,True,f,
-3430,Pierre-Antoine RUEDA,FR,28,H,SE H,,https://utmb.world/runner/6210347.pierreantoine.rueda,,182.0,151.0,55.0,02:02:14,7334.24,True,f,
-3057,Jean-Philippe LACOUCHIE,FR,67,H,M6 H,ASL La Robertsau,https://utmb.world/runner/5289083.jeanphilippe.lacouchie,511.0,183.0,152.0,2.0,02:02:15,7335.32,True,f,
-3260,Charles VERNHET,FR,34,H,SE H,,https://utmb.world/runner/5624781.charles.vernhet,,184.0,153.0,56.0,02:02:23,7343.991,True,f,
-3310,Paul CAPUS,FR,25,H,SE H,,https://utmb.world/runner/6064893.paul.capus,,185.0,154.0,57.0,02:02:27,7347.56,True,f,
-3291,Romain GRANELLI,FR,20,H,JU H,,https://utmb.world/runner/5897047.romain.granelli,,186.0,155.0,14.0,02:02:30,7350.937,True,f,
-3533,Maria-Serena LEPIDI,FR,40,F,M0 F,A FuRmiCuLa,https://utmb.world/runner/6104122.mariaserena.lepidi,499.0,187.0,32.0,8.0,02:02:31,7351.488,True,f,
-3341,Julien DESVERGNES,FR,22,H,ES H,,https://utmb.world/runner/6121197.julien.desvergnes,,188.0,156.0,8.0,02:02:40,7360.852,True,f,
-3079,Enzo PICARELLA,FR,22,H,ES H,,https://utmb.world/runner/4472945.enzo.picarella,486.0,189.0,157.0,9.0,02:03:03,7383.232,True,f,
-3097,François-Joseph D’AMORE,FR,45,H,M1 H,,https://utmb.world/runner/5828665.francoisjoseph.d---amore,461.0,190.0,158.0,21.0,02:03:22,7402.431,True,f,
-3279,Fanny ZIMMERMANN,FR,40,F,M0 F,,https://utmb.world/runner/5667203.fanny.zimmermann,,191.0,33.0,9.0,02:03:25,7405.938,True,f,
-3072,Nicolas PEREZ,FR,53,H,M3 H,RUNNING CLUB BELLEGARDE,https://utmb.world/runner/1530991.nicolas.perez,492.0,192.0,159.0,8.0,02:03:50,7430.991,True,f,
-3363,Nicolas EZRATTI,FR,23,H,ES H,,https://utmb.world/runner/4987034.nicolas.ezratti,,193.0,160.0,10.0,02:03:54,7434.921,True,f,
-3129,Clara LECONTE,FR,27,F,SE F,,https://utmb.world/runner/4536709.clara.leconte,404.0,193.0,34.0,20.0,02:03:54,7434.891,True,f,
+3487,Jerome FORNALI,FR,48,H,M2 H,,https://utmb.world/runner/6243079.jerome.fornali,,153.0,132.0,9.0,01:57:27,7047.557,True,f,488.0
+3218,Manon CLAMENS,FR,25,F,SE F,,https://utmb.world/runner/5825975.manon.clamens,,154.0,22.0,14.0,01:57:29,7049.478,True,f,488.0
+3392,Florian RICO,FR,29,H,SE H,,https://utmb.world/runner/6190090.florian.rico,,155.0,133.0,50.0,01:57:44,7064.388000000001,True,f,487.0
+3084,Marie-Ange PADOVANI,FR,36,F,M0 F,,https://utmb.world/runner/1581257.marieange.padovani,473.0,156.0,23.0,6.0,01:58:01,7081.187,True,f,486.0
+3090,Hélena POURRAIN,FR,28,F,SE F,,https://utmb.world/runner/6126639.pourrain.helena,471.0,157.0,24.0,15.0,01:58:06,7086.846,True,f,485.0
+3600,Bastien CARACIOLI,FR,31,H,SE H,,,,158.0,134.0,51.0,01:58:15,7095.946999999999,True,f,
+3379,Thierry RESCAN,FR,58,H,M4 H,Infosport-Loiret,https://utmb.world/runner/518577.thierry.rescan,,159.0,135.0,6.0,01:58:17,7097.418000000001,True,f,484.0
+3076,Annette LE GOFF,FR,60,F,M4 F,LES FOULEES DE FONTAINE ETOUPEFOUR,https://utmb.world/runner/4782810.annette.legoff,486.0,160.0,25.0,1.0,01:58:27,7107.347,True,f,484.0
+3488,Thierry MONCIOVI,FR,42,H,M1 H,,https://utmb.world/runner/6243123.thierry.monciovi,,161.0,136.0,19.0,01:58:49,7129.848000000001,True,f,482.0
+3141,Sébastien GUILLEMOT,FR,49,H,M2 H,,https://utmb.world/runner/6133121.sebastien.guillemot,398.0,162.0,137.0,10.0,01:59:16,7156.576999999999,True,f,480.0
+3364,Alexandre ALBERTINI,FR,36,H,M0 H,A Petralbinca,https://utmb.world/runner/6174393.alexandre.albertini,,163.0,138.0,26.0,01:59:19,7159.578,True,f,480.0
+3539,Thomas FASCETTI,FR,41,H,M1 H,,https://utmb.world/runner/6276187.thomas.fascetti,,164.0,139.0,20.0,01:59:30,7170.919,True,f,480.0
+3053,Gauthier DEMUYNCK,FR,20,H,JU H,BMX Tech Corsica,https://utmb.world/runner/5302019.gauthier.demuynck,523.0,165.0,140.0,12.0,01:59:35,7175.839,True,f,479.0
+3380,Jean-Thomas AMONI-CRISTIANI,FR,20,H,JU H,,https://utmb.world/runner/6195409.jeanthomas.amonicristiani,,166.0,141.0,13.0,01:59:36,7176.228,True,f,479.0
+3224,Jean DELTERME,FR,30,H,SE H,,https://utmb.world/runner/5814811.jean.delterme,,167.0,142.0,52.0,01:59:56,7196.96,True,f,478.0
+3121,Delphine TARDIVEL,FR,45,F,M1 F,Plaintel Aventure,https://utmb.world/runner/4868385.delphine.tardivel,413.0,168.0,26.0,2.0,02:00:03,7203.991,True,f,477.0
+3289,Samuel SANDRIN,FR,33,H,SE H,,https://utmb.world/runner/6027967.samuel.sandrin,,169.0,143.0,53.0,02:00:05,7205.209,True,f,477.0
+3369,Angelina PETITJEAN,FR,28,F,SE F,,https://utmb.world/runner/6181585.angelina.petitjean,,170.0,27.0,16.0,02:00:06,7206.772,True,f,477.0
+3330,Quentin REGNIER,FR,28,H,SE H,,https://utmb.world/runner/2980307.quentin.regnier,,171.0,144.0,54.0,02:00:09,7209.649,True,f,477.0
+3493,Clémence MALLET,FR,29,F,SE F,,https://utmb.world/runner/6244857.clemence.mallet,,172.0,28.0,17.0,02:00:31,7231.549,True,f,476.0
+3443,Celia BOISSELEAU,FR,37,F,M0 F,,https://utmb.world/runner/5638952.celia.boisseleau,514.0,173.0,29.0,7.0,02:00:34,7234.55,True,f,475.0
+3442,Jean Francois GEORGE,FR,62,H,M5 H,,https://utmb.world/runner/5141648.jeanfrancois.george,,174.0,145.0,3.0,02:00:47,7247.508000000001,True,f,474.0
+3219,Aymeric BOUHOURS,FR,46,H,M2 H,US Laval,https://utmb.world/runner/5826413.aymeric.bouhours,,175.0,146.0,11.0,02:00:57,7257.47,True,f,474.0
+3099,Herve SZEFLINSKI,FR,61,H,M5 H,XTrem running Trail,https://utmb.world/runner/825685.herve.szeflinski,456.0,176.0,147.0,4.0,02:01:07,7267.368,True,f,473.0
+3089,Philippe USCIATI,FR,55,H,M3 H,Corsica Sport Mezzavia,https://utmb.world/runner/9980.philippe.usciati,471.0,177.0,148.0,7.0,02:01:09,7269.9580000000005,True,f,473.0
+3608,Maelis KAUFFMANN,FR,33,F,SE F,,https://utmb.world/runner/4973464.maelis.kauffmann,485.0,178.0,30.0,18.0,02:01:14,7274.569,True,f,473.0
+3070,Jean WIRTH,FR,66,H,M6 H,,https://utmb.world/runner/2121319.jean.wirth,497.0,179.0,149.0,1.0,02:01:30,7290.852,True,f,472.0
+3301,Patrick GENOUD,CH,40,H,M0 H,,https://utmb.world/runner/5685057.patrick.genoud,,180.0,150.0,27.0,02:01:54,7314.499,True,f,470.0
+3292,Marie REDOLFI,FR,30,F,SE F,,https://utmb.world/runner/6014833.marie.redolfi,,181.0,31.0,19.0,02:02:07,7327.851,True,f,469.0
+3430,Pierre-Antoine RUEDA,FR,28,H,SE H,,https://utmb.world/runner/6210347.pierreantoine.rueda,,182.0,151.0,55.0,02:02:14,7334.24,True,f,469.0
+3057,Jean-Philippe LACOUCHIE,FR,67,H,M6 H,ASL La Robertsau,https://utmb.world/runner/5289083.jeanphilippe.lacouchie,511.0,183.0,152.0,2.0,02:02:15,7335.32,True,f,469.0
+3260,Charles VERNHET,FR,34,H,SE H,,https://utmb.world/runner/5624781.charles.vernhet,,184.0,153.0,56.0,02:02:23,7343.991,True,f,468.0
+3310,Paul CAPUS,FR,25,H,SE H,,https://utmb.world/runner/6064893.paul.capus,,185.0,154.0,57.0,02:02:27,7347.56,True,f,468.0
+3291,Romain GRANELLI,FR,20,H,JU H,,https://utmb.world/runner/5897047.romain.granelli,,186.0,155.0,14.0,02:02:30,7350.937,True,f,468.0
+3533,Maria-Serena LEPIDI,FR,40,F,M0 F,A FuRmiCuLa,https://utmb.world/runner/6104122.mariaserena.lepidi,499.0,187.0,32.0,8.0,02:02:31,7351.488,True,f,468.0
+3341,Julien DESVERGNES,FR,22,H,ES H,,https://utmb.world/runner/6121197.julien.desvergnes,,188.0,156.0,8.0,02:02:40,7360.852,True,f,467.0
+3079,Enzo PICARELLA,FR,22,H,ES H,,https://utmb.world/runner/4472945.enzo.picarella,486.0,189.0,157.0,9.0,02:03:03,7383.232,True,f,466.0
+3097,François-Joseph D’AMORE,FR,45,H,M1 H,,https://utmb.world/runner/5828665.francoisjoseph.d---amore,461.0,190.0,158.0,21.0,02:03:22,7402.431,True,f,465.0
+3279,Fanny ZIMMERMANN,FR,40,F,M0 F,,https://utmb.world/runner/5667203.fanny.zimmermann,,191.0,33.0,9.0,02:03:25,7405.938,True,f,464.0
+3072,Nicolas PEREZ,FR,53,H,M3 H,RUNNING CLUB BELLEGARDE,https://utmb.world/runner/1530991.nicolas.perez,492.0,192.0,159.0,8.0,02:03:50,7430.991,True,f,463.0
+3129,Clara LECONTE,FR,27,F,SE F,,https://utmb.world/runner/4536709.clara.leconte,404.0,193.0,34.0,20.0,02:03:54,7434.891,True,f,463.0
+3363,Nicolas EZRATTI,FR,23,H,ES H,,https://utmb.world/runner/4987034.nicolas.ezratti,,193.0,160.0,10.0,02:03:54,7434.920999999999,True,f,463.0
 3563,Michael DELLEAUX,FR,45,H,M1 H,,,,195.0,161.0,22.0,02:03:56,7436.931,True,f,
-3423,Remi LE GOFF,FR,62,H,M5 H,LES FOULEES DE FONTAINE ETOUPEFOUR,https://utmb.world/runner/6205169.remi.legoff,463.0,196.0,162.0,5.0,02:03:58,7438.64,True,f,
-3100,Cédric VAYRON,FR,20,H,JU H,AA ALLAUDIENNE ET DU 13ème,https://utmb.world/runner/5748893.cedric.vayron,456.0,197.0,163.0,15.0,02:04:08,7448.781,True,f,
+3423,Remi LE GOFF,FR,62,H,M5 H,LES FOULEES DE FONTAINE ETOUPEFOUR,https://utmb.world/runner/6205169.remi.legoff,463.0,196.0,162.0,5.0,02:03:58,7438.64,True,f,462.0
+3100,Cédric VAYRON,FR,20,H,JU H,AA ALLAUDIENNE ET DU 13ème,https://utmb.world/runner/5748893.cedric.vayron,456.0,197.0,163.0,15.0,02:04:08,7448.781,True,f,462.0
 3554,Rémi BATTESTINI,FR,31,H,SE H,,,,198.0,164.0,58.0,02:04:11,7451.618,True,f,
-3127,Jose Manuel NEIVA SA,PT,55,H,M3 H,Sport in Calvi,https://utmb.world/runner/5209425.josemanuel.neivasa,405.0,199.0,165.0,9.0,02:04:16,7456.701,True,f,
-3216,Jules VINCENSINI,FR,20,H,JU H,,https://utmb.world/runner/5824473.jules.vincensini,,200.0,166.0,16.0,02:04:40,7480.462,True,f,
-3126,Hervé BATISTA,FR,63,H,M5 H,,https://utmb.world/runner/5000297.herve.batista,407.0,201.0,167.0,6.0,02:04:41,7481.961,True,f,
-3393,Lucas LALLEMENT,FR,19,H,JU H,,https://utmb.world/runner/6067655.lucas.lallement,,202.0,168.0,17.0,02:04:47,7487.511,True,f,
-3075,Michel PIERAERT,BE,55,H,M3 H,RST,https://utmb.world/runner/4232502.michel.pieraert,488.0,203.0,169.0,10.0,02:05:03,7503.861,True,f,
-3098,Romain MAURY,FR,40,H,M0 H,,https://utmb.world/runner/4524747.romain.maury,459.0,204.0,170.0,28.0,02:05:16,7516.822,True,f,
-3342,Olivier TORRE,FR,42,H,M1 H,,https://utmb.world/runner/6091525.olivier.torre,,205.0,171.0,23.0,02:05:37,7537.972,True,f,
-3140,Pierre-Paul SALVIANI,FR,31,H,SE H,,https://utmb.world/runner/5112697.pierrepaul.salviani,399.0,206.0,172.0,59.0,02:06:02,7562.541,True,f,
-3323,Vincent PATOUREAU,FR,45,H,M1 H,,https://utmb.world/runner/6029789.vincent.patoureau,,207.0,173.0,24.0,02:06:37,7597.971,True,f,
-3113,Philippe BOYÉ,FR,59,H,M4 H,,https://utmb.world/runner/5125127.philippe.boye,436.0,208.0,174.0,7.0,02:06:41,7601.423,True,f,
-3522,Christophe ROUX,FR,47,H,M2 H,RaceCraft,https://utmb.world/runner/5846527.christophe.roux,,209.0,175.0,12.0,02:06:58,7618.554,True,f,
-3367,Christophe LETERRIER,FR,57,H,M4 H,,https://utmb.world/runner/6175473.christophe.leterrier,,210.0,176.0,8.0,02:07:00,7620.503,True,f,
-3063,Florent JIOLAT,FR,43,H,M1 H,,https://utmb.world/runner/6168051.jiolat.florent,505.0,211.0,177.0,25.0,02:07:15,7635.383,True,f,
-3465,Aurélien GUELFO,FR,30,H,SE H,,https://utmb.world/runner/2173703.aurelien.guelfo,434.0,212.0,178.0,60.0,02:07:23,7643.633,True,f,
-3466,Arthur SOLINAS,FR,23,H,ES H,,https://utmb.world/runner/6230725.arthur.solinas,,213.0,179.0,11.0,02:07:24,7644.682,True,f,
-3478,Pierre-Franck MATHIOT,FR,54,H,M3 H,,https://utmb.world/runner/6234339.pierrefranck.mathiot,,214.0,180.0,11.0,02:07:29,7649.603,True,f,
-3325,Alesya TOUROV,FR,45,F,M1 F,Sport in Calvi,https://utmb.world/runner/6111011.alesya.tourov,,215.0,35.0,3.0,02:07:31,7651.464,True,f,
-3599,Silvia CRUZ,FR,35,F,SE F,,,,216.0,36.0,21.0,02:07:38,7658.873,True,f,
-3532,Antoine CERVETTI,FR,64,H,M5 H,A furmicula,https://utmb.world/runner/6271555.cervetti.tony,,217.0,181.0,7.0,02:07:51,7671.563,True,f,
-3071,Philippe PAQUET,FR,48,H,M2 H,,https://utmb.world/runner/491967.philippe.paquet,492.0,218.0,182.0,13.0,02:08:01,7681.193,True,f,
-3365,Romain EVANGELISTA,FR,20,H,JU H,,https://utmb.world/runner/5321526.romain.evangelista,,219.0,183.0,18.0,02:08:04,7684.523,True,f,
-3088,Corentin FALLENI,FR,24,H,SE H,Running Club Furiani Agliani,https://utmb.world/runner/6104128.corentin.falleni,472.0,219.0,183.0,61.0,02:08:04,7684.524,True,f,
-3073,Fabien FEDERICI,FR,46,H,M2 H,Rusiu,https://utmb.world/runner/1581353.fabien.federici,490.0,221.0,185.0,14.0,02:08:22,7702.612,True,f,
-3425,Déborah LEROY,FR,38,F,M0 F,,https://utmb.world/runner/4907256.deborah.leroy,454.0,222.0,37.0,10.0,02:08:28,7708.853,True,f,
-3303,Demasi VINCENT,FR,28,H,SE H,,https://utmb.world/runner/6108887.demasi.vincent,,223.0,186.0,62.0,02:08:38,7718.424,True,f,
-3458,Jerome DOUET,FR,33,H,SE H,,https://utmb.world/runner/4170844.jerome.douet,,224.0,187.0,63.0,02:08:40,7720.642,True,f,
-3517,Gianni STOPPANI,FR,49,H,M2 H,,https://utmb.world/runner/4775268.gianni.stoppani,438.0,225.0,188.0,15.0,02:08:42,7722.353,True,f,
-3136,Fabien AGOSTINI,FR,40,H,M0 H,Befit,https://utmb.world/runner/6103754.fabien.agostini,401.0,226.0,189.0,29.0,02:08:43,7723.434,True,f,
-3507,Julien POGGIONOVO,FR,38,H,M0 H,,https://utmb.world/runner/6258991.julien.poggionovo,,227.0,190.0,30.0,02:08:52,7732.873,True,f,
-3312,Quentin BIZON LERMITE,FR,23,H,ES H,,https://utmb.world/runner/6064907.quentin.bizonlermite,,227.0,190.0,12.0,02:08:52,7732.883,True,f,
-3495,Damien CAMARATA,FR,28,H,SE H,,https://utmb.world/runner/6249057.damien.camarata,,229.0,192.0,64.0,02:09:05,7745.883,True,f,
-3306,Elsa MENINDES,FR,25,F,SE F,,https://utmb.world/runner/6064897.elsa.menindes,,230.0,38.0,22.0,02:09:08,7748.754,True,f,
-3574,Melissa BARBAGGIO,FR,25,F,SE F,,,,231.0,39.0,23.0,02:09:09,7749.713,True,f,
-3092,Thierry PEYRON,FR,61,H,M5 H,EP MANOSQUE ATHLETISME,https://utmb.world/runner/140345.thierry.peyron,468.0,232.0,193.0,8.0,02:09:28,7768.313,True,f,
-3085,Agnès BERTHONNIER,FR,52,F,M3 F,,https://utmb.world/runner/538393.agnes.berthonnier,473.0,233.0,40.0,1.0,02:09:55,7795.855,True,f,
-3135,Loic DESPRAT,FR,32,H,SE H,,https://utmb.world/runner/4866415.loic.desprat,401.0,234.0,194.0,65.0,02:09:57,7797.964,True,f,
-3282,Cedric BIANCARDINI,FR,33,H,SE H,,https://utmb.world/runner/4775276.cedric.biancardini,,235.0,195.0,66.0,02:10:22,7822.134,True,f,
-3339,Erik LEMBOURG,FR,37,H,M0 H,,https://utmb.world/runner/6130207.erik.lembourg,,236.0,196.0,31.0,02:10:25,7825.104,True,f,
-3107,Jean Michel MORESCHI,FR,45,H,M1 H,AC Capu Biancu,https://utmb.world/runner/1048617.jeanmichel.moreschi,447.0,237.0,197.0,26.0,02:10:34,7834.434,True,f,
-3411,Anthony GIOVANNONI,FR,35,H,SE H,Club Omnisports Porticcio,https://utmb.world/runner/5268464.anthony.giovannoni,,238.0,198.0,67.0,02:10:41,7841.333,True,f,
-3449,Antoine GIUDICELLI,FR,45,H,M1 H,Sport in Calvi,https://utmb.world/runner/1587641.antoine.giudicelli,494.0,239.0,199.0,27.0,02:10:51,7851.505,True,f,
-3256,Philippe BIOUSSE,FR,27,H,SE H,,https://utmb.world/runner/5790657.philippe.biousse,,240.0,200.0,68.0,02:10:53,7853.553,True,f,
-3047,William CHALMANDRIER,FR,31,H,SE H,Crossfit Rumilly,https://utmb.world/runner/4200607.william.chalmandrier,544.0,241.0,201.0,69.0,02:11:00,7860.446,True,f,
-3386,Maelle CHALMANDRIER,FR,29,F,SE F,,https://utmb.world/runner/6175721.maelle.chalmandrier,,241.0,41.0,24.0,02:11:00,7860.535,True,f,
-3087,Samuel BERWICK,FR,52,H,M3 H,,https://utmb.world/runner/3076021.samuel.berwick,472.0,243.0,202.0,12.0,02:11:06,7866.986,True,f,
-3133,Fabrice WILL,FR,24,H,SE H,,https://utmb.world/runner/6190280.fabrice.will,402.0,244.0,203.0,70.0,02:11:08,7868.848,True,f,
-3315,Marc-Antoine CARTA,FR,26,H,SE H,,https://utmb.world/runner/6067501.marcantoine.carta,,245.0,204.0,71.0,02:11:11,7871.454,True,f,
-3241,Lucille WROBEL,FR,30,F,SE F,Cercle Athlétique Ajaccien,https://utmb.world/runner/5874743.lucille.wrobel,,246.0,42.0,25.0,02:11:21,7881.974,True,f,
-3333,Jean Philippe LALLEMENT,FR,50,H,M2 H,,https://utmb.world/runner/6067653.jeanphilippe.lallement,,247.0,205.0,16.0,02:11:25,7885.614,True,f,
-3334,Clement AZEMA,FR,27,H,SE H,,https://utmb.world/runner/6105091.clement.azema,,248.0,206.0,72.0,02:11:26,7886.945,True,f,
-3419,Amandine HINCKER,FR,43,F,M1 F,CAPRG,https://utmb.world/runner/3693003.amandine.hincker,,249.0,43.0,4.0,02:11:54,7914.537,True,f,
-3373,Shirley VIVES,FR,36,F,M0 F,,https://utmb.world/runner/6181735.shirley.vives,,250.0,44.0,11.0,02:12:00,7920.236,True,f,
-3482,Vincent FERNANDEZ,FR,40,H,M0 H,,https://utmb.world/runner/4546206.vincent.fernandez,434.0,251.0,207.0,32.0,02:12:09,7929.567,True,f,
-3471,Christophe MEYNIEU-COLONNA,FR,42,H,M1 H,,https://utmb.world/runner/4524755.christophe.meynieucolonna,503.0,252.0,208.0,28.0,02:12:22,7942.345,True,f,
-3298,Lucile KOUZMINE-KARAVAIEFF,FR,32,F,SE F,,https://utmb.world/runner/6102885.lucile.kouzminekaravaieff,,253.0,45.0,26.0,02:12:24,7944.565,True,f,
-3426,Maxime COUSINET,FR,35,H,SE H,,https://utmb.world/runner/6207165.maxime.cousinet,,254.0,209.0,73.0,02:12:31,7951.829,True,f,
+3127,Jose Manuel NEIVA SA,PT,55,H,M3 H,Sport in Calvi,https://utmb.world/runner/5209425.josemanuel.neivasa,405.0,199.0,165.0,9.0,02:04:16,7456.701,True,f,461.0
+3216,Jules VINCENSINI,FR,20,H,JU H,,https://utmb.world/runner/5824473.jules.vincensini,,200.0,166.0,16.0,02:04:40,7480.4619999999995,True,f,460.0
+3126,Hervé BATISTA,FR,63,H,M5 H,,https://utmb.world/runner/5000297.herve.batista,407.0,201.0,167.0,6.0,02:04:41,7481.960999999999,True,f,460.0
+3393,Lucas LALLEMENT,FR,19,H,JU H,,https://utmb.world/runner/6067655.lucas.lallement,,202.0,168.0,17.0,02:04:47,7487.5109999999995,True,f,459.0
+3075,Michel PIERAERT,BE,55,H,M3 H,RST,https://utmb.world/runner/4232502.michel.pieraert,488.0,203.0,169.0,10.0,02:05:03,7503.861,True,f,458.0
+3098,Romain MAURY,FR,40,H,M0 H,,https://utmb.world/runner/4524747.romain.maury,459.0,204.0,170.0,28.0,02:05:16,7516.821999999999,True,f,457.0
+3342,Olivier TORRE,FR,42,H,M1 H,,https://utmb.world/runner/6091525.olivier.torre,,205.0,171.0,23.0,02:05:37,7537.972,True,f,456.0
+3140,Pierre-Paul SALVIANI,FR,31,H,SE H,,https://utmb.world/runner/5112697.pierrepaul.salviani,399.0,206.0,172.0,59.0,02:06:02,7562.541,True,f,455.0
+3323,Vincent PATOUREAU,FR,45,H,M1 H,,https://utmb.world/runner/6029789.vincent.patoureau,,207.0,173.0,24.0,02:06:37,7597.971,True,f,453.0
+3113,Philippe BOYÉ,FR,59,H,M4 H,,https://utmb.world/runner/5125127.philippe.boye,436.0,208.0,174.0,7.0,02:06:41,7601.423000000001,True,f,452.0
+3522,Christophe ROUX,FR,47,H,M2 H,RaceCraft,https://utmb.world/runner/5846527.christophe.roux,,209.0,175.0,12.0,02:06:58,7618.554,True,f,451.0
+3367,Christophe LETERRIER,FR,57,H,M4 H,,https://utmb.world/runner/6175473.christophe.leterrier,,210.0,176.0,8.0,02:07:00,7620.503000000001,True,f,451.0
+3063,Florent JIOLAT,FR,43,H,M1 H,,https://utmb.world/runner/6168051.jiolat.florent,505.0,211.0,177.0,25.0,02:07:15,7635.383000000001,True,f,450.0
+3465,Aurélien GUELFO,FR,30,H,SE H,,https://utmb.world/runner/2173703.aurelien.guelfo,434.0,212.0,178.0,60.0,02:07:23,7643.633000000001,True,f,450.0
+3466,Arthur SOLINAS,FR,23,H,ES H,,https://utmb.world/runner/6230725.arthur.solinas,,213.0,179.0,11.0,02:07:24,7644.682,True,f,450.0
+3478,Pierre-Franck MATHIOT,FR,54,H,M3 H,,https://utmb.world/runner/6234339.pierrefranck.mathiot,,214.0,180.0,11.0,02:07:29,7649.603,True,f,450.0
+3325,Alesya TOUROV,FR,45,F,M1 F,Sport in Calvi,https://utmb.world/runner/6111011.alesya.tourov,,215.0,35.0,3.0,02:07:31,7651.464,True,f,449.0
+3599,Silvia CRUZ,FR,35,F,SE F,,,,216.0,36.0,21.0,02:07:38,7658.8730000000005,True,f,
+3532,Antoine CERVETTI,FR,64,H,M5 H,A furmicula,https://utmb.world/runner/6271555.cervetti.tony,,217.0,181.0,7.0,02:07:51,7671.563,True,f,448.0
+3071,Philippe PAQUET,FR,48,H,M2 H,,https://utmb.world/runner/491967.philippe.paquet,492.0,218.0,182.0,13.0,02:08:01,7681.193,True,f,448.0
+3088,Corentin FALLENI,FR,24,H,SE H,Running Club Furiani Agliani,https://utmb.world/runner/6104128.corentin.falleni,472.0,219.0,183.0,61.0,02:08:04,7684.524,True,f,447.0
+3365,Romain EVANGELISTA,FR,20,H,JU H,,https://utmb.world/runner/5321526.romain.evangelista,,219.0,183.0,18.0,02:08:04,7684.523,True,f,447.0
+3073,Fabien FEDERICI,FR,46,H,M2 H,Rusiu,https://utmb.world/runner/1581353.fabien.federici,490.0,221.0,185.0,14.0,02:08:22,7702.611999999999,True,f,446.0
+3425,Déborah LEROY,FR,38,F,M0 F,,https://utmb.world/runner/4907256.deborah.leroy,454.0,222.0,37.0,10.0,02:08:28,7708.853,True,f,446.0
+3303,Demasi VINCENT,FR,28,H,SE H,,https://utmb.world/runner/6108887.demasi.vincent,,223.0,186.0,62.0,02:08:38,7718.424,True,f,446.0
+3458,Jerome DOUET,FR,33,H,SE H,,https://utmb.world/runner/4170844.jerome.douet,,224.0,187.0,63.0,02:08:40,7720.642,True,f,445.0
+3517,Gianni STOPPANI,FR,49,H,M2 H,,https://utmb.world/runner/4775268.gianni.stoppani,438.0,225.0,188.0,15.0,02:08:42,7722.353,True,f,445.0
+3136,Fabien AGOSTINI,FR,40,H,M0 H,Befit,https://utmb.world/runner/6103754.fabien.agostini,401.0,226.0,189.0,29.0,02:08:43,7723.434,True,f,445.0
+3312,Quentin BIZON LERMITE,FR,23,H,ES H,,https://utmb.world/runner/6064907.quentin.bizonlermite,,227.0,190.0,12.0,02:08:52,7732.883000000001,True,f,445.0
+3507,Julien POGGIONOVO,FR,38,H,M0 H,,https://utmb.world/runner/6258991.julien.poggionovo,,227.0,190.0,30.0,02:08:52,7732.8730000000005,True,f,445.0
+3495,Damien CAMARATA,FR,28,H,SE H,,https://utmb.world/runner/6249057.damien.camarata,,229.0,192.0,64.0,02:09:05,7745.883000000001,True,f,444.0
+3306,Elsa MENINDES,FR,25,F,SE F,,https://utmb.world/runner/6064897.elsa.menindes,,230.0,38.0,22.0,02:09:08,7748.754,True,f,444.0
+3574,Melissa BARBAGGIO,FR,25,F,SE F,,,,231.0,39.0,23.0,02:09:09,7749.713000000001,True,f,
+3092,Thierry PEYRON,FR,61,H,M5 H,EP MANOSQUE ATHLETISME,https://utmb.world/runner/140345.thierry.peyron,468.0,232.0,193.0,8.0,02:09:28,7768.313,True,f,443.0
+3085,Agnès BERTHONNIER,FR,52,F,M3 F,,https://utmb.world/runner/538393.agnes.berthonnier,473.0,233.0,40.0,1.0,02:09:55,7795.855,True,f,441.0
+3135,Loic DESPRAT,FR,32,H,SE H,,https://utmb.world/runner/4866415.loic.desprat,401.0,234.0,194.0,65.0,02:09:57,7797.964,True,f,441.0
+3282,Cedric BIANCARDINI,FR,33,H,SE H,,https://utmb.world/runner/4775276.cedric.biancardini,,235.0,195.0,66.0,02:10:22,7822.134,True,f,440.0
+3339,Erik LEMBOURG,FR,37,H,M0 H,,https://utmb.world/runner/6130207.erik.lembourg,,236.0,196.0,31.0,02:10:25,7825.104,True,f,439.0
+3107,Jean Michel MORESCHI,FR,45,H,M1 H,AC Capu Biancu,https://utmb.world/runner/1048617.jeanmichel.moreschi,447.0,237.0,197.0,26.0,02:10:34,7834.434,True,f,439.0
+3411,Anthony GIOVANNONI,FR,35,H,SE H,Club Omnisports Porticcio,https://utmb.world/runner/5268464.anthony.giovannoni,,238.0,198.0,67.0,02:10:41,7841.3330000000005,True,f,439.0
+3449,Antoine GIUDICELLI,FR,45,H,M1 H,Sport in Calvi,https://utmb.world/runner/1587641.antoine.giudicelli,494.0,239.0,199.0,27.0,02:10:51,7851.505,True,f,438.0
+3256,Philippe BIOUSSE,FR,27,H,SE H,,https://utmb.world/runner/5790657.philippe.biousse,,240.0,200.0,68.0,02:10:53,7853.553000000001,True,f,438.0
+3386,Maelle CHALMANDRIER,FR,29,F,SE F,,https://utmb.world/runner/6175721.maelle.chalmandrier,,241.0,41.0,24.0,02:11:00,7860.535,True,f,437.0
+3047,William CHALMANDRIER,FR,31,H,SE H,Crossfit Rumilly,https://utmb.world/runner/4200607.william.chalmandrier,544.0,241.0,201.0,69.0,02:11:00,7860.446,True,f,437.0
+3087,Samuel BERWICK,FR,52,H,M3 H,,https://utmb.world/runner/3076021.samuel.berwick,472.0,243.0,202.0,12.0,02:11:06,7866.986,True,f,437.0
+3133,Fabrice WILL,FR,24,H,SE H,,https://utmb.world/runner/6190280.fabrice.will,402.0,244.0,203.0,70.0,02:11:08,7868.848000000001,True,f,437.0
+3315,Marc-Antoine CARTA,FR,26,H,SE H,,https://utmb.world/runner/6067501.marcantoine.carta,,245.0,204.0,71.0,02:11:11,7871.454000000001,True,f,437.0
+3241,Lucille WROBEL,FR,30,F,SE F,Cercle Athlétique Ajaccien,https://utmb.world/runner/5874743.lucille.wrobel,,246.0,42.0,25.0,02:11:21,7881.974,True,f,436.0
+3333,Jean Philippe LALLEMENT,FR,50,H,M2 H,,https://utmb.world/runner/6067653.jeanphilippe.lallement,,247.0,205.0,16.0,02:11:25,7885.6140000000005,True,f,436.0
+3334,Clement AZEMA,FR,27,H,SE H,,https://utmb.world/runner/6105091.clement.azema,,248.0,206.0,72.0,02:11:26,7886.945,True,f,436.0
+3419,Amandine HINCKER,FR,43,F,M1 F,CAPRG,https://utmb.world/runner/3693003.amandine.hincker,,249.0,43.0,4.0,02:11:54,7914.536999999999,True,f,434.0
+3373,Shirley VIVES,FR,36,F,M0 F,,https://utmb.world/runner/6181735.shirley.vives,,250.0,44.0,11.0,02:12:00,7920.236,True,f,434.0
+3482,Vincent FERNANDEZ,FR,40,H,M0 H,,https://utmb.world/runner/4546206.vincent.fernandez,434.0,251.0,207.0,32.0,02:12:09,7929.566999999999,True,f,434.0
+3471,Christophe MEYNIEU-COLONNA,FR,42,H,M1 H,,https://utmb.world/runner/4524755.christophe.meynieucolonna,503.0,252.0,208.0,28.0,02:12:22,7942.345,True,f,433.0
+3298,Lucile KOUZMINE-KARAVAIEFF,FR,32,F,SE F,,https://utmb.world/runner/6102885.lucile.kouzminekaravaieff,,253.0,45.0,26.0,02:12:24,7944.565,True,f,433.0
+3426,Maxime COUSINET,FR,35,H,SE H,,https://utmb.world/runner/6207165.maxime.cousinet,,254.0,209.0,73.0,02:12:31,7951.829000000001,True,f,432.0
 3568,Lisandru CRISTOFARI,FR,20,H,JU H,,,,255.0,210.0,19.0,02:12:32,7952.275,True,f,
-3401,Noémie LEMAN,FR,34,F,SE F,,https://utmb.world/runner/6190116.noemie.leman,,256.0,46.0,27.0,02:12:52,7972.966,True,f,
-3605,Giliane CARUANA,FR,39,F,M0 F,,https://utmb.world/runner/6190118.giliane.caruana,,257.0,47.0,12.0,02:12:55,7975.916,True,f,
-3117,Dominique GAFFORY,FR,29,H,SE H,,https://utmb.world/runner/5268226.dominique.gaffory,425.0,257.0,211.0,74.0,02:12:55,7975.796,True,f,
-3095,Alicia BARROS,UY,42,F,M1 F,,https://utmb.world/runner/2514183.alicia.barros,463.0,259.0,48.0,5.0,02:12:58,7978.9,True,f,
-3147,Pascal MASANET,FR,29,H,SE H,,https://utmb.world/runner/6103796.pascal.masanet,388.0,260.0,212.0,75.0,02:13:08,7988.879,True,f,
-3529,Xavier PIERLOVISI,FR,67,H,M6 H,Bucugna,https://utmb.world/runner/41201.xavier.pierlovisi,481.0,261.0,213.0,3.0,02:13:14,7994.846,True,f,
-3052,Pierre DESBRAUX,FR,37,H,M0 H,,https://utmb.world/runner/4170762.pierre.desbraux,525.0,262.0,214.0,33.0,02:13:19,7999.826,True,f,
-3081,Georges DESBRAUX,FR,68,H,M6 H,CLUB OMNISPORTS PORTICCIO,https://utmb.world/runner/328621.georges.desbraux,483.0,262.0,214.0,4.0,02:13:19,7999.925,True,f,
-3340,Ghjulia CICCOLI,FR,19,F,JU F,BE FIT,https://utmb.world/runner/6103896.ghjulia.ciccoli,,262.0,49.0,2.0,02:13:19,7999.586,True,f,
-3368,Elisa REMY,FR,27,F,SE F,,https://utmb.world/runner/6181447.elisa.remy,,265.0,50.0,28.0,02:13:36,8016.895,True,f,
-3457,Marc CESARINI,FR,27,H,SE H,,https://utmb.world/runner/6220549.marc.cesarini,,266.0,216.0,76.0,02:13:52,8032.706,True,f,
-3324,Ana VILHENA,PT,44,F,M1 F,,https://utmb.world/runner/6036051.ana.vilhena,,267.0,51.0,6.0,02:13:53,8033.74,True,f,
-3346,Pauline SAUBOUA,FR,26,F,SE F,,https://utmb.world/runner/6152189.pauline.sauboua,,268.0,52.0,29.0,02:14:16,8056.975,True,f,
-3402,Paul CHAIX,FR,37,H,M0 H,,https://utmb.world/runner/6200937.paul.chaix,,269.0,217.0,34.0,02:14:41,8081.461,True,f,
-3233,Trouve CHARLOTTE,FR,39,F,M0 F,,https://utmb.world/runner/5863225.trouve.charlotte,,270.0,53.0,13.0,02:14:47,8087.036,True,f,
-3309,Meghan RODRIGUES,FR,25,F,SE F,,https://utmb.world/runner/6065127.meghan.rodrigues,,271.0,54.0,30.0,02:14:56,8096.425,True,f,
-3154,Quentin BLIN,FR,30,H,SE H,,https://utmb.world/runner/5349622.quentin.blin,372.0,272.0,218.0,77.0,02:14:58,8098.797,True,f,
-3321,Orsolya KARLÓCAI,HU,38,F,M0 F,,https://utmb.world/runner/6047275.orsolya.karlocai,,272.0,55.0,14.0,02:14:58,8098.346,True,f,
-3374,Carole LACROUX-BIONDI,FR,48,F,M2 F,Club Omnisports de Porticcio,https://utmb.world/runner/6190321.lacrouxbiondi.carole,,274.0,56.0,2.0,02:15:03,8103.656,True,f,
-3205,Nagham WAZZAN,FR,36,F,M0 F,,https://utmb.world/runner/5908751.nagham.wazzan,,275.0,57.0,15.0,02:15:10,8110.345,True,f,
+3401,Noémie LEMAN,FR,34,F,SE F,,https://utmb.world/runner/6190116.noemie.leman,,256.0,46.0,27.0,02:12:52,7972.965999999999,True,f,431.0
+3605,Giliane CARUANA,FR,39,F,M0 F,,https://utmb.world/runner/6190118.giliane.caruana,,257.0,47.0,12.0,02:12:55,7975.916,True,f,431.0
+3117,Dominique GAFFORY,FR,29,H,SE H,,https://utmb.world/runner/5268226.dominique.gaffory,425.0,257.0,211.0,74.0,02:12:55,7975.795999999999,True,f,431.0
+3095,Alicia BARROS,UY,42,F,M1 F,,https://utmb.world/runner/2514183.alicia.barros,463.0,259.0,48.0,5.0,02:12:58,7978.9,True,f,431.0
+3147,Pascal MASANET,FR,29,H,SE H,,https://utmb.world/runner/6103796.pascal.masanet,388.0,260.0,212.0,75.0,02:13:08,7988.879,True,f,430.0
+3529,Xavier PIERLOVISI,FR,67,H,M6 H,Bucugna,https://utmb.world/runner/41201.xavier.pierlovisi,481.0,261.0,213.0,3.0,02:13:14,7994.846,True,f,430.0
+3052,Pierre DESBRAUX,FR,37,H,M0 H,,https://utmb.world/runner/4170762.pierre.desbraux,525.0,262.0,214.0,33.0,02:13:19,7999.826,True,f,430.0
+3081,Georges DESBRAUX,FR,68,H,M6 H,CLUB OMNISPORTS PORTICCIO,https://utmb.world/runner/328621.georges.desbraux,483.0,262.0,214.0,4.0,02:13:19,7999.925,True,f,430.0
+3340,Ghjulia CICCOLI,FR,19,F,JU F,BE FIT,https://utmb.world/runner/6103896.ghjulia.ciccoli,,262.0,49.0,2.0,02:13:19,7999.585999999999,True,f,430.0
+3368,Elisa REMY,FR,27,F,SE F,,https://utmb.world/runner/6181447.elisa.remy,,265.0,50.0,28.0,02:13:36,8016.895,True,f,429.0
+3457,Marc CESARINI,FR,27,H,SE H,,https://utmb.world/runner/6220549.marc.cesarini,,266.0,216.0,76.0,02:13:52,8032.706,True,f,428.0
+3324,Ana VILHENA,PT,44,F,M1 F,,https://utmb.world/runner/6036051.ana.vilhena,,267.0,51.0,6.0,02:13:53,8033.74,True,f,428.0
+3346,Pauline SAUBOUA,FR,26,F,SE F,,https://utmb.world/runner/6152189.pauline.sauboua,,268.0,52.0,29.0,02:14:16,8056.975,True,f,427.0
+3402,Paul CHAIX,FR,37,H,M0 H,,https://utmb.world/runner/6200937.paul.chaix,,269.0,217.0,34.0,02:14:41,8081.460999999999,True,f,425.0
+3233,Trouve CHARLOTTE,FR,39,F,M0 F,,https://utmb.world/runner/5863225.trouve.charlotte,,270.0,53.0,13.0,02:14:47,8087.036,True,f,425.0
+3309,Meghan RODRIGUES,FR,25,F,SE F,,https://utmb.world/runner/6065127.meghan.rodrigues,,271.0,54.0,30.0,02:14:56,8096.425,True,f,425.0
+3154,Quentin BLIN,FR,30,H,SE H,,https://utmb.world/runner/5349622.quentin.blin,372.0,272.0,218.0,77.0,02:14:58,8098.797,True,f,425.0
+3321,Orsolya KARLÓCAI,HU,38,F,M0 F,,https://utmb.world/runner/6047275.orsolya.karlocai,,272.0,55.0,14.0,02:14:58,8098.346,True,f,425.0
+3374,Carole LACROUX-BIONDI,FR,48,F,M2 F,Club Omnisports de Porticcio,https://utmb.world/runner/6190321.lacrouxbiondi.carole,,274.0,56.0,2.0,02:15:03,8103.656,True,f,424.0
+3205,Nagham WAZZAN,FR,36,F,M0 F,,https://utmb.world/runner/5908751.nagham.wazzan,,275.0,57.0,15.0,02:15:10,8110.345,True,f,424.0
 3243,Joana GPY,CH,28,F,SE F,,https://utmb.world/runner/6167975.joana.gpy,,276.0,58.0,31.0,02:15:14,8114.605,True,f,
-3202,Natasha MAVROVA,CH,31,F,SE F,,https://utmb.world/runner/5889789.natasha.mavrova,,276.0,58.0,31.0,02:15:14,8114.548,True,f,
-3353,Julien HERNANDEZ,FR,32,H,SE H,,https://utmb.world/runner/6103698.julien.hernandez,,278.0,219.0,78.0,02:15:42,8142.296,True,f,
-3490,Florine JACQUARD,FR,24,F,SE F,,https://utmb.world/runner/6243133.florine.jacquard,,279.0,60.0,33.0,02:15:59,8159.816,True,f,
-3335,Maurizio CANALICCHIO,IT,53,H,M3 H,nessuna,https://utmb.world/runner/197692.maurizio.canalicchio,,280.0,220.0,13.0,02:16:07,8167.828,True,f,
-3209,Mélanie JEANDET,FR,29,F,SE F,,https://utmb.world/runner/5783905.melanie.jeandet,,281.0,61.0,34.0,02:16:14,8174.007,True,f,
-3355,Jean-François GAYET,FR,40,H,M0 H,,https://utmb.world/runner/6133787.jeanfrancois.gayet,,282.0,221.0,35.0,02:16:57,8217.866,True,f,
-3269,Mari-Sol GARCÍA SOMOZA,ES,43,F,M1 F,Team Trail Paris,https://utmb.world/runner/5613969.marisol.garciasomoza,,283.0,62.0,7.0,02:17:16,8236.977,True,f,
-3055,Jean Baptiste VERMET,FR,47,H,M2 H,Team Trail Paris,https://utmb.world/runner/1379363.jeanbaptiste.vermet,517.0,283.0,222.0,17.0,02:17:16,8236.888,True,f,
-3152,Christophe DELBREIL,FR,63,H,M5 H,Sport in calvi,https://utmb.world/runner/1587911.christophe.delbreil,380.0,285.0,223.0,9.0,02:17:32,8252.457,True,f,
-3366,Jérémi LOUBIC,FR,28,H,SE H,,https://utmb.world/runner/6114231.jeremi.loubic,,286.0,224.0,79.0,02:17:43,8263.821,True,f,
-3221,Eric LETUE,FR,58,H,M4 H,ACM RUNNING CLUB,https://utmb.world/runner/4185472.eric.letue,,287.0,225.0,9.0,02:17:49,8269.526,True,f,
-3606,Lise SANCHEZ,FR,32,F,SE F,ASCAM Trail,https://utmb.world/runner/6103826.lise.sanchez,401.0,288.0,63.0,35.0,02:18:11,8291.668,True,f,
-3524,Alexandre ANTONI,FR,32,H,SE H,I SPEGNIFOCHI DI CASAGLIO,https://utmb.world/runner/6103718.alexandre.antoni,,289.0,226.0,80.0,02:18:12,8292.837,True,f,
-3500,Romain DELIGNE,FR,34,H,SE H,A Paolina,https://utmb.world/runner/5288579.romain.deligne,399.0,290.0,227.0,81.0,02:18:13,8293.827,True,f,
+3202,Natasha MAVROVA,CH,31,F,SE F,,https://utmb.world/runner/5889789.natasha.mavrova,,276.0,58.0,31.0,02:15:14,8114.548000000001,True,f,424.0
+3353,Julien HERNANDEZ,FR,32,H,SE H,,https://utmb.world/runner/6103698.julien.hernandez,,278.0,219.0,78.0,02:15:42,8142.295999999999,True,f,422.0
+3490,Florine JACQUARD,FR,24,F,SE F,,https://utmb.world/runner/6243133.florine.jacquard,,279.0,60.0,33.0,02:15:59,8159.816,True,f,421.0
+3335,Maurizio CANALICCHIO,IT,53,H,M3 H,nessuna,https://utmb.world/runner/197692.maurizio.canalicchio,,280.0,220.0,13.0,02:16:07,8167.828,True,f,421.0
+3209,Mélanie JEANDET,FR,29,F,SE F,,https://utmb.world/runner/5783905.melanie.jeandet,,281.0,61.0,34.0,02:16:14,8174.007,True,f,421.0
+3355,Jean-François GAYET,FR,40,H,M0 H,,https://utmb.world/runner/6133787.jeanfrancois.gayet,,282.0,221.0,35.0,02:16:57,8217.866,True,f,418.0
+3055,Jean Baptiste VERMET,FR,47,H,M2 H,Team Trail Paris,https://utmb.world/runner/1379363.jeanbaptiste.vermet,517.0,283.0,222.0,17.0,02:17:16,8236.888,True,f,417.0
+3269,Mari-Sol GARCÍA SOMOZA,ES,43,F,M1 F,Team Trail Paris,https://utmb.world/runner/5613969.marisol.garciasomoza,,283.0,62.0,7.0,02:17:16,8236.976999999999,True,f,417.0
+3152,Christophe DELBREIL,FR,63,H,M5 H,Sport in calvi,https://utmb.world/runner/1587911.christophe.delbreil,380.0,285.0,223.0,9.0,02:17:32,8252.457,True,f,417.0
+3366,Jérémi LOUBIC,FR,28,H,SE H,,https://utmb.world/runner/6114231.jeremi.loubic,,286.0,224.0,79.0,02:17:43,8263.821,True,f,416.0
+3221,Eric LETUE,FR,58,H,M4 H,ACM RUNNING CLUB,https://utmb.world/runner/4185472.eric.letue,,287.0,225.0,9.0,02:17:49,8269.526,True,f,416.0
+3606,Lise SANCHEZ,FR,32,F,SE F,ASCAM Trail,https://utmb.world/runner/6103826.lise.sanchez,401.0,288.0,63.0,35.0,02:18:11,8291.668,True,f,415.0
+3524,Alexandre ANTONI,FR,32,H,SE H,I SPEGNIFOCHI DI CASAGLIO,https://utmb.world/runner/6103718.alexandre.antoni,,289.0,226.0,80.0,02:18:12,8292.837,True,f,415.0
+3500,Romain DELIGNE,FR,34,H,SE H,A Paolina,https://utmb.world/runner/5288579.romain.deligne,399.0,290.0,227.0,81.0,02:18:13,8293.827,True,f,415.0
 3548,Laurent RAIMONDO,FR,35,H,SE H,,,,291.0,228.0,82.0,02:18:20,8300.249,True,f,
-3358,Morgane MURACCIOLE,FR,35,F,SE F,Running Club Furiani Agliani,https://utmb.world/runner/6167981.morgane.muracciole,,292.0,64.0,36.0,02:18:32,8312.277,True,f,
-3499,Véronique DELUCCHI,FR,40,F,M0 F,Be fit,https://utmb.world/runner/6103846.veronique.delucchi,,293.0,65.0,16.0,02:18:34,8314.865,True,f,
-3132,Antony MARAIS,FR,53,H,M3 H,,https://utmb.world/runner/4170880.antony.marais,402.0,294.0,229.0,14.0,02:18:37,8317.887,True,f,
+3358,Morgane MURACCIOLE,FR,35,F,SE F,Running Club Furiani Agliani,https://utmb.world/runner/6167981.morgane.muracciole,,292.0,64.0,36.0,02:18:32,8312.277,True,f,414.0
+3499,Véronique DELUCCHI,FR,40,F,M0 F,Be fit,https://utmb.world/runner/6103846.veronique.delucchi,,293.0,65.0,16.0,02:18:34,8314.865,True,f,414.0
+3132,Antony MARAIS,FR,53,H,M3 H,,https://utmb.world/runner/4170880.antony.marais,402.0,294.0,229.0,14.0,02:18:37,8317.886999999999,True,f,413.0
 3551,Adrien PFLIER,FR,25,H,SE H,,,,295.0,230.0,83.0,02:19:03,8343.357,True,f,
-3168,Mélanie ILHEU,FR,38,F,M0 F,,https://utmb.world/runner/4900937.melanie.ilheu,351.0,296.0,66.0,17.0,02:19:17,8357.814,True,f,
-3460,Fabien LETELLIER,FR,26,H,SE H,,https://utmb.world/runner/6221469.fabien.letellier,,297.0,231.0,84.0,02:19:40,8380.738,True,f,
-3204,Wolf KEERSMAEKERS,BE,20,H,JU H,,https://utmb.world/runner/5912145.wolf.keersmaekers,,298.0,232.0,20.0,02:19:52,8392.617,True,f,
-3383,Nasstasya GUERRINI,FR,37,F,M0 F,Running Club Furiani Agliani,https://utmb.world/runner/6196115.nasstasya.guerrini,,299.0,67.0,18.0,02:20:05,8405.517,True,f,
-3572,Antoine-Joseph SIMEONI,FR,21,H,ES H,,,,300.0,233.0,13.0,02:20:15,8415.988,True,f,
-3489,Arnaud LE STIR,FR,38,H,M0 H,,https://utmb.world/runner/6243131.lestir.arnaud,,301.0,234.0,36.0,02:20:28,8428.799,True,f,
-3409,Anthony BERQUET,FR,32,H,SE H,,https://utmb.world/runner/6203333.anthony.berquet,,301.0,234.0,85.0,02:20:28,8428.557,True,f,
-3150,Estelle MAUVIEUX,FR,22,F,ES F,Plaintel Aventure,https://utmb.world/runner/5240742.estelle.mauvieux,383.0,303.0,68.0,1.0,02:20:30,8430.327,True,f,
-3326,Mickael CRISTOFARI,FR,28,H,SE H,,https://utmb.world/runner/5268352.mickael.cristofari,,304.0,236.0,86.0,02:20:33,8433.659,True,f,
-3612,Franck ROUVRAY,FR,42,H,M1 H,Brocéliande aventure,https://utmb.world/runner/4896953.franck.rouvray,383.0,305.0,237.0,29.0,02:20:48,8448.267,True,f,
-3227,Céline ROUVRAY GABOREL,FR,41,F,M1 F,,https://utmb.world/runner/5875303.celine.rouvraygaborel,,305.0,69.0,8.0,02:20:48,8448.117,True,f,
-3086,Christophe MARTINO,FR,47,H,M2 H,,https://utmb.world/runner/108739.christophe.martino,473.0,307.0,238.0,18.0,02:20:51,8451.119,True,f,
-3404,Lidia Maria ORTICONI,PT,51,F,M3 F,Sport in Calvi,https://utmb.world/runner/6199875.lidiamaria.orticoni,,308.0,70.0,2.0,02:20:57,8457.358,True,f,
-3377,Mélyssa GILBERT,FR,25,F,SE F,,https://utmb.world/runner/6103802.melyssa.gilbert,,309.0,71.0,37.0,02:20:59,8459.278,True,f,
-3410,Lou HUGUET,FR,28,F,SE F,,https://utmb.world/runner/6203345.huguet.lou,,310.0,72.0,38.0,02:21:09,8469.507,True,f,
-3540,Julie PUECH,FR,28,F,SE F,,https://utmb.world/runner/4866337.julie.puech,380.0,311.0,73.0,39.0,02:21:34,8494.017,True,f,
-3137,Coralie TAFANI,FR,36,F,M0 F,,https://utmb.world/runner/6108767.coralie.tafani,400.0,312.0,74.0,19.0,02:21:59,8519.999,True,f,
-3513,Cedric MARCIANO,FR,55,H,M3 H,,https://utmb.world/runner/521340.cedric.marciano,,313.0,239.0,15.0,02:22:09,8529.869,True,f,
-3145,Jean Pierre LABARDE,FR,57,H,M4 H,,https://utmb.world/runner/108999.jeanpierre.labarde,390.0,314.0,240.0,10.0,02:22:12,8532.867,True,f,
-3477,Lisandru GERONIMI,FR,23,H,ES H,,https://utmb.world/runner/5760778.lisandru.geronimi,,315.0,241.0,14.0,02:22:26,8546.818,True,f,
-3143,Laura GERLING,FR,26,F,SE F,,https://utmb.world/runner/5312847.laura.gerling,393.0,316.0,75.0,40.0,02:22:36,8556.939,True,f,
-3547,Jean-Baptiste CERVONI,FR,32,H,SE H,,,,317.0,242.0,87.0,02:22:44,8564.698,True,f,
+3168,Mélanie ILHEU,FR,38,F,M0 F,,https://utmb.world/runner/4900937.melanie.ilheu,351.0,296.0,66.0,17.0,02:19:17,8357.814,True,f,411.0
+3460,Fabien LETELLIER,FR,26,H,SE H,,https://utmb.world/runner/6221469.fabien.letellier,,297.0,231.0,84.0,02:19:40,8380.738000000001,True,f,410.0
+3204,Wolf KEERSMAEKERS,BE,20,H,JU H,,https://utmb.world/runner/5912145.wolf.keersmaekers,,298.0,232.0,20.0,02:19:52,8392.617,True,f,410.0
+3383,Nasstasya GUERRINI,FR,37,F,M0 F,Running Club Furiani Agliani,https://utmb.world/runner/6196115.nasstasya.guerrini,,299.0,67.0,18.0,02:20:05,8405.517,True,f,409.0
+3572,Antoine-Joseph SIMEONI,FR,21,H,ES H,,,,300.0,233.0,13.0,02:20:15,8415.988000000001,True,f,
+3409,Anthony BERQUET,FR,32,H,SE H,,https://utmb.world/runner/6203333.anthony.berquet,,301.0,234.0,85.0,02:20:28,8428.556999999999,True,f,408.0
+3489,Arnaud LE STIR,FR,38,H,M0 H,,https://utmb.world/runner/6243131.lestir.arnaud,,301.0,234.0,36.0,02:20:28,8428.799,True,f,408.0
+3150,Estelle MAUVIEUX,FR,22,F,ES F,Plaintel Aventure,https://utmb.world/runner/5240742.estelle.mauvieux,383.0,303.0,68.0,1.0,02:20:30,8430.327,True,f,408.0
+3326,Mickael CRISTOFARI,FR,28,H,SE H,,https://utmb.world/runner/5268352.mickael.cristofari,,304.0,236.0,86.0,02:20:33,8433.659,True,f,408.0
+3227,Céline ROUVRAY GABOREL,FR,41,F,M1 F,,https://utmb.world/runner/5875303.celine.rouvraygaborel,,305.0,69.0,8.0,02:20:48,8448.117,True,f,407.0
+3612,Franck ROUVRAY,FR,42,H,M1 H,Brocéliande aventure,https://utmb.world/runner/4896953.franck.rouvray,383.0,305.0,237.0,29.0,02:20:48,8448.267,True,f,407.0
+3086,Christophe MARTINO,FR,47,H,M2 H,,https://utmb.world/runner/108739.christophe.martino,473.0,307.0,238.0,18.0,02:20:51,8451.119,True,f,407.0
+3404,Lidia Maria ORTICONI,PT,51,F,M3 F,Sport in Calvi,https://utmb.world/runner/6199875.lidiamaria.orticoni,,308.0,70.0,2.0,02:20:57,8457.358,True,f,407.0
+3377,Mélyssa GILBERT,FR,25,F,SE F,,https://utmb.world/runner/6103802.melyssa.gilbert,,309.0,71.0,37.0,02:20:59,8459.278,True,f,406.0
+3410,Lou HUGUET,FR,28,F,SE F,,https://utmb.world/runner/6203345.huguet.lou,,310.0,72.0,38.0,02:21:09,8469.507,True,f,406.0
+3540,Julie PUECH,FR,28,F,SE F,,https://utmb.world/runner/4866337.julie.puech,380.0,311.0,73.0,39.0,02:21:34,8494.017,True,f,405.0
+3137,Coralie TAFANI,FR,36,F,M0 F,,https://utmb.world/runner/6108767.coralie.tafani,400.0,312.0,74.0,19.0,02:21:59,8519.999,True,f,404.0
+3513,Cedric MARCIANO,FR,55,H,M3 H,,https://utmb.world/runner/521340.cedric.marciano,,313.0,239.0,15.0,02:22:09,8529.869,True,f,403.0
+3145,Jean Pierre LABARDE,FR,57,H,M4 H,,https://utmb.world/runner/108999.jeanpierre.labarde,390.0,314.0,240.0,10.0,02:22:12,8532.867,True,f,403.0
+3477,Lisandru GERONIMI,FR,23,H,ES H,,https://utmb.world/runner/5760778.lisandru.geronimi,,315.0,241.0,14.0,02:22:26,8546.818000000001,True,f,402.0
+3143,Laura GERLING,FR,26,F,SE F,,https://utmb.world/runner/5312847.laura.gerling,393.0,316.0,75.0,40.0,02:22:36,8556.939,True,f,402.0
 3546,Manuella MILON,FR,31,F,SE F,,,,317.0,76.0,41.0,02:22:44,8564.518,True,f,
-3193,Amaury BAIX,FR,30,H,SE H,,https://utmb.world/runner/5690339.amaury.baix,,319.0,243.0,88.0,02:22:59,8579.067,True,f,
-3329,Vincent ANTONIOTTI,FR,26,H,SE H,,https://utmb.world/runner/6103882.vincent.antoniotti,,320.0,244.0,89.0,02:23:06,8586.854,True,f,
-3170,Emilie RIOS,FR,30,F,SE F,,https://utmb.world/runner/3901043.emilie.rios,344.0,321.0,77.0,42.0,02:24:10,8650.872,True,f,
-3144,Salome PONTET,FR,37,F,M0 F,lucciana atletisimu,https://utmb.world/runner/6002023.salome.pontet,391.0,322.0,78.0,20.0,02:24:16,8656.467,True,f,
-3479,Bérénice VON BANDEL,FR,35,F,SE F,,https://utmb.world/runner/6183190.berenice.vonbandel,,323.0,79.0,43.0,02:24:22,8662.948,True,f,
-3125,Caroline MARIE,FR,52,F,M3 F,CA Bastia,https://utmb.world/runner/5242081.caroline.marie,408.0,324.0,80.0,3.0,02:24:25,8665.858,True,f,
-3280,Clarisse DEMORGE,FR,38,F,M0 F,AS Lapin,https://utmb.world/runner/5669787.clarisse.demorge,,325.0,81.0,21.0,02:24:26,8666.278,True,f,
-3106,Eric MARIE,FR,52,H,M3 H,,https://utmb.world/runner/4170769.eric.marie,448.0,325.0,245.0,16.0,02:24:26,8666.308,True,f,
-3447,Jérôme ALBERTINI,FR,37,H,M0 H,,https://utmb.world/runner/6214497.albertini.jerome,,327.0,246.0,37.0,02:24:32,8672.697,True,f,
-3093,Anne-Marie CHRISTOFFELS,BE,42,F,M1 F,,https://utmb.world/runner/5067359.annemarie.christoffels,468.0,328.0,82.0,9.0,02:24:46,8686.817,True,f,
-3564,Franck MÉNARD,FR,61,H,M5 H,Cap running Igny,,,328.0,247.0,10.0,02:24:46,8686.816,True,f,
-3139,Vanina DEFENDINI,FR,50,F,M2 F,,https://utmb.world/runner/1428359.vanina.defendini,399.0,330.0,83.0,3.0,02:24:48,8688.961,True,f,
-3091,Amandine GRAIL,FR,35,F,SE F,,https://utmb.world/runner/4352354.amandine.grail,468.0,331.0,84.0,44.0,02:24:49,8689.017,True,f,
-3255,Sandra SCHALL,FR,49,F,M2 F,,https://utmb.world/runner/3298483.sandra.schall,,332.0,85.0,4.0,02:24:58,8698.378,True,f,
-3223,Marine BAYARD,BE,36,F,M0 F,,https://utmb.world/runner/5559872.marine.bayard,,333.0,86.0,22.0,02:24:59,8699.788,True,f,
-3232,Catherine LE PROVOST,FR,38,F,M0 F,,https://utmb.world/runner/5768268.catherine.leprovost,,334.0,87.0,23.0,02:25:01,8701.9,True,f,
-3206,Hortense VASSELLE,FR,28,F,SE F,,https://utmb.world/runner/5908697.hortense.vasselle,,335.0,88.0,45.0,02:25:05,8705.953,True,f,
-3362,Pierre-Antoine SIMONPAOLI,FR,28,H,SE H,,https://utmb.world/runner/6132527.pierreantoine.simonpaoli,,335.0,248.0,90.0,02:25:05,8705.219,True,f,
-3378,Priscilla CHAVIGNY,FR,29,F,SE F,,https://utmb.world/runner/6190327.priscilla.chavigny,,337.0,89.0,46.0,02:25:07,8707.861,True,f,
-3595,Caroline RAVIER MIZELLE,FR,30,F,SE F,ASPTT RENNES,,,338.0,90.0,47.0,02:25:26,8726.967,True,f,
-3155,Stéphanie GEORGELIN,FR,42,F,M1 F,Plaintel Aventure,https://utmb.world/runner/3543773.stephanie.georgelin,370.0,339.0,91.0,10.0,02:25:30,8730.478,True,f,
-3448,Laurent PALMESANI,FR,50,H,M2 H,,https://utmb.world/runner/6217385.laurent.palmesani,,340.0,249.0,19.0,02:25:35,8735.609,True,f,
-3407,Urška HUMERCA,SI,41,F,M1 F,,https://utmb.world/runner/4245338.urska.humerca,,341.0,92.0,11.0,02:25:46,8746.949,True,f,
-3217,Mathieu BAERT,FR,27,H,SE H,,https://utmb.world/runner/5825661.mathieu.baert,,342.0,250.0,91.0,02:25:47,8747.818,True,f,
-3247,Marine TROCHON,FR,33,F,SE F,,https://utmb.world/runner/5998141.marine.trochon,,343.0,93.0,48.0,02:25:52,8752.319,True,f,
-3534,Sandrine PIETRINI,FR,61,F,M5 F,Club omnisports porticcio,https://utmb.world/runner/1332063.sandrine.pietrini,418.0,344.0,94.0,1.0,02:25:53,8753.188,True,f,
+3547,Jean-Baptiste CERVONI,FR,32,H,SE H,,,,317.0,242.0,87.0,02:22:44,8564.698,True,f,
+3193,Amaury BAIX,FR,30,H,SE H,,https://utmb.world/runner/5690339.amaury.baix,,319.0,243.0,88.0,02:22:59,8579.067,True,f,401.0
+3329,Vincent ANTONIOTTI,FR,26,H,SE H,,https://utmb.world/runner/6103882.vincent.antoniotti,,320.0,244.0,89.0,02:23:06,8586.854,True,f,400.0
+3170,Emilie RIOS,FR,30,F,SE F,,https://utmb.world/runner/3901043.emilie.rios,344.0,321.0,77.0,42.0,02:24:10,8650.872,True,f,398.0
+3144,Salome PONTET,FR,37,F,M0 F,lucciana atletisimu,https://utmb.world/runner/6002023.salome.pontet,391.0,322.0,78.0,20.0,02:24:16,8656.466999999999,True,f,397.0
+3479,Bérénice VON BANDEL,FR,35,F,SE F,,https://utmb.world/runner/6183190.berenice.vonbandel,,323.0,79.0,43.0,02:24:22,8662.948,True,f,397.0
+3125,Caroline MARIE,FR,52,F,M3 F,CA Bastia,https://utmb.world/runner/5242081.caroline.marie,408.0,324.0,80.0,3.0,02:24:25,8665.858,True,f,397.0
+3280,Clarisse DEMORGE,FR,38,F,M0 F,AS Lapin,https://utmb.world/runner/5669787.clarisse.demorge,,325.0,81.0,21.0,02:24:26,8666.278,True,f,397.0
+3106,Eric MARIE,FR,52,H,M3 H,,https://utmb.world/runner/4170769.eric.marie,448.0,325.0,245.0,16.0,02:24:26,8666.308,True,f,397.0
+3447,Jérôme ALBERTINI,FR,37,H,M0 H,,https://utmb.world/runner/6214497.albertini.jerome,,327.0,246.0,37.0,02:24:32,8672.697,True,f,396.0
+3564,Franck MÉNARD,FR,61,H,M5 H,Cap running Igny,,,328.0,247.0,10.0,02:24:46,8686.815999999999,True,f,
+3093,Anne-Marie CHRISTOFFELS,BE,42,F,M1 F,,https://utmb.world/runner/5067359.annemarie.christoffels,468.0,328.0,82.0,9.0,02:24:46,8686.817,True,f,396.0
+3139,Vanina DEFENDINI,FR,50,F,M2 F,,https://utmb.world/runner/1428359.vanina.defendini,399.0,330.0,83.0,3.0,02:24:48,8688.961,True,f,396.0
+3091,Amandine GRAIL,FR,35,F,SE F,,https://utmb.world/runner/4352354.amandine.grail,468.0,331.0,84.0,44.0,02:24:49,8689.017,True,f,396.0
+3255,Sandra SCHALL,FR,49,F,M2 F,,https://utmb.world/runner/3298483.sandra.schall,,332.0,85.0,4.0,02:24:58,8698.378,True,f,395.0
+3223,Marine BAYARD,BE,36,F,M0 F,,https://utmb.world/runner/5559872.marine.bayard,,333.0,86.0,22.0,02:24:59,8699.788,True,f,395.0
+3232,Catherine LE PROVOST,FR,38,F,M0 F,,https://utmb.world/runner/5768268.catherine.leprovost,,334.0,87.0,23.0,02:25:01,8701.9,True,f,395.0
+3362,Pierre-Antoine SIMONPAOLI,FR,28,H,SE H,,https://utmb.world/runner/6132527.pierreantoine.simonpaoli,,335.0,248.0,90.0,02:25:05,8705.219000000001,True,f,395.0
+3206,Hortense VASSELLE,FR,28,F,SE F,,https://utmb.world/runner/5908697.hortense.vasselle,,335.0,88.0,45.0,02:25:05,8705.953000000001,True,f,395.0
+3378,Priscilla CHAVIGNY,FR,29,F,SE F,,https://utmb.world/runner/6190327.priscilla.chavigny,,337.0,89.0,46.0,02:25:07,8707.860999999999,True,f,395.0
+3595,Caroline RAVIER MIZELLE,FR,30,F,SE F,ASPTT RENNES,,,338.0,90.0,47.0,02:25:26,8726.966999999999,True,f,
+3155,Stéphanie GEORGELIN,FR,42,F,M1 F,Plaintel Aventure,https://utmb.world/runner/3543773.stephanie.georgelin,370.0,339.0,91.0,10.0,02:25:30,8730.478000000001,True,f,394.0
+3448,Laurent PALMESANI,FR,50,H,M2 H,,https://utmb.world/runner/6217385.laurent.palmesani,,340.0,249.0,19.0,02:25:35,8735.609,True,f,394.0
+3407,Urška HUMERCA,SI,41,F,M1 F,,https://utmb.world/runner/4245338.urska.humerca,,341.0,92.0,11.0,02:25:46,8746.949,True,f,393.0
+3217,Mathieu BAERT,FR,27,H,SE H,,https://utmb.world/runner/5825661.mathieu.baert,,342.0,250.0,91.0,02:25:47,8747.818000000001,True,f,393.0
+3247,Marine TROCHON,FR,33,F,SE F,,https://utmb.world/runner/5998141.marine.trochon,,343.0,93.0,48.0,02:25:52,8752.319,True,f,393.0
+3534,Sandrine PIETRINI,FR,61,F,M5 F,Club omnisports porticcio,https://utmb.world/runner/1332063.sandrine.pietrini,418.0,344.0,94.0,1.0,02:25:53,8753.188,True,f,393.0
 3586,Diane MATTEI,FR,32,F,SE F,,,,345.0,95.0,49.0,02:25:59,8759.999,True,f,
 3588,Caroline MAI,FR,36,F,M0 F,,,,346.0,96.0,24.0,02:26:00,8760.856,True,f,
-3215,Thibault CHABRILLAT,FR,31,H,SE H,,https://utmb.world/runner/2693267.thibault.chabrillat,,347.0,251.0,92.0,02:26:12,8772.734,True,f,
-3584,Mickael DEPLAGNE,FR,46,H,M2 H,,https://utmb.world/runner/5904611.mickael.deplagne,,347.0,251.0,20.0,02:26:12,8772.958,True,f,
-3123,Aurélien HINGANT,FR,49,H,M2 H,,https://utmb.world/runner/4473047.aurelien.hingant,412.0,349.0,253.0,21.0,02:26:27,8787.57,True,f,
-3158,Anaïs DE CECCO,IT,38,F,M0 F,,https://utmb.world/runner/5890746.anais.dececco,368.0,350.0,97.0,25.0,02:26:28,8788.62,True,f,
-3408,Enzo BOYTARD BRIOSCHI,FR,19,H,JU H,Vero moto club corse,https://utmb.world/runner/4775322.enzo.boytardbrioschi,,351.0,254.0,21.0,02:26:29,8789.789,True,f,
-3019,Frédéric BOYTARD,FR,45,H,M1 H,Csmezzavia/edf,https://utmb.world/runner/442764.frederic.boytard,607.0,351.0,254.0,30.0,02:26:29,8789.757,True,f,
-3302,David ALBUS,FR,27,H,SE H,,https://utmb.world/runner/6107051.david.albus,,353.0,256.0,93.0,02:26:39,8799.689,True,f,
-3191,Gilbert DEPLAGNE,FR,69,H,M6 H,,https://utmb.world/runner/5141680.gilbert.deplagne,,354.0,257.0,5.0,02:26:52,8812.438,True,f,
-3102,Caroline ABRAHAM,FR,29,F,SE F,,https://utmb.world/runner/5775525.caroline.abraham,453.0,355.0,98.0,50.0,02:26:55,8815.778,True,f,
-3149,Julie LELIÈVRE,FR,43,F,M1 F,,https://utmb.world/runner/4578538.julie.lelievre,385.0,356.0,99.0,12.0,02:27:01,8821.439,True,f,
-3242,Fabre CAMILLE,FR,30,F,SE F,,https://utmb.world/runner/5806415.fabre.camille,382.0,357.0,100.0,51.0,02:27:09,8829.663,True,f,
-3452,Dominique ROVINALTI,FR,77,H,M8 H,e filanci,https://utmb.world/runner/43562.dominique.rovinalti,356.0,358.0,258.0,1.0,02:27:38,8858.638,True,f,
-3122,Julien PIERONI,FR,42,H,M1 H,,https://utmb.world/runner/968479.julien.pieroni,413.0,359.0,259.0,31.0,02:27:44,8864.787,True,f,
-3231,Bernd KEERSMAEKERS,BE,21,H,ES H,/,https://utmb.world/runner/5935779.bernd.keersmaekers,,360.0,260.0,15.0,02:27:51,8871.959,True,f,
-3536,Fred GRAZIANI,FR,47,H,M2 H,Triathlon Club Grand  accapubiancu tous pour chacun,https://utmb.world/runner/5243101.graziani.fred,390.0,361.0,261.0,22.0,02:27:57,8877.719,True,f,
-3337,Constance DUVAL,FR,29,F,SE F,,https://utmb.world/runner/5141686.constance.duval,,362.0,101.0,52.0,02:28:19,8899.23,True,f,
-3446,Nicolas PAOLETTI,FR,43,H,M1 H,,https://utmb.world/runner/4543625.nicolas.paoletti,394.0,363.0,262.0,32.0,02:28:36,8916.959,True,f,
-3413,Lisandru LEANDRI,FR,25,H,SE H,,https://utmb.world/runner/6201093.lisandru.leandri,,364.0,263.0,94.0,02:29:22,8962.799,True,f,
-3252,Anna LEONENKO,FR,28,F,SE F,,https://utmb.world/runner/5965271.anna.leonenko,,365.0,102.0,53.0,02:29:31,8971.589,True,f,
-3104,Mathilde CHABAUD,FR,28,F,SE F,,https://utmb.world/runner/4538248.mathilde.chabaud,451.0,365.0,102.0,53.0,02:29:31,8971.499,True,f,
-3520,Marc NEGRETTI,FR,33,H,SE H,,https://utmb.world/runner/6261611.negretti.marc,,367.0,264.0,95.0,02:29:53,8993.939,True,f,
-3417,Kamile KURAITYTE,LT,29,F,SE F,,https://utmb.world/runner/6103832.kamile.kuraityte,,368.0,104.0,55.0,02:30:04,9004.59,True,f,
-3130,Anaïs QUÉRÉ,FR,32,F,SE F,,https://utmb.world/runner/4562110.anais.quere,403.0,369.0,105.0,56.0,02:30:12,9012.781,True,f,
-3308,Antoine TONNEAU,BE,24,H,SE H,,https://utmb.world/runner/6075445.antoine.tonneau,,370.0,265.0,96.0,02:30:15,9015.829,True,f,
-3249,Julie PIRCHER,FR,38,F,M0 F,Sport in Calvi,https://utmb.world/runner/6003691.julie.pircher,,371.0,106.0,26.0,02:30:17,9017.969,True,f,
-3372,Steve LELIEVRE,FR,48,H,M2 H,,https://utmb.world/runner/6103820.steve.lelievre,,372.0,266.0,23.0,02:30:19,9019.41,True,f,
-3313,Capucine GILLET,FR,24,F,SE F,,https://utmb.world/runner/6066975.capucine.gillet,,373.0,107.0,57.0,02:30:26,9026.549,True,f,
+3215,Thibault CHABRILLAT,FR,31,H,SE H,,https://utmb.world/runner/2693267.thibault.chabrillat,,347.0,251.0,92.0,02:26:12,8772.734,True,f,392.0
+3584,Mickael DEPLAGNE,FR,46,H,M2 H,,https://utmb.world/runner/5904611.mickael.deplagne,,347.0,251.0,20.0,02:26:12,8772.958,True,f,392.0
+3123,Aurélien HINGANT,FR,49,H,M2 H,,https://utmb.world/runner/4473047.aurelien.hingant,412.0,349.0,253.0,21.0,02:26:27,8787.57,True,f,391.0
+3158,Anaïs DE CECCO,IT,38,F,M0 F,,https://utmb.world/runner/5890746.anais.dececco,368.0,350.0,97.0,25.0,02:26:28,8788.62,True,f,391.0
+3408,Enzo BOYTARD BRIOSCHI,FR,19,H,JU H,Vero moto club corse,https://utmb.world/runner/4775322.enzo.boytardbrioschi,,351.0,254.0,21.0,02:26:29,8789.789,True,f,391.0
+3019,Frédéric BOYTARD,FR,45,H,M1 H,Csmezzavia/edf,https://utmb.world/runner/442764.frederic.boytard,607.0,351.0,254.0,30.0,02:26:29,8789.757,True,f,391.0
+3302,David ALBUS,FR,27,H,SE H,,https://utmb.world/runner/6107051.david.albus,,353.0,256.0,93.0,02:26:39,8799.689,True,f,391.0
+3191,Gilbert DEPLAGNE,FR,69,H,M6 H,,https://utmb.world/runner/5141680.gilbert.deplagne,,354.0,257.0,5.0,02:26:52,8812.438,True,f,390.0
+3102,Caroline ABRAHAM,FR,29,F,SE F,,https://utmb.world/runner/5775525.caroline.abraham,453.0,355.0,98.0,50.0,02:26:55,8815.778,True,f,390.0
+3149,Julie LELIÈVRE,FR,43,F,M1 F,,https://utmb.world/runner/4578538.julie.lelievre,385.0,356.0,99.0,12.0,02:27:01,8821.439,True,f,390.0
+3242,Fabre CAMILLE,FR,30,F,SE F,,https://utmb.world/runner/5806415.fabre.camille,382.0,357.0,100.0,51.0,02:27:09,8829.663,True,f,389.0
+3452,Dominique ROVINALTI,FR,77,H,M8 H,e filanci,https://utmb.world/runner/43562.dominique.rovinalti,356.0,358.0,258.0,1.0,02:27:38,8858.638,True,f,388.0
+3122,Julien PIERONI,FR,42,H,M1 H,,https://utmb.world/runner/968479.julien.pieroni,413.0,359.0,259.0,31.0,02:27:44,8864.787,True,f,388.0
+3231,Bernd KEERSMAEKERS,BE,21,H,ES H,/,https://utmb.world/runner/5935779.bernd.keersmaekers,,360.0,260.0,15.0,02:27:51,8871.959,True,f,388.0
+3536,Fred GRAZIANI,FR,47,H,M2 H,Triathlon Club Grand  accapubiancu tous pour chacun,https://utmb.world/runner/5243101.graziani.fred,390.0,361.0,261.0,22.0,02:27:57,8877.719000000001,True,f,387.0
+3337,Constance DUVAL,FR,29,F,SE F,,https://utmb.world/runner/5141686.constance.duval,,362.0,101.0,52.0,02:28:19,8899.23,True,f,386.0
+3446,Nicolas PAOLETTI,FR,43,H,M1 H,,https://utmb.world/runner/4543625.nicolas.paoletti,394.0,363.0,262.0,32.0,02:28:36,8916.959,True,f,386.0
+3413,Lisandru LEANDRI,FR,25,H,SE H,,https://utmb.world/runner/6201093.lisandru.leandri,,364.0,263.0,94.0,02:29:22,8962.799,True,f,384.0
+3104,Mathilde CHABAUD,FR,28,F,SE F,,https://utmb.world/runner/4538248.mathilde.chabaud,451.0,365.0,102.0,53.0,02:29:31,8971.499,True,f,383.0
+3252,Anna LEONENKO,FR,28,F,SE F,,https://utmb.world/runner/5965271.anna.leonenko,,365.0,102.0,53.0,02:29:31,8971.589,True,f,383.0
+3520,Marc NEGRETTI,FR,33,H,SE H,,https://utmb.world/runner/6261611.negretti.marc,,367.0,264.0,95.0,02:29:53,8993.939,True,f,382.0
+3417,Kamile KURAITYTE,LT,29,F,SE F,,https://utmb.world/runner/6103832.kamile.kuraityte,,368.0,104.0,55.0,02:30:04,9004.59,True,f,382.0
+3130,Anaïs QUÉRÉ,FR,32,F,SE F,,https://utmb.world/runner/4562110.anais.quere,403.0,369.0,105.0,56.0,02:30:12,9012.780999999999,True,f,382.0
+3308,Antoine TONNEAU,BE,24,H,SE H,,https://utmb.world/runner/6075445.antoine.tonneau,,370.0,265.0,96.0,02:30:15,9015.829,True,f,381.0
+3249,Julie PIRCHER,FR,38,F,M0 F,Sport in Calvi,https://utmb.world/runner/6003691.julie.pircher,,371.0,106.0,26.0,02:30:17,9017.969000000001,True,f,381.0
+3372,Steve LELIEVRE,FR,48,H,M2 H,,https://utmb.world/runner/6103820.steve.lelievre,,372.0,266.0,23.0,02:30:19,9019.41,True,f,381.0
+3313,Capucine GILLET,FR,24,F,SE F,,https://utmb.world/runner/6066975.capucine.gillet,,373.0,107.0,57.0,02:30:26,9026.549,True,f,381.0
 3602,Carine HOMBERT,FR,52,F,M3 F,,,,374.0,108.0,4.0,02:30:37,9037.413,True,f,
-3412,Charles Toussaint CRUCIANI,FR,50,H,M2 H,Sport in calvi,https://utmb.world/runner/6200357.charlestoussaint.cruciani,,375.0,267.0,24.0,02:30:53,9053.889,True,f,
-3124,Janice CLARK,CH,53,F,M3 F,,https://utmb.world/runner/483433.janice.clark,409.0,376.0,109.0,5.0,02:31:00,9060.632,True,f,
-3445,Elodie DANCOISNE,FR,41,F,M1 F,,https://utmb.world/runner/6214491.dancoisne.elodie,,377.0,110.0,13.0,02:31:02,9062.552,True,f,
-3406,Nicolas DANCOISNE,FR,44,H,M1 H,EDF,https://utmb.world/runner/6200359.nicolas.dancoisne,,377.0,268.0,33.0,02:31:02,9062.761,True,f,
-3270,Bastien BOURCIER,FR,34,H,SE H,,https://utmb.world/runner/5613971.bastien.bourcier,,379.0,269.0,97.0,02:31:07,9067.862,True,f,
-3510,Frédéric BIANCO,FR,48,H,M2 H,,https://utmb.world/runner/968571.frederic.bianco,400.0,380.0,270.0,25.0,02:31:59,9119.582,True,f,
-3428,Jacky PIRA,FR,73,H,M7 H,RUNNING CLUB FURIANI AGLIANI,https://utmb.world/runner/6190128.jacky.pira,414.0,381.0,271.0,1.0,02:32:03,9123.541,True,f,
-3535,Valentine LEMIÈRE,FR,26,F,SE F,,https://utmb.world/runner/6271565.valentine.lemiere,,382.0,111.0,58.0,02:32:06,9126.303,True,f,
+3412,Charles Toussaint CRUCIANI,FR,50,H,M2 H,Sport in calvi,https://utmb.world/runner/6200357.charlestoussaint.cruciani,,375.0,267.0,24.0,02:30:53,9053.889000000001,True,f,380.0
+3124,Janice CLARK,CH,53,F,M3 F,,https://utmb.world/runner/483433.janice.clark,409.0,376.0,109.0,5.0,02:31:00,9060.632,True,f,380.0
+3445,Elodie DANCOISNE,FR,41,F,M1 F,,https://utmb.world/runner/6214491.dancoisne.elodie,,377.0,110.0,13.0,02:31:02,9062.552,True,f,379.0
+3406,Nicolas DANCOISNE,FR,44,H,M1 H,EDF,https://utmb.world/runner/6200359.nicolas.dancoisne,,377.0,268.0,33.0,02:31:02,9062.761,True,f,379.0
+3270,Bastien BOURCIER,FR,34,H,SE H,,https://utmb.world/runner/5613971.bastien.bourcier,,379.0,269.0,97.0,02:31:07,9067.862,True,f,379.0
+3510,Frédéric BIANCO,FR,48,H,M2 H,,https://utmb.world/runner/968571.frederic.bianco,400.0,380.0,270.0,25.0,02:31:59,9119.582,True,f,377.0
+3428,Jacky PIRA,FR,73,H,M7 H,RUNNING CLUB FURIANI AGLIANI,https://utmb.world/runner/6190128.jacky.pira,414.0,381.0,271.0,1.0,02:32:03,9123.541,True,f,377.0
+3535,Valentine LEMIÈRE,FR,26,F,SE F,,https://utmb.world/runner/6271565.valentine.lemiere,,382.0,111.0,58.0,02:32:06,9126.303,True,f,377.0
 3583,Tom DIETZ,FR,20,H,JU H,,,,383.0,272.0,22.0,02:32:08,9128.612,True,f,
-3186,Sophie MIRY,FR,46,F,M2 F,DOUDOU ET DOUDOU,https://utmb.world/runner/5295899.sophie.miry,282.0,384.0,112.0,5.0,02:32:09,9129.451,True,f,
+3186,Sophie MIRY,FR,46,F,M2 F,DOUDOU ET DOUDOU,https://utmb.world/runner/5295899.sophie.miry,282.0,384.0,112.0,5.0,02:32:09,9129.451,True,f,377.0
 3582,Alexandre BOYER,FR,43,H,M1 H,,,,385.0,273.0,34.0,02:32:10,9130.291,True,f,
-3169,Didier VARLET,FR,63,H,M5 H,,https://utmb.world/runner/1677959.didier.varlet,348.0,386.0,274.0,11.0,02:32:15,9135.51,True,f,
-3110,Jean-Philippe LEFRANCOIS,FR,49,H,M2 H,,https://utmb.world/runner/2367001.jeanphilippe.lefrancois,445.0,387.0,275.0,26.0,02:32:38,9158.553,True,f,
-3114,Emilie NYSSENS,FR,40,F,M0 F,Les Piedsmobiles,https://utmb.world/runner/4203461.emilie.nyssens,428.0,388.0,113.0,27.0,02:32:44,9164.312,True,f,
-3615,Lisandrina FOGACCI,FR,35,F,SE F,EDF-CMCAS,https://utmb.world/runner/5291207.lisandrina.fogacci,358.0,389.0,114.0,59.0,02:32:51,9171.903,True,f,
-3530,Marina GIORGI,FR,31,F,SE F,BeFit,https://utmb.world/runner/6266999.giorgi.marina,,390.0,115.0,60.0,02:32:58,9178.893,True,f,
-3314,Cecilia FILIPPI,FR,36,F,M0 F,,https://utmb.world/runner/6066981.cecilia.filippi,,391.0,116.0,28.0,02:32:59,9179.765,True,f,
-3283,Björn LINDNER,DE,50,H,M2 H,,https://utmb.world/runner/1502833.bjorn.lindner,,392.0,276.0,27.0,02:33:00,9180.242,True,f,
-3420,Marie ANDREANI,FR,30,F,SE F,Team EDF - CrossFit Corte - Sport in Calvi,https://utmb.world/runner/6205187.marie.andreani,,393.0,117.0,61.0,02:33:05,9185.882,True,f,
-3285,Éric DUBOIS,FR,43,H,M1 H,,https://utmb.world/runner/6128869.eric.dubois,,394.0,277.0,35.0,02:33:12,9192.212,True,f,
-3197,Aurélie ROULLE,FR,39,F,M0 F,Courir à Vitrolles,https://utmb.world/runner/5825801.aurelie.roulle,,395.0,118.0,29.0,02:33:24,9204.182,True,f,
-3161,Luciano ALDRIGHI,IT,47,H,M2 H,,https://utmb.world/runner/4813874.luciano.aldrighi,363.0,396.0,278.0,28.0,02:33:46,9226.174,True,f,
+3169,Didier VARLET,FR,63,H,M5 H,,https://utmb.world/runner/1677959.didier.varlet,348.0,386.0,274.0,11.0,02:32:15,9135.51,True,f,376.0
+3110,Jean-Philippe LEFRANCOIS,FR,49,H,M2 H,,https://utmb.world/runner/2367001.jeanphilippe.lefrancois,445.0,387.0,275.0,26.0,02:32:38,9158.553,True,f,375.0
+3114,Emilie NYSSENS,FR,40,F,M0 F,Les Piedsmobiles,https://utmb.world/runner/4203461.emilie.nyssens,428.0,388.0,113.0,27.0,02:32:44,9164.312,True,f,375.0
+3615,Lisandrina FOGACCI,FR,35,F,SE F,EDF-CMCAS,https://utmb.world/runner/5291207.lisandrina.fogacci,358.0,389.0,114.0,59.0,02:32:51,9171.903,True,f,375.0
+3530,Marina GIORGI,FR,31,F,SE F,BeFit,https://utmb.world/runner/6266999.giorgi.marina,,390.0,115.0,60.0,02:32:58,9178.893,True,f,375.0
+3314,Cecilia FILIPPI,FR,36,F,M0 F,,https://utmb.world/runner/6066981.cecilia.filippi,,391.0,116.0,28.0,02:32:59,9179.765,True,f,375.0
+3283,Björn LINDNER,DE,50,H,M2 H,,https://utmb.world/runner/1502833.bjorn.lindner,,392.0,276.0,27.0,02:33:00,9180.242,True,f,375.0
+3420,Marie ANDREANI,FR,30,F,SE F,Team EDF - CrossFit Corte - Sport in Calvi,https://utmb.world/runner/6205187.marie.andreani,,393.0,117.0,61.0,02:33:05,9185.882,True,f,374.0
+3285,Éric DUBOIS,FR,43,H,M1 H,,https://utmb.world/runner/6128869.eric.dubois,,394.0,277.0,35.0,02:33:12,9192.212,True,f,374.0
+3197,Aurélie ROULLE,FR,39,F,M0 F,Courir à Vitrolles,https://utmb.world/runner/5825801.aurelie.roulle,,395.0,118.0,29.0,02:33:24,9204.181999999999,True,f,374.0
+3161,Luciano ALDRIGHI,IT,47,H,M2 H,,https://utmb.world/runner/4813874.luciano.aldrighi,363.0,396.0,278.0,28.0,02:33:46,9226.174,True,f,373.0
 3585,Morgane PAES,FR,32,F,SE F,,,,397.0,119.0,62.0,02:33:50,9230.882,True,f,
-3148,Elodie WIRTH,FR,38,F,M0 F,,https://utmb.world/runner/3117957.elodie.wirth,386.0,398.0,120.0,30.0,02:34:19,9259.443,True,f,
-3166,Marielle GRANDMAISON,FR,32,F,SE F,,https://utmb.world/runner/2582875.marielle.grandmaison,357.0,399.0,121.0,63.0,02:34:26,9266.911,True,f,
-3502,Adrien CASANOVA,FR,37,H,M0 H,EDF-CMCAS,https://utmb.world/runner/6254329.adrien.casanova,,400.0,279.0,38.0,02:34:47,9287.252,True,f,
-3496,Thomas CERVEAUX,FR,35,H,SE H,Les zins,https://utmb.world/runner/6252067.thomas.cerveaux,,401.0,280.0,98.0,02:35:08,9308.673,True,f,
-3112,Patrizia ANGIONI,IT,61,F,M5 F,TRAIL & ROAD RUNNERS ASD,https://utmb.world/runner/4414084.patrizia.angioni,438.0,402.0,122.0,2.0,02:35:19,9319.863,True,f,
-3424,Sandro PITTALIS,IT,63,H,M5 H,TRAIL & ROAD RUNNERS ASD,https://utmb.world/runner/6205353.sandro.pittalis,,402.0,281.0,12.0,02:35:19,9319.952,True,f,
-3230,Rémi GRANELLI,FR,51,H,M3 H,,https://utmb.world/runner/5897043.remi.granelli,,404.0,282.0,17.0,02:35:21,9321.394,True,f,
-3250,Tiffany CHMIL,FR,25,F,SE F,,https://utmb.world/runner/5968987.tiffany.chmil,,404.0,123.0,64.0,02:35:21,9321.856,True,f,
-3229,Samantha GRANELLI,FR,50,F,M2 F,,https://utmb.world/runner/5897045.samantha.granelli,,404.0,123.0,6.0,02:35:21,9321.242,True,f,
-3163,Natacha GIUDICELLI,FR,40,F,M0 F,Running Club Furiani Agliani,https://utmb.world/runner/5313167.natacha.giudicelli,360.0,407.0,125.0,31.0,02:35:32,9332.522,True,f,
-3511,Andrea MATTEI,FR,35,F,SE F,I cervi venachesi,https://utmb.world/runner/4536861.andrea.mattei,417.0,408.0,126.0,65.0,02:35:48,9348.843,True,f,
-3416,Marine GAILLET,FR,32,F,SE F,,https://utmb.world/runner/6103932.marine.gaillet,,409.0,127.0,66.0,02:35:50,9350.771,True,f,
-3361,Petrusantu DIONISI,FR,30,H,SE H,,https://utmb.world/runner/6108883.petrusantu.dionisi,,410.0,283.0,99.0,02:35:58,9358.084,True,f,
-3454,Amandine SELMI,FR,35,F,SE F,,https://utmb.world/runner/6103924.amandine.selmi,,411.0,128.0,67.0,02:36:22,9382.595,True,f,
-3467,Andy VASSARD,FR,34,H,SE H,,https://utmb.world/runner/1074645.andy.vassard,556.0,412.0,284.0,100.0,02:36:54,9414.545,True,f,
-3317,Mélanie ALBERTINI,FR,38,F,M0 F,,https://utmb.world/runner/6045915.melanie.albertini,,413.0,129.0,32.0,02:36:56,9416.795,True,f,
-3459,Rosana BEC,FR,22,F,ES F,A Petralbinca,https://utmb.world/runner/5242395.rosana.bec,411.0,414.0,130.0,2.0,02:37:05,9425.824,True,f,
-3360,Amandine CELLI,FR,30,F,SE F,,https://utmb.world/runner/6164979.amandine.celli,,415.0,131.0,68.0,02:37:18,9438.845,True,f,
-3356,Rigaut LAETITIA,FR,46,F,M2 F,,https://utmb.world/runner/6168049.rigaut.laetitia,,416.0,132.0,7.0,02:37:27,9447.981,True,f,
+3148,Elodie WIRTH,FR,38,F,M0 F,,https://utmb.world/runner/3117957.elodie.wirth,386.0,398.0,120.0,30.0,02:34:19,9259.443000000001,True,f,371.0
+3166,Marielle GRANDMAISON,FR,32,F,SE F,,https://utmb.world/runner/2582875.marielle.grandmaison,357.0,399.0,121.0,63.0,02:34:26,9266.911,True,f,371.0
+3502,Adrien CASANOVA,FR,37,H,M0 H,EDF-CMCAS,https://utmb.world/runner/6254329.adrien.casanova,,400.0,279.0,38.0,02:34:47,9287.252,True,f,370.0
+3496,Thomas CERVEAUX,FR,35,H,SE H,Les zins,https://utmb.world/runner/6252067.thomas.cerveaux,,401.0,280.0,98.0,02:35:08,9308.673,True,f,369.0
+3112,Patrizia ANGIONI,IT,61,F,M5 F,TRAIL & ROAD RUNNERS ASD,https://utmb.world/runner/4414084.patrizia.angioni,438.0,402.0,122.0,2.0,02:35:19,9319.863000000001,True,f,369.0
+3424,Sandro PITTALIS,IT,63,H,M5 H,TRAIL & ROAD RUNNERS ASD,https://utmb.world/runner/6205353.sandro.pittalis,,402.0,281.0,12.0,02:35:19,9319.952,True,f,369.0
+3230,Rémi GRANELLI,FR,51,H,M3 H,,https://utmb.world/runner/5897043.remi.granelli,,404.0,282.0,17.0,02:35:21,9321.394,True,f,369.0
+3250,Tiffany CHMIL,FR,25,F,SE F,,https://utmb.world/runner/5968987.tiffany.chmil,,404.0,123.0,64.0,02:35:21,9321.856,True,f,369.0
+3229,Samantha GRANELLI,FR,50,F,M2 F,,https://utmb.world/runner/5897045.samantha.granelli,,404.0,123.0,6.0,02:35:21,9321.242,True,f,369.0
+3163,Natacha GIUDICELLI,FR,40,F,M0 F,Running Club Furiani Agliani,https://utmb.world/runner/5313167.natacha.giudicelli,360.0,407.0,125.0,31.0,02:35:32,9332.521999999999,True,f,368.0
+3511,Andrea MATTEI,FR,35,F,SE F,I cervi venachesi,https://utmb.world/runner/4536861.andrea.mattei,417.0,408.0,126.0,65.0,02:35:48,9348.843,True,f,368.0
+3416,Marine GAILLET,FR,32,F,SE F,,https://utmb.world/runner/6103932.marine.gaillet,,409.0,127.0,66.0,02:35:50,9350.771,True,f,368.0
+3361,Petrusantu DIONISI,FR,30,H,SE H,,https://utmb.world/runner/6108883.petrusantu.dionisi,,410.0,283.0,99.0,02:35:58,9358.084,True,f,367.0
+3454,Amandine SELMI,FR,35,F,SE F,,https://utmb.world/runner/6103924.amandine.selmi,,411.0,128.0,67.0,02:36:22,9382.595,True,f,366.0
+3467,Andy VASSARD,FR,34,H,SE H,,https://utmb.world/runner/1074645.andy.vassard,556.0,412.0,284.0,100.0,02:36:54,9414.545,True,f,365.0
+3317,Mélanie ALBERTINI,FR,38,F,M0 F,,https://utmb.world/runner/6045915.melanie.albertini,,413.0,129.0,32.0,02:36:56,9416.795,True,f,365.0
+3459,Rosana BEC,FR,22,F,ES F,A Petralbinca,https://utmb.world/runner/5242395.rosana.bec,411.0,414.0,130.0,2.0,02:37:05,9425.824,True,f,365.0
+3360,Amandine CELLI,FR,30,F,SE F,,https://utmb.world/runner/6164979.amandine.celli,,415.0,131.0,68.0,02:37:18,9438.845,True,f,364.0
+3356,Rigaut LAETITIA,FR,46,F,M2 F,,https://utmb.world/runner/6168049.rigaut.laetitia,,416.0,132.0,7.0,02:37:27,9447.981,True,f,364.0
 3571,Christelle RIGHINI,FR,35,F,SE F,,,,417.0,133.0,69.0,02:37:32,9452.271,True,f,
-3287,Carole CHOMEL DELL’AMORE,FR,37,F,M0 F,,https://utmb.world/runner/5950809.carole.chomeldell---amore,,418.0,134.0,33.0,02:37:36,9456.245,True,f,
-3437,Sarah COMBETTES,FR,36,F,M0 F,Les gazelles,https://utmb.world/runner/6004842.sarah.combettes,344.0,419.0,135.0,34.0,02:37:37,9457.624,True,f,
-3440,Marion DELMAS,FR,37,F,M0 F,Les gazelles à vos trousses,https://utmb.world/runner/6004810.marion.delmas,384.0,419.0,135.0,34.0,02:37:37,9457.896,True,f,
-3273,Justine FAURE,FR,38,F,M0 F,,https://utmb.world/runner/5616307.justine.faure,,421.0,137.0,36.0,02:37:44,9464.944,True,f,
-3503,Cecile FELKAR,FR,33,F,SE F,,https://utmb.world/runner/6183216.cecile.felkar,,422.0,138.0,70.0,02:37:53,9473.676,True,f,
-3468,Floriane TOULOTTE,FR,38,F,M0 F,,https://utmb.world/runner/6231039.floriane.toulotte,,423.0,139.0,37.0,02:37:54,9474.86,True,f,
-3350,Emilie HORI,FR,37,F,M0 F,,https://utmb.world/runner/6103950.emilie.hori,,424.0,140.0,38.0,02:38:30,9510.874,True,f,
-3203,Pauline ALFONSI,FR,31,F,SE F,,https://utmb.world/runner/5690359.pauline.alfonsi,,425.0,141.0,71.0,02:38:44,9524.434,True,f,
-3153,Israel CASTELLANOS,MX,39,H,M0 H,,https://utmb.world/runner/5501485.israel.castellanos,374.0,426.0,285.0,39.0,02:38:54,9534.963,True,f,
-3156,Monique LARUE,FR,64,F,M5 F,XTrem running Trail,https://utmb.world/runner/886683.monique.larue,369.0,427.0,142.0,3.0,02:38:57,9537.635,True,f,
+3287,Carole CHOMEL DELL’AMORE,FR,37,F,M0 F,,https://utmb.world/runner/5950809.carole.chomeldell---amore,,418.0,134.0,33.0,02:37:36,9456.245,True,f,364.0
+3440,Marion DELMAS,FR,37,F,M0 F,Les gazelles à vos trousses,https://utmb.world/runner/6004810.marion.delmas,384.0,419.0,135.0,34.0,02:37:37,9457.896,True,f,364.0
+3437,Sarah COMBETTES,FR,36,F,M0 F,Les gazelles,https://utmb.world/runner/6004842.sarah.combettes,344.0,419.0,135.0,34.0,02:37:37,9457.624,True,f,364.0
+3273,Justine FAURE,FR,38,F,M0 F,,https://utmb.world/runner/5616307.justine.faure,,421.0,137.0,36.0,02:37:44,9464.944,True,f,363.0
+3503,Cecile FELKAR,FR,33,F,SE F,,https://utmb.world/runner/6183216.cecile.felkar,,422.0,138.0,70.0,02:37:53,9473.676,True,f,363.0
+3468,Floriane TOULOTTE,FR,38,F,M0 F,,https://utmb.world/runner/6231039.floriane.toulotte,,423.0,139.0,37.0,02:37:54,9474.86,True,f,363.0
+3350,Emilie HORI,FR,37,F,M0 F,,https://utmb.world/runner/6103950.emilie.hori,,424.0,140.0,38.0,02:38:30,9510.874,True,f,362.0
+3203,Pauline ALFONSI,FR,31,F,SE F,,https://utmb.world/runner/5690359.pauline.alfonsi,,425.0,141.0,71.0,02:38:44,9524.434000000001,True,f,361.0
+3153,Israel CASTELLANOS,MX,39,H,M0 H,,https://utmb.world/runner/5501485.israel.castellanos,374.0,426.0,285.0,39.0,02:38:54,9534.963,True,f,361.0
+3156,Monique LARUE,FR,64,F,M5 F,XTrem running Trail,https://utmb.world/runner/886683.monique.larue,369.0,427.0,142.0,3.0,02:38:57,9537.635,True,f,361.0
 3604,Isabelle TYMEN,FR,58,F,M4 F,Semelles Douarnenistes,,,428.0,143.0,2.0,02:39:02,9542.166,True,f,
-3352,Gregory CASTETS,FR,39,H,M0 H,,https://utmb.world/runner/6134333.gregory.castets,,429.0,286.0,40.0,02:39:09,9549.995,True,f,
-3525,Manon FARRIOL,FR,29,F,SE F,,https://utmb.world/runner/6265915.manon.farriol,,430.0,144.0,72.0,02:39:17,9557.974,True,f,
-3527,Camille SIZUN,FR,29,F,SE F,,https://utmb.world/runner/6265949.camille.sizun,,431.0,145.0,73.0,02:39:18,9558.726,True,f,
-3526,Thomas MELAN,FR,42,H,M1 H,,https://utmb.world/runner/6265947.thomas.melan,,432.0,287.0,36.0,02:39:24,9564.743,True,f,
+3352,Gregory CASTETS,FR,39,H,M0 H,,https://utmb.world/runner/6134333.gregory.castets,,429.0,286.0,40.0,02:39:09,9549.995,True,f,360.0
+3525,Manon FARRIOL,FR,29,F,SE F,,https://utmb.world/runner/6265915.manon.farriol,,430.0,144.0,72.0,02:39:17,9557.974,True,f,360.0
+3527,Camille SIZUN,FR,29,F,SE F,,https://utmb.world/runner/6265949.camille.sizun,,431.0,145.0,73.0,02:39:18,9558.726,True,f,360.0
+3526,Thomas MELAN,FR,42,H,M1 H,,https://utmb.world/runner/6265947.thomas.melan,,432.0,287.0,36.0,02:39:24,9564.743,True,f,360.0
 3614,Brigitte AGOSTINI,FR,40,F,M0 F,sport in calvi,,,433.0,146.0,39.0,02:39:32,9572.225,True,f,
-3505,Marion GRADELET,FR,34,F,SE F,,https://utmb.world/runner/4230913.marion.gradelet,359.0,434.0,147.0,74.0,02:39:39,9579.275,True,f,
+3505,Marion GRADELET,FR,34,F,SE F,,https://utmb.world/runner/4230913.marion.gradelet,359.0,434.0,147.0,74.0,02:39:39,9579.275,True,f,359.0
+3486,Léa OTTONE,FR,30,F,SE F,,https://utmb.world/runner/6243063.lea.ottone,,435.0,148.0,75.0,02:40:09,9609.905999999999,True,f,358.0
 3603,Marie-Anne CROCHEMORE,FR,30,F,SE F,,,,435.0,148.0,75.0,02:40:09,9609.877,True,f,
-3486,Léa OTTONE,FR,30,F,SE F,,https://utmb.world/runner/6243063.lea.ottone,,435.0,148.0,75.0,02:40:09,9609.906,True,f,
-3327,Noémie GARIN,FR,27,F,SE F,,https://utmb.world/runner/6111009.noemie.garin,,437.0,150.0,77.0,02:40:12,9612.095,True,f,
-3281,Julie MOTIN,FR,47,F,M2 F,,https://utmb.world/runner/5721415.motin.julie,,438.0,151.0,8.0,02:40:20,9620.946,True,f,
-3134,Adèle MARTIN,FR,28,F,SE F,,https://utmb.world/runner/5908699.adele.martin,401.0,439.0,152.0,78.0,02:41:08,9668.585,True,f,
+3327,Noémie GARIN,FR,27,F,SE F,,https://utmb.world/runner/6111009.noemie.garin,,437.0,150.0,77.0,02:40:12,9612.095,True,f,358.0
+3281,Julie MOTIN,FR,47,F,M2 F,,https://utmb.world/runner/5721415.motin.julie,,438.0,151.0,8.0,02:40:20,9620.946,True,f,357.0
+3134,Adèle MARTIN,FR,28,F,SE F,,https://utmb.world/runner/5908699.adele.martin,401.0,439.0,152.0,78.0,02:41:08,9668.585,True,f,356.0
 3579,Chantal FOURNI,FR,55,F,M3 F,Lucciana Atletisimu,,,440.0,153.0,6.0,02:41:31,9691.805,True,f,
-3201,Laura PORCHER,FR,34,F,SE F,,https://utmb.world/runner/5885237.laura.porcher,,441.0,154.0,79.0,02:42:00,9720.937,True,f,
-3246,Armelle MANN,FR,37,F,M0 F,,https://utmb.world/runner/5613973.armelle.mann,,442.0,155.0,40.0,02:42:20,9740.825,True,f,
-3195,Diana CARPENTIER,FR,55,F,M3 F,,https://utmb.world/runner/5887131.diana.carpentier,,443.0,156.0,7.0,02:42:37,9757.957,True,f,
+3201,Laura PORCHER,FR,34,F,SE F,,https://utmb.world/runner/5885237.laura.porcher,,441.0,154.0,79.0,02:42:00,9720.937,True,f,354.0
+3246,Armelle MANN,FR,37,F,M0 F,,https://utmb.world/runner/5613973.armelle.mann,,442.0,155.0,40.0,02:42:20,9740.825,True,f,353.0
+3195,Diana CARPENTIER,FR,55,F,M3 F,,https://utmb.world/runner/5887131.diana.carpentier,,443.0,156.0,7.0,02:42:37,9757.957,True,f,352.0
 3555,Jade OTTAVIANI,FR,22,F,ES F,,,,444.0,157.0,3.0,02:42:40,9760.715,True,f,
-3162,Jean-François LESCHI,FR,69,H,M6 H,BeFit,https://utmb.world/runner/5257939.jeanfrancois.leschi,363.0,445.0,288.0,6.0,02:43:33,9813.858,True,f,
+3162,Jean-François LESCHI,FR,69,H,M6 H,BeFit,https://utmb.world/runner/5257939.jeanfrancois.leschi,363.0,445.0,288.0,6.0,02:43:33,9813.858,True,f,350.0
 3591,Bertrand GONCALVES,FR,53,H,M3 H,,,,446.0,289.0,18.0,02:43:40,9820.385,True,f,
-3220,Stéphanie BOUHOURS,FR,43,F,M1 F,,https://utmb.world/runner/5827367.stephanie.bouhours,,447.0,158.0,14.0,02:43:43,9823.326,True,f,
-3397,Jordy PACELLI,FR,29,H,SE H,,https://utmb.world/runner/6183835.pacelli.jordy,,448.0,290.0,101.0,02:44:41,9881.526,True,f,
-3351,Pierre-François DAMIANI,FR,29,H,SE H,EDF,https://utmb.world/runner/6103822.pierrefrancois.damiani,,448.0,290.0,101.0,02:44:41,9881.406,True,f,
-3349,Manon GUERIOUNE,FR,32,F,SE F,,https://utmb.world/runner/5719055.manon.guerioune,,450.0,159.0,80.0,02:44:59,9899.706,True,f,
-3293,Marlène THEPOT,FR,44,F,M1 F,,https://utmb.world/runner/6092101.marlene.thepot,,451.0,160.0,15.0,02:45:35,9935.348,True,f,
-3159,Ichiro TAKAYAMA,JP,63,H,M5 H,,https://utmb.world/runner/723301.ichiro.takayama,367.0,452.0,292.0,13.0,02:45:38,9938.948,True,f,
-3245,Marion PIERLOT,FR,35,F,SE F,,https://utmb.world/runner/5881653.marion.pierlot,,453.0,161.0,81.0,02:46:32,9992.829,True,f,
-3359,Alexandra PADOVANI,FR,40,F,M0 F,,https://utmb.world/runner/6168053.alexandra.padovani,,454.0,162.0,41.0,02:47:16,10036.538,True,f,
-3167,Melissa PINELLI,FR,39,F,M0 F,,https://utmb.world/runner/6057961.melissa.pinelli,353.0,455.0,163.0,42.0,02:47:21,10041.336,True,f,
-3328,Mélanie LEPOUTRE,FR,42,F,M1 F,,https://utmb.world/runner/6109413.melanie.lepoutre,,456.0,164.0,16.0,02:47:25,10045.867,True,f,
-3259,Paula MAUZAC,FR,29,F,SE F,Espace Montagne,https://utmb.world/runner/5625941.paula.mauzac,,457.0,165.0,82.0,02:47:26,10046.935,True,f,
-3431,Soraya GAUTRAND,FR,28,F,SE F,,https://utmb.world/runner/6210425.gautrand.soraya,,458.0,166.0,83.0,02:47:29,10049.977,True,f,
-3271,Aurélie MODOT,FR,44,F,M1 F,,https://utmb.world/runner/5617397.aurelie.modot,,459.0,167.0,17.0,02:47:33,10053.188,True,f,
-3609,Antoine GABRIELLI,FR,58,H,M4 H,,,,460.0,293.0,11.0,02:48:28,10108.809,True,f,
-3403,Caroline MARTIN BASTIDA,FR,59,F,M4 F,,https://utmb.world/runner/6054499.caroline.martinbastida,,461.0,168.0,3.0,02:49:23,10163.258,True,f,
-3320,Sandra NOBLAT,FR,58,F,M4 F,,https://utmb.world/runner/6054503.sandra.noblat,,461.0,168.0,3.0,02:49:23,10163.915,True,f,
-3119,Emmanuel RIZZA,FR,42,H,M1 H,Lucciana atletismu,https://utmb.world/runner/5243207.emmanuel.rizza,420.0,463.0,294.0,37.0,02:49:40,10180.449,True,f,
-3338,Leïla CRAPEZ,FR,28,F,SE F,,https://utmb.world/runner/6127495.leila.crapez,,464.0,170.0,84.0,02:50:05,10205.528,True,f,
-3272,Cedric DRILLAUD,FR,43,H,M1 H,,https://utmb.world/runner/5613977.cedric.drillaud,,465.0,295.0,38.0,02:50:19,10219.838,True,f,
-3498,Celia FEOLA,FR,23,F,ES F,,https://utmb.world/runner/5311937.feola.celia,319.0,466.0,171.0,4.0,02:50:47,10247.77,True,f,
-3473,Dumenicu ARMANI,FR,37,H,M0 H,Team EDF,https://utmb.world/runner/6234033.dumenicu.armani,,467.0,296.0,41.0,02:50:58,10258.779,True,f,
-3226,Manon DAP,FR,30,F,SE F,,https://utmb.world/runner/5814895.manon.dap,,468.0,172.0,85.0,02:51:00,10260.729,True,f,
+3220,Stéphanie BOUHOURS,FR,43,F,M1 F,,https://utmb.world/runner/5827367.stephanie.bouhours,,447.0,158.0,14.0,02:43:43,9823.326,True,f,350.0
+3397,Jordy PACELLI,FR,29,H,SE H,,https://utmb.world/runner/6183835.pacelli.jordy,,448.0,290.0,101.0,02:44:41,9881.526,True,f,348.0
+3351,Pierre-François DAMIANI,FR,29,H,SE H,EDF,https://utmb.world/runner/6103822.pierrefrancois.damiani,,448.0,290.0,101.0,02:44:41,9881.405999999999,True,f,348.0
+3349,Manon GUERIOUNE,FR,32,F,SE F,,https://utmb.world/runner/5719055.manon.guerioune,,450.0,159.0,80.0,02:44:59,9899.706,True,f,347.0
+3293,Marlène THEPOT,FR,44,F,M1 F,,https://utmb.world/runner/6092101.marlene.thepot,,451.0,160.0,15.0,02:45:35,9935.348,True,f,346.0
+3159,Ichiro TAKAYAMA,JP,63,H,M5 H,,https://utmb.world/runner/723301.ichiro.takayama,367.0,452.0,292.0,13.0,02:45:38,9938.948,True,f,346.0
+3245,Marion PIERLOT,FR,35,F,SE F,,https://utmb.world/runner/5881653.marion.pierlot,,453.0,161.0,81.0,02:46:32,9992.829,True,f,344.0
+3359,Alexandra PADOVANI,FR,40,F,M0 F,,https://utmb.world/runner/6168053.alexandra.padovani,,454.0,162.0,41.0,02:47:16,10036.538,True,f,343.0
+3167,Melissa PINELLI,FR,39,F,M0 F,,https://utmb.world/runner/6057961.melissa.pinelli,353.0,455.0,163.0,42.0,02:47:21,10041.336,True,f,342.0
+3328,Mélanie LEPOUTRE,FR,42,F,M1 F,,https://utmb.world/runner/6109413.melanie.lepoutre,,456.0,164.0,16.0,02:47:25,10045.867,True,f,342.0
+3259,Paula MAUZAC,FR,29,F,SE F,Espace Montagne,https://utmb.world/runner/5625941.paula.mauzac,,457.0,165.0,82.0,02:47:26,10046.935,True,f,342.0
+3431,Soraya GAUTRAND,FR,28,F,SE F,,https://utmb.world/runner/6210425.gautrand.soraya,,458.0,166.0,83.0,02:47:29,10049.976999999999,True,f,342.0
+3271,Aurélie MODOT,FR,44,F,M1 F,,https://utmb.world/runner/5617397.aurelie.modot,,459.0,167.0,17.0,02:47:33,10053.188,True,f,342.0
+3609,Antoine GABRIELLI,FR,58,H,M4 H,,,,460.0,293.0,11.0,02:48:28,10108.809000000001,True,f,
+3403,Caroline MARTIN BASTIDA,FR,59,F,M4 F,,https://utmb.world/runner/6054499.caroline.martinbastida,,461.0,168.0,3.0,02:49:23,10163.258,True,f,338.0
+3320,Sandra NOBLAT,FR,58,F,M4 F,,https://utmb.world/runner/6054503.sandra.noblat,,461.0,168.0,3.0,02:49:23,10163.915,True,f,338.0
+3119,Emmanuel RIZZA,FR,42,H,M1 H,Lucciana atletismu,https://utmb.world/runner/5243207.emmanuel.rizza,420.0,463.0,294.0,37.0,02:49:40,10180.449,True,f,338.0
+3338,Leïla CRAPEZ,FR,28,F,SE F,,https://utmb.world/runner/6127495.leila.crapez,,464.0,170.0,84.0,02:50:05,10205.528,True,f,337.0
+3272,Cedric DRILLAUD,FR,43,H,M1 H,,https://utmb.world/runner/5613977.cedric.drillaud,,465.0,295.0,38.0,02:50:19,10219.838,True,f,336.0
+3498,Celia FEOLA,FR,23,F,ES F,,https://utmb.world/runner/5311937.feola.celia,319.0,466.0,171.0,4.0,02:50:47,10247.77,True,f,336.0
+3473,Dumenicu ARMANI,FR,37,H,M0 H,Team EDF,https://utmb.world/runner/6234033.dumenicu.armani,,467.0,296.0,41.0,02:50:58,10258.779,True,f,335.0
+3226,Manon DAP,FR,30,F,SE F,,https://utmb.world/runner/5814895.manon.dap,,468.0,172.0,85.0,02:51:00,10260.729,True,f,335.0
 3593,Anna Tina CASANOVA,CH,41,F,M1 F,,,,469.0,173.0,18.0,02:51:58,10318.929,True,f,
 3594,Joannes B CAMPELL,CH,40,H,M0 H,,,,470.0,297.0,42.0,02:51:59,10319.199,True,f,
-3240,Patrick LOURY,FR,69,H,M6 H,,https://utmb.world/runner/5679531.patrick.loury,,471.0,298.0,7.0,02:52:06,10326.819,True,f,
-3415,Lucile PIAZZOLA,FR,49,F,M2 F,,https://utmb.world/runner/5703105.lucile.piazzola,,472.0,174.0,9.0,02:52:24,10344.76,True,f,
-3277,Diana HENNIG,DE,49,F,M2 F,,https://utmb.world/runner/5743185.diana.hennig,,472.0,174.0,9.0,02:52:24,10344.608,True,f,
-3131,Mariona BARCONS,AD,25,F,SE F,,https://utmb.world/runner/4536685.mariona.barcons,402.0,474.0,176.0,86.0,02:52:49,10369.511,True,f,
-3506,Stefanine ALBERTINI,FR,41,F,M1 F,Les zinzin,https://utmb.world/runner/6258351.stefanine.albertini,,475.0,177.0,19.0,02:53:07,10387.943,True,f,
-3266,Marije VAN DER MEER,NL,33,F,SE F,De stayer,https://utmb.world/runner/5690333.marije.vandermeer,,476.0,178.0,87.0,02:53:12,10392.521,True,f,
-3174,Cindy LAMBERT,FR,31,F,SE F,,https://utmb.world/runner/4987294.cindy.lambert,331.0,476.0,178.0,87.0,02:53:12,10392.49,True,f,
-3261,Christophe LAFFON,FR,51,H,M3 H,Ahumats,https://utmb.world/runner/2342047.christophe.laffon,,478.0,299.0,19.0,02:55:19,10519.87,True,f,
-3192,Edouard FRANCESCHI,FR,37,H,M0 H,,https://utmb.world/runner/5896645.edouard.franceschi,,479.0,300.0,43.0,02:55:39,10539.821,True,f,
-3257,Manon LOUIS,FR,36,F,M0 F,,https://utmb.world/runner/5640929.manon.louis,,480.0,180.0,43.0,02:57:17,10637.473,True,f,
-3436,Aurore BERNARD,FR,44,F,M1 F,Les gazelles à vos trousses,https://utmb.world/runner/6213385.aurore.bernard,,481.0,181.0,20.0,02:57:20,10640.92,True,f,
-3441,Johanna AANTJES,NL,50,F,M2 F,Les Gazelles à vos trousses,https://utmb.world/runner/6213875.johanna.aantjes,397.0,481.0,181.0,11.0,02:57:20,10640.831,True,f,
-3196,Pascal LOUIS,FR,63,H,M5 H,,https://utmb.world/runner/5886957.pascal.louis,,483.0,301.0,14.0,02:57:22,10642.361,True,f,
-3258,Justine ARBEL,FR,30,F,SE F,JuraSingleTrack/École du trail,https://utmb.world/runner/5255004.justine.arbel,329.0,484.0,183.0,89.0,02:57:46,10666.241,True,f,
-3344,Af DABEE,BE,49,F,M2 F,,https://utmb.world/runner/1620259.af.dabee,,485.0,184.0,12.0,02:57:47,10667.381,True,f,
-3463,Mathieu ANCIAUX,BE,49,H,M2 H,Coureur céleste,https://utmb.world/runner/218578.mathieu.anciaux,,486.0,302.0,29.0,02:57:48,10668.761,True,f,
-3160,Rossella FIORITO,IT,52,F,M3 F,,https://utmb.world/runner/5551476.rossella.fiorito,366.0,487.0,185.0,8.0,02:58:02,10682.562,True,f,
-3318,Paule Andrée CAPIA FILLON,FR,41,F,M1 F,,https://utmb.world/runner/6048219.pauleandree.capiafillon,,488.0,186.0,21.0,02:58:23,10703.562,True,f,
-3171,Carmelo PIRAS,IT,48,H,M2 H,,https://utmb.world/runner/2636171.carmelo.piras,338.0,489.0,303.0,30.0,02:58:39,10719.732,True,f,
-3172,Rossana RIGANATI,IT,44,F,M1 F,,https://utmb.world/runner/5021442.rossana.riganati,338.0,489.0,187.0,22.0,02:58:39,10719.913,True,f,
-3336,Lucile VERLET,FR,29,F,SE F,,https://utmb.world/runner/5883209.lucile.verlet,,491.0,188.0,90.0,03:00:39,10839.853,True,f,
-3251,Léa COCAIGN,FR,29,F,SE F,,https://utmb.world/runner/5946451.lea.cocaign,,491.0,188.0,90.0,03:00:39,10839.461,True,f,
-3177,Pascale COEUGNET-LEGENDRE,FR,62,F,M5 F,EACPA,https://utmb.world/runner/245503.pascale.coeugnetlegendre,322.0,493.0,190.0,4.0,03:00:43,10843.063,True,f,
-3601,Benjamin GEROD,FR,25,H,SE H,St Julien les Kok's,,,494.0,304.0,103.0,03:00:44,10844.592,True,f,
-3210,Pascal GEROD,FR,58,H,M4 H,LES KOX'S,https://utmb.world/runner/5781861.pascal.gerod,,494.0,304.0,12.0,03:00:44,10844.563,True,f,
-3198,Alannah DAWSON,IE,49,F,M2 F,,https://utmb.world/runner/5722523.alannah.dawson,,496.0,191.0,13.0,03:01:57,10917.103,True,f,
-3390,Virginie COURTILLIER,FR,48,F,M2 F,,https://utmb.world/runner/6196395.virginie.courtillier,,497.0,192.0,14.0,03:02:03,10923.463,True,f,
-3276,Olympe DECAIX,FR,36,F,M0 F,,https://utmb.world/runner/5723767.olympe.decaix,,498.0,193.0,44.0,03:02:57,10977.522,True,f,
-3180,Corinne CAMPANA,FR,58,F,M4 F,AC Corte,https://utmb.world/runner/5115001.corinne.campana,310.0,499.0,194.0,5.0,03:03:04,10984.272,True,f,
-3433,Daniela LOPES,PT,27,F,SE F,,https://utmb.world/runner/6211861.daniela.lopes,,500.0,195.0,92.0,03:03:51,11031.494,True,f,
-3165,Adrien MATTEONI,FR,34,H,SE H,Edf,https://utmb.world/runner/968583.adrien.matteoni,358.0,501.0,306.0,104.0,03:04:41,11081.084,True,f,
-3557,Stephane LUCCHINI,FR,55,H,M3 H,Gfca athlétisme,,,502.0,307.0,20.0,03:05:38,11138.234,True,f,
-3213,Laurine MICHEL,FR,26,F,SE F,,https://utmb.world/runner/4843664.laurine.michel,,503.0,196.0,93.0,03:06:15,11175.794,True,f,
+3240,Patrick LOURY,FR,69,H,M6 H,,https://utmb.world/runner/5679531.patrick.loury,,471.0,298.0,7.0,02:52:06,10326.819,True,f,333.0
+3277,Diana HENNIG,DE,49,F,M2 F,,https://utmb.world/runner/5743185.diana.hennig,,472.0,174.0,9.0,02:52:24,10344.608,True,f,332.0
+3415,Lucile PIAZZOLA,FR,49,F,M2 F,,https://utmb.world/runner/5703105.lucile.piazzola,,472.0,174.0,9.0,02:52:24,10344.76,True,f,332.0
+3131,Mariona BARCONS,AD,25,F,SE F,,https://utmb.world/runner/4536685.mariona.barcons,402.0,474.0,176.0,86.0,02:52:49,10369.511,True,f,332.0
+3506,Stefanine ALBERTINI,FR,41,F,M1 F,Les zinzin,https://utmb.world/runner/6258351.stefanine.albertini,,475.0,177.0,19.0,02:53:07,10387.943000000001,True,f,331.0
+3174,Cindy LAMBERT,FR,31,F,SE F,,https://utmb.world/runner/4987294.cindy.lambert,331.0,476.0,178.0,87.0,02:53:12,10392.49,True,f,331.0
+3266,Marije VAN DER MEER,NL,33,F,SE F,De stayer,https://utmb.world/runner/5690333.marije.vandermeer,,476.0,178.0,87.0,02:53:12,10392.521,True,f,331.0
+3261,Christophe LAFFON,FR,51,H,M3 H,Ahumats,https://utmb.world/runner/2342047.christophe.laffon,,478.0,299.0,19.0,02:55:19,10519.87,True,f,327.0
+3192,Edouard FRANCESCHI,FR,37,H,M0 H,,https://utmb.world/runner/5896645.edouard.franceschi,,479.0,300.0,43.0,02:55:39,10539.821000000002,True,f,326.0
+3257,Manon LOUIS,FR,36,F,M0 F,,https://utmb.world/runner/5640929.manon.louis,,480.0,180.0,43.0,02:57:17,10637.473,True,f,323.0
+3436,Aurore BERNARD,FR,44,F,M1 F,Les gazelles à vos trousses,https://utmb.world/runner/6213385.aurore.bernard,,481.0,181.0,20.0,02:57:20,10640.92,True,f,323.0
+3441,Johanna AANTJES,NL,50,F,M2 F,Les Gazelles à vos trousses,https://utmb.world/runner/6213875.johanna.aantjes,397.0,481.0,181.0,11.0,02:57:20,10640.831,True,f,323.0
+3196,Pascal LOUIS,FR,63,H,M5 H,,https://utmb.world/runner/5886957.pascal.louis,,483.0,301.0,14.0,02:57:22,10642.361,True,f,323.0
+3258,Justine ARBEL,FR,30,F,SE F,JuraSingleTrack/École du trail,https://utmb.world/runner/5255004.justine.arbel,329.0,484.0,183.0,89.0,02:57:46,10666.241000000002,True,f,322.0
+3344,Af DABEE,BE,49,F,M2 F,,https://utmb.world/runner/1620259.af.dabee,,485.0,184.0,12.0,02:57:47,10667.381000000001,True,f,322.0
+3463,Mathieu ANCIAUX,BE,49,H,M2 H,Coureur céleste,https://utmb.world/runner/218578.mathieu.anciaux,,486.0,302.0,29.0,02:57:48,10668.761,True,f,322.0
+3160,Rossella FIORITO,IT,52,F,M3 F,,https://utmb.world/runner/5551476.rossella.fiorito,366.0,487.0,185.0,8.0,02:58:02,10682.562,True,f,322.0
+3318,Paule Andrée CAPIA FILLON,FR,41,F,M1 F,,https://utmb.world/runner/6048219.pauleandree.capiafillon,,488.0,186.0,21.0,02:58:23,10703.562,True,f,321.0
+3172,Rossana RIGANATI,IT,44,F,M1 F,,https://utmb.world/runner/5021442.rossana.riganati,338.0,489.0,187.0,22.0,02:58:39,10719.913,True,f,321.0
+3171,Carmelo PIRAS,IT,48,H,M2 H,,https://utmb.world/runner/2636171.carmelo.piras,338.0,489.0,303.0,30.0,02:58:39,10719.732,True,f,321.0
+3336,Lucile VERLET,FR,29,F,SE F,,https://utmb.world/runner/5883209.lucile.verlet,,491.0,188.0,90.0,03:00:39,10839.853000000001,True,f,317.0
+3251,Léa COCAIGN,FR,29,F,SE F,,https://utmb.world/runner/5946451.lea.cocaign,,491.0,188.0,90.0,03:00:39,10839.461000000001,True,f,317.0
+3177,Pascale COEUGNET-LEGENDRE,FR,62,F,M5 F,EACPA,https://utmb.world/runner/245503.pascale.coeugnetlegendre,322.0,493.0,190.0,4.0,03:00:43,10843.063,True,f,317.0
+3210,Pascal GEROD,FR,58,H,M4 H,LES KOX'S,https://utmb.world/runner/5781861.pascal.gerod,,494.0,304.0,12.0,03:00:44,10844.563,True,f,317.0
+3601,Benjamin GEROD,FR,25,H,SE H,St Julien les Kok's,,,494.0,304.0,103.0,03:00:44,10844.591999999999,True,f,
+3198,Alannah DAWSON,IE,49,F,M2 F,,https://utmb.world/runner/5722523.alannah.dawson,,496.0,191.0,13.0,03:01:57,10917.103000000001,True,f,315.0
+3390,Virginie COURTILLIER,FR,48,F,M2 F,,https://utmb.world/runner/6196395.virginie.courtillier,,497.0,192.0,14.0,03:02:03,10923.463,True,f,315.0
+3276,Olympe DECAIX,FR,36,F,M0 F,,https://utmb.world/runner/5723767.olympe.decaix,,498.0,193.0,44.0,03:02:57,10977.521999999999,True,f,313.0
+3180,Corinne CAMPANA,FR,58,F,M4 F,AC Corte,https://utmb.world/runner/5115001.corinne.campana,310.0,499.0,194.0,5.0,03:03:04,10984.271999999999,True,f,313.0
+3433,Daniela LOPES,PT,27,F,SE F,,https://utmb.world/runner/6211861.daniela.lopes,,500.0,195.0,92.0,03:03:51,11031.493999999999,True,f,312.0
+3165,Adrien MATTEONI,FR,34,H,SE H,Edf,https://utmb.world/runner/968583.adrien.matteoni,358.0,501.0,306.0,104.0,03:04:41,11081.083999999999,True,f,310.0
+3557,Stephane LUCCHINI,FR,55,H,M3 H,Gfca athlétisme,,,502.0,307.0,20.0,03:05:38,11138.233999999999,True,f,
+3213,Laurine MICHEL,FR,26,F,SE F,,https://utmb.world/runner/4843664.laurine.michel,,503.0,196.0,93.0,03:06:15,11175.794,True,f,308.0
 3347,Williams WELLEMENT,FR,34,H,SE H,,https://utmb.world/runner/6152195.williams.wellement,,504.0,308.0,105.0,03:06:42,11202.493,True,f,
-3189,Simon MIRY,FR,46,H,M2 H,DOUDOU ET DOUDOU,https://utmb.world/runner/5295903.simon.miry,272.0,505.0,309.0,31.0,03:06:45,11205.315,True,f,
-3235,Kathinka Zahl HAGEN,NO,21,F,ES F,Fossum Orientering,https://utmb.world/runner/5831383.kathinkazahl.hagen,,506.0,197.0,5.0,03:07:59,11279.684,True,f,
-3173,Alexia FELMY,FR,50,F,M2 F,,https://utmb.world/runner/4573062.alexia.felmy,335.0,507.0,198.0,15.0,03:08:05,11285.714,True,f,
-3040,Jeremy RATTIER,FR,48,H,M2 H,ASL robertsau,https://utmb.world/runner/1020899.jeremy.rattier,564.0,507.0,310.0,32.0,03:08:05,11285.594,True,f,
-3263,Mattieu POMPON,FR,31,H,SE H,Team Wild,https://utmb.world/runner/5692383.mattieu.pompon,283.0,509.0,311.0,106.0,03:08:12,11292.045,True,f,
-3456,Jean-Joseph ALBERTINI,FR,19,H,JU H,,https://utmb.world/runner/6220547.jeanjoseph.albertini,,510.0,312.0,23.0,03:08:52,11332.784,True,f,
-3462,Diogo ANTONIO,PT,24,H,SE H,,https://utmb.world/runner/6221685.diogo.antonio,,511.0,313.0,107.0,03:09:15,11355.915,True,f,
-3183,Daniel RAMSDAM,BE,69,H,M6 H,Club Omnisports Porticcio,https://utmb.world/runner/1331957.daniel.ramsdam,300.0,512.0,314.0,8.0,03:12:10,11530.906,True,f,
-3181,Stephanie FERNANDEZ,FR,55,F,M3 F,Route 109,https://utmb.world/runner/2365925.stephanie.fernandez,308.0,513.0,199.0,9.0,03:13:57,11637.737,True,f,
-3607,Nathalie COLOGNI,FR,56,F,M4 F,,,,514.0,200.0,6.0,03:13:59,11639.897,True,f,
-3188,Jean Louis ALBERTINI,FR,73,H,M7 H,,https://utmb.world/runner/1721709.jeanlouis.albertini,274.0,514.0,315.0,2.0,03:13:59,11639.988,True,f,
-3185,Emmanuelle ALMEIDA,FR,55,F,M3 F,,https://utmb.world/runner/5528100.emmanuelle.almeida,297.0,516.0,201.0,10.0,03:14:27,11667.496,True,f,
-3288,Marie GODEFROY,FR,32,F,SE F,,https://utmb.world/runner/6034049.marie.godefroy,,517.0,202.0,94.0,03:14:34,11674.338,True,f,
-3194,Sarah BICCHIERAY,FR,32,F,SE F,,https://utmb.world/runner/5863095.sarah.bicchieray,,518.0,203.0,95.0,03:14:42,11682.348,True,f,
-3418,Matthieu TORTAJADA,FR,44,H,M1 H,EDF-CMCAS,https://utmb.world/runner/6205205.matthieu.tortajada,,519.0,316.0,39.0,03:15:51,11751.588,True,f,
-3184,Michel ZERLINI,FR,76,H,M8 H,,https://utmb.world/runner/3265533.michel.zerlini,298.0,520.0,317.0,2.0,03:15:57,11757.978,True,f,
-3176,Alexandra TORTAJADA,FR,43,F,M1 F,Edf-cmcas,https://utmb.world/runner/3076233.alexandra.tortajada,325.0,521.0,204.0,23.0,03:15:58,11758.638,True,f,
-3387,Pantea EGEBAK,DK,49,F,M2 F,,https://utmb.world/runner/6180343.pantea.egebak,,522.0,205.0,16.0,03:18:24,11904.168,True,f,
-3388,Saidi ABDELAAZIZ,FR,34,H,SE H,,https://utmb.world/runner/6176487.saidi.abdelaaziz,,523.0,318.0,108.0,03:18:26,11906.747,True,f,
-3439,Muriel HATEM,FR,61,F,M5 F,,https://utmb.world/runner/4313012.muriel.hatem,305.0,524.0,206.0,5.0,03:22:16,12136.876,True,f,
-3179,Ange NICOLINI,FR,51,H,M3 H,,https://utmb.world/runner/3265545.ange.nicolini,318.0,525.0,319.0,21.0,03:27:34,12454.311,True,f,
-3504,Jean-Laurent BIONDINI,FR,55,H,M3 H,,https://utmb.world/runner/2173825.jeanlaurent.biondini,292.0,526.0,320.0,22.0,03:27:37,12457.371,True,f,
-3485,Quentin SAROCCHI,FR,30,H,SE H,,https://utmb.world/runner/6242703.quentin.sarocchi,,526.0,320.0,109.0,03:27:37,12457.7,True,f,
-3521,Paul-Henri FERETTI,FR,40,H,M0 H,EDF corte,https://utmb.world/runner/6262173.paulhenri.feretti,,528.0,322.0,44.0,03:27:38,12458.631,True,f,
-3187,Olivier ETTORI,FR,55,H,M3 H,omnisport hyerois athletisme,https://utmb.world/runner/1260803.olivier.ettori,279.0,529.0,323.0,23.0,03:28:40,12520.763,True,f,
+3189,Simon MIRY,FR,46,H,M2 H,DOUDOU ET DOUDOU,https://utmb.world/runner/5295903.simon.miry,272.0,505.0,309.0,31.0,03:06:45,11205.315,True,f,307.0
+3235,Kathinka Zahl HAGEN,NO,21,F,ES F,Fossum Orientering,https://utmb.world/runner/5831383.kathinkazahl.hagen,,506.0,197.0,5.0,03:07:59,11279.684,True,f,305.0
+3040,Jeremy RATTIER,FR,48,H,M2 H,ASL robertsau,https://utmb.world/runner/1020899.jeremy.rattier,564.0,507.0,310.0,32.0,03:08:05,11285.594,True,f,305.0
+3173,Alexia FELMY,FR,50,F,M2 F,,https://utmb.world/runner/4573062.alexia.felmy,335.0,507.0,198.0,15.0,03:08:05,11285.714,True,f,305.0
+3263,Mattieu POMPON,FR,31,H,SE H,Team Wild,https://utmb.world/runner/5692383.mattieu.pompon,283.0,509.0,311.0,106.0,03:08:12,11292.045,True,f,305.0
+3456,Jean-Joseph ALBERTINI,FR,19,H,JU H,,https://utmb.world/runner/6220547.jeanjoseph.albertini,,510.0,312.0,23.0,03:08:52,11332.784,True,f,303.0
+3462,Diogo ANTONIO,PT,24,H,SE H,,https://utmb.world/runner/6221685.diogo.antonio,,511.0,313.0,107.0,03:09:15,11355.915,True,f,303.0
+3183,Daniel RAMSDAM,BE,69,H,M6 H,Club Omnisports Porticcio,https://utmb.world/runner/1331957.daniel.ramsdam,300.0,512.0,314.0,8.0,03:12:10,11530.906,True,f,298.0
+3181,Stephanie FERNANDEZ,FR,55,F,M3 F,Route 109,https://utmb.world/runner/2365925.stephanie.fernandez,308.0,513.0,199.0,9.0,03:13:57,11637.737,True,f,295.0
+3188,Jean Louis ALBERTINI,FR,73,H,M7 H,,https://utmb.world/runner/1721709.jeanlouis.albertini,274.0,514.0,315.0,2.0,03:13:59,11639.988000000001,True,f,295.0
+3607,Nathalie COLOGNI,FR,56,F,M4 F,,,,514.0,200.0,6.0,03:13:59,11639.896999999999,True,f,
+3185,Emmanuelle ALMEIDA,FR,55,F,M3 F,,https://utmb.world/runner/5528100.emmanuelle.almeida,297.0,516.0,201.0,10.0,03:14:27,11667.496000000001,True,f,295.0
+3288,Marie GODEFROY,FR,32,F,SE F,,https://utmb.world/runner/6034049.marie.godefroy,,517.0,202.0,94.0,03:14:34,11674.338,True,f,295.0
+3194,Sarah BICCHIERAY,FR,32,F,SE F,,https://utmb.world/runner/5863095.sarah.bicchieray,,518.0,203.0,95.0,03:14:42,11682.348,True,f,294.0
+3418,Matthieu TORTAJADA,FR,44,H,M1 H,EDF-CMCAS,https://utmb.world/runner/6205205.matthieu.tortajada,,519.0,316.0,39.0,03:15:51,11751.588,True,f,293.0
+3184,Michel ZERLINI,FR,76,H,M8 H,,https://utmb.world/runner/3265533.michel.zerlini,298.0,520.0,317.0,2.0,03:15:57,11757.978000000001,True,f,292.0
+3176,Alexandra TORTAJADA,FR,43,F,M1 F,Edf-cmcas,https://utmb.world/runner/3076233.alexandra.tortajada,325.0,521.0,204.0,23.0,03:15:58,11758.638,True,f,292.0
+3387,Pantea EGEBAK,DK,49,F,M2 F,,https://utmb.world/runner/6180343.pantea.egebak,,522.0,205.0,16.0,03:18:24,11904.168,True,f,289.0
+3388,Saidi ABDELAAZIZ,FR,34,H,SE H,,https://utmb.world/runner/6176487.saidi.abdelaaziz,,523.0,318.0,108.0,03:18:26,11906.747,True,f,289.0
+3439,Muriel HATEM,FR,61,F,M5 F,,https://utmb.world/runner/4313012.muriel.hatem,305.0,524.0,206.0,5.0,03:22:16,12136.876,True,f,283.0
+3179,Ange NICOLINI,FR,51,H,M3 H,,https://utmb.world/runner/3265545.ange.nicolini,318.0,525.0,319.0,21.0,03:27:34,12454.311000000002,True,f,276.0
+3485,Quentin SAROCCHI,FR,30,H,SE H,,https://utmb.world/runner/6242703.quentin.sarocchi,,526.0,320.0,109.0,03:27:37,12457.7,True,f,276.0
+3504,Jean-Laurent BIONDINI,FR,55,H,M3 H,,https://utmb.world/runner/2173825.jeanlaurent.biondini,292.0,526.0,320.0,22.0,03:27:37,12457.371000000001,True,f,276.0
+3521,Paul-Henri FERETTI,FR,40,H,M0 H,EDF corte,https://utmb.world/runner/6262173.paulhenri.feretti,,528.0,322.0,44.0,03:27:38,12458.631000000001,True,f,276.0
+3187,Olivier ETTORI,FR,55,H,M3 H,omnisport hyerois athletisme,https://utmb.world/runner/1260803.olivier.ettori,279.0,529.0,323.0,23.0,03:28:40,12520.763,True,f,275.0
 3395,Pierre-Louis VELLUTINI,FR,25,H,SE H,La Suarellaise,https://utmb.world/runner/5822475.pierrelouis.vellutini,,530.0,324.0,110.0,00:49:37,2977.397,False,a,
 3044,Sandrine MOTTO-ROS,FR,56,F,M4 F,,https://utmb.world/runner/112141.sandrine.mottoros,549.0,531.0,207.0,7.0,01:04:40,3874.7,False,a,
-3214,Alexane CHATTON,FR,28,F,SE F,,https://utmb.world/runner/5441056.alexane.chatton,,532.0,208.0,96.0,01:52:36,6756.051,False,a,
-3297,Thierry BIOSCA,FR,64,H,M5 H,,https://utmb.world/runner/6102729.thierry.biosca,,533.0,325.0,15.0,00:00:00,0.0,False,a,
+3214,Alexane CHATTON,FR,28,F,SE F,,https://utmb.world/runner/5441056.alexane.chatton,,532.0,208.0,96.0,01:52:36,6756.0509999999995,False,a,
 3519,Bastien BIONDINI,FR,24,H,SE H,,https://utmb.world/runner/6261605.bastien.biondini,,533.0,325.0,111.0,00:00:00,0.0,False,a,
-3009,Benoit PHALIPPOU,FR,44,H,M1 H,,https://utmb.world/runner/2034441.benoit.phalippou,665.0,,,,00:00:00,0.0,False,np,
+3297,Thierry BIOSCA,FR,64,H,M5 H,,https://utmb.world/runner/6102729.thierry.biosca,,533.0,325.0,15.0,00:00:00,0.0,False,a,
 3007,Nicolas GUILLOT,FR,31,H,SE H,,https://utmb.world/runner/1413675.nicolas.guillot,710.0,,,,00:00:00,0.0,False,np,
-3030,Gregory VASSEUR,FR,47,H,M2 H,USA Liévin athlétisme,https://utmb.world/runner/1199711.gregory.vasseur,584.0,,,,00:00:00,0.0,False,np,
-3033,François BATTAGLINI,FR,35,H,SE H,Sapeurs-pompiers de Cervioni,https://utmb.world/runner/108768.francois.battaglini,575.0,,,,00:00:00,0.0,False,np,
 3035,Jeremy FILIPPI,FR,41,H,M1 H,Lucciana Atletisimu,https://utmb.world/runner/4864630.jeremy.filippi,572.0,,,,00:00:00,0.0,False,np,
-3042,Jean Noel SANTELLI,FR,58,H,M4 H,sport in calvi,https://utmb.world/runner/968363.jeannoel.santelli,558.0,,,,00:00:00,0.0,False,np,
-3049,Jean-Michel HAMELIN,FR,42,H,M1 H,,https://utmb.world/runner/4164632.jeanmichel.hamelin,539.0,,,,00:00:00,0.0,False,np,
 3051,Antoine CRONIER,FR,34,H,SE H,,https://utmb.world/runner/4814354.antoine.cronier,525.0,,,,00:00:00,0.0,False,np,
+3030,Gregory VASSEUR,FR,47,H,M2 H,USA Liévin athlétisme,https://utmb.world/runner/1199711.gregory.vasseur,584.0,,,,00:00:00,0.0,False,np,
+3049,Jean-Michel HAMELIN,FR,42,H,M1 H,,https://utmb.world/runner/4164632.jeanmichel.hamelin,539.0,,,,00:00:00,0.0,False,np,
+3033,François BATTAGLINI,FR,35,H,SE H,Sapeurs-pompiers de Cervioni,https://utmb.world/runner/108768.francois.battaglini,575.0,,,,00:00:00,0.0,False,np,
+3009,Benoit PHALIPPOU,FR,44,H,M1 H,,https://utmb.world/runner/2034441.benoit.phalippou,665.0,,,,00:00:00,0.0,False,np,
 3058,Nicolas GIUGLARIS,FR,24,H,SE H,,https://utmb.world/runner/6190236.nicolas.giuglaris,510.0,,,,00:00:00,0.0,False,np,
+3042,Jean Noel SANTELLI,FR,58,H,M4 H,sport in calvi,https://utmb.world/runner/968363.jeannoel.santelli,558.0,,,,00:00:00,0.0,False,np,
 3067,Maxime ROUX,FR,28,H,SE H,Paname Run Club,https://utmb.world/runner/5504579.maxime.roux,500.0,,,,00:00:00,0.0,False,np,
 3077,Florian GIANELLI,FR,40,H,M0 H,,https://utmb.world/runner/1581411.florian.gianelli,487.0,,,,00:00:00,0.0,False,np,
 3078,Marie PICHARD,FR,34,F,SE F,AS Ambarès,https://utmb.world/runner/3817299.marie.pichard,486.0,,,,00:00:00,0.0,False,np,
 3101,Veronica MOSCA,FR,41,F,M1 F,,https://utmb.world/runner/6048097.veronica.mosca,456.0,,,,00:00:00,0.0,False,np,
+3118,Laurent SANSON,FR,39,H,M0 H,E muvre balanine,https://utmb.world/runner/5267880.laurent.sanson,421.0,,,,00:00:00,0.0,False,np,
+3116,Sébastien LEROY,FR,36,H,M0 H,,https://utmb.world/runner/671336.sebastien.leroy,427.0,,,,00:00:00,0.0,False,np,
 3109,Pauliina BERETTA,CA,36,F,M0 F,,https://utmb.world/runner/5689927.pauliina.beretta,446.0,,,,00:00:00,0.0,False,np,
 3115,Bastien GUILLON,FR,45,H,M1 H,,https://utmb.world/runner/5692845.bastien.guillon,428.0,,,,00:00:00,0.0,False,np,
-3116,Sébastien LEROY,FR,36,H,M0 H,,https://utmb.world/runner/671336.sebastien.leroy,427.0,,,,00:00:00,0.0,False,np,
-3118,Laurent SANSON,FR,39,H,M0 H,E muvre balanine,https://utmb.world/runner/5267880.laurent.sanson,421.0,,,,00:00:00,0.0,False,np,
 3128,Claudia METTE,FR,49,F,M2 F,ALTORE RACING CLUB,https://utmb.world/runner/1587945.claudia.mette,404.0,,,,00:00:00,0.0,False,np,
 3138,Ange GRISONI,FR,70,H,M6 H,A viculese,https://utmb.world/runner/1332019.ange.grisoni,399.0,,,,00:00:00,0.0,False,np,
 3146,Mathieu DE SOUSA,FR,29,H,SE H,,https://utmb.world/runner/3992102.mathieu.desousa,389.0,,,,00:00:00,0.0,False,np,
 3151,Christophe LOTTI,FR,41,H,M1 H,,https://utmb.world/runner/5318791.christophe.lotti,381.0,,,,00:00:00,0.0,False,np,
-3157,Marc FULBERT,FR,56,H,M4 H,,https://utmb.world/runner/5257975.marc.fulbert,369.0,,,,00:00:00,0.0,False,np,
 3175,Leria GAVALDON,FR,26,F,SE F,,https://utmb.world/runner/5613967.gavaldon.leria,331.0,,,,00:00:00,0.0,False,np,
-3178,Vlad IOBAGIU,RO,45,H,M1 H,,https://utmb.world/runner/5315350.vlad.iobagiu,318.0,,,,00:00:00,0.0,False,np,
+3157,Marc FULBERT,FR,56,H,M4 H,,https://utmb.world/runner/5257975.marc.fulbert,369.0,,,,00:00:00,0.0,False,np,
 3182,Antoine AGOSTINI,FR,24,H,SE H,,https://utmb.world/runner/5129055.antoine.agostini,306.0,,,,00:00:00,0.0,False,np,
+3178,Vlad IOBAGIU,RO,45,H,M1 H,,https://utmb.world/runner/5315350.vlad.iobagiu,318.0,,,,00:00:00,0.0,False,np,
 3199,Emma LE LEZ,FR,20,F,JU F,,https://utmb.world/runner/5864575.emma.lelez,,,,,00:00:00,0.0,False,np,
 3208,Baptiste GUILLERMIN,FR,29,H,SE H,,https://utmb.world/runner/5897085.baptiste.guillermin,,,,,00:00:00,0.0,False,np,
 3211,Thomas LEONARDI,FR,29,H,SE H,AS Figarella,https://utmb.world/runner/5777587.thomas.leonardi,,,,,00:00:00,0.0,False,np,
 3222,Saniyé TIPIRDAMAZ,FR,39,F,M0 F,,https://utmb.world/runner/5796109.saniye.tipirdamaz,,,,,00:00:00,0.0,False,np,
-3236,Xavier NOËL,FR,41,H,M1 H,,https://utmb.world/runner/5842787.xavier.noel,,,,,00:00:00,0.0,False,np,
 3239,Salomé FLANDIN,FR,24,F,SE F,Näak,https://utmb.world/runner/5562350.salome.flandin,,,,,00:00:00,0.0,False,np,
-3238,Emmanuelle BONNEFOY,FR,35,F,SE F,,https://utmb.world/runner/5837881.emmanuelle.bonnefoy,,,,,00:00:00,0.0,False,np,
 3244,Paul PARODI,FR,29,H,SE H,,https://utmb.world/runner/5880093.paul.parodi,,,,,00:00:00,0.0,False,np,
-3253,Lou BFR,FR,32,F,SE F,,https://utmb.world/runner/5968753.lou.bfr,,,,,00:00:00,0.0,False,np,
-3254,Chloé BARRIER-LOISEAU,FR,28,F,SE F,,https://utmb.world/runner/5268214.chloe.barrierloiseau,,,,,00:00:00,0.0,False,np,
+3236,Xavier NOËL,FR,41,H,M1 H,,https://utmb.world/runner/5842787.xavier.noel,,,,,00:00:00,0.0,False,np,
 3262,Paul KENNEDY,IE,70,H,M6 H,,https://utmb.world/runner/3513347.paul.kennedy,,,,,00:00:00,0.0,False,np,
+3238,Emmanuelle BONNEFOY,FR,35,F,SE F,,https://utmb.world/runner/5837881.emmanuelle.bonnefoy,,,,,00:00:00,0.0,False,np,
+3253,Lou BFR,FR,32,F,SE F,,https://utmb.world/runner/5968753.lou.bfr,,,,,00:00:00,0.0,False,np,
 3264,Chloé BELTRAMELLI,FR,27,F,SE F,,https://utmb.world/runner/5693665.chloe.beltramelli,,,,,00:00:00,0.0,False,np,
-3268,Aude PERRINE,FR,44,F,M1 F,,https://utmb.world/runner/5613975.aude.perrine,,,,,00:00:00,0.0,False,np,
+3254,Chloé BARRIER-LOISEAU,FR,28,F,SE F,,https://utmb.world/runner/5268214.chloe.barrierloiseau,,,,,00:00:00,0.0,False,np,
 3267,Nayyereh ASLANI,IR,31,F,SE F,,https://utmb.world/runner/5613979.nayyereh.aslani,,,,,00:00:00,0.0,False,np,
 3274,Gemma GARCIA ARENY,ES,41,F,M1 F,Ermassets,https://utmb.world/runner/5616425.gemma.garciaareny,,,,,00:00:00,0.0,False,np,
+3268,Aude PERRINE,FR,44,F,M1 F,,https://utmb.world/runner/5613975.aude.perrine,,,,,00:00:00,0.0,False,np,
 3275,Romain BORRA,FR,41,H,M1 H,,https://utmb.world/runner/2199481.romain.borra,,,,,00:00:00,0.0,False,np,
 3290,Jean-Philippe GALLIAN,FR,55,H,M3 H,,https://utmb.world/runner/5737545.gallian.jeanphilippe,,,,,00:00:00,0.0,False,np,
-3299,Glenn LAMOTTE,FR,44,H,M1 H,,https://utmb.world/runner/5485759.glenn.lamotte,271.0,,,,00:00:00,0.0,False,np,
 3300,Julien PIAZZA,FR,34,H,SE H,,https://utmb.world/runner/2173569.julien.piazza,,,,,00:00:00,0.0,False,np,
-3307,Benoît LANÇON,FR,52,H,M3 H,JA Fretin,https://utmb.world/runner/986101.benoit.lancon,,,,,00:00:00,0.0,False,np,
 3305,Frederic PEREZ,FR,45,H,M1 H,,https://utmb.world/runner/6067505.frederic.perez,,,,,00:00:00,0.0,False,np,
-3316,Lillian WILCOX,GB,23,F,ES F,,https://utmb.world/runner/6048063.lillian.wilcox,,,,,00:00:00,0.0,False,np,
 3304,Silvy LAPORTE,FR,59,F,M4 F,ASM Saint-Etienne,https://utmb.world/runner/557373.silvy.laporte,,,,,00:00:00,0.0,False,np,
+3299,Glenn LAMOTTE,FR,44,H,M1 H,,https://utmb.world/runner/5485759.glenn.lamotte,271.0,,,,00:00:00,0.0,False,np,
+3307,Benoît LANÇON,FR,52,H,M3 H,JA Fretin,https://utmb.world/runner/986101.benoit.lancon,,,,,00:00:00,0.0,False,np,
+3316,Lillian WILCOX,GB,23,F,ES F,,https://utmb.world/runner/6048063.lillian.wilcox,,,,,00:00:00,0.0,False,np,
 3319,Susana GARCIA CANALES,ES,44,F,M1 F,,https://utmb.world/runner/6048197.susana.garciacanales,,,,,00:00:00,0.0,False,np,
 3331,Pascal HART,FR,53,H,M3 H,,https://utmb.world/runner/6107043.pascal.hart,,,,,00:00:00,0.0,False,np,
 3343,Philip GENTLES,GB,24,H,SE H,,https://utmb.world/runner/6119103.philip.gentles,,,,,00:00:00,0.0,False,np,
 3354,Paul-Marie VELLUTINI,FR,25,H,SE H,,https://utmb.world/runner/6083217.paulmarie.vellutini,,,,,00:00:00,0.0,False,np,
 3357,Jana SCHAEFER,DE,34,F,SE F,,https://utmb.world/runner/5874407.jana.schaefer,,,,,00:00:00,0.0,False,np,
 3385,Farrucci LISANDRU,FR,19,H,JU H,,https://utmb.world/runner/6175729.farrucci.lisandru,,,,,00:00:00,0.0,False,np,
-3399,Lisandre MARTINETTI,FR,24,H,SE H,,https://utmb.world/runner/6114353.lisandre.martinetti,,,,,00:00:00,0.0,False,np,
-3405,Francine DUPLAIN,FR,54,F,M3 F,Sport in Calvi,https://utmb.world/runner/6190114.francine.duplain,,,,,00:00:00,0.0,False,np,
 3427,Lucile TIRROLONI,FR,33,F,SE F,,https://utmb.world/runner/5268682.lucile.tirroloni,264.0,,,,00:00:00,0.0,False,np,
 3429,Pierre CLARET,FR,33,H,SE H,,https://utmb.world/runner/6209719.claret.pierre,,,,,00:00:00,0.0,False,np,
 3434,Paco THEVENIN,FR,21,H,ES H,Claret,https://utmb.world/runner/6212379.paco.thevenin,,,,,00:00:00,0.0,False,np,
+3399,Lisandre MARTINETTI,FR,24,H,SE H,,https://utmb.world/runner/6114353.lisandre.martinetti,,,,,00:00:00,0.0,False,np,
+3405,Francine DUPLAIN,FR,54,F,M3 F,Sport in Calvi,https://utmb.world/runner/6190114.francine.duplain,,,,,00:00:00,0.0,False,np,
 3444,Reynald LE BASTARD,FR,29,H,SE H,,https://utmb.world/runner/5903917.reynald.lebastard,560.0,,,,00:00:00,0.0,False,np,
-3450,Roland LIBEAU,FR,29,H,SE H,,https://utmb.world/runner/6218197.roland.libeau,,,,,00:00:00,0.0,False,np,
 3470,Clement ALBERTINI,FR,23,H,ES H,,https://utmb.world/runner/6231345.clement.albertini,,,,,00:00:00,0.0,False,np,
-3476,François GERONIMI,FR,52,H,M3 H,,https://utmb.world/runner/6234329.geronimi.francois,,,,,00:00:00,0.0,False,np,
+3450,Roland LIBEAU,FR,29,H,SE H,,https://utmb.world/runner/6218197.roland.libeau,,,,,00:00:00,0.0,False,np,
 3483,Justice SPEAR,US,30,H,SE H,,https://utmb.world/runner/6151150.justice.spear,422.0,,,,00:00:00,0.0,False,np,
+3476,François GERONIMI,FR,52,H,M3 H,,https://utmb.world/runner/6234329.geronimi.francois,,,,,00:00:00,0.0,False,np,
 3508,Simone ROSSI,IT,26,H,SE H,Runcard,https://utmb.world/runner/5575376.simone.rossi,,,,,00:00:00,0.0,False,np,
 3523,Dominique SANTELLI,FR,71,H,M7 H,,https://utmb.world/runner/2173713.dominique.santelli,,,,,00:00:00,0.0,False,np,
 3537,Anthony EVANGELISTA,FR,27,H,SE H,,https://utmb.world/runner/4536763.anthony.evangelista,550.0,,,,00:00:00,0.0,False,np,
-3556,Alexandre ANGELETTI,FR,31,H,SE H,TEAM PRENEL,https://utmb.world/runner/4009085.alexandre.angeletti,399.0,,,,00:00:00,0.0,False,np,
 3560,Mathieu FONDACCI,FR,30,H,SE H,,,,,,,00:00:00,0.0,False,np,
+3556,Alexandre ANGELETTI,FR,31,H,SE H,TEAM PRENEL,https://utmb.world/runner/4009085.alexandre.angeletti,399.0,,,,00:00:00,0.0,False,np,
 3562,Pascal GUIDICELLI,FR,49,H,M2 H,,,,,,,00:00:00,0.0,False,np,
 3575,André SIMEONI,FR,57,H,M4 H,2eme REP,,,,,,00:00:00,0.0,False,np,
 3577,Théo DELHOMMAIS,FR,28,H,SE H,2eme REP,,,,,,00:00:00,0.0,False,np,

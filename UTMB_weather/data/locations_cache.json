@@ -1,0 +1,389 @@
+{
+  "chamonix|france": {
+    "lat": 45.9237,
+    "lon": 6.8694
+  },
+  "barr|france": {
+    "lat": 48.4084,
+    "lon": 7.4499
+  },
+  "colmar|france": {
+    "lat": 48.0794,
+    "lon": 7.3559
+  },
+  "orschwiller|france": {
+    "lat": 48.2566,
+    "lon": 7.3997
+  },
+  "turckheim|france": {
+    "lat": 48.0853,
+    "lon": 7.279
+  },
+  "obernai|france": {
+    "lat": 48.4619,
+    "lon": 7.4819
+  },
+  "båstad|sweden": {
+    "lat": 56.4258,
+    "lon": 12.8515
+  },
+  "bastad|sweden": {
+    "lat": 56.4258,
+    "lon": 12.8515
+  },
+  "höganäs|sweden": {
+    "lat": 56.1989,
+    "lon": 12.5586
+  },
+  "hoganas|sweden": {
+    "lat": 56.1989,
+    "lon": 12.5586
+  },
+  "ängelholm|sweden": {
+    "lat": 56.2416,
+    "lon": 12.8579
+  },
+  "mölle|sweden": {
+    "lat": 56.2833,
+    "lon": 12.4965
+  },
+  "mölle harbour|sweden": {
+    "lat": 56.2833,
+    "lon": 12.4965
+  },
+  "båstad harbour|sweden": {
+    "lat": 56.4258,
+    "lon": 12.8515
+  },
+  "queenstown|new zealand": {
+    "lat": -45.0312,
+    "lon": 168.6626
+  },
+  "arrowtown|new zealand": {
+    "lat": -44.9408,
+    "lon": 168.8268
+  },
+  "coverack|united kingdom": {
+    "lat": 50.0234,
+    "lon": -5.093
+  },
+  "porthcurno - minack theatre|united kingdom": {
+    "lat": 50.0402,
+    "lon": -5.6389
+  },
+  "radda in chianti|italy": {
+    "lat": 43.4865,
+    "lon": 11.3734
+  },
+  "mammoth lakes|united states": {
+    "lat": 37.6485,
+    "lon": -118.9721
+  },
+  "cortina d'ampezzo|italy": {
+    "lat": 46.5404,
+    "lon": 12.1357
+  },
+  "zermatt|switzerland": {
+    "lat": 46.0207,
+    "lon": 7.7491
+  },
+  "grindelwald|switzerland": {
+    "lat": 46.6243,
+    "lon": 8.0414
+  },
+  "courmayeur|italy": {
+    "lat": 45.7917,
+    "lon": 6.9696
+  },
+  "saint-gervais-les-bains|france": {
+    "lat": 45.8948,
+    "lon": 6.7127
+  },
+  "les houches|france": {
+    "lat": 45.8905,
+    "lon": 6.7959
+  },
+  "whistler|canada": {
+    "lat": 50.1163,
+    "lon": -122.9574
+  },
+  "cape town|south africa": {
+    "lat": -33.9249,
+    "lon": 18.4241
+  },
+  "auckland|new zealand": {
+    "lat": -36.8509,
+    "lon": 174.7645
+  },
+  "innsbruck|austria": {
+    "lat": 47.2692,
+    "lon": 11.4041
+  },
+  "verbier|switzerland": {
+    "lat": 46.0964,
+    "lon": 7.2287
+  },
+  "davos|switzerland": {
+    "lat": 46.7994,
+    "lon": 9.8269
+  },
+  "crans-montana|switzerland": {
+    "lat": 46.3072,
+    "lon": 7.4793
+  },
+  "iten|kenya": {
+    "lat": 0.6708,
+    "lon": 35.5
+  },
+  "fuji kawaguchiko|japan": {
+    "lat": 35.4951,
+    "lon": 138.7555
+  },
+  "tokyo|japan": {
+    "lat": 35.6762,
+    "lon": 139.6503
+  },
+  "andorra la vella|andorra": {
+    "lat": 42.5063,
+    "lon": 1.5218
+  },
+  "madeira|portugal": {
+    "lat": 32.7607,
+    "lon": -16.9595
+  },
+  "funchal|portugal": {
+    "lat": 32.6669,
+    "lon": -16.9241
+  },
+  "hong kong|hong kong": {
+    "lat": 22.3193,
+    "lon": 114.1694
+  },
+  "seattle|united states": {
+    "lat": 47.6062,
+    "lon": -122.3321
+  },
+  "moab|united states": {
+    "lat": 38.5733,
+    "lon": -109.5498
+  },
+  "genting highlands|malaysia": {
+    "lat": 3.4222,
+    "lon": 101.7932
+  },
+  "kuala lumpur|malaysia": {
+    "lat": 3.139,
+    "lon": 101.6869
+  },
+  "las palmas|spain": {
+    "lat": 28.1235,
+    "lon": -15.4363
+  },
+  "gran canaria|spain": {
+    "lat": 27.9202,
+    "lon": -15.5474
+  },
+  "barcelona|spain": {
+    "lat": 41.3874,
+    "lon": 2.1686
+  },
+  "la palma|spain": {
+    "lat": 28.6835,
+    "lon": -17.7642
+  },
+  "valldemossa|spain": {
+    "lat": 39.7106,
+    "lon": 2.6225
+  },
+  "oslob|philippines": {
+    "lat": 9.4678,
+    "lon": 123.4422
+  },
+  "baguio|philippines": {
+    "lat": 16.4023,
+    "lon": 120.596
+  },
+  "chiang mai|thailand": {
+    "lat": 18.7883,
+    "lon": 98.9853
+  },
+  "doi inthanon|thailand": {
+    "lat": 18.5878,
+    "lon": 98.4867
+  },
+  "ch. rathsamhausen|france": null,
+  "radda in chiante|italy": null,
+  "san vito di cadore|italy": null,
+  "fiames|italy": null,
+  "alta badia la val|italy": null,
+  "fiames start|italy": null,
+  "val marzon auronzo|italy": null,
+  "cortina d'ampezzo|": null,
+  "corte|france": null,
+  "crans montana|switzerland": null,
+  "adelboden|switzerland": null,
+  "leurkerbad|switzerland": null,
+  "crans - montana|switzerland": null,
+  "kandersteg|switzerland": null,
+  "aminona|switzerland": null,
+  "ayder village|türkiye": null,
+  "matera|italy": null,
+  "laterza|italy": null,
+  "castellaneta|italy": null,
+  "passo giacobbe|italy": null,
+  "start|italy": null,
+  "okataina|new zealand": null,
+  "te puia|new zealand": null,
+  "lake tikitapu|new zealand": null,
+  "kawerau|new zealand": null,
+  "blue lake|new zealand": null,
+  "kcc oval|australia": null,
+  "scenic world katoomba|australia": null,
+  "scenic world, katoomba|australia": null,
+  "queen victoria hospital|australia": null,
+  "grand canyon|australia": null,
+  "scenic world|australia": null,
+  "katoomba|": null,
+  "perisher valley|australia": null,
+  "tredbo|australia": null,
+  "friday flat|australia": null,
+  "bullocks flat|australia": null,
+  "start - jindabyne|australia": null,
+  "start - perisher|australia": null,
+  "jindabyne|australia": null,
+  "perisher|australia": null,
+  "fruita co, mack exit, hawkeye trailhead|united states of america": null,
+  "fruita|united states of america": null,
+  "start|united states of america": null,
+  "auburn|united states of america": null,
+  "start - china wall|united states of america": null,
+  "start - auburn|united states of america": null,
+  "china wall|united states of america": null,
+  "natural chimneys|united states of america": null,
+  "big bear lake|united states of america": null,
+  "camp oaks|united states of america": null,
+  "start - meadows edge|united states of america": null,
+  "rim nordic|united states of america": null,
+  "the village|united states of america": null,
+  "rancho san fernando rey|united states of america": null,
+  "creekside plaza - start|canada": null,
+  "la cumbrecita|argentina": null,
+  "villa general belgrano|argentina": null,
+  "cumbrecita|argentina": null,
+  "vgb|argentina": null,
+  "ushuaia|argentina": null,
+  "paraty|brazil": null,
+  "paraty largada|brazil": null,
+  "esplanade taiping|malaysia": null,
+  "kaki bukit larut|malaysia": null,
+  "mui wo 梅窩|hong kong, china": null,
+  "mui wo|hong kong, china": null,
+  "start - mui wo 梅窩|hong kong, china": null,
+  "start|south korea": null,
+  "marianna resort & convention|indonesia": null,
+  "waterfront city pangururan|indonesia": null,
+  "大境门|china": null,
+  "xiamen|china": null,
+  "zermatt depart ven|": null,
+  "zermatt depart sam|": null,
+  "zermatt depart dim|": null,
+  "cristianos|spain": null,
+  "vilaflor salida|spain": null,
+  "pinolere|spain": null,
+  "palo blanco|spain": null,
+  "los realejos salida|spain": null,
+  "courmayeur|france": null,
+  "orsières|france": null,
+  "martigny combe|france": null,
+  "martigny-combe|france": null,
+  "burglauenen|switzerland": null,
+  "salzbourg|austria": null,
+  "fuschl am see|austria": null,
+  "st. gilgen|austria": null,
+  "koppl start|austria": null,
+  "kapitelplatz|austria": null,
+  "labin|croatia": null,
+  "buzet|croatia": null,
+  "motovun|croatia": null,
+  "grožnjan|croatia": null,
+  "groznjan|croatia": null,
+  "départ|": null,
+  "malaucène|france": null,
+  "national slate museum, llanberis|united kingdom": null,
+  "llanberis|united kingdom": null,
+  "ordino|": null,
+  "ordino|andorra": null,
+  "verbier-saint-bernard|switzerland": null,
+  "la fouly|switzerland": null,
+  "liddes|switzerland": null,
+  "moay (bruson)|switzerland": null,
+  "châble|switzerland": null,
+  "moay|switzerland": null,
+  "fieberbrunn|austria": null,
+  "kitzbuhel|austria": null,
+  "kobarid|slovenia": null,
+  "radovljica|slovenia": null,
+  "žirovnica|slovenia": null,
+  "kranjka gora|slovenia": null,
+  "kranjska gora|slovenia": null,
+  "radovljica - start|slovenia": null,
+  "bled - start|slovenia": null,
+  "završnica - start|slovenia": null,
+  "kranjska gora - start|slovenia": null,
+  "bled|slovenia": null,
+  "auron|france": null,
+  "roubion|france": null,
+  "menton|france": null,
+  "villefranche|france": null,
+  "saint-jean cap ferrat|france": null,
+  "nice|france": null,
+  "eze|france": null,
+  "quai des etats-unis, nice|france": null,
+  "départ|france": null,
+  "valldemosa sortida|spain": null,
+  "port sóller sortida|spain": null,
+  "sóller sortida|spain": null,
+  "sortida calvari clasificatoria|spain": null,
+  "sortida estellencs|spain": null,
+  "sortida  selva|spain": null,
+  "sortida valldemossa|spain": null,
+  "san sebastián|mexico": null,
+  "mascota|mexico": null,
+  "vallarta|mexico": null,
+  "arenita|mexico": null,
+  "mascota start|mexico": null,
+  "vallarta start|mexico": null,
+  "arcos ejido|mexico": null,
+  "mindo|ecuador": null,
+  "lloa|ecuador": null,
+  "teleférico|ecuador": null,
+  "wat nam tong|thailand": null,
+  "chiang mai pao park|thailand": null,
+  "doi inthanon national park hq|thailand": null,
+  "zhonghe square|china": null,
+  "start-zhonghe square 中和广场|china": null,
+  "zhonghe square 中和广场|china": null,
+  "乡宁县体育馆|china": null,
+  "saugues|france": null,
+  "monsitrol d'allier|france": null,
+  "solignac sur loire|france": null,
+  "saint-christophe-sur-dolaizon|france": null,
+  "sortida exp|spain": null,
+  "sortida les|spain": null,
+  "sortida salardú|spain": null,
+  "sortida vielha|spain": null,
+  "sortida beret|spain": null,
+  "sortida tr2|spain": null,
+  "snowbird plaza deck (start)|united states of america": null,
+  "gressoney-saint-jean|italy": null,
+  "aosta|italy": null,
+  "pont-saint-martin|italy": null,
+  "batópilas|mexico": null,
+  "cerrocahui|mexico": null,
+  "salida parque barrancas|mexico": null,
+  "salida punucapa|chile": null,
+  "salida parque saval|chile": null,
+  "bariloche|argentina": null,
+  "los baqueanos|argentina": null,
+  "cerro lindo|argentina": null
+}

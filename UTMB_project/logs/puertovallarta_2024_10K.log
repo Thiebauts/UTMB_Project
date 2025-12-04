@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: puertovallarta | Year: 2024 | Race: 10K
+======================================================================
+Loaded 188 runners from data/puertovallarta_2024_10K.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 70 runners...
+Fetching scores:   0%|                                                   | 0/70 [00:00<?, ?runner/s]Fetching scores:  73%|██████████████████████████████▌           | 51/70 [00:01<00:00, 48.94runner/s]Fetching scores:  87%|████████████████████████████████████▌     | 61/70 [00:02<00:00, 19.63runner/s]Fetching scores: 100%|██████████████████████████████████████████| 70/70 [00:03<00:00, 17.93runner/s]
+  Saved to data/puertovallarta_2024_10K.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/153
+
+Top 10 finishers:
+ rank_scratch                            name race_time  utmb_index  utmb_score
+          1.0  Joshua Nathanael VAZQUEZ EGURE  00:54:59       559.0         NaN
+          2.0        Emilia MARTÍNEZ MENDIVIL  01:00:10       521.0         NaN
+          3.0                Garston TREMBLAY  01:00:17         NaN         NaN
+          4.0        Esteban GONZALEZ JIMENEZ  01:00:29       554.0         NaN
+          5.0     Luis Ricardo ACOSTA AGUILAR  01:00:48         NaN         NaN
+          6.0                    Carlos ROSAS  01:03:32         NaN         NaN
+          7.0             Alexander CONTRERAS  01:04:36         NaN         NaN
+          8.0           Abraham PEREZ RAMIREZ  01:08:21         NaN         NaN
+          9.0                    Alison PONCE  01:08:27         NaN         NaN
+         10.0                   Israel FLORES  01:11:27         NaN         NaN

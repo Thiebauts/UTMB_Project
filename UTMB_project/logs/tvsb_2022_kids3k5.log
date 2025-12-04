@@ -1,0 +1,32 @@
+======================================================================
+STEP 2: Fetching UTMB Scores
+Event: tvsb | Year: 2022 | Race: kids3k5
+======================================================================
+Loaded 15 runners from data/tvsb_2022_kids3k5.csv
+  Access token extracted successfully
+
+Testing authentication...
+  Authentication successful!
+
+Fetching UTMB scores for 2 runners...
+Fetching scores:   0%|                                                    | 0/2 [00:00<?, ?runner/s]Fetching scores: 100%|████████████████████████████████████████████| 2/2 [00:00<00:00, 24.94runner/s]
+  Saved to data/tvsb_2022_kids3k5.csv
+
+======================================================================
+STEP 2 COMPLETE
+======================================================================
+
+Finishers with UTMB score: 0/12
+
+Top 10 finishers:
+ rank_scratch                  name race_time  utmb_index  utmb_score
+          1.0          Lenny COVOLO  00:17:17         NaN         NaN
+          2.0  Zian VISIOLO-GEORGES  00:17:30         NaN         NaN
+          3.0        Killian RACLOZ  00:17:51         NaN         NaN
+          4.0           Marcy EMERY  00:18:10         NaN         NaN
+          5.0        Victor SCHREVE  00:18:42         NaN         NaN
+          6.0          Lily PIERROZ  00:18:45         NaN         NaN
+          7.0      Esteban MATHIAUD  00:18:49         NaN         NaN
+          8.0             Zoé JUNGO  00:21:01         NaN         NaN
+          9.0          Lucile MARET  00:21:15         NaN         NaN
+         10.0             Célia ROH  00:21:54         NaN         NaN
